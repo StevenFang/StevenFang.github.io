@@ -443,6 +443,15 @@
             "type": 3
         },
         {
+            "api": "csp_LiteApple",
+            "filterable": 1,
+            "key": "csp_apple",
+            "name": "小苹果(SP)",
+            "quickSearch": 1,
+            "searchable": 1,
+            "type": 3
+        },              
+        {
             "key": "csp_n0ys",
             "name": "1090影视(SP)",
             "type": 3,
