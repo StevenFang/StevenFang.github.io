@@ -246,7 +246,7 @@
         "group": "redirect",
         "channels": [{
             "name": "live",
-            "urls": ["proxy://do=live&type=txt&ext=aHR0cHM6Ly9naHByb3h5LmNvbS9odHRwczovL3Jhdy5naXRodWJ1c2VyY29udGVudC5jb20vU3RldmVuRmFuZy9taW1hby9tYWluL1RWL2xpdmUudHh0"]
+            "urls": ["proxy://do=live&type=txt&ext=aHR0cHM6Ly9zdGV2ZW5mYW5nLmdpdGh1Yi5pby9UVi9saXZlLnR4dA=="]
         }]
     }],
     "parses": [{
@@ -550,11 +550,11 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 0,
-            "ext": "https://ghproxy.com/https://raw.githubusercontent.com/YuanHsing/freed/master/TVBox/MaooXB/LIBVIO.json"
+            "ext": "https://stevenfang.github.io/XB/LIBVIO.json"
         },
         {
             "api": "csp_XBiubiu",
-            "ext": "https://ghproxy.com/https://raw.githubusercontent.com/StevenFang/mimao/main/XB/lgyy.json",
+            "ext": "https://stevenfang.github.io/XB/lgyy.json",
             "filterable": 0,
             "key": "csp_biubiu_lgyy",
             "name": "蓝光(XB)",
@@ -570,11 +570,11 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 0,
-            "ext": "https://ghproxy.com/https://raw.githubusercontent.com/YuanHsing/freed/master/TVBox/MaooXP/pianku.json"
+            "ext": "https://stevenfang.github.io/XP/pianku.json"
         },
         {
             "api": "csp_XBiubiu",
-            "ext": "https://ghproxy.com/https://raw.githubusercontent.com/StevenFang/mimao/main/XB/555.json",
+            "ext": "https://stevenfang.github.io/XB/555.json",
             "filterable": 0,
             "key": "csp_biubiu_555",
             "name": "555(XB)",
@@ -590,7 +590,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 0,
-            "ext": "https://ghproxy.com/https://raw.githubusercontent.com/StevenFang/mimao/main/XB/dmxq.json"
+            "ext": "https://stevenfang.github.io/XB/dmxq.json"
         },
         {
             "key": "csp_xpath_jbb",
@@ -600,7 +600,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "https://ghproxy.com/https://raw.githubusercontent.com/StevenFang/mimao/main/XP/jubaibai.json"
+            "ext": "https://stevenfang.github.io/XP/jubaibai.json"
         },
         {
             "key": "csp_biubiu_鸭奈飞",
@@ -610,7 +610,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 0,
-            "ext": "https://ghproxy.com/https://raw.githubusercontent.com/StevenFang/mimao/main/XB/ducknf.json"
+            "ext": "https://stevenfang.github.io/XB/ducknf.json"
         },
         {
             "key": "csp_xpath_qdytv",
@@ -620,7 +620,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 0,
-            "ext": "https://ghproxy.com/https://raw.githubusercontent.com/StevenFang/mimao/main/XP/qdytv.json"
+            "ext": "https://stevenfang.github.io/XP/qdytv.json"
         },
         {
             "key": "csp_biubiu_特狗影视",
@@ -630,7 +630,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 0,
-            "ext": "https://ghproxy.com/https://raw.githubusercontent.com/StevenFang/mimao/main/XB/tegouys.json"
+            "ext": "https://stevenfang.github.io/XB/tegouys.json"
         },
         {
             "api": "csp_PushAgent",
@@ -670,5 +670,5 @@
             "filterable": 1
         }              
     ],
-    "spider": "https://ghproxy.com/https://raw.githubusercontent.com/StevenFang/mimao/main/0701.jar"
+    "spider": "https://stevenfang.github.io/0701.jar"
 }
