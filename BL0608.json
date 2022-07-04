@@ -543,15 +543,6 @@
             "filterable": 1
         },
         {
-            "key": "csp_GitCafe",
-            "name": "小纸条",
-            "type": 3,
-            "api": "csp_GitCafe",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 0
-        },
-        {
             "key": "csp_biubiu_LIBVIO",
             "name": "LIBVIO(XB)",
             "type": 3,
@@ -648,15 +639,6 @@
             "name": "推送（阿里）",
             "quickSearch": 0,
             "searchable": 0,
-            "type": 3
-        },
-        {
-            "api": "csp_AliPanSou",
-            "filterable": 0,
-            "key": "csp_AliPanSou",
-            "name": "喵搜(只支持搜索)",
-            "quickSearch": 1,
-            "searchable": 1,
             "type": 3
         },
         {
