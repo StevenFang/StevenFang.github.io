@@ -73,9 +73,11 @@
         "duoduozy",
         "bilibili"
     ],
-    "ijk": [{
+    "ijk": [
+        {
             "group": "软解码",
-            "options": [{
+            "options": [
+                {
                     "category": 4,
                     "name": "opensles",
                     "value": "0"
@@ -159,7 +161,8 @@
         },
         {
             "group": "硬解码",
-            "options": [{
+            "options": [
+                {
                     "category": 4,
                     "name": "opensles",
                     "value": "0"
@@ -242,14 +245,21 @@
             ]
         }
     ],
-    "lives": [{
-        "group": "redirect",
-        "channels": [{
-            "name": "live",
-            "urls": ["proxy://do=live&type=txt&ext=aHR0cHM6Ly9zdGV2ZW5mYW5nLmdpdGh1Yi5pby9UVi9saXZlLnR4dA=="]
-        }]
-    }],
-    "parses": [{
+    "lives": [
+        {
+            "group": "redirect",
+            "channels": [
+                {
+                    "name": "live",
+                    "urls": [
+                        "proxy://do=live&type=txt&ext=aHR0cHM6Ly9zdGV2ZW5mYW5nLmdpdGh1Yi5pby9UVi9saXZlLnR4dA=="
+                    ]
+                }
+            ]
+        }
+    ],
+    "parses": [
+        {
             "name": "解析聚合",
             "type": 3,
             "url": "Demo"
@@ -269,7 +279,17 @@
             "type": 1,
             "url": "https://json.pangujiexi.com:12345/json.php?url=",
             "ext": {
-                "flag": ["qq", "腾讯", "qiyi", "爱奇艺", "奇艺", "youku", "优酷", "mgtv", "芒果"]
+                "flag": [
+                    "qq",
+                    "腾讯",
+                    "qiyi",
+                    "爱奇艺",
+                    "奇艺",
+                    "youku",
+                    "优酷",
+                    "mgtv",
+                    "芒果"
+                ]
             }
         },
         {
@@ -287,7 +307,16 @@
             "type": 1,
             "url": "http://81.71.48.249:4456/jsonc/longxia.php?url=",
             "ext": {
-                "flag": ["qq", "qiyi", "mgtv", "youku", "letv", "sohu", "xigua", "1905"],
+                "flag": [
+                    "qq",
+                    "qiyi",
+                    "mgtv",
+                    "youku",
+                    "letv",
+                    "sohu",
+                    "xigua",
+                    "1905"
+                ],
                 "header": {
                     "User-Agent": "Dart/2.14 (dart:io)"
                 }
@@ -298,7 +327,18 @@
             "type": 1,
             "url": "http://api.vip123kan.vip/?url=",
             "ext": {
-                "flag": ["youku", "优酷", "mgtv", "芒果", "qq", "腾讯", "qiyi", "爱奇艺", "qq", "奇艺"]
+                "flag": [
+                    "youku",
+                    "优酷",
+                    "mgtv",
+                    "芒果",
+                    "qq",
+                    "腾讯",
+                    "qiyi",
+                    "爱奇艺",
+                    "qq",
+                    "奇艺"
+                ]
             }
         },
         {
@@ -324,7 +364,9 @@
             "type": 1,
             "url": "https://api.ldjx.cc/wp-api/getvodurl.php?token=1001&vid=",
             "ext": {
-                "flag": ["leduo"]
+                "flag": [
+                    "leduo"
+                ]
             }
         },
         {
@@ -332,7 +374,9 @@
             "type": 1,
             "url": "https://a.dxzj88.com/jxrrm/jiami.php?url=",
             "ext": {
-                "flag": ["renrenmi"]
+                "flag": [
+                    "renrenmi"
+                ]
             }
         },
         {
@@ -340,7 +384,9 @@
             "type": 1,
             "url": "https://sz.dxzj88.com/jxrjrm/jiaomi.php?url=",
             "ext": {
-                "flag": ["renrenmi"]
+                "flag": [
+                    "renrenmi"
+                ]
             }
         },
         {
@@ -348,7 +394,20 @@
             "type": 1,
             "url": "https://vip.rongxingvr.top/api/?type=ys&key=JJEZkZIhzkA4cUtBfR&url=",
             "ext": {
-                "flag": ["ltnb", "rx", "qiyi", "爱奇艺", "qq", "奇艺", "sohu", "letv", "youku", "优酷", "mgtv", "芒果"]
+                "flag": [
+                    "ltnb",
+                    "rx",
+                    "qiyi",
+                    "爱奇艺",
+                    "qq",
+                    "奇艺",
+                    "sohu",
+                    "letv",
+                    "youku",
+                    "优酷",
+                    "mgtv",
+                    "芒果"
+                ]
             }
         },
         {
@@ -356,7 +415,10 @@
             "type": 1,
             "url": "https://jx.mczdyw.com/xg.php?url=",
             "ext": {
-                "flag": ["mgtv", "芒果"]
+                "flag": [
+                    "mgtv",
+                    "芒果"
+                ]
             }
         },
         {
@@ -364,7 +426,18 @@
             "type": 1,
             "url": "https://www.aiaine.com/api/?key=kVqmG5dAQ5dZTcECw8&url=",
             "ext": {
-                "flag": ["youku", "优酷", "mgtv", "芒果", "qq", "腾讯", "qiyi", "爱奇艺", "qq", "奇艺"]
+                "flag": [
+                    "youku",
+                    "优酷",
+                    "mgtv",
+                    "芒果",
+                    "qq",
+                    "腾讯",
+                    "qiyi",
+                    "爱奇艺",
+                    "qq",
+                    "奇艺"
+                ]
             }
         },
         {
@@ -372,7 +445,18 @@
             "type": 1,
             "url": "https://svip.rongxingvr.top/api/?key=niBgMGXVdCQhsmeEBK&url=",
             "ext": {
-                "flag": ["youku", "优酷", "mgtv", "芒果", "qq", "腾讯", "qiyi", "爱奇艺", "qq", "奇艺"]
+                "flag": [
+                    "youku",
+                    "优酷",
+                    "mgtv",
+                    "芒果",
+                    "qq",
+                    "腾讯",
+                    "qiyi",
+                    "爱奇艺",
+                    "qq",
+                    "奇艺"
+                ]
             }
         },
         {
@@ -380,7 +464,18 @@
             "type": 1,
             "url": "https://app.iminna.com/jx/?url=",
             "ext": {
-                "flag": ["youku", "优酷", "mgtv", "芒果", "qq", "腾讯", "qiyi", "爱奇艺", "qq", "奇艺"]
+                "flag": [
+                    "youku",
+                    "优酷",
+                    "mgtv",
+                    "芒果",
+                    "qq",
+                    "腾讯",
+                    "qiyi",
+                    "爱奇艺",
+                    "qq",
+                    "奇艺"
+                ]
             }
         },
         {
@@ -388,7 +483,26 @@
             "type": 1,
             "url": "https://za.kuanjv.com/?url=",
             "ext": {
-                "flag": ["qq", "腾讯", "qiyi", "爱奇艺", "奇艺", "youku", "优酷", "mgtv", "芒果", "搜狐", "sohu", "letv", "乐视", "bilibili", "哔哩哔哩", "哔哩", "xigua", "西瓜"]
+                "flag": [
+                    "qq",
+                    "腾讯",
+                    "qiyi",
+                    "爱奇艺",
+                    "奇艺",
+                    "youku",
+                    "优酷",
+                    "mgtv",
+                    "芒果",
+                    "搜狐",
+                    "sohu",
+                    "letv",
+                    "乐视",
+                    "bilibili",
+                    "哔哩哔哩",
+                    "哔哩",
+                    "xigua",
+                    "西瓜"
+                ]
             }
         },
         {
@@ -396,7 +510,19 @@
             "type": 1,
             "url": "http://www.youhuifuligou.com/json/?id=7&url=",
             "ext": {
-                "flag": ["qq", "腾讯", "qiyi", "爱奇艺", "奇艺", "youku", "优酷", "letv", "乐视", "xigua", "西瓜"]
+                "flag": [
+                    "qq",
+                    "腾讯",
+                    "qiyi",
+                    "爱奇艺",
+                    "奇艺",
+                    "youku",
+                    "优酷",
+                    "letv",
+                    "乐视",
+                    "xigua",
+                    "西瓜"
+                ]
             }
         },
         {
@@ -404,7 +530,10 @@
             "type": 1,
             "url": "https://json.hfyrw.com/mao.go?url=",
             "ext": {
-                "flag": ["ltnb", "renrenmi"]
+                "flag": [
+                    "ltnb",
+                    "renrenmi"
+                ]
             }
         },
         {
@@ -412,7 +541,16 @@
             "type": 1,
             "url": "https://vip.aiaine.com/api/?key=8FN8gNAySnvJiMllxZ&url=",
             "ext": {
-                "flag": ["ltnb", "renrenmi", "xfyun", "miaoparty", "miaoparty2", "miaoparty3", "longteng", "xueren"]
+                "flag": [
+                    "ltnb",
+                    "renrenmi",
+                    "xfyun",
+                    "miaoparty",
+                    "miaoparty2",
+                    "miaoparty3",
+                    "longteng",
+                    "xueren"
+                ]
             }
         },
         {
@@ -420,11 +558,17 @@
             "type": 1,
             "url": "https://json.5lp.net/json.php?url=",
             "ext": {
-                "flag": ["ltnb", "renrenmi", "rx", "rongxing"]
+                "flag": [
+                    "ltnb",
+                    "renrenmi",
+                    "rx",
+                    "rongxing"
+                ]
             }
         }
     ],
-    "sites": [{
+    "sites": [
+        {
             "api": "csp_AliPanSou",
             "filterable": 1,
             "key": "csp_AliPanSou",
@@ -450,7 +594,7 @@
             "quickSearch": 1,
             "searchable": 1,
             "type": 3
-        },              
+        },
         {
             "key": "csp_n0ys",
             "name": "1090影视(SP)",
@@ -488,15 +632,6 @@
             "quickSearch": 1,
             "filterable": 0
         },
-        {
-            "key": "csp_Dy555",
-            "name": "Dy555(SP)",
-            "type": 3,
-            "api": "csp_Dy555",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 0
-        },        
         {
             "api": "csp_Zxzj",
             "filterable": 1,
@@ -543,42 +678,6 @@
             "type": 3
         },
         {
-            "api": "csp_Qicui",
-            "filterable": 1,
-            "key": "csp_Qicui",
-            "name": "Qicui(SP)",
-            "quickSearch": 1,
-            "searchable": 1,
-            "type": 3
-        },
-        {
-            "api": "csp_SPSogou",
-            "filterable": 1,
-            "key": "csp_SPSogou",
-            "name": "SPSogou",
-            "quickSearch": 1,
-            "searchable": 1,
-            "type": 3
-        },
-        {
-            "api": "csp_Subaibai",
-            "filterable": 1,
-            "key": "csp_Subaibai",
-            "name": "Subaibai(SP)",
-            "quickSearch": 1,
-            "searchable": 1,
-            "type": 3
-        },
-        {
-            "api": "csp_Ysgc",
-            "filterable": 1,
-            "key": "csp_Ysgc",
-            "name": "Ysgc(SP)",
-            "quickSearch": 1,
-            "searchable": 1,
-            "type": 3
-        },        
-        {
             "api": "csp_Tkys",
             "filterable": 1,
             "key": "csp_Tkys",
@@ -586,16 +685,7 @@
             "quickSearch": 1,
             "searchable": 1,
             "type": 3
-        },                             
-        {
-            "api": "csp_Newfii",
-            "filterable": 1,
-            "key": "csp_Newfii",
-            "name": "Newfii(SP)",
-            "quickSearch": 1,
-            "searchable": 1,
-            "type": 3
-        },               
+        },
         {
             "api": "csp_DY1990",
             "filterable": 0,
@@ -624,51 +714,6 @@
             "type": 3
         },
         {
-            "api": "csp_Hdmoli1",
-            "filterable": 1,
-            "key": "csp_Hdmoli1",
-            "name": "moli（SP）",
-            "quickSearch": 1,
-            "searchable": 1,
-            "type": 3
-        },
-        {
-            "api": "csp_Juhuang",
-            "filterable": 1,
-            "key": "csp_Juhuang",
-            "name": "Juhuang（SP）",
-            "quickSearch": 1,
-            "searchable": 1,
-            "type": 3
-        },
-        {
-            "api": "csp_Juzi",
-            "filterable": 1,
-            "key": "csp_Juzi",
-            "name": "Juzi（SP）",
-            "quickSearch": 1,
-            "searchable": 1,
-            "type": 3
-        },
-        {
-            "api": "csp_Kmys",
-            "filterable": 1,
-            "key": "csp_Kmys",
-            "name": "Kmys（SP）",
-            "quickSearch": 1,
-            "searchable": 1,
-            "type": 3
-        },
-        {
-            "api": "csp_Languang",
-            "filterable": 1,
-            "key": "csp_csp_Languang",
-            "name": "Languang（SP）",
-            "quickSearch": 1,
-            "searchable": 1,
-            "type": 3
-        },                                
-        {
             "api": "csp_PushAgent",
             "filterable": 0,
             "key": "csp_PushAgent",
@@ -676,24 +721,6 @@
             "quickSearch": 0,
             "searchable": 0,
             "type": 3
-        },
-        {
-            "key": "csp_AiDi",
-            "name": "AiDi(SP)",
-            "type": 3,
-            "api": "csp_AiDi",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1
-        },
-        {
-            "key": "csp_Bli",
-            "name": "哔哩(SP)",
-            "type": 3,
-            "api": "csp_Bli",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1
         },
         {
             "key": "csp_Bliyc",
@@ -705,24 +732,6 @@
             "filterable": 1
         },
         {
-            "key": "csp_Buka",
-            "name": "Buka(SP)",
-            "type": 3,
-            "api": "csp_Buka",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1
-        },
-        {
-            "key": "csp_Fantuan",
-            "name": "Fantuan(SP)",
-            "type": 3,
-            "api": "csp_Fantuan",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1
-        },        
-        {
             "key": "csp_BBB",
             "name": "哔哩套餐(SP)",
             "type": 3,
@@ -730,7 +739,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1
-        }       
+        }
     ],
     "spider": "https://stevenfang.github.io/0704.jar;md5;8ed1babc2147997367869831ee28788c"
 }
