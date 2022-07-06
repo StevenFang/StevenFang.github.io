@@ -1,6 +1,6 @@
 {
 // spider
-"spider":"http://gg.gg/tvboxjar",
+"spider":"http://gg.gg/tvboxjar;md5;DA9FF89D9869A3B31E8E0E433CB7CF4C",
 
 // 直播
 "lives":[{"group":"redirect","channels":[{"name":"live","urls":["proxy://do=live&type=txt&ext=aHR0cDovL2dnLmdnLzExbHRlMA=="]}]}],
