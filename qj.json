@@ -3,7 +3,7 @@
 "spider":"https://stevenfang.github.io/07061553.jar;md5;F1119DF4FC629E71103CC19E2C7B2338",
 
 // 直播
-"lives":[{"group":"redirect","channels":[{"name":"live","urls":["proxy://do=live&type=txt&ext=aHR0cDovL2dnLmdnLzExbHRlMA=="]}]}],
+"lives":[{"group":"redirect","channels":[{"name":"live","urls":["proxy://do=live&type=txt&ext=aHR0cHM6Ly9zdGV2ZW5mYW5nLmdpdGh1Yi5pby9UVi9saXZlLnR4dD09"]}]}],
 
 "sites":[
 {"key":"csp_77","name":"🐞酷云七七","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1},
