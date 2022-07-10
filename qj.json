@@ -32,7 +32,7 @@
 {"key":"csp_Tkys","name":"🐞天空影视","type": 3,"api": "csp_Tkys","searchable": 1,"quickSearch": 1,"filterable": 1},
 
 {"key": "旋风","name": "旋风[EXO]","type": 1,"api": "http://appimg.ssxmall.cn/api.php/provide/vod/","playUrl": "json:https://svip.iepig.com:4443/api/?key=SicQs2pG0Cw7BnWV9a&url=","searchable": 1,"filterable": 1,"categories":[]},
-//{"key":"多多","name":"多多","type":1,"api":"https://a.7dyu.cn/api.php/provide/vod/from/ddzy/","playUrl":"http://49.233.47.42:9898/jiexi222.php/parse/type1?url=","searchable":1,"filterable":1,"categories":[]},
+
 {"key":"csp_appys_美剧虫","name":"美剧虫(V1)","type":3,"api":"csp_AppYs","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://meijuchong.com/api.php/v1.vod"},
 {"key":"csp_xpath_libv","name":"Libvio(XPF)","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://freed.yuanhsing.cf/TVBox/MaooXP/libv.json"},
 {"key":"csp_xpath_ddg","name":"达达龟(XPF)","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://freed.yuanhsing.cf/TVBox/MaooXP/dadagui.json"},
