@@ -1,6 +1,6 @@
 {
 // spider
-"spider":"https://stevenfang.github.io/07061553.jar;md5;F1119DF4FC629E71103CC19E2C7B2338",
+"spider":"https://stevenfang.github.io/ts0710.jar;md5;6FA1249AE7BEEB0222A05DB1BC58FB26",
 
 // 直播
 "lives":[{"group":"redirect","channels":[{"name":"live","urls":["proxy://do=live&type=txt&ext=aHR0cHM6Ly9zdGV2ZW5mYW5nLmdpdGh1Yi5pby9UVi9saXZlLnR4dA=="]}]}],
