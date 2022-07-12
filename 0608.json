@@ -3,7 +3,7 @@
 "spider":"https://stevenfang.github.io/2207121335.jar;md5;72ECAA6CDA698D2D2C2CE57955BDC8A9",
 
 // 直播
-"lives":[{"group":"redirect","channels":[{"name":"live","urls":["proxy://do=live&type=txt&ext=aHR0cHM6Ly9zdGV2ZW5mYW5nLmdpdGh1Yi5pby9UVi9saXZlLnR4dA=="]}]}],
+"lives":[{"group":"redirect","channels":[{"name":"live","urls":["proxy://do=live&type=txt&ext=aHR0cDovL3R2Lmp0aG4uY24vbGl2ZXMvbGl2ZV9wbHVzLnR4dA=="]}]}],
 
 "sites":[
 {"key":"csp_77","name":"🐞酷云七七","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1},
@@ -28,7 +28,6 @@
 {"key":"csp_BBB","name":"🐞哔哩哔哩","type": 3,"api": "csp_BBB","searchable": 1,"quickSearch": 1,"filterable": 1},
 {"key":"csp_Tkys","name":"🐞天空影视","type": 3,"api":"csp_Tkys","searchable":1,"quickSearch":1,"filterable": 1},
 
-{"key":"8090资源","name":"8090资源(官)","type":1,"api":"http://zy.yilans.net:8090/api.php/provide/vod/","searchable":1,"quickSearch":1},  
 {"key":"csp_xpath_dandanzan10","name":"蛋蛋赞(电影)(XPF)","type":3,"api":"csp_XPathFilter","searchable":0,"quickSearch":0,"filterable":1,"ext":"http://freed.yuanhsing.cf/TVBox/MaooXP/dandanzan10.json"},  
 {"key":"csp_xpath_lezhutv","name":"乐猪TV(XPMac)","type":3,"api":"csp_XPathMac","searchable":1,"quickSearch":1,"filterable":0,"ext":"http://freed.yuanhsing.cf/TVBox/MaooXP/lezhutv.json"},
 {"key":"csp_appys_美剧虫","name":"美剧虫(V1)","type":3,"api":"csp_AppYs","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://meijuchong.com/api.php/v1.vod"},
