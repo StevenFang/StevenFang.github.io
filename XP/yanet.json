@@ -21,7 +21,7 @@
   "cateVodImg": "/div[@class=('module-item-pic')]/img/@data-src",
   "cateVodImgR": "(http\\S+)",
   "cateVodMark": "/div[@class='module-item-caption']/span/text()",
-  "dtUrl": "https://netflix.mom/index.php/vod/detail/id/{vid}.html",
+  "dtUrl": "https://netflix.mom/index.php/voddetail/{vid}.html",
   "dtNode": "//body",
   "dtName": "//div[contains(@class,'video-info-header')]/h1[@class='page-title']/text()",
   "dtNameR": "",
