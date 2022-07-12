@@ -13,7 +13,7 @@
   "homeVodImgR": "(http\\S+)",
   "homeVodMark": "/div[@class='module-item-caption']/span/text()",
   "homeVodMarkR": "",
-  "cateUrl": "https://netflix.mom/index.php/vod/show/area/{area}/by/{by}/class/{class}/id/{cateId}/lang/{lang}/year/{year}/page/{catePg}.html",
+  "cateUrl": "https://netflix.mom/index.php/vodshow/area/{area}/by/{by}/class/{class}/id/{cateId}/lang/{lang}/year/{year}/page/{catePg}.html",
   "cateVodNode": "//div[@class=('module-item-cover')]",
   "cateVodName": "/div[@class=('module-item-pic')]/a/@title",
   "cateVodId": "/div[@class=('module-item-pic')]/a/@href",
