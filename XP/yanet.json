@@ -47,7 +47,7 @@
   "dtUrlIdR": "/index.php/vod/play/id/(\\S+).html",
   "dtUrlName": "/span/text()",
   "dtUrlNameR": "",
-  "playUrl": "https://netflix.mom/index.php/vod/play/id/{playUrl}.html",
+  "playUrl": "https://netflix.mom/index.php/voddetail/{playUrl}.html",
   "playUa": "",
   "searchUrl": "https://netflix.mom/index.php/vod/search/wd/{wd}.html",
   "scVodNode": "//div[@class=('module-item-pic')]",
