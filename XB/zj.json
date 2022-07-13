@@ -8,18 +8,19 @@
   "fenlei": "电影$/index.php/vod/show/id/1/page/#连续剧$/index.php/vod/show/id/2/page/#综艺$/index.php/vod/show/id/3/page/#动漫$/index.php/vod/show/id/4/page/#记录片$/index.php/vod/show/id/76/page/#4K电影$/index.php/vod/show/id/73/page/#4K剧集$/index.php/vod/show/id/75/page",
   "houzhui": ".html",
   
-  "shifouercijiequ": "0", //截取的列表数组是否需要二次截取，0不需要，1需要
-  "jiequqian": "空", //不需要二次截取就填空
+  "shifouercijiequ": "1", //截取的列表数组是否需要二次截取，0不需要，1需要
+  "jiequqian": "class=\"pack-packcover", //不需要二次截取就填空
   "jiequhou": "空", //不需要二次截取就填空
-  "jiequshuzuqian": "class=\"pic\"", //截取的列表数组的前关键词,截取的关键词有 " 的用 \ 进行转义
-  "jiequshuzuhou": "</li>", //截取的列表数组的后关键词,截取的关键词有 " 的用 \ 进行转义
+  "jiequshuzuqian": "<a", //截取的列表数组的前关键词,截取的关键词有 " 的用 \ 进行转义
+  "jiequshuzuhou": "alt=\", //截取的列表数组的后关键词,截取的关键词有 " 的用 \ 进行转义
   "tupianqian": "data-original=\"", //列表中资源的图片前关键词,截取的关键词有 " 的用 \ 进行转义
   "tupianhou": "\"", //列表中资源的图片后关键词,截取的关键词有 " 的用 \ 进行转义
   "biaotiqian": "title=\"", //列表中资源的标题前关键词,截取的关键词有 " 的用 \ 进行转义
   "biaotihou": "\"", //列表中资源的标题后关键词,截取的关键词有 " 的用 \ 进行转义
   "lianjieqian": "href=\"", //列表中资源的详情页跳转链接前关键词,截取的关键词有 " 的用 \ 进行转义
   "lianjiehou": "\"", //列表中资源的详情页跳转链接后关键词,截取的关键词有 " 的用 \ 进行转义
-  
+  "gengxinqian": "pack-prb hidden\">",
+  "gengxinhou": "</div>",
   //搜索部分基本不用动，现在网站基本都是苹果CMS，所有搜索是固定的。
   "sousuoqian": "/index.php/ajax/suggest?mid=1&wd=",
   "sousuohou": "&limit=500",
