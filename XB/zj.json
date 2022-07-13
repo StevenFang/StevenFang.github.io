@@ -10,7 +10,7 @@
   
   "shifouercijiequ": "1", //截取的列表数组是否需要二次截取，0不需要，1需要
   "jiequqian": "class=\"pack-packcover", //不需要二次截取就填空
-  "jiequhou": "空", //不需要二次截取就填空
+  "jiequhou": "class=\"ec-scroll-anchor", //不需要二次截取就填空
   "jiequshuzuqian": "<a", //截取的列表数组的前关键词,截取的关键词有 " 的用 \ 进行转义
   "jiequshuzuhou": "alt=\", //截取的列表数组的后关键词,截取的关键词有 " 的用 \ 进行转义
   "tupianqian": "data-original=\"", //列表中资源的图片前关键词,截取的关键词有 " 的用 \ 进行转义
