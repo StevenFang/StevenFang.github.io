@@ -60,16 +60,16 @@
 {"name":"Json并发","type":2,"url":"Parallel"},
 {"name":"Json轮询","type":2,"url":"Sequence"},
 # type1 聚合.并发.轮询
-{"name":"LTRX","type":1,"url":"https://svip.spchat.top/api/?type=ys&key=bKemW41JnxmQb4l67h&url=","ext":{"flag":["qq","qiyi","youku","rx"]}},
+//{"name":"LTRX","type":1,"url":"https://svip.spchat.top/api/?type=ys&key=bKemW41JnxmQb4l67h&url=","ext":{"flag":["qq","qiyi","youku","rx"]}},
 {"name":"解1","type":1,"url":"https://play.fuqizhishi.com/maotv/API.php?appkey=QQ172598364&url="},
 //{"name":"解2","type":1,"url":"http://110.42.2.115:880/analysis/json/?uid=2100&my=fgjnoqstLMRUZ03489&url="},
-{"name":"lx","type":1,"url":"http://110.42.2.115:880/analysis/json/?uid=2100&my=fgjnoqstLMRUZ03489&url=","ext":{"flag":["qq","qiyi","mgtv","youku","letv","sohu","xigua","1905"],"header":{"User-Agent":"Dart/2.14 (dart:io)"}}},
+{"name":"lx","type":1,"url":"http://110.42.2.115:880/analysis/json/?uid=2100&my=fgjnoqstLMRUZ03489&url=","ext":{"flag":["mgtv","letv","sohu","xigua","1905"],"header":{"User-Agent":"Dart/2.14 (dart:io)"}}},
 {"name":"解3","type":1,"url":"http://124.222.68.182/jiexi/4kJX.php/?url="},
 //{"name":"解4","type":1,"url":"https://good-vip.mmiyue.com/zhenbuka2/api/svip/HaShrcJUHwtH7TDdgUzHaWvJ1lWUZWiK.php?url="},
-{"name":"解5","type":1,"url":"http://106.52.218.221:88/?url="}
+{"name":"解5","type":1,"url":"http://106.52.218.221:88/?url="},
 //{"name":"ok","type":1,"url":"https://okjx.cc/?url="},
 //{"name":"99","type":0,"url":"http://42.193.18.62:9999/analysis.php?v="},
-//{"name":"飞云","type":1,"url":"https://www.daina.hk/api/?key=RXpzyrbMFYySN0sNps&url="}
+{"name":"飞云","type":1,"url":"https://www.daina.hk/api/?key=RXpzyrbMFYySN0sNps&url="}
 ],
 
 "flags":["youku","qq","iqiyi","qiyi","letv","sohu","tudou","pptv","mgtv","wasu","bilibili","renrenmi"],
