@@ -22,10 +22,7 @@
   "gengxinqian": "module-info-item-content\">",
   "gengxinhou": "</div>",
 
-  //新版Biubiu参数：副标题 (不需要的话，就不填写或者删除副标题2个字段也可以。)
-  "fubiaotiqian": "",
-  "fubiaotihou": "",
-
+  
   "sousuoqian": "/index.php/ajax/suggest?mid=1&wd=",
   "sousuohou": "&limit=500",
   "sousuohouzhui": "/index.php/vod/detail/id/",
@@ -48,23 +45,29 @@
   "bfshifouercijiequ": "0",
   "bfjiequqian": "空",
   "bfjiequhou": "空",
-  "zhuangtaiqian": "更新：",
-  "zhuangtaihou": "</div>",
-  "daoyanqian": "导演：",
-  "daoyanhou": "</div>",
-  "zhuyanqian": "主演：",
-  "zhuyanhou": "</div>",
-  "juqingqian": "简介：",
-  "juqinghou": "/div>",
-  "bfjiequshuzuqian": "class=\"module-list",
+  "bfjiequshuzuqian": "class=\"module-play-list\"",
   "bfjiequshuzuhou": "</div>",
+
+  "zhuangtaiqian": "更新：</span>",
+  "zhuangtaihou": "</div>",
+  "daoyanqian": "导演：</span>",
+  "daoyanhou": "</div>",
+  "zhuyanqian": "主演：</span>",
+  "zhuyanhou": "</div>",
+  "juqingqian": "line-height: 20px;\">",
+  "juqinghou": "</p>",
+  "niandaiqian": "module-info-tag\">",
+  "niandaihou": "</div>",
+  "leixinqian": "module-info-tag-link\">",
+  "leixinhou": "</div>",
+
   "bfyshifouercijiequ": "0",
   "bfyjiequqian": "空",
   "bfyjiequhou": "空",
   "bfyjiequshuzuqian": "<a",
   "bfyjiequshuzuhou": "/a>",
-  "bfbiaotiqian": "<span>",
-  "bfbiaotihou": "</span>",
+  "bfbiaotiqian": "span>",
+  "bfbiaotihou": "</span",
   "bflianjieqian": "href=\"",
   "bflianjiehou": "\""
 }
