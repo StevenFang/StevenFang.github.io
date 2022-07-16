@@ -35,12 +35,12 @@
 
 //{"key":"csp_xpath_cokemv","name":"Cokemv(XPF)","type":3,"api":"csp_XPathFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://home.jundie.top:81/Cat/MaooXP/cokemv.json"},  
 //{"key":"csp_xpath_zxzj2","name":"在线之家(XPF)","type":3,"api":"csp_XPathFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://home.jundie.top:81/Cat/MaooXP/zxzj2.json"},
-//{"key":"csp_xpath_newfii","name":"奈落影院(XP)","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://freed.yuanhsing.cf/TVBox/MaooXP/newfii.json"},
 {"key":"csp_xpath_lezhutv","name":"乐猪TV(XPMac)","type":3,"api":"csp_XPathMac","searchable":1,"quickSearch":1,"filterable":0,"ext":"http://freed.yuanhsing.cf/TVBox/MaooXP/lezhutv.json"},
 {"key":"csp_appys_美剧虫","name":"美剧虫(V1)","type":3,"api":"csp_AppYs","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://meijuchong.com/api.php/v1.vod"},
 {"key":"旋风","name":"旋风","type":1,"api":"http://appimg.ssxmall.cn/api.php/provide/vod/","playUrl":"json:https://svip.iepig.com:4443/api/?key=SicQs2pG0Cw7BnWV9a&url=", "searchable": 1, "quickSearch": 1, "filterable": 1},
 {"key":"csp_XBiubiu_zjm","name":"追猫(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://stevenfang.github.io/XB/zj.json"},
 {"key":"csp_biubiu_555电影","name":"555电影(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://stevenfang.github.io/XB/555.json"},
+{"key":"csp_biubiu_奈落影院","name":"奈落影院(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"http://freed.yuanhsing.cf/TVBox/MaooXB2/奈落影院.json"},
 {"key":"csp_biubiu_鸭奈飞","name":"鸭奈飞(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://freed.yuanhsing.cf/TVBox/MaooXB2/鸭奈飞.json"},
 //{"key":"csp_xpath_czspp","name":"厂长资源(XP)","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":0,"ext":"http://freed.yuanhsing.cf/TVBox/MaooXP/czspp.json"},
 {"key":"csp_xpath_ddg","name":"达达龟(XPF)","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://freed.yuanhsing.cf/TVBox/MaooXP/dadagui.json"},
