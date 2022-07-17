@@ -33,7 +33,7 @@
 {"key":"csp_Tkys","name":"🐞天空影视","type": 3,"api": "csp_Tkys","searchable": 1,"quickSearch": 1,"filterable": 1},
 
 
-{"key":"csp_xpath_miao","name":"追喵(XP)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://stevenfang.github.io/XB/miao.json"},  
+{"key":"csp_xb_miao","name":"追喵(XP)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://stevenfang.github.io/XB/zjmiao.json"},  
 //{"key":"csp_xpath_zxzj2","name":"在线之家(XPF)","type":3,"api":"csp_XPathFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://home.jundie.top:81/Cat/MaooXP/zxzj2.json"},
 {"key":"csp_xpath_lezhutv","name":"乐猪TV(XPMac)","type":3,"api":"csp_XPathMac","searchable":1,"quickSearch":1,"filterable":0,"ext":"http://freed.yuanhsing.cf/TVBox/MaooXP/lezhutv.json"},
 {"key":"csp_appys_美剧虫","name":"美剧虫(V1)","type":3,"api":"csp_AppYs","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://meijuchong.com/api.php/v1.vod"},
