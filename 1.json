@@ -1,6 +1,5 @@
 {
 "spider": "https://gitea.com/Pandora2277/TV/raw/branch/main/custom_spider.jar",
-//"spider":"https://ghproxy.com/https://raw.githubusercontent.com/drowning1213/xuan/main/yj0921.jar;md5;031bb977e1f0d3f64d23de8c2594c894",
 "lives":[{"group":"redirect","channels":[{"name":"live","urls":["proxy://do=live&type=txt&ext=aHR0cHM6Ly9naHByb3h5LmNvbS9odHRwczovL3Jhdy5naXRodWJ1c2VyY29udGVudC5jb20vZHJvd25pbmcxMjEzL3h1YW4vbWFpbi9saXZlL2xpdmUudHh0"]}]}],
 "wallpaper":"http://home.jundie.top:81/image/w2.png",
 
@@ -14,6 +13,7 @@
 {"key":"csp_Kuaikan","name":"快看(SP)","type":3,"api":"csp_Kuaikan","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"spider_IKan","name":"爱看(SP)","type":3,"api":"csp_IKan","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_CZSPP","name":"厂长资源(SP)","type":3,"api":"csp_Czsapp","searchable":1,"quickSearch":1,"filterable":1},
+{"key": "神马影院","name":"神马影院","type": 3,"api": "csp_Smdyy","searchable": 1,"quickSearch": 1,"filterable":1},
 {"key": "Lib","name": "Libvio(SP)","type": 3,"api": "csp_Lib","searchable": 1,"quickSearch": 1,"filterable": 1},
 {"key": "小熊","name": "小熊TV(SP)","type": 3,"api": "csp_Xxys","searchable": 1,"quickSearch": 1,"filterable": 1},
 {"key":"csp_Kmys","name":"酷猫影视(SP)","type":3,"api":"csp_Kmys","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://ghproxy.com/https://raw.githubusercontent.com/drowning1213/xuan/main/yj0921.jar"},
@@ -52,13 +52,14 @@
 # type1 聚合.并发.轮询
 {"name":"秒播1","type":1,"url":"http://27.124.4.42:4567/jhjson/ceshi.php?url=","ext":{"flag":["qiyi","qq","letv","sohu","youku","mgtv","bilibili","wasu","xigua","1905"]}},
 {"name":"太空","type":1,"url":"http://124.222.68.182/jiexi/4kJX.php/?url=","ext":{"flag":["qq","腾讯","qiyi","爱奇艺","奇艺","youku","优酷","sohu","搜狐","letv","乐视","mgtv","芒果","CL4K","renrenmi","ltnb","bilibili","1905","xigua"]}},
-{"name":"解1","type":1,"url":"https://play.fuqizhishi.com/maotv/API.php?appkey=QQ172598364&url="},
+{"name":"解1","type":1,"url":"https://play.fuqizhishi.com/maotv/API.php?appkey=xiongdimenbieguaiwodingbuzhulegailekey07201538&url="},
 {"name":"左岸","type":1,"url":"http://110.42.2.115:880/analysis/json/?uid=2100&my=fgjnoqstLMRUZ03489&url=","ext":{"flag":["qq","qiyi","mgtv","youku","letv","sohu","xigua","1905","优播线路","腾播线路"],"header":{"User-Agent":"Dart/2.14 (dart:io)"}}},
 {"name":"解5","type":1,"url":"http://106.52.218.221:88/?url="},
 {"name":"QQYI","type":1,"url":"http://home.jundie.top:666/jiexi.php?url="},
 {"name":"秒播2","type":1,"url":"http://cl.yjhan.com:8090/home/api?type=ys&uid=821518&key=aghlmnyBFIJMPRX489&url="},
 {"name":"NX","type":1,"url":"https://vip.nxflv.com/home/api?uid=701203&key=bltuyCEFKLTX013679&url="},
-{"name":"99","type":0,"url":"http://42.193.18.62:9999/analysis.php?v="}
+{"name":"99","type":0,"url":"http://42.193.18.62:9999/analysis.php?v="},
+{"name":"9e","type":1,"url":"https://www.nfjx.xyz/home/api?type=ys&uid=5767995&key=ijkmovxDEHIJPQRW69&url="}
 ],
 
 "flags":["youku","qq","iqiyi","qiyi","letv","sohu","tudou","pptv","mgtv","wasu","bilibili","renrenmi"],
