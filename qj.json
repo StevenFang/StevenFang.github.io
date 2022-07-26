@@ -1,7 +1,7 @@
 {
 // spider
-//"spider":"http://home.jundie.top:81/jar/top93.jar;md5;23820EA1B06EFD4E86CCA162EB3C1C8C",
-"spider":"https://ghproxy.com/https://raw.githubusercontent.com/drowning1213/xuan/main/yj0921.jar;md5;031bb977e1f0d3f64d23de8c2594c894",
+"spider":"http://home.jundie.top:81/jar/top93.jar",
+//"spider":"https://ghproxy.com/https://raw.githubusercontent.com/drowning1213/xuan/main/yj0921.jar;md5;031bb977e1f0d3f64d23de8c2594c894",
   
 // 直播
 "lives":[{"group":"redirect","channels":[{"name":"live","urls":["proxy://do=live&type=txt&ext=aHR0cDovL3R2Lmp0aG4uY24vbGl2ZXMvbGl2ZV9wbHVzLnR4dA=="]}]}],
