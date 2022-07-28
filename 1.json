@@ -25,7 +25,7 @@
     {"key":"csp_Kmys","name":"酷猫(SP)","type":3,"api":"csp_Kmys","searchable":1,"quickSearch":1,"filterable":1,"jar":"http://home.jundie.top:81/jar/top93.jar"},
     {"key":"spider_Bttoo","name":"2BT(SP)","type":3,"api":"csp_Bttoo","searchable":1,"quickSearch":1,"filterable":1,"jar":"http://home.jundie.top:81/jar/top93.jar"},
     
-    {"key":"csp_Wmkk","name":"完美(SP)","api":"csp_Wmkk","type":3,"filterable":1,"quickSearch":1,"searchable":1,"jar":","jar":"https://shuyuan.miaogongzi.net/shuyuan/1659036297.txt;md5;1eb59159dca9bded71c83e6ae0cd9598""},
+    {"key":"csp_Wmkk","name":"完美(SP)","api":"csp_Wmkk","type":3,"filterable":1,"quickSearch":1,"searchable":1,"jar":"https://shuyuan.miaogongzi.net/shuyuan/1659036297.txt;md5;1eb59159dca9bded71c83e6ae0cd9598"},
     {"key":"csp_Tkys","name":"天空(SP)","type":3,"api":"csp_Tkys","searchable":1,"quickSearch":1,"filterable":1,"jar":"http://home.jundie.top:81/jar/top93.jar"},
     {"key":"9E03","name":"9E03(v2)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://vod.9e03.com/lvdou_api.php/v1.vod"},
     {"key":"美剧虫","name":"美剧虫(v1)","type":3,"api":"csp_AppYs","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://meijuchong.com/api.php/v1.vod"},
