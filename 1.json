@@ -1,5 +1,5 @@
 {
-    "spider": "https://shuyuan.miaogongzi.net/shuyuan/1659230860.txt;md5;e470fb16926ae5c2961358b167b155f5",
+    "spider": "https://gitea.com/qiaoji/jar/raw/branch/main/qj07302_spider.txt;md5;60692195483b42b9416f70fea7869112",
     "lives":[{"group":"redirect","channels":[{"name":"live","urls":["proxy://do=live&type=txt&ext=aHR0cDovL3R2Lmp0aG4uY24vbGl2ZXMvbGl2ZV9wbHVzLnR4dA=="]}]}],
     "wallpaper":"http://www.kf666888.cn/api/tvbox/img",
     
@@ -21,8 +21,8 @@
     {"key":"csp_Kuaikan","name":"快看(SP)","type":3,"api":"csp_Kuaikan","searchable":1,"quickSearch":1,"filterable":1},
     {"key":"IKan","name":"爱看(SP)","type":3,"api":"csp_IKan","searchable":1,"quickSearch":1,"filterable":1},
     {"key":"Ekan_spider","name":"Ekan(SP)","type":3,"api":"csp_Ekan","searchable":1,"quickSearch":1,"filterable":1},    
-    //{"key": "神马","name":"神马(SP)","type": 3,"api": "csp_Smdyy","searchable": 1,"quickSearch": 1,"filterable":1},
-    //{"key": "小熊","name": "小熊TV(SP)","type": 3,"api": "csp_Xxys","searchable": 1,"quickSearch": 1,"filterable": 1},
+    {"key": "神马","name":"神马(SP)","type": 3,"api": "csp_Smdyy","searchable": 1,"quickSearch": 1,"filterable":1},
+    {"key": "小熊","name": "小熊TV(SP)","type": 3,"api": "csp_Xxys","searchable": 1,"quickSearch": 1,"filterable": 1},
     {"key":"csp_Kmys","name":"酷猫(SP)","type":3,"api":"csp_Kmys","searchable":1,"quickSearch":1,"filterable":1},
     //{"key":"spider_Bttoo","name":"2BT(SP)","type":3,"api":"csp_Bttoo","searchable":1,"quickSearch":1,"filterable":1,"jar":"http://home.jundie.top:81/jar/top93.jar;md5;23820EA1B06EFD4E86CCA162EB3C1C8C"},
     {"key":"3EDY","name":"3EDY(SPEXO)","type":3,"api":"csp_EEEDY","searchable":1,"quickSearch":1,"filterable":1},
@@ -30,9 +30,9 @@
     {"key":"9E03","name":"9E03(v2)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://vod.9e03.com/lvdou_api.php/v1.vod"},
     {"key":"美剧虫","name":"美剧虫(v1)","type":3,"api":"csp_AppYs","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://meijuchong.com/api.php/v1.vod"},
     {"key":"考拉","name":"考拉","type":1,"api":"https://ikaola.tv/api.php/provide/vod/","searchable":1,"quickSearch":1},
-    //{"key":"Nfyun","name":"Nf云(SP)","type":3,"api":"csp_Nfyun","searchable":1,"quickSearch":1,"filterable":1},
+    {"key":"Nfyun","name":"Nf云(SP)","type":3,"api":"csp_Nfyun","searchable":1,"quickSearch":1,"filterable":1},
     {"key":"Bili","name":"哔哩哔哩(SP)","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"https://gitea.com/Steven2077/Box/raw/branch/master/sub/Bili.json"},
-    //{"key":"bdys","name":"哔嘀(磁力)","type": 3,"api": "csp_XPbd","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://gitea.com/Steven2077/Box/raw/branch/master/sub/Bdys.json"},
+    {"key":"bdys","name":"哔嘀(磁力)","type": 3,"api": "csp_XPbd","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://gitea.com/Steven2077/Box/raw/branch/master/sub/Bdys.json"},
     
     {"key":"csp_Zhaozy","name":"盘搜2(SP)","type":3,"api":"csp_FindZY","searchable":1,"quickSearch":1,"filterable":0,"ext":"ad3c78559a494bde814f1a6c8c40db51"},
     //{"key":"AliPS","name":"盘搜1(SP)","type":3,"api":"csp_AliPS","searchable":1,"quickSearch":1,"filterable":0,"ext":"ad3c78559a494bde814f1a6c8c40db51"},
