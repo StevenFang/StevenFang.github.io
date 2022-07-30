@@ -5,7 +5,7 @@
     
     "sites": [
     {"key":"360","name":"360(SP)","type":3,"api":"csp_SP360","searchable":1,"quickSearch":1,"filterable":1},
-    {"key":"KanSJ_spider","name":"看视界(SP)","api":"csp_KanSJ","type":3,"filterable":1,"quickSearch":1,"searchable":1,"ext":""},
+    {"key":"KanSJ_spider","name":"看视界(SP)","api":"csp_KanSJ","type":3,"filterable":1,"quickSearch":1,"searchable":1,"ext":"","jar":"https://shuyuan.miaogongzi.net/shuyuan/1659230860.txt;md5;e470fb16926ae5c2961358b167b155f5"},
     {"key":"293","name":"293(SP)","type":3,"api":"csp_SP293","searchable":1,"quickSearch":1,"filterable":1,"ext":"","jar":"https://shuyuan.miaogongzi.net/shuyuan/1659230860.txt;md5;e470fb16926ae5c2961358b167b155f5"},
     {"key": "Lib","name": "Libvio(SP)","type": 3,"api": "csp_Lib","searchable": 1,"quickSearch": 1,"filterable": 1,"jar":"https://shuyuan.miaogongzi.net/shuyuan/1659230860.txt;md5;e470fb16926ae5c2961358b167b155f5"},
     {"key":"csp_GitCafe","name":"小纸条(SP)","type":3,"api":"csp_Gitcafe","searchable":1,"quickSearch":1,"filterable":0,"ext":"ad3c78559a494bde814f1a6c8c40db51"},    
