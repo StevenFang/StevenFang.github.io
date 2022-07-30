@@ -31,7 +31,7 @@
     {"key":"美剧虫","name":"美剧虫(v1)","type":3,"api":"csp_AppYs","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://meijuchong.com/api.php/v1.vod"},
     {"key":"考拉","name":"考拉","type":1,"api":"https://ikaola.tv/api.php/provide/vod/","searchable":1,"quickSearch":1},
     {"key":"Nfyun","name":"Nf云(SP)","type":3,"api":"csp_Nfyun","searchable":1,"quickSearch":1,"filterable":1},
-    {"key":"Bili","name":"哔哩哔哩(SP)","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"https://gitea.com/Steven2077/Box/raw/branch/master/sub/Bili.json"},
+    {"key":"csp_BBB","name":"哔哩哔哩","type": 3,"api": "csp_Bili","searchable": 0,"quickSearch": 0,"filterable": 1,"ext":"https://gitea.com/qiaoji/jar/raw/branch/main/bili.json"},
     {"key":"bdys","name":"哔嘀(磁力)","type": 3,"api": "csp_XPbd","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://gitea.com/Steven2077/Box/raw/branch/master/sub/Bdys.json"},
     
     {"key":"csp_Zhaozy","name":"盘搜2(SP)","type":3,"api":"csp_FindZY","searchable":1,"quickSearch":1,"filterable":0,"ext":"ad3c78559a494bde814f1a6c8c40db51"},
