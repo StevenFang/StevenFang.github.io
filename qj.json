@@ -1,5 +1,6 @@
 {
-    "spider": "https://gitea.com/Steven2077/jar/raw/branch/main/qj07302_spider.txt;md5;60692195483b42b9416f70fea7869112",
+    "spider": "http://static01.imgkr.com/temp/4be9c925a036435e85d3c641efe0b70b.jpg;md5;3a477c0b071fe556277335fb2214d0c9",
+    //"spider": "https://gitea.com/Steven2077/jar/raw/branch/main/qj07302_spider.txt;md5;60692195483b42b9416f70fea7869112",
     "lives":[{"group":"redirect","channels":[{"name":"live","urls":["proxy://do=live&type=txt&ext=aHR0cDovL3R2Lmp0aG4uY24vbGl2ZXMvbGl2ZV9wbHVzLnR4dA=="]}]}],
     "wallpaper":"http://www.kf666888.cn/api/tvbox/img",
     
