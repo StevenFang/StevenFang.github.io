@@ -74,5 +74,5 @@
     "scVodId": "@href",
     "scVodIdR": "https://www.bttwoo.com/(\\S+).html",
     "scVodImg": "/img/@src",
-    "scVodMark": "
+    "scVodMark": ""
 }
