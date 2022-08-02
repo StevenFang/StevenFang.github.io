@@ -1,23 +1,23 @@
-﻿{
-  "author":"率性而活",
-  
+{
+  "author": "率性而活",
+
   "homeUrl": "https://meijuchong.cc/",
   "dcVipFlag": "true",
   "dcPlayUrl": "true",
-  
+
   "cateNode": "//div[contains(@class,'myui-header_bd clearfix')]/ul[contains(@class,'myui-header__menu nav-menu')]/li/a[contains(@href, '.html')]",
- 
+
   "cateName": "/text()",
-  
+
   "cateNameR": "",
-  
+
   "cateId": "/@href",
-  
+
   "cateIdR": "/vodtype/(\\S+).html",
-  
+
   "cateManual": {},
 
-  
+
   "cateUrl": "https://meijuchong.cc/vodshow/area/{area}/by/{by}/class/{class}/id/{cateId}/page/{catePg}/year/{year}.html",
   "cateVodNode": "//ul[contains(@class,'myui-vodlist clearfix')]/li",
   "cateVodName": "//li[contains(@class,'col-lg-8 col-md-6 col-sm-4 col-xs-3')]/div/a/@title",
@@ -26,20 +26,20 @@
   "cateVodImg": "//li[contains(@class,'col-lg-8 col-md-6 col-sm-4 col-xs-3')]/div/a/@data-original",
   "cateVodImgR": "",
   "cateVodMark": "//li[contains(@class,'col-lg-8 col-md-6 col-sm-4 col-xs-3')]/div/a/span[3]/text()",
-  
-     
-      // 详情页地址 用于获取详情页信息 及 播放列表和地址
-	"dtUrl": "https://meijuchong.cc/voddetail/{vid}.html",
-    // 详情节点
-	"dtNode": "//div[contains(@class,'col-lg-wide-75 col-md-wide-7 col-xs-1 padding-0')]",
-    // 视频名
-	"dtName": "//div[contains(@class,'myui-content__thumb')]/a/@title",
-	"dtNameR": "",
-    // 视频图片
-	"dtImg": "//div[contains(@class,'myui-content__thumb')]/a/img/@data-original",
-	"dtImgR": "\\S+(http\\S+)",
-	
-	"dtCate": "//div[contains(@class,'myui-content__detail')]/p[1]/a[1]/text()",
+
+
+  // 详情页地址 用于获取详情页信息 及 播放列表和地址
+  "dtUrl": "https://meijuchong.cc/voddetail/{vid}.html",
+  // 详情节点
+  "dtNode": "//div[contains(@class,'col-lg-wide-75 col-md-wide-7 col-xs-1 padding-0')]",
+  // 视频名
+  "dtName": "//div[contains(@class,'myui-content__thumb')]/a/@title",
+  "dtNameR": "",
+  // 视频图片
+  "dtImg": "//div[contains(@class,'myui-content__thumb')]/a/img/@data-original",
+  "dtImgR": "\\S+(http\\S+)",
+
+  "dtCate": "//div[contains(@class,'myui-content__detail')]/p[1]/a[1]/text()",
   "dtCateR": "",
   "dtYear": "//div[contains(@class,'myui-content__detail')]/p[1]/a[3]/text()",
   "dtYearR": "",
@@ -51,36 +51,35 @@
   "dtActorR": "",
   "dtDirector": "//div[contains(@class,'myui-content__detail')]/p[4]/a/text()",
   "dtDirectorR": "",
-  "dtDesc": "//div[contains(@class,'myui-panel myui-panel-bg clearfix')]/div/div[2]/div/span[1]/text()
-",
+  "dtDesc": "//div[contains(@class,'myui-panel myui-panel-bg clearfix')]/div/div[2]/div/span[1]/text()",
   "dtDescR": "",
-  
-    // 播放源节点
-	"dtFromNode": "//div[@class='row']/div/div[3]/div/div[1]/div/ul/li/a",
-    // 播放源名称
-	"dtFromName": "/text()",
-    // 二次处理正则
-	"dtFromNameR": "",
-    // 播放列表节点
-	"dtUrlNode": "//ul[contains(@class,'myui-content__list scrollbar sort-list clearfix')]",
-    // 播放地址节点
-	"dtUrlSubNode": "/li/a",
-    // 播放地址
-	"dtUrlId": "/@href",
-    // 二次处理正则
-	"dtUrlIdR": "/vodplay/(\\S+).html",
-    // 剧集名称
-	"dtUrlName": "/text()",
-    // 二次处理正则
-	"dtUrlNameR": "",
-    // 播放页面的地址 {playUrl} 对应上面 dtUrlId 获取到的地址
-  "playUrl": "https://meijuchong.cc/vodplay/{playUrl}.html",
-//"playUrl": "https://gimytv.app/ep-h43-6-1.html",
-    // 解析webview的user-agent
-	"playUa": "",
 
-  
- 
+  // 播放源节点
+  "dtFromNode": "//div[@class='row']/div/div[3]/div/div[1]/div/ul/li/a",
+  // 播放源名称
+  "dtFromName": "/text()",
+  // 二次处理正则
+  "dtFromNameR": "",
+  // 播放列表节点
+  "dtUrlNode": "//ul[contains(@class,'myui-content__list scrollbar sort-list clearfix')]",
+  // 播放地址节点
+  "dtUrlSubNode": "/li/a",
+  // 播放地址
+  "dtUrlId": "/@href",
+  // 二次处理正则
+  "dtUrlIdR": "/vodplay/(\\S+).html",
+  // 剧集名称
+  "dtUrlName": "/text()",
+  // 二次处理正则
+  "dtUrlNameR": "",
+  // 播放页面的地址 {playUrl} 对应上面 dtUrlId 获取到的地址
+  "playUrl": "https://meijuchong.cc/vodplay/{playUrl}.html",
+  //"playUrl": "https://gimytv.app/ep-h43-6-1.html",
+  // 解析webview的user-agent
+  "playUa": "",
+
+
+
   "searchUrl": "https://meijuchong.cc/vodsearch.html?wd={wd}&submit=",
   "scVodNode": "//div[@class='wrap']//ul[contains(@class,'myui-vodlist__media clearfix')]",
   "scVodName": "//div[contains(@class,'thumb')]/a/@title",
@@ -90,12 +89,11 @@
   "scVodMark": "",
   "filter": {
     "1": [
-       
+
       {
         "key": "class",
         "name": "类型",
-        "value": [
-          {
+        "value": [{
             "n": "全部",
             "v": ""
           },
@@ -127,7 +125,7 @@
             "n": "动作",
             "v": "动作"
           },
-      
+
           {
             "n": "动画",
             "v": "动画"
@@ -136,31 +134,29 @@
             "n": "真人秀",
             "v": "真人秀"
           }
-         
+
         ]
       },
-      
+
       {
         "key": "area",
         "name": "地区",
-        "value": [
-          {
+        "value": [{
             "n": "全部",
             "v": ""
           },
-          
+
           {
             "n": "美国",
             "v": "美国"
           }
-             
+
         ]
       },
       {
         "key": "year",
         "name": "年份",
-        "value": [
-          {
+        "value": [{
             "n": "全部",
             "v": ""
           },
@@ -216,24 +212,24 @@
             "n": "2010",
             "v": "2010"
           },
-           {
+          {
             "n": "2009",
             "v": "2009"
           },
-           {
+          {
             "n": "2008",
             "v": "2008"
           },
-        
-           {
+
+          {
             "n": "2007",
             "v": "2007"
           },
-           {
+          {
             "n": "2006",
             "v": "2006"
           },
-           {
+          {
             "n": "2005",
             "v": "2005"
           },
@@ -299,13 +295,10 @@
           }
         ]
       },
-      
-      
       {
         "key": "by",
         "name": "排序",
-        "value": [
-          {
+        "value": [{
             "n": "时间",
             "v": "time"
           },
@@ -319,18 +312,17 @@
           }
         ]
       }
-    ]
-"4": [
-       
+    ],
+    "4": [
+
       {
         "key": "class",
         "name": "剧情",
-        "value": [
-          {
+        "value": [{
             "n": "全部",
             "v": ""
           },
-	  {
+          {
             "n": "动作",
             "v": "动作"
           },
@@ -349,35 +341,33 @@
           {
             "n": "剧情",
             "v": "剧情"
-          },         
+          }
         ]
       },
-      
+
       {
         "key": "area",
         "name": "地区",
-        "value": [
-          {
+        "value": [{
             "n": "全部",
             "v": ""
           },
-          
+
           {
             "n": "美国",
             "v": "美国"
           },
-	 {
+          {
             "n": "英国",
             "v": "英国"
           }
-             
+
         ]
       },
       {
         "key": "year",
         "name": "年份",
-        "value": [
-          {
+        "value": [{
             "n": "全部",
             "v": ""
           },
@@ -433,24 +423,24 @@
             "n": "2010",
             "v": "2010"
           },
-           {
+          {
             "n": "2009",
             "v": "2009"
           },
-           {
+          {
             "n": "2008",
             "v": "2008"
           },
-        
-           {
+
+          {
             "n": "2007",
             "v": "2007"
           },
-           {
+          {
             "n": "2006",
             "v": "2006"
           },
-           {
+          {
             "n": "2005",
             "v": "2005"
           },
@@ -516,13 +506,12 @@
           }
         ]
       },
-      
-      
+
+
       {
         "key": "by",
         "name": "排序",
-        "value": [
-          {
+        "value": [{
             "n": "时间",
             "v": "time"
           },
