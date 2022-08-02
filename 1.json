@@ -48,6 +48,7 @@
     {"key":"csp_xpath_ddg","name":"达达龟(XPF)","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://stevenfang.github.io/XP/dadagui.json"},
     {"key":"csp_xpath_jbb","name":"剧白白(XPF)","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://stevenfang.github.io/XP/jubaibai.json"},
     {"key":"csp_biubiu_555","name":"555电影(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://stevenfang.github.io/XB/555.json"},
+    {"key": "csp_xpath_jpyszl","name": "极品(XPMac)","type": 3,"api": "csp_XPathMac","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://cdn.jsdelivr.net/gh/catvod/CatVodTVSpider@master/xpath/jpys.json"},
     {"key":"csp_appysv2_熊猫动漫","name":"熊猫动漫(V2)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://dongman.k8aa.com/mogai_api.php/v1.vod"},
     {"key":"csp_xpath_dm84","name":"动漫巴士(XP)","type":3,"api":"csp_XPathFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://stevenfang.github.io/XP/dm84.json"},
     {"key":"csp_xpath_lranc","name":"天天影视(XPF)","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://stevenfang.github.io/XP/lranc.json"},
