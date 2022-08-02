@@ -69,10 +69,11 @@
     "playUrl": "https://www.bttwoo.com/v_play/{playUrl}.html",
     "playUa": "",
     "searchUrl": "https://www.bttwoo.com/xssearch?q={wd}",
-    "scVodNode": "//div[contains(@class,'search_list')]/ul/li",
-    "scVodName": "/a/img/@alt",
-    "scVodId": "/a/@href",
-    "scVodIdR": "https://www.bttwoo.com/(\\S+).html",
-    "scVodImg": "/a/img/@src",
+    "scVodNode": "//div[contains(@class,'mikd')]//div[contains(@class,'mi_cont')]//div[contains(@class,'search_list')]/ul/li/a",
+    "scVodName": "img/@alt",
+    "scVodId": "/@href",
+    "scVodIdR": "/(\\S+).html",
+    "scVodImg": "/img/@src",
+    "scVodImgR": "\\S+(http\\S+)",
     "scVodMark": "//div[@class='jidi']/span/text()"
 }
