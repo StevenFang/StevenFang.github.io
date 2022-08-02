@@ -69,7 +69,7 @@
     "playUrl": "https://www.bttwoo.com/v_play/{playUrl}.html",
     "playUa": "",
     "searchUrl": "https://www.bttwoo.com/xssearch?q={wd}",
-    "scVodNode": "//div[@class='mikd']/div[@class='mi_cont ']/div[contains(@class,'bt_img mi_ne_kd search_list')]/ul/li/",
+    "scVodNode": "//div[contains(@class,'search_list')]/ul/li",
     "scVodName": "/a/img/@alt",
     "scVodId": "/a/@href",
     "scVodIdR": "https://www.bttwoo.com/(\\S+).html",
