@@ -86,7 +86,7 @@
   "scVodId": "//div[contains(@class,'thumb')]/a/@href",
   "scVodIdR": "/voddetail/(\\S+).html",
   "scVodImg": "//div[contains(@class,'thumb')]/a/@data-original",
-  "scVodMark": "",
+  "scVodMark": "//div[contains(@class,'thumb')]/span[contains(@class,'pic-text text-right')]/text()",
   "filter": {
     "1": [
 
