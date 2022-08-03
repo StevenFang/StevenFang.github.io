@@ -52,7 +52,7 @@
     "dtUrlNode": "//div[@class='module-tab-content']/div[@class='module-blocklist']/div[@class='sort-item']",
     "dtUrlSubNode": "/a",
     "dtUrlId": "@href",
-    "dtUrlIdR": "/play/(\\S+).html",
+    "dtUrlIdR": "",
     "dtUrlName": "/span/text()",
     "dtUrlNameR": "",
     "playUrl": "https://juhuang.tv/play/{playUrl}.html",
@@ -61,7 +61,7 @@
     "scVodNode": "json:list",
     "scVodName": "vod_name",
     "scVodId": "vod_id",
-    "scVodIdR": "",
+    "scVodIdR": "/play/(\\S+)_play_1_1.html",
     "scVodImg": "vod_pic",
     "scVodMark": ""
 }
