@@ -35,10 +35,10 @@
     "cateVodImgR": "",
     "cateVodMark": "/div[@class='module-item-text']/text()",
     "dtUrl": "https://juhuang.tv/play/{vid}_play_1_1.html",
-    "dtNode": "//div[@class='video-info']/div[@class='video-info-box']/div[@class='video-info-header']",
-    "dtName": "//h1/a/@title",
+    "dtNode": "//div[@class='video-info-header']",
+    "dtName": "//h1[@class='page-title']/a/@title",
     "dtNameR": "",
-    "dtImg": "//div[@class='module-items']/div[1]//img/@data-src",//有问题
+    "dtImg": "//div[@class='module-items']/div[1]/div[2]/div[3]/img/@data-src",
     "dtImgR": "",
     "dtCate": "//div[@class='video-info-aux']/a/span[@class='video-tag-icon']/text()",
     "dtYear": "//div[@class='video-info-aux']/a[3]/text()",
