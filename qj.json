@@ -1,12 +1,12 @@
 {
-    "spider": "http://static01.imgkr.com/temp/b6f05a695f464317bc5b75df27fedad8.jpg;md5;7a7e8073d59022b0de11aa135c60b05f",
-    //"spider": "https://gitea.com/Steven2077/jar/raw/branch/main/qj07302_spider.txt;md5;60692195483b42b9416f70fea7869112",
+    "spider": "https://stevenfang.github.io/0804.jar;md5;326a781ee09bac3d33e40e10540b25c5",
     "lives":[{"group":"redirect","channels":[{"name":"live","urls":["proxy://do=live&type=txt&ext=aHR0cDovL3R2Lmp0aG4uY24vbGl2ZXMvbGl2ZV9wbHVzLnR4dA=="]}]}],
     "wallpaper":"http://www.kf666888.cn/api/tvbox/img",
     
     "sites": [
     {"key":"360","name":"360(SP)","type":3,"api":"csp_SP360","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitea.com/Steven2077/Box/raw/branch/master/sub/360.json"},
     {"key":"KanSJ_spider","name":"看视界(SP)","api":"csp_KanSJ","type":3,"filterable":1,"quickSearch":1,"searchable":1,"ext":""},
+    {"key": "Lezhu_spider","name": "乐猪影视(SP)","api": "csp_Lezhu","type": 3,"filterable": 1,"quickSearch": 1,"searchable": 1,"ext": ""},
     {"key":"293","name":"293(SP)","type":3,"api":"csp_SP293","searchable":1,"quickSearch":1,"filterable":1,"ext":""},
     {"key": "Lib","name": "Libvio(SP)","type": 3,"api": "csp_Lib","searchable": 1,"quickSearch": 1,"filterable": 1},
     {"key":"csp_GitCafe","name":"小纸条(SP)","type":3,"api":"csp_GitCafe","searchable":1,"quickSearch":1,"filterable":0,"ext":"ad3c78559a494bde814f1a6c8c40db51"},    
