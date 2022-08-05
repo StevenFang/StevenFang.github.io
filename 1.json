@@ -1,5 +1,5 @@
 {
-    "spider":"https://stevenfang.github.io/0804.jar;md5;326a781ee09bac3d33e40e10540b25c5",
+    "spider":"https://stevenfang.github.io/0805.jar;md5;2fa165c9aa72ada6ab74a3dedb58ff6b",
     "lives":[{"group":"redirect","channels":[{"name":"live","urls":["proxy://do=live&type=txt&ext=aHR0cDovL2hvbWUuanVuZGllLnRvcDo4MS9DYXQvdHYvbGl2ZS50eHQ="]}]}],
     "wallpaper":"http://www.kf666888.cn/api/tvbox/img",
     
@@ -69,6 +69,8 @@
     {"name":"解2","type":1,"url":"https://play.fuqizhishi.com/maotv/API.php?appkey=xiongdimenbieguaiwodingbuzhulegailekey07201538&url="},
     {"name":"aiku","type": 1,"url": "https://cache.json.icu/home/api?type=ys&uid=292796&key=bhjknprtuyACFIWY78&url="},
     {"name":"rx2","type":1,"url":"https://svip.rongxingvr.top/api/?key=bpWXKrAJUKm3puOCH4&url="},
+    {"name":"293","type":1,"url":"http://47.98.234.2:7768/api.php?url=","ext":{"flag":["qq","qiyi","mgtv","youku","letv","sohu","xigua","1905"],"header":{"User-Agent":"Dart/2.14 (dart:io)"}}},
+    {"name":"HF影视","type":1,"url":"http://119.91.206.244:9999/jx/hfys.php?url=","ext":{"flag":["qq","mgtv","youku","iqiyi","qiyi","pptv","sohu","letv","migu","tudou","imgo","bilibili","duoduozy","renrenmi","ltnb","miaoparty","miaoparty2","miaoparty3","laodiyun","laodim3u8","lekanzyw","rx","CL4K","fuckapp","1080P","wuduzy"]}},
     {"name":"油果","type":1,"url":"http://json.youguo520.top/fufeng/?url=","ext":{"flag":["qiyi","爱奇艺","奇艺","qq","腾讯","youku","优酷","pptv","PPTV","letv","乐视","bilibili","哔哩哔哩","哔哩","mgtv","芒果"],"header":{"User-Agent":"Dart/2.14 (dart:io)"}}},
     {"name":"左岸","type":1,"url":"http://110.42.2.115:880/analysis/json/?uid=2288&my=flmoqszABEIJNQT017&url=","ext":{"flag":["qq","qiyi","mgtv","youku","letv","sohu","xigua","1905","优播线路","腾播线路"],"header":{"User-Agent":"Dart/2.14 (dart:io)"}}},
     {"name":"解1","type":1,"url":"https://vip.byteamone.cn/api/?key=GspCnTIjLq2uaRX4dK&url=","ext":{"flag":["qiyi","qq","letv","sohu","youku","mgtv","bilibili"]}},
