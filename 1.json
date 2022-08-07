@@ -52,7 +52,10 @@
     {"key":"csp_xpath_saohuotv","name":"骚火电影(XP)","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://stevenfang.github.io/XP/saohuotv2.json"},
     {"key":"csp_xpath_zx","name":"在线电影(XP)","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://stevenfang.github.io/XP/zaixiandianying8.json"},
     {"key":"csp_xpath_miaole","name":"喵乐(XPF)","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://stevenfang.github.io/XP/miaole.json"},
+    {"key":"csp_xpath_桔子","name":"桔子TV(XPMac)","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://stevenfang.github.io/XP/juzi.json"},
     {"key":"csp_appysv2_天空TV","name":"天空TV(神马)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://tv.tkys.tv/api.php/iptv/vod/"},
+    {"key": "csp_V2爱酷","name":"爱酷","type": 3,"api": "csp_AppYsV2","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://www.zhanlangbu.com/ruifenglb_api.php/v1.vod"},
+    {"key":"csp_V2优众","name":"优众","type": 3,"api": "csp_AppYsV2","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "http://121.205.88.178:8090/xgapp.php/v2/"},
     {"key":"忆梦","name":"忆梦(官)","type":1,"api":"http://anltv.cn/api.php/provide/vod/","searchable":1,"quickSearch":1},
     {"key":"M3U8","name":"M3U8(官)","type":1,"api":"http://www.zycaiji.net:7788/api.php/provide/vod/","searchable":1,"quickSearch":1},
 
