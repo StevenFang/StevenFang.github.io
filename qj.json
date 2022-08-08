@@ -1,5 +1,5 @@
 {
-    "spider": "https://stevenfang.github.io/0804.jar;md5;326a781ee09bac3d33e40e10540b25c5",
+    "spider": "https://stevenfang.github.io/0805.jar;md5;2fa165c9aa72ada6ab74a3dedb58ff6b",
     "lives":[{"group":"redirect","channels":[{"name":"live","urls":["proxy://do=live&type=txt&ext=aHR0cDovL3R2Lmp0aG4uY24vbGl2ZXMvbGl2ZV9wbHVzLnR4dA=="]}]}],
     "wallpaper":"http://www.kf666888.cn/api/tvbox/img",
     
