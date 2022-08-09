@@ -75,5 +75,5 @@
     "scVodIdR": "https://www.bttwoo.com/movie/(\\S+).html",
     "scVodImg": "/img[contains(@class,'thumb')]/@src",
     "scVodImgR": "\\S+(http\\S+)",
-    "scVodMark": "/div[@class='jidi']/span/text()"
+    "scVodMark": "//div[@class='jidi']/span/text()"
 }
