@@ -69,7 +69,7 @@
     {"name":"Json并发","type":2,"url":"Parallel"},
     {"name":"Json轮询","type":2,"url":"Sequence"},
     # type1 聚合.并发.轮询
-    {"name":"秒播1","type":1,"url":"http://27.124.4.42:4567/jhjson/ceshi.php?url=","ext":{"flag":["qiyi","qq","letv","sohu","youku","mgtv","bilibili","wasu","xigua","1905"]}},
+    //{"name":"秒播1","type":1,"url":"http://27.124.4.42:4567/jhjson/ceshi.php?url=","ext":{"flag":["qiyi","qq","letv","sohu","youku","mgtv","bilibili","wasu","xigua","1905"]}},
     {"name":"秒播2","type":1,"url":"https://play.fuqizhishi.com/ggtv/API.php?appkey=QQ172598364&url="},
     {"name":"TV293","type":1,"url":"http://home.jundie.top:666/tv293.php?url="},
     {"name":"妙播3","type":1,"url":"http://20.188.27.14:998/qj293.php?url="},
