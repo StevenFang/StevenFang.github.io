@@ -21,7 +21,7 @@
     {"key":"3EDY","name":"3EDY(SPEXO)","type":3,"api":"csp_EEEDY","searchable":1,"quickSearch":1,"filterable":1},
     {"key":"七七","name":"七七(SP)","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1},
     {"key":"csp_Kuaikan","name":"快看(SP)","type":3,"api":"csp_Kuaikan","searchable":1,"quickSearch":1,"filterable":1},
-    {"key":"293","name":"293(SP)","type":3,"api":"csp_SP293","searchable":1,"quickSearch":1,"filterable":1,"ext":""},
+    //{"key":"293","name":"293(SP)","type":3,"api":"csp_SP293","searchable":1,"quickSearch":1,"filterable":1,"ext":""},
     
     {"key":"神马","name":"神马(SP)","type": 3,"api": "csp_Smdyy","searchable": 1,"quickSearch": 1,"filterable":1},
     //{"key":"csp_Kmys","name":"酷猫(SP)","type":3,"api":"csp_Kmys","searchable":1,"quickSearch":1,"filterable":1},   
