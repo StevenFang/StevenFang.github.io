@@ -53,7 +53,7 @@
     {"key":"csp_appysv2_熊猫动漫","name":"熊猫动漫(V2)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://dongman.k8aa.com/mogai_api.php/v1.vod"},
     {"key":"csp_xpath_dm84","name":"动漫巴士(XP)","type":3,"api":"csp_XPathFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://stevenfang.github.io/XP/dm84.json"},
     {"key":"csp_xpath_lranc","name":"天天影视(XPF)","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://stevenfang.github.io/XP/lranc.json"},
-    {"key":"csp_xpath_yanetflix","name":"奈飞鸭(XPF)","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://刚刚.live/jar/tvjs/yanaifei.json"},    
+    {"key":"csp_xpath_yanetflix","name":"奈飞鸭(XPF)","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://stevenfang.github.io/XP/yanaifei.json"},    
     {"key":"csp_xpath_naifeiorg","name":"奈飞中文(XPF)","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://stevenfang.github.io/XP/naifeiorg.json"},
     {"key":"csp_xpath_6d","name":"六度TV(XPF)","type":3,"api":"csp_XPathFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://stevenfang.github.io/XP/6d.json"},
     {"key":"csp_xpath_saohuotv","name":"骚火电影(XP)","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://stevenfang.github.io/XP/saohuotv2.json"},
