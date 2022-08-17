@@ -1,5 +1,5 @@
 {
-    "spider":"https://stevenfang.github.io/gg.jar;md5;bac4507abde7c9d6886e14b5e00bc80d",
+    "spider":"https://stevenfang.github.io/gg.jar;md5;946a5d766c41e9c9c24c5b879f9bf7da",
     "lives":[{"group":"redirect","channels":[{"name":"live","urls":["proxy://do=live&type=txt&ext=aHR0cDovL2hvbWUuanVuZGllLnRvcDo4MS9DYXQvdHYvbGl2ZS50eHQ="]}]}],
     "wallpaper":"http://www.kf666888.cn/api/tvbox/img",
     
@@ -36,7 +36,16 @@
     {"key":"csp_Xxys","name":"小熊(SP)","type":3,"api":"csp_Xxys","searchable":1,"quickSearch":1,"filterable":1},    
     {"key":"9E03","name":"9E03(V2)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://vod.9e03.com/lvdou_api.php/v1.vod"},
     {"key":"影图","name":"影图","type":1,"api":"https://cj.vodimg.top/api.php/provide/vod/","searchable":1,"quickSearch":1},
-    
+    {
+			"key": "csp_Jianying",
+			"name": "简影",
+			"type": 3,
+			"api": "csp_JianYing",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 0,
+			"ext":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyIjp7IklEIjozMDk1MCwiQ3JlYXRlZEF0IjoiMjAyMi0wOC0xNlQyMzoyNjoyMi4xNDQrMDg6MDAiLCJVcGRhdGVkQXQiOiIyMDIyLTA4LTE2VDIzOjI2OjIyLjE0NCswODowMCIsIkRlbGV0ZWRBdCI6bnVsbCwidXNlcl9lbWFpbCI6IjIzMDg4MTcwMTBAcXEuY29tIiwidXNlcl9uYW1lIjoiIiwidXNlcl9wd2QiOiIiLCJ1c2VyX2lkIjoiY2ZhYzE3Y2QtMmY5Mi00MTlkLTgwZTctYzRlNGI3YTk3MjNlIiwidXNlcl9hbnN3ZXIiOiIiLCJsb2NrX2lzIjoiRmFsc2UiLCJpc190diI6IiIsImlzX2FkbWluIjoiRmFsc2UiLCJyZWdfdGltZSI6bnVsbCwicmVnX2tleSI6IiIsInR2X3RpbWUiOm51bGwsInR2X2tleSI6IiJ9LCJleHAiOjE2NjEyNjgzODcsImlzcyI6IkFsZnJlZG8gTWVuZG96YSJ9.jkloD7HymtrLwvWaiAHOsxxqSqN2j7RgitKDhJS5e5Q"
+		},
     {"key":"csp_BBB","name":"哔哩哔哩","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"https://gitea.com/qiaoji/jar/raw/branch/main/bili.json"},    
     {"key":"csp_Zhaozy","name":"盘搜2(SP)","type":3,"api":"csp_FindZY","searchable":1,"quickSearch":1,"filterable":0,"ext":""},
     //{"key":"AliPS","name":"盘搜1(SP)","type":3,"api":"csp_AliPS","searchable":1,"quickSearch":1,"filterable":0,"ext":""},
