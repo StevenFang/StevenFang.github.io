@@ -7,7 +7,7 @@
     {"key":"360","name":"360(SP)","type":3,"api":"csp_SP360","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitea.com/Steven2077/Box/raw/branch/master/sub/360.json"},
     {"key":"IKan","name":"爱看(SP)","type":3,"api":"csp_IKan","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://stevenfang.github.io/top.jar;md5;ddef9c71e58558d4a374a9fa56fe6076"},
     {"key":"Lezhu_spider","name":"乐猪影视(SP)","api": "csp_Lezhu","type": 3,"filterable": 1,"quickSearch": 1,"searchable": 1,"ext": ""},
-    {"key":"Ekan_spider","name":"Ekan(SP)","type":3,"api":"csp_Ekan","searchable":1,"quickSearch":1,"filterable":1},    
+    //{"key":"Ekan_spider","name":"Ekan(SP)","type":3,"api":"csp_Ekan","searchable":1,"quickSearch":1,"filterable":1},    
     {"key":"Lib","name":"Libvio(SP)","type": 3,"api": "csp_Lib","searchable": 1,"quickSearch": 1,"filterable": 1},
     {"key":"csp_GitCafe","name":"小纸条(SP)","type":3,"api":"csp_GitCafe","searchable":1,"quickSearch":1,"filterable":1,"ext":""},    
     {"key":"Cokemv","name":"Cokemv(SP)","type":3,"api":"csp_Cokemv","searchable":1,"quickSearch":1,"filterable":1},
