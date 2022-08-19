@@ -20,7 +20,7 @@
     {"key":"在线之家","name":"在线之家(SP)","type":3,"api":"csp_Zxzj","searchable":1,"quickSearch":1,"filterable":1},
     {"key":"csp_CZSPP","name":"厂长(SP)","type":3,"api":"csp_Czsapp","searchable":1,"quickSearch":1,"filterable":1},
     {"key":"spider_Bttoo","name":"2BT(SP)","type":3,"api":"csp_Bttoo","searchable":1,"quickSearch":1,"filterable":1},
-    {"key":"spider_剧荒","name":"剧荒(SP)","type":3,"api":"csp_Juhuang","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://stevenfang.github.io/dy555.jar;md5;4f10847bf69ba3504810c9e9e3bd47f1},    
+    {"key":"spider_剧荒","name":"剧荒(SP)","type":3,"api":"csp_Juhuang","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://stevenfang.github.io/dy555.jar;md5;4f10847bf69ba3504810c9e9e3bd47f1"},    
     {"key":"csp_LiteApple","name":"小苹果(SP)","type":3,"api":"csp_LiteApple","searchable":1,"quickSearch":1,"filterable":1},  
     {"key":"追剧喵","name":"追剧喵(SP)","type":3,"api":"csp_ZJMiao","searchable":1,"quickSearch":1,"filterable":1},
     {"key":"3EDY","name":"3EDY(SPEXO)","type":3,"api":"csp_EEEDY","searchable":1,"quickSearch":1,"filterable":1},
@@ -42,7 +42,6 @@
     
     {"key":"csp_BBB","name":"哔哩哔哩","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"https://gitea.com/qiaoji/jar/raw/branch/main/bili.json"},    
     {"key":"csp_Zhaozy","name":"找资源(切片)","type":3,"api":"csp_FindZY","searchable":1,"quickSearch":1,"filterable":0,"ext":""},
-    {"key":"csp_Yisou","name":"易搜(原画)","type":3,"api":"csp_Yisou","searchable":1,"quickSearch":1,"filterable":0,"ext":"d470330e11ef4b7baf28ece31b27b113","jar": "https://stevenfang.github.io/阿里原画.jar;md5;50873684e56831f13e6d119ec2862c4a"},
     //{"key":"AliPS","name":"盘搜1(SP)","type":3,"api":"csp_AliPS","searchable":1,"quickSearch":1,"filterable":0,"ext":""},
         
     //{"key":"泥巴","name":"泥巴(SP海外)","type":3,"api":"csp_Nbys","searchable":1,"quickSearch":1,"filterable":1},
