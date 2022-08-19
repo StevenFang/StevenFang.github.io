@@ -6,7 +6,7 @@
     "sites": [
     {"key":"360","name":"360(SP)","type":3,"api":"csp_SP360","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitea.com/Steven2077/Box/raw/branch/master/sub/360.json"},
     {"key":"IKan","name":"爱看(SP)","type":3,"api":"csp_IKan","searchable":1,"quickSearch":1,"filterable":1},
-    {"key":"Lezhu_spider","name":"乐猪影视(SP)","api": "csp_Lezhu","type": 3,"filterable": 1,"quickSearch": 1,"searchable":1"ext":""},
+    {"key":"Lezhu_spider","name":"乐猪影视(SP)","api": "csp_Lezhu","type": 3,"filterable": 1,"quickSearch": 1,"searchable":1,"ext":""},
     {"key":"Lib","name":"Libvio(SP)","type":3,"api": "csp_Lib","searchable": 1,"quickSearch": 1,"filterable": 1},
     {"key":"csp_GitCafe","name":"小纸条(云盘)","type":3,"api":"csp_Gitcafe","searchable":1,"quickSearch":1,"filterable":1,"ext": "d470330e11ef4b7baf28ece31b27b113","jar":"https://stevenfang.github.io/原画.jar;md5;aa7587220ff66f25b923a8cfa43f5713"},    
     {"key":"csp_Zhaozy","name":"找资源(云盘)","type":3,"api":"csp_Zhaozy","searchable":1,"quickSearch":1,"filterable":0,"ext": "d470330e11ef4b7baf28ece31b27b113","jar":"https://stevenfang.github.io/原画.jar;md5;aa7587220ff66f25b923a8cfa43f5713"},
@@ -94,7 +94,6 @@
     {"name":"解析聚合","type":3,"url":"Demo"},
     {"name":"Json并发","type":2,"url":"Parallel"},
     {"name":"Json轮询","type":2,"url":"Sequence"},
-    # type1 聚合.并发.轮询
     {"name":"秒播1","type":1,"url":"https://play.fuqizhishi.com/gang/API.php?appkey=QQ172598364&url="},
     {"name":"TV293","type":1,"url":"http://home.jundie.top:666/tv293.php?url="},
     {"name":"293","type":1,"url":"http://150.230.216.174/tvjx.php?url="},
