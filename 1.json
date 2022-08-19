@@ -66,7 +66,7 @@
     {"key":"小鸟动漫","name":"小鸟动漫","type":3,"api":"csp_AppYs","searchable":1,"quickSearch":1,"filterable":0,"ext":"http://xydm.baicai.buzz/mogai_api.php/v1.vod"},
     {"key":"星辰TV","name":"星辰TV","type":3,"api":"csp_AppYs","searchable":1,"quickSearch":1,"filterable":0,"ext":"http://www.xingchentv.cn/mogai_api.php/v1.vod"},
     {"key":"悟空影院","name":"悟空影院","type":3,"api":"csp_AppYs","searchable":1,"quickSearch":1,"filterable":0,"ext":"http://dapi.pntao.com/api.php/v1.vod"},
-    {"key":"多多","name":"多多影视","type":1,"api":"https://www.ddzyz1.com/api.php/provide/vod/","playUrl":"","searchable":01,"quickSearch":1,"filterable":1,"categories":["国产剧","港台剧","日韩剧","欧美剧","综艺","动漫","动作片","喜剧片","爱情片","科幻片","恐怖片","剧情片","战争片"]},
+    {"key":"多多","name":"多多影视","type":1,"api":"https://www.ddzyz1.com/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":1,"filterable":1,"categories":["国产剧","港台剧","日韩剧","欧美剧","综艺","动漫","动作片","喜剧片","爱情片","科幻片","恐怖片","剧情片","战争片"]},
     {"key":"暖光","name":"暖光影视","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://app.bl210.com/api.php/v1.vod"},
     {"key":"独优影视","name":"独优影视","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":0,"ext":"http://121.205.88.71:218/api.php/Chengcheng/vod/"}, 
     {"key":"未来影视","name":"未来影视","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":0,"ext":"http://42.51.37.161:2346/api.php/iptv/vod/"},
