@@ -41,7 +41,8 @@
     {"key":"影图","name":"影图","type":1,"api":"https://cj.vodimg.top/api.php/provide/vod/","searchable":1,"quickSearch":1},
     
     {"key":"csp_BBB","name":"哔哩哔哩","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"https://gitea.com/qiaoji/jar/raw/branch/main/bili.json"},    
-    {"key":"csp_Zhaozy","name":"盘搜2(SP)","type":3,"api":"csp_FindZY","searchable":1,"quickSearch":1,"filterable":0,"ext":""},
+    {"key":"csp_Zhaozy","name":"找资源(切片)","type":3,"api":"csp_FindZY","searchable":1,"quickSearch":1,"filterable":0,"ext":""},
+    {"key":"csp_Yisou","name":"易搜(原画)","type":3,"api":"csp_Yisou","searchable":1,"quickSearch":1,"filterable":0,"ext":"d470330e11ef4b7baf28ece31b27b113","jar": "https://stevenfang.github.io/阿里原画.jar;md5;50873684e56831f13e6d119ec2862c4a"},
     //{"key":"AliPS","name":"盘搜1(SP)","type":3,"api":"csp_AliPS","searchable":1,"quickSearch":1,"filterable":0,"ext":""},
         
     //{"key":"泥巴","name":"泥巴(SP海外)","type":3,"api":"csp_Nbys","searchable":1,"quickSearch":1,"filterable":1},
