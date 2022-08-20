@@ -74,5 +74,5 @@
     "scVodId": "/a/@href",
     "scVodIdR": "https://www.bttwoo.com/movie/(\\S+).html",
     "scVodImg": "//img/@data-original",
-    "scVodMark": "/a/div/span/text()"
+    "scVodMark": "//div[@class='jidi']/following-sibling::span/text()"
 }
