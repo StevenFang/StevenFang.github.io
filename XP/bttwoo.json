@@ -73,6 +73,6 @@
     "scVodName": "/h3/a/text()",
     "scVodId": "/a/@href",
     "scVodIdR": "https://www.bttwoo.com/movie/(\\S+).html",
-    "scVodImg": "//img/@data-original",
+    "scVodImg": "/a/img/@data-original",
     "scVodMark": "/a/div[@class='jidi']/span/text()"
 }
