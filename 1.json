@@ -89,6 +89,7 @@
     {"name":"TV293","type":1,"url":"http://home.jundie.top:666/tv293.php?url="},
     {"name":"293","type":1,"url":"http://150.230.216.174/tvjx.php?url="},
     {"name":"秒播2","type":1,"url":"http://newjiexi.gotka.top/keyu3.php?url=","ext":{"flag":["qq","腾讯","qiyi","爱奇艺","奇艺","youku","优酷","mgtv","芒果","letv","乐视","pptv","PPTV","sohu","bilibili","哔哩哔哩","哔哩"],"header":{"User-Agent":"okhttp/4.1.0"}}},
+    {"name":"扶风","type":1,"url":"https://vip.byteamone.cn/api/?key=6sdRk7xF8yaTMlRoqr&url="},
     {"name":"解1","type":1,"url":"https://svip.rongxingvr.top/api/?key=bpWXKrAJUKm3puOCH4&url="},
     {"name":"NX","type":1,"url":"https://vip.nxflv.com/home/api?uid=701203&key=bltuyCEFKLTX013679&url="}
     ],
