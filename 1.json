@@ -53,7 +53,10 @@
     {"key":"csp_xpath_jbb","name":"剧白白(XPF)","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://stevenfang.github.io/XP/jubaibai.json"},
     {"key":"csp_xpath_6d","name":"六度TV(XPF)","type":3,"api":"csp_XPathFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://stevenfang.github.io/XP/6d.json"},
     {"key":"csp_xpath_saohuotv","name":"骚火电影(XP)","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://stevenfang.github.io/XP/saohuotv2.json"},
-    
+    {"key":"csp_XYQBiu_wnys","name":"万能影视(XYQ)","type":3,"api":"csp_XYQBiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://shadowchiu369.github.io/TVBox/XYQ/万能影视.json"},
+    {"key":"csp_XYQBiu_lyys","name":"凌云影视(XYQ)","type":3,"api":"csp_XYQBiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://shadowchiu369.github.io/TVBox/XYQ/凌云影视.json"},
+
+	    
     {"key":"美剧范","name":"美剧范","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":0,"ext":"http://ttzmz.net/api.php/v1.vod"},
     {"key":"哆啦咪影视","name":"哆啦咪影视","type":3,"api":"csp_AppYs","searchable":1,"quickSearch":1,"filterable":0,"ext":"http://yuenos-pro.miyuen.cn/qingdoujiekou.php/v1.vod"},
     {"key":"QC影视","name":" QC影视","type":3,"api":"csp_AppYs","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://www.qcsvip.com/mogai_api.php/v1.vod"},
