@@ -10,7 +10,7 @@
     {"key":"Lezhu_spider","name":"乐猪影视(SP)","api": "csp_Lezhu","type": 3,"filterable": 1,"quickSearch": 1,"searchable":1,"ext":""},
     {"key":"Lib","name":"Libvio(SP)","type":3,"api": "csp_Lib","searchable": 1,"quickSearch": 1,"filterable": 1},
     {"key":"T4","name":"T4公共(SP)","type":4,"api": "https://t4.secan.icu/vod?sites=all&ali_token=4acb3ad2f2254ba1b566279f7cd98ba3&timeout=10","searchable": 1,"quickSearch": 1,"filterable": 1},	    
-    {"key":"csp_GitCafe","name":"小纸条(云盘)","type":3,"api":"csp_Gitcafe","searchable":1,"quickSearch":1,"filterable":1,"ext": "4acb3ad2f2254ba1b566279f7cd98ba3"},    
+    //{"key":"csp_GitCafe","name":"小纸条(云盘)","type":3,"api":"csp_Gitcafe","searchable":1,"quickSearch":1,"filterable":1,"ext": "4acb3ad2f2254ba1b566279f7cd98ba3"},    
     {"key":"Cokemv","name":"Cokemv(SP)","type":3,"api":"csp_Cokemv","searchable":1,"quickSearch":1,"filterable":1},
     {"key": "csp_Jianying","name": "简影(SP)","type": 3,"api": "csp_JianYing","searchable": 1,"quickSearch": 1,"filterable": 1,
 	"ext":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyIjp7IklEIjozMDExMywiQ3JlYXRlZEF0IjoiMjAyMi0wOC0xMVQxMDo1OToxNS4zMiswODowMCIsIlVwZGF0ZWRBdCI6IjIwMjItMDgtMjRUMTA6MjE6NTEuOTk0KzA4OjAwIiwiRGVsZXRlZEF0IjpudWxsLCJ1c2VyX2VtYWlsIjoiMTcyNTk4MzY0QHFxLmNvbSIsInVzZXJfbmFtZSI6IiIsInVzZXJfcHdkIjoiIiwidXNlcl9pZCI6IjBlYWViNjY5LWY3OWQtNDdhNS1iYTM2LTA2NjQ5OTJkMjY2YyIsInVzZXJfYW5zd2VyIjoiIiwibG9ja19pcyI6IkZhbHNlIiwiaXNfdHYiOiIiLCJpc19hZG1pbiI6IkZhbHNlIiwicmVnX3RpbWUiOiIyMDIyLTA4LTI0VDEwOjIxOjUxLjk5MyswODowMCIsInJlZ19rZXkiOiI3MTYxMjA4OCIsInR2X3RpbWUiOm51bGwsInR2X2tleSI6IiJ9LCJleHAiOjE2NjE5MTI1NTUsImlzcyI6IkFsZnJlZG8gTWVuZG96YSJ9.pVELLcrhOIzquIzB8NN16uu3YS_4Vn4pV40yMT6KxL4"},    
@@ -47,7 +47,7 @@
     {"key":"9E03","name":"9E03(V2)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://vod.9e03.com/lvdou_api.php/v1.vod"},
     {"key":"csp_BBB","name":"哔哩哔哩","type":3,"api":"csp_Bili","searchable":1,"quickSearch":0,"filterable":1,"ext":"https://stevenfang.github.io/XP/bili.json"},    
     //{"key":"AliPS","name":"盘搜1(SP)","type":3,"api":"csp_AliPS","searchable":1,"quickSearch":1,"filterable":0,"ext": "4acb3ad2f2254ba1b566279f7cd98ba3"},
-    {"key":"csp_Zhaozy","name":"找资源(云盘)","type":3,"api":"csp_Zhaozy","searchable":1,"quickSearch":1,"filterable":0,"ext": "4acb3ad2f2254ba1b566279f7cd98ba3"},    
+    //{"key":"csp_Zhaozy","name":"找资源(云盘)","type":3,"api":"csp_Zhaozy","searchable":1,"quickSearch":1,"filterable":0,"ext": "4acb3ad2f2254ba1b566279f7cd98ba3"},    
     //{"key":"泥巴","name":"泥巴(SP海外)","type":3,"api":"csp_Nbys","searchable":1,"quickSearch":1,"filterable":1},
 	    
     //{"key":"csp_xpath_bttwoo","name":"2BT(XP)","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://stevenfang.github.io/XP/bttwoo.json"},
