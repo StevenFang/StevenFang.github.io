@@ -1,5 +1,5 @@
 {
-    "spider":"https://stevenfang.github.io/0828.jar;md5;8429c6f4bc970897a453657238f3bb8c",
+    "spider":"https://stevenfang.github.io/0828.jar;md5;37cd198bd599765cb1452d3a33e48768",
     "lives":[{"group":"redirect","channels":[{"name":"live","urls":["proxy://do=live&type=txt&ext=aHR0cHM6Ly9zaGFkb3djaGl1MzY5LmdpdGh1Yi5pby9UVkJveC90di9zY2xpdmUudHh0"]}]}],
     "wallpaper":"http://www.kf666888.cn/api/tvbox/img",
     
@@ -34,7 +34,7 @@
     {"key":"神马","name":"神马(SP)","type": 3,"api": "csp_Smdyy","searchable": 1,"quickSearch": 1,"filterable":1},
     {"key":"KanSJ_spider","name":"看视界(SP)","api":"csp_KanSJ","type":3,"filterable":1,"quickSearch":1,"searchable":1,"ext":""},
     {"key":"考拉","name":"考拉资源","type":1,"api":"https://ikaola.tv/api.php/provide/vod/","searchable":1,"quickSearch":1,"filterable":1},
-    //{"key":"七七","name":"七七(SP)","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1},
+    {"key":"七七","name":"七七(SP)","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1},
     {"key":"csp_Kuaikan","name":"快看(SP)","type":3,"api":"csp_Kuaikan","searchable":1,"quickSearch":1,"filterable":1},
     {"key":"追剧喵","name":"追剧喵(SP)","type":3,"api":"csp_ZJMiao","searchable":1,"quickSearch":1,"filterable":1},	    
     {"key":"影图","name":"影图资源","type":1,"api":"https://cj.vodimg.top/api.php/provide/vod/","searchable":1,"quickSearch":1,"filterable":1},
