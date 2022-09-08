@@ -31,7 +31,6 @@
     {"key":"csp_LiteApple","name":"小苹果(SP)","type":3,"api":"csp_LiteApple","searchable":1,"quickSearch":1,"filterable":1},
 
     {"key":"csp_Dy555","name":"555电影(SP)","type":3,"api":"csp_Dy555","searchable":1,"quickSearch":1,"filterable":1,"jar":"http://stevenfang.github.io/li.jar;md5;aaed4811e1fc50a71866b8ecf1c0e067"},    	    
-    {"key":"csp_Lgyy","name":"蓝光(SP)","type":3,"api":"csp_Lgyy","searchable":1,"quickSearch":1,"filterable":1,"jar":"http://stevenfang.github.io/li.jar;md5;aaed4811e1fc50a71866b8ecf1c0e067"},    	    
     {"key":"csp_Juhuang","name":"剧荒(SP)","type":3,"api":"csp_Juhuang","searchable":1,"quickSearch":1,"filterable":1,"jar":"http://stevenfang.github.io/li.jar;md5;aaed4811e1fc50a71866b8ecf1c0e067"},    	    
     {"key":"csp_Xifanys","name":"稀饭(SP)","type":3,"api":"csp_Xifanys","searchable":1,"quickSearch":1,"filterable":1,"jar":"http://stevenfang.github.io/xifan.jar;md5;bf399b7093d34261f759be43e04232ed"},
     {"key":"csp_Ysgc","name":"影视工厂(SP)","type":3,"api":"csp_Ysgc","searchable":1,"quickSearch":1,"filterable":1,"jar":"http://stevenfang.github.io/xifan.jar;md5;bf399b7093d34261f759be43e04232ed"},
