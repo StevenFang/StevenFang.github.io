@@ -1,5 +1,5 @@
 {
-    "spider":"https://stevenfang.github.io/0906.jar;md5;2b7215bd521c053a6211557c7372e02f",
+    "spider":"https://stevenfang.github.io/0906.jar;md5;c29c1ee624fc82de3432cc78825209b4",
     "lives":[{"group":"redirect","channels":[{"name":"live","urls":["proxy://do=live&type=txt&ext=aHR0cHM6Ly9zaGFkb3djaGl1MzY5LmdpdGh1Yi5pby9UVkJveC90di9zY2xpdmUudHh0"]}]}],
     "wallpaper":"http://www.kf666888.cn/api/tvbox/img",
     
@@ -20,7 +20,7 @@
     {"key":"csp_CZSPP","name":"厂长(SP)","type":3,"api":"csp_Czsapp","searchable":1,"quickSearch":1,"filterable":1},
     {"key":"spider_Bttoo","name":"2BT(SP)","type":3,"api":"csp_Bttoo","searchable":1,"quickSearch":1,"filterable":1},
     {"key":"csp_LiteApple","name":"小苹果(SP)","type":3,"api":"csp_LiteApple","searchable":1,"quickSearch":1,"filterable":1},
-
+    {"key":"csp_NianYing","name": "NianYing(SP)","type": 3,"api": "csp_NianYing","searchable": 1,"quickSearch": 1,"filterable": 1},
     {"key":"csp_Dy555","name":"555电影(SP)","type":3,"api":"csp_Dy555","searchable":1,"quickSearch":1,"filterable":1},    	    
     {"key":"csp_Juhuang","name":"剧荒(SP)","type":3,"api":"csp_Juhuang","searchable":1,"quickSearch":1,"filterable":1},    	    
     {"key":"3EDY","name":"3EDY(SPEXO)","type":3,"api":"csp_EEEDY","playerType":2,"searchable":1,"quickSearch":1,"filterable":1},
