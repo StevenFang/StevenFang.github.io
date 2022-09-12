@@ -1,5 +1,5 @@
 {
-    "spider":"https://stevenfang.github.io/0910.jar;md5;447aeb4bff648a8090225dd29bc225af",
+    "spider":"https://stevenfang.github.io/0906.jar;md5;2b7215bd521c053a6211557c7372e02f",
     "lives":[{"group":"redirect","channels":[{"name":"live","urls":["proxy://do=live&type=txt&ext=aHR0cHM6Ly9zaGFkb3djaGl1MzY5LmdpdGh1Yi5pby9UVkJveC90di9zY2xpdmUudHh0"]}]}],
     "wallpaper":"http://www.kf666888.cn/api/tvbox/img",
     
@@ -29,7 +29,7 @@
     {"key":"csp_Ysgc","name":"影视工厂(SP)","type":3,"api":"csp_Ysgc","searchable":1,"quickSearch":1,"filterable":1,"jar":"http://stevenfang.github.io/xifan.jar;md5;bf399b7093d34261f759be43e04232ed"},
     {"key":"csp_Dm84","name":"动漫巴士(SP)","type":3,"api":"csp_Dm84","searchable":1,"quickSearch":1,"filterable":1,"jar":"http://stevenfang.github.io/xifan.jar;md5;bf399b7093d34261f759be43e04232ed"},    
     
-    {"key":"3EDY","name":"3E飘花(SP)","type":3,"api":"csp_EEEDY","searchable":1,"quickSearch":1,"filterable":1},
+    {"key":"3EDY","name":"3E飘花(SP)","type":3,"api":"csp_EEEDY","playerType":2,"searchable":1,"quickSearch":1,"filterable":1},
     {"key":"神马","name":"神马(SP)","type": 3,"api": "csp_Smdyy","searchable": 1,"quickSearch": 1,"filterable":1},
     {"key":"KanSJ_spider","name":"看视界(SP)","api":"csp_KanSJ","type":3,"filterable":1,"quickSearch":1,"searchable":1,"ext":""},
     {"key":"考拉","name":"考拉资源","type":1,"api":"https://ikaola.tv/api.php/provide/vod/","searchable":1,"quickSearch":1,"filterable":1},
