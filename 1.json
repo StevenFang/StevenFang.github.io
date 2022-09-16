@@ -4,10 +4,7 @@
     "wallpaper":"http://www.kf666888.cn/api/tvbox/img",
     
     "sites": [
-    //{"key":"360","name":"360(SP)","type":3,"api":"csp_SP360","searchable":1,"quickSearch":1,"filterable":1},
-    {"key":"qq","name":"T4-腾讯","type":4,"api":"http://home.jundie.top:666/psp/qq.php?key=signAYT","searchable":1,"quickSearch":1,"filterable":1},
-    {"key":"iqiyi","name":"T4-爱奇艺","type":4,"api":"http://home.jundie.top:666/psp/iqiyi.php?key=signAYT","searchable":1,"quickSearch":1,"filterable":1},
-    {"key":"youku","name":"T4-优酷","type":4,"api":"http://home.jundie.top:666/psp/youku.php?key=signAYT","searchable":1,"quickSearch":1,"filterable":1},
+    {"key":"360","name":"360(SP)","type":3,"api":"csp_SP360","searchable":1,"quickSearch":1,"filterable":1},
     {"key":"IKan","name":"爱看(SP)","type":3,"api":"csp_IKan","searchable":1,"quickSearch":1,"filterable":1},
     {"key":"csp_Wmkk","name":"完美看看(SP)","api":"csp_Wmkk","type":3,"filterable":1,"quickSearch":1,"searchable":1},
     {"key":"Lezhu_spider","name":"乐猪影视(SP)","api": "csp_Lezhu","type": 3,"filterable": 1,"quickSearch": 1,"searchable":1,"ext":""},
