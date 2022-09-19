@@ -1,6 +1,6 @@
 {
     "spider":"https://stevenfang.github.io/0906.jar;md5;c29c1ee624fc82de3432cc78825209b4",
-    "lives":[{"group":"redirect","channels":[{"name":"live","urls":["proxy://do=live&type=txt&ext=aHR0cHM6Ly9zaGFkb3djaGl1MzY5LmdpdGh1Yi5pby9UVkJveC90di9zY2xpdmUudHh0"]}]}],
+    "lives":[{"group":"redirect","channels":[{"name":"live","urls":["proxy://do=live&type=txt&ext=aHR0cDovL2hvbWUuanVuZGllLnRvcDo4MS9DYXQvdHYvbGl2ZS50eHQ="]}]}],
     "wallpaper":"http://www.kf666888.cn/api/tvbox/img",
     
     "sites": [
