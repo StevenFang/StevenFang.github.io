@@ -1,12 +1,12 @@
 {
-    "spider":"https://stevenfang.github.io/0906.jar;md5;c29c1ee624fc82de3432cc78825209b4",
+    "spider":"http://刚刚.live/jar2/0920.jar;md5;1da89818ef2b56b00cf8397fb137c3b6",
     "lives":[{"group":"redirect","channels":[{"name":"live","urls":["proxy://do=live&type=txt&ext=aHR0cDovL2hvbWUuanVuZGllLnRvcDo4MS9DYXQvdHYvbGl2ZS50eHQ="]}]}],
     "wallpaper":"http://www.kf666888.cn/api/tvbox/img",
     
     "sites": [
     {"key":"360","name":"360(SP)","type":3,"api":"csp_SP360","searchable":1,"quickSearch":1,"filterable":1},
-    {"key":"IKan","name":"爱看(SP)","type":3,"api":"csp_IKan","searchable":1,"quickSearch":1,"filterable":1},
-    {"key":"csp_Wmkk","name":"完美看看(SP)","api":"csp_Wmkk","type":3,"filterable":1,"quickSearch":1,"searchable":1},
+    //{"key":"IKan","name":"爱看(SP)","type":3,"api":"csp_IKan","searchable":1,"quickSearch":1,"filterable":1},
+    //{"key":"csp_Wmkk","name":"完美看看(SP)","api":"csp_Wmkk","type":3,"filterable":1,"quickSearch":1,"searchable":1},
     {"key":"Lezhu_spider","name":"乐猪影视(SP)","api": "csp_Lezhu","type": 3,"filterable": 1,"quickSearch": 1,"searchable":1,"ext":""},
     {"key":"Lib","name":"Libvio(SP)","type":3,"api": "csp_Lib","searchable": 1,"quickSearch": 1,"filterable": 1},
     {"key":"csp_Bdys01","name":"哔嘀(SP)","type":3,"api": "csp_Bdys01","searchable": 1,"quickSearch": 1,"filterable": 1,"jar":"http://stevenfang.github.io/0910.jar;md5;447aeb4bff648a8090225dd29bc225af"},
@@ -39,7 +39,7 @@
     {"key":"影图","name":"影图资源","type":1,"api":"https://cj.vodimg.top/api.php/provide/vod/","searchable":1,"quickSearch":1,"filterable":1},
     //{"key":"Nfyun","name":"Nf云(SP)","type":3,"api":"csp_Nfyun","searchable":1,"quickSearch":1,"filterable":1},
     {"key":"csp_Mjxq","name":"美剧星球(SP)","type":3,"api":"csp_Mjxq","searchable":1,"quickSearch":1,"filterable":1},
-    //{"key":"csp_Tkys","name":"天空(SP)","type":3,"api":"csp_Tkys","searchable":1,"quickSearch":1,"filterable":1},
+    {"key":"csp_Tkys","name":"天空(SP)","type":3,"api":"csp_Tkys","searchable":1,"quickSearch":1,"filterable":1},
     {"key":"csp_Yj1211","name":"直播合集(SP)","type":3,"api":"csp_Yj1211","searchable":0,"quickSearch":0,"filterable":1},
     {"key":"csp_Anime1","name":"Anime1(SP)","type":3,"api":"csp_Anime1","searchable":1,"quickSearch":1,"filterable":1},
     //{"key":"csp_Xxys","name":"小熊(SP)","type":3,"api":"csp_Xxys","searchable":1,"quickSearch":1,"filterable":1},	    
