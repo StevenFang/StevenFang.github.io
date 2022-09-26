@@ -12,7 +12,7 @@
     {"key":"csp_Bdys01","name":"哔嘀(SP)","type":3,"api": "csp_Bdys01","searchable": 1,"quickSearch": 1,"filterable":1},
     {"key":"T4_2","name":"T4首页(SP)","type":4,"api": "https://service-la7b1xlw-1308372858.gz.apigw.tencentcs.com/release/vod","searchable": 1,"quickSearch": 1,"filterable": 1},
     //{"key":"T4","name":"T4公共(SP)","type":4,"api": "https://t4.secan.icu/vod","searchable": 1,"quickSearch": 1,"filterable": 1},	    
-    {"key":"csp_GitCafe","name":"小纸条(云盘)","type":3,"api":"csp_Gitcafe","searchable":1,"quickSearch":1,"filterable":1,"ext": "4acb3ad2f2254ba1b566279f7cd98ba3"},    
+    {"key":"csp_GitCafe","name":"小纸条(云盘)","type":3,"api":"csp_Gitcafe","searchable":1,"quickSearch":1,"filterable":1,"ext": "14ab7929c5724ffd9c3431d8fa19d421"},    
     {"key":"Cokemv","name":"Cokemv(SP)","type":3,"api":"csp_Cokemv","searchable":1,"quickSearch":1,"filterable":1},
     {"key":"csp_DiDuan","name":"低端影视(SP)","type":3,"api":"csp_Ddrk","searchable":1,"quickSearch":1,"filterable":1},
     {"key":"csp_Auete","name":"Auete(SP)","type":3,"api":"csp_Auete","searchable":1,"quickSearch":1,"filterable":1},
@@ -56,9 +56,48 @@
     {"key":"csp_XYQBiu_lyys","name":"凌云影视(XYQ)","type":3,"api":"csp_XYQBiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://shadowchiu369.github.io/TVBox/XYQ/凌云影视.json"},  
     {"key":"csp_美剧虫v1","name":"美剧虫(V1)","type":3,"api":"csp_AppYs","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://meijuchong.cc/api.php/v1.vod"},
     {"key": "csp_xpath_yinfans","name": "音范丝4K(XP)","type": 3,"api": "csp_XPath","searchable": 1,"quickSearch": 1,"filterable": 1,"ext":"https://stevenfang.github.io/XP/yinfans.json"},
-
+    {
+            "key": "csp_XYQHiker_氢视频",
+            "name": "氢视频(XYQH)",
+            "type":3,
+            "api":"csp_XYQHiker",
+            "searchable":1,
+            "quickSearch":1,
+            "filterable":1,
+            "ext":"https://dxawi.github.io/6/xyqqsp.json"
+        },
+        {
+            "key": "csp_XBPQ极品影视",
+            "name": "极品影视(XBPQ)",
+            "type":3,
+            "api":"csp_xBPQ",
+            "searchable":1,
+            "quickSearch":1,
+            "filterable":1,
+            "ext":"https://dxawi.github.io/6/xbpqjpys.json"
+        },
+        {
+            "key": "Voflix",
+            "name": "Voflix(XB)",
+            "type": 3,
+            "api": "csp_XBiubiu",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 0,
+            "ext": "https://dxawi.github.io/6/voflix.json"
+        },
+        {
+            "key": "蓝光影院",
+            "name": "蓝光(XB)",
+            "type": 3,
+            "api": "csp_XBiubiu",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 0,
+            "ext": "https://dxawi.github.io/6/lgyy.json"
+        },
     //{"key":"AliPS","name":"盘搜1(SP)","type":3,"api":"csp_AliPS","searchable":1,"quickSearch":1,"filterable":0,"ext": "4acb3ad2f2254ba1b566279f7cd98ba3"},
-    {"key":"csp_Zhaozy","name":"找资源(云盘)","type":3,"api":"csp_Zhaozy","searchable":1,"quickSearch":1,"filterable":0,"ext": "4acb3ad2f2254ba1b566279f7cd98ba3"}, 
+    {"key":"csp_Zhaozy","name":"找资源(云盘)","type":3,"api":"csp_Zhaozy","searchable":1,"quickSearch":1,"filterable":0,"ext": "14ab7929c5724ffd9c3431d8fa19d421"}, 
   
     {"key":"美剧范","name":"美剧范","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":0,"ext":"http://ttzmz.net/api.php/v1.vod"},
     {"key":"QC影视","name":" QC影视","type":3,"api":"csp_AppYs","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://www.qcsvip.com/mogai_api.php/v1.vod"},
@@ -82,7 +121,7 @@
     {"key":"忆梦","name":"忆梦(官)","type":1,"api":"http://anltv.cn/api.php/provide/vod/","searchable":1,"quickSearch":1},
     {"key":"M3U8","name":"M3U8(官)","type":1,"api":"http://www.zycaiji.net:7788/api.php/provide/vod/","searchable":1,"quickSearch":1},
 
-    {"key":"push_agent","name":"推送","type":3,"api":"csp_PushAgent","searchable":0,"quickSearch":0,"filterable":0,"ext": "4acb3ad2f2254ba1b566279f7cd98ba3"}
+    {"key":"push_agent","name":"推送","type":3,"api":"csp_PushAgent","searchable":0,"quickSearch":0,"filterable":0,"ext": "14ab7929c5724ffd9c3431d8fa19d421"}
     ],
     
     "parses":[
