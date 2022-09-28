@@ -12,7 +12,7 @@
     {"key":"csp_Bdys01","name":"哔嘀(SP)","type":3,"api": "csp_Bdys01","searchable": 1,"quickSearch": 1,"filterable":1},
     {"key":"T4_2","name":"T4首页(SP)","type":4,"api": "https://service-la7b1xlw-1308372858.gz.apigw.tencentcs.com/release/vod","searchable": 1,"quickSearch": 1,"filterable": 1},
     //{"key":"T4","name":"T4公共(SP)","type":4,"api": "https://t4.secan.icu/vod","searchable": 1,"quickSearch": 1,"filterable": 1},
-    {"key":"csp_GitCafe","name":"小纸条(云盘)","type":3,"api":"csp_Gitcafe","searchable":1,"quickSearch":1,"filterable":1,"ext": "8f0b3f0dc1834f309f077ea5549e99a8"},    
+    {"key":"csp_GitCafe","name":"小纸条(云盘)","type":3,"api":"csp_Gitcafe","searchable":1,"quickSearch":1,"filterable":1,"ext": "https://gitcode.net/gginn/ganggang/-/raw/master/alitoken.json"},    
     {"key":"Cokemv","name":"Cokemv(SP)","type":3,"api":"csp_Cokemv","searchable":1,"quickSearch":1,"filterable":1},
     {"key":"csp_DiDuan","name":"低端影视(SP)","type":3,"api":"csp_Ddrk","searchable":1,"quickSearch":1,"filterable":1},
     {"key":"csp_Auete","name":"Auete(SP)","type":3,"api":"csp_Auete","searchable":1,"quickSearch":1,"filterable":1},
@@ -51,6 +51,7 @@
     {"key": "csp_XYQBiu_凌云影视","name": "凌云影视","type":3,"api":"csp_XYQBiu","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://dxawi.github.io/6/xyqlyys.json"},
     {"key":"csp_XYQBiu_vofix","name":"VOFIX(XYQ)","type":3,"api":"csp_XYQBiu","searchable":1,"quickSearch":1,"filterable":1,"ext": "https://gitcode.net/qdpdwjx001/ziyuan/-/raw/master/xpath/vofix1.json"},
     {"key":"csp_XYQBiu_片吧","name":"片吧(XYQ)","type":3,"api":"csp_XYQBiu","searchable":1,"quickSearch":1,"filterable":1,"ext": "https://gitcode.net/qdpdwjx001/ziyuan/-/raw/master/xpath/pianba.json"},
+	{"key":"csp_XYQBiu_大米星球","name":"大米星球","type":3,"api":"csp_XYQBiu","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitcode.net/gginn/ganggang/-/raw/master/dmxq2.json"},
 
     {"key":"泥巴","name":"泥巴(SP海外)","type":3,"api":"csp_Nbys","searchable":1,"quickSearch":1,"filterable":1},   
     {"key":"多多","name":"多多","type":1,"api":"https://www.ddzyz1.com/api.php/provide/vod/","searchable":1,"quickSearch":1,"filterable":1},
@@ -63,8 +64,8 @@
     {"key":"美剧范","name":"美剧范","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":0,"ext":"http://ttzmz.net/api.php/v1.vod"},
     {"key":"小七","name":"小七","type":3,"api":"csp_AppYs","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://www.xiaoqi0.cn/cuican_api.php/v1.vod"},
         
-    {"key":"csp_Upyunso","name":"云搜","type":3,"api":"csp_Upyunso","searchable":1,"quickSearch":1,"filterable":0,"ext": "8f0b3f0dc1834f309f077ea5549e99a8"}, 
-    {"key":"push_agent","name":"推送","type":3,"api":"csp_PushAgent","searchable":0,"quickSearch":0,"filterable":0,"ext": "8f0b3f0dc1834f309f077ea5549e99a8"}
+    {"key":"csp_Upyunso","name":"云搜","type":3,"api":"csp_Upyunso","searchable":1,"quickSearch":1,"filterable":0,"ext": "https://gitcode.net/gginn/ganggang/-/raw/master/alitoken.json"}, 
+    {"key":"push_agent","name":"推送","type":3,"api":"csp_PushAgent","searchable":0,"quickSearch":0,"filterable":0,"ext": "https://gitcode.net/gginn/ganggang/-/raw/master/alitoken.json"}
     ],
     
     "parses":[
@@ -77,6 +78,7 @@
     {"name": "爱酷","type": 1,"url": "https://jx.zhanlangbu.com/API.php?appkey=53df3aa2fdb66bcbc4d05730b6fbfc71&url="},
     {"name": "懒人","type": 1,"url": "http://120.53.102.254/jx1/jx75.php?url="},
     {"name": "江湖","type": 1,"url": "http://211.99.99.236:4567/jhjson/ceshi.php?url="},
+    {"name":"new","type":1,"url":"http://newjiexi.gotka.top/keyu3.php?url=","ext":{"header":{"User-Agent":"okhttp/4.1.0"}}},        
     {"name":"手动解析1","type":0,"url":"https://play.fositv.com/?url="},
     {"name": "手动解析2","type": 0,"url": "https://okjx.cc/?url="}
     ],
