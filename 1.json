@@ -48,8 +48,6 @@
     {"key": "csp_xBPQ_buka","name":"️不卡影院","type": 3,"api": "csp_xBPQ","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "https://xxdarkz.github.io/darkz/BX/XBPQ/buka.json"},
     {"key": "csp_xBPQ_番茄","name":"番茄影视","type": 3,"api": "csp_xBPQ","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "https://xxdarkz.github.io/darkz/BX/XBPQ/fanqie.json"},
     {"key": "csp_xBPQ_蓝光","name":"蓝光影院","type": 3,"api": "csp_xBPQ","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "https://xxdarkz.github.io/darkz/BX/XBPQ/lgyy.json"},
-    {"key": "csp_xBPQ_素白白","name": "素白白","type": 3,"api": "csp_xBPQ","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "https://ilch10n9.github.io/network-freed/TVBox/xBPQ/subaibai.json"},
-    {"key": "csp_xBPQ_爱看","name": "爱看","type": 3,"api": "csp_xBPQ","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "https://ilch10n9.github.io/network-freed/TVBox/xBPQ/ikanys.json"},
     {"key": "csp_XYQBiu_凌云影视","name": "凌云影视","type":3,"api":"csp_XYQBiu","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://dxawi.github.io/6/xyqlyys.json"},
     {"key":"csp_XYQBiu_vofix","name":"VOFIX(XYQ)","type":3,"api":"csp_XYQBiu","searchable":1,"quickSearch":1,"filterable":1,"ext": "https://gitcode.net/qdpdwjx001/ziyuan/-/raw/master/xpath/vofix1.json"},
     {"key":"csp_XYQBiu_片吧","name":"片吧(XYQ)","type":3,"api":"csp_XYQBiu","searchable":1,"quickSearch":1,"filterable":1,"ext": "https://gitcode.net/qdpdwjx001/ziyuan/-/raw/master/xpath/pianba.json"},
