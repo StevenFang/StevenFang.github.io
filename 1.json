@@ -62,7 +62,7 @@
     {"key":"美剧范","name":"美剧范","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":0,"ext":"http://ttzmz.net/api.php/v1.vod"},
     {"key":"小七","name":"小七","type":3,"api":"csp_AppYs","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://www.xiaoqi0.cn/cuican_api.php/v1.vod"},
     {"key":"mtv_xp_动漫岛源","name":"动漫岛","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://stevenfang.github.io/XB/dongmandao.json"},
-	
+    {"key":"csp_XYQBiu_大米星球","name":"大米星球(XYQ)","type":3,"api":"csp_XYQBiu","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://stevenfang.github.io/XB/dmxq2.json"},
 	    
     //{"key":"AliPS","name":"盘搜(SP)","type":3,"api":"csp_AliPS","searchable":1,"quickSearch":1,"filterable":0,"ext": "3865f0ab8f124688ad786a262af9b940"}, 
     {"key":"csp_Upyunso","name":"云搜","type":3,"api":"csp_Upyunso","searchable":1,"quickSearch":1,"filterable":0,"ext": "3865f0ab8f124688ad786a262af9b940"}, 
