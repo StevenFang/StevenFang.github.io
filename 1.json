@@ -26,7 +26,7 @@
     {"key":"csp_Juhuang","name":"剧荒(SP)","type":3,"api":"csp_Juhuang","searchable":1,"quickSearch":1,"filterable":1},    	    
     {"key":"csp_Xifanys","name":"稀饭(SP)","type":3,"api":"csp_Xifanys","searchable":1,"quickSearch":1,"filterable":1,"jar":"http://stevenfang.github.io/xifan.jar;md5;bf399b7093d34261f759be43e04232ed"},
     {"key":"csp_Ysgc","name":"影视工厂(SP)","type":3,"api":"csp_Ysgc","searchable":1,"quickSearch":1,"filterable":1,"jar":"http://stevenfang.github.io/xifan.jar;md5;bf399b7093d34261f759be43e04232ed"},
-    {"key":"csp_Dm84","name":"动漫巴士(SP)","type":3,"api":"csp_Dm84","searchable":1,"quickSearch":1,"filterable":1,"jar":"http://stevenfang.github.io/xifan.jar;md5;bf399b7093d34261f759be43e04232ed"},    
+    {"key":"csp_Dm84","name":"动漫巴士(SP)","type":3,"api":"csp_Dm84","playerType":2,"searchable":1,"quickSearch":1,"filterable":1,"jar":"http://stevenfang.github.io/xifan.jar;md5;bf399b7093d34261f759be43e04232ed"},    
     {"key":"csp_NianYing","name": "NianYing(SP)","type": 3,"api": "csp_NianYing","searchable": 1,"quickSearch": 1,"filterable": 1},
     {"key":"3EDY","name":"3E飘花(SP)","type":3,"api":"csp_EEEDY","playerType":2,"searchable":1,"quickSearch":1,"filterable":1},
     {"key":"神马","name":"神马(SP)","type": 3,"api": "csp_Smdyy","searchable": 1,"quickSearch": 1,"filterable":1},
