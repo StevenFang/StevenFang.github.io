@@ -1,11 +1,11 @@
 {
-    "spider":"http://stevenfang.github.io/0926.jar;md5;5d26a07bb79e6e0e627aaeac5bf69028",
+    "spider":"http://stevenfang.github.io/1004.jar;md5;14405e6ec29c6dbfcca713966745f347",
     "lives":[{"group":"redirect","channels":[{"name":"live","urls":["proxy://do=live&type=txt&ext=aHR0cDovL3huLS00YnJhLmxpdmUvamFyMi96Yi50eHQ="]}]}],
     "wallpaper":"http://www.kf666888.cn/api/tvbox/img",
     
     "sites": [
     {"key":"T4_2","name":"T4首页(SP)","type":4,"api": "https://service-la7b1xlw-1308372858.gz.apigw.tencentcs.com/release/vod?sites=voflix,bdys01,cokemv,ddys&timeout=5","searchable": 1,"quickSearch": 1,"filterable": 1},	    
-    {"key":"360","name":"360(SP)","type":3,"api":"csp_SP360","searchable":1,"quickSearch":1,"filterable":1},
+    {"key":"360","name":"360(不稳)","type":3,"api":"csp_SP360","searchable":1,"quickSearch":1,"filterable":1},
     //{"key":"IKan","name":"爱看(SP)","type":3,"api":"csp_IKan","searchable":1,"quickSearch":1,"filterable":1},
     //{"key":"csp_Wmkk","name":"完美看看(SP)","api":"csp_Wmkk","type":3,"filterable":1,"quickSearch":1,"searchable":1},
     {"key":"Lezhu_spider","name":"乐猪影视(SP)","api": "csp_Lezhu","type": 3,"playerType":2,"filterable": 1,"quickSearch": 1,"searchable":1,"ext":""},
