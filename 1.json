@@ -43,6 +43,7 @@
 {"key": "rp123","name":"RP影视(XYQH)","type": 3,"api": "csp_XYQHiker","searchable": 1,"quickSearch": 1,"filterable": 1,"ext":"https://ghproxy.com/https://github.com/susu128/ztv/raw/master/rp123xyqh.json"},
 {"key":"dr_真不卡","name":"dr_真不卡","type":1,"api":"http://drpy.fuqizhishi.com/vod?rule=真不卡","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"dr_干饭影视","name":"dr_干饭影视","type":1,"api":"http://drpy.fuqizhishi.com/vod?rule=干饭影视","searchable":1,"quickSearch":1,"filterable":1},
+{"key":"KanSJ","name":"看视界(XP)","api":"csp_XPathFilter","type":3,"filterable":1,"quickSearch":1,"searchable":1,"ext":"https://stevenfang.github.io/XP/ksj.json"},
 {"key": "csp_XYQBiu_凌云","name": "凌云(XYQ)","type":3,"api":"csp_XYQBiu","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://dxawi.github.io/6/xyqlyys.json"},
 {"key":"csp_XYQBiu_wanneng","name": "万能(XYQ)","type": 3,"api": "csp_XYQBiu","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://stevenfang.github.io/XB/wanneng.json"},
 {"key":"csp_XYQBiu_大米星球","name":"大米星球(XYQ)","type":3,"api":"csp_XYQBiu","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://stevenfang.github.io/XB/dmxq2.json"},
