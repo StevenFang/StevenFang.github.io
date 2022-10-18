@@ -4,7 +4,8 @@
 "wallpaper":"http://www.kf666888.cn/api/tvbox/img",
     
 "sites": [
-{"key":"T4_2","name":"T4首页(SP)","type":4,"api": "https://service-la7b1xlw-1308372858.gz.apigw.tencentcs.com/release/vod?sites=voflix,bdys01,cokemv,ddys&timeout=5","searchable": 1,"quickSearch": 1,"filterable": 1},	    
+{"key":"t4群","name":"T4-首页","type":4,"api":"https://service-la7b1xlw-1308372858.gz.apigw.tencentcs.com/release/vod?sites=bdys01,cokemv&timeout=10","searchable":1,"quickSearch":1,"filterable":1},
+{"key":"t4public","name":"T4低端","type":4,"api":"https://t4.secan.icu/vod?sites=voflix,ddys&timeout=5","searchable":1,"quickSearch":1,"filterable":0},
 {"key":"360","name":"360(不稳)","type":3,"api":"csp_SP360","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"Lezhu_spider","name":"乐猪影视(SP)","api": "csp_Lezhu","type": 3,"playerType":2,"filterable": 1,"quickSearch": 1,"searchable":1,"ext":""},
 {"key":"csp_AppTT","name":"图图(SP)","type":3,"api":"csp_AppTT","searchable":1,"quickSearch":1,"filterable":1}, 
