@@ -1,5 +1,5 @@
 {
-"spider":"http://stevenfang.github.io/1007.jar;md5;21e4d1bae2afa9ac446c3f1d01fb0041",
+"spider":"http://stevenfang.github.io/1023.jar;md5;0de800421c4ae17db9760784b1b566a9",
 "lives":[{"group":"redirect","channels":[{"name":"live","urls":["proxy://do=live&type=txt&ext=aHR0cDovL3huLS00YnJhLmxpdmUvamFyMi96Yi50eHQ="]}]}],
 "wallpaper":"http://www.kf666888.cn/api/tvbox/img",
     
@@ -26,9 +26,9 @@
 {"key":"spider_Bttoo","name":"2BT(SP)","type":3,"api":"csp_Bttoo","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_LiteApple","name":"小苹果(SP)","type":3,"api":"csp_LiteApple","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_Juhuang","name":"剧荒(SP)","type":3,"api":"csp_Juhuang","searchable":1,"quickSearch":1,"filterable":1},    	    
-{"key":"csp_Xifanys","name":"稀饭(SP)","type":3,"api":"csp_Xifanys","searchable":1,"quickSearch":1,"filterable":1,"jar":"http://stevenfang.github.io/xifan.jar;md5;bf399b7093d34261f759be43e04232ed"},
-{"key":"csp_Ysgc","name":"影视工厂(SP)","type":3,"api":"csp_Ysgc","searchable":1,"quickSearch":1,"filterable":1,"jar":"http://stevenfang.github.io/xifan.jar;md5;bf399b7093d34261f759be43e04232ed"},
-{"key":"csp_Dm84","name":"动漫巴士(SP)","type":3,"api":"csp_Dm84","playerType":2,"searchable":1,"quickSearch":1,"filterable":1,"jar":"http://stevenfang.github.io/xifan.jar;md5;bf399b7093d34261f759be43e04232ed"},    
+{"key":"csp_Xifanys","name":"稀饭(SP)","type":3,"api":"csp_Xifanys","searchable":1,"quickSearch":1,"filterable":1},
+{"key":"csp_Ysgc","name":"影视工厂(SP)","type":3,"api":"csp_Ysgc","searchable":1,"quickSearch":1,"filterable":1},
+{"key":"csp_Dm84","name":"动漫巴士(SP)","type":3,"api":"csp_Dm84","playerType":2,"searchable":1,"quickSearch":1,"filterable":1},    
 {"key":"3EDY","name":"3E飘花(SP)","type":3,"api":"csp_EEEDY","playerType":2,"searchable":1,"quickSearch":1,"filterable":1},
 {"key":"七七","name":"七七(SP)","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"追剧喵","name":"追剧喵(SP)","type":3,"api":"csp_ZJMiao","searchable":1,"quickSearch":1,"filterable":1},
