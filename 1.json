@@ -10,13 +10,13 @@
 {"key":"Lezhu_spider","name":"乐猪影视(SP)","api": "csp_Lezhu","type": 3,"playerType":2,"filterable": 1,"quickSearch": 1,"searchable":1,"ext":""},
 {"key":"csp_AppTT","name":"图图(SP)","type":3,"api":"csp_AppTT","searchable":1,"quickSearch":1,"filterable":1}, 
 {"key":"csp_Dy555","name":"555电影(SP)","type":3,"api":"csp_Dy555","searchable":1,"quickSearch":1,"filterable":1}, 	
-{"key":"Lib","name":"Libvio(SP)","type":3,"api": "csp_Lib","searchable": 1,"quickSearch": 1,"filterable": 1,"jar":"http://home.jundie.top:81/ray/jar/custom_spider.jar;md5;7b3db472894cc021c4b19daa26e1282a"},
-{"key":"神马","name":"神马(SP)","type": 3,"api": "csp_Smdyy","searchable": 1,"quickSearch": 1,"filterable":1,"jar":"http://home.jundie.top:81/ray/jar/custom_spider.jar;md5;7b3db472894cc021c4b19daa26e1282a"},
-{"key":"Cokemv","name":"Cokemv(SP)","type":3,"api":"csp_Cokemv","searchable":1,"quickSearch":1,"filterable":1,"jar":"http://home.jundie.top:81/ray/jar/custom_spider.jar;md5;7b3db472894cc021c4b19daa26e1282a"},
-{"key":"csp_CZSPP","name":"厂长(SP)","type":3,"api":"csp_Czsapp","searchable":1,"quickSearch":1,"filterable":1,"jar":"http://home.jundie.top:81/ray/jar/custom_spider.jar;md5;7b3db472894cc021c4b19daa26e1282a"},
-{"key": "IKan","name": "爱看(SP)","type":3,"api":"csp_IKan","searchable":1,"quickSearch":1,"filterable":1,"jar":"http://home.jundie.top:81/ray/jar/custom_spider.jar;md5;7b3db472894cc021c4b19daa26e1282a"}, 
-{"key": "Zjdr","name": "追剧达人(SP)","type":3,"api":"csp_Zjdr","searchable": 1,"quickSearch": 1,"filterable": 1,"jar":"http://home.jundie.top:81/ray/jar/custom_spider.jar;md5;7b3db472894cc021c4b19daa26e1282a"},
-{"key":"csp_Auete","name":"Auete(SP)","type":3,"api":"csp_Auete","searchable":1,"quickSearch":1,"filterable":1,"jar":"http://home.jundie.top:81/ray/jar/custom_spider.jar;md5;7b3db472894cc021c4b19daa26e1282a"},
+{"key":"Lib","name":"Libvio(SP)","type":3,"api": "csp_Lib","searchable": 1,"quickSearch": 1,"filterable": 1,"jar":"http://home.jundie.top:81/ray/jar/custom_spider.jar;md5;9e7988212f9d4cc65e3dd0d60f7f35b5"},
+{"key":"神马","name":"神马(SP)","type": 3,"api": "csp_Smdyy","searchable": 1,"quickSearch": 1,"filterable":1,"jar":"http://home.jundie.top:81/ray/jar/custom_spider.jar;md5;9e7988212f9d4cc65e3dd0d60f7f35b5"},
+{"key":"Cokemv","name":"Cokemv(SP)","type":3,"api":"csp_Cokemv","searchable":1,"quickSearch":1,"filterable":1,"jar":"http://home.jundie.top:81/ray/jar/custom_spider.jar;md5;9e7988212f9d4cc65e3dd0d60f7f35b5"},
+{"key":"csp_CZSPP","name":"厂长(SP)","type":3,"api":"csp_Czsapp","searchable":1,"quickSearch":1,"filterable":1,"jar":"http://home.jundie.top:81/ray/jar/custom_spider.jar;md5;9e7988212f9d4cc65e3dd0d60f7f35b5"},
+{"key": "IKan","name": "爱看(SP)","type":3,"api":"csp_IKan","searchable":1,"quickSearch":1,"filterable":1,"jar":"http://home.jundie.top:81/ray/jar/custom_spider.jar;md5;9e7988212f9d4cc65e3dd0d60f7f35b5"}, 
+{"key": "Zjdr","name": "追剧达人(SP)","type":3,"api":"csp_Zjdr","searchable": 1,"quickSearch": 1,"filterable": 1,"jar":"http://home.jundie.top:81/ray/jar/custom_spider.jar;md5;9e7988212f9d4cc65e3dd0d60f7f35b5"},
+{"key":"csp_Auete","name":"Auete(SP)","type":3,"api":"csp_Auete","searchable":1,"quickSearch":1,"filterable":1,"jar":"http://home.jundie.top:81/ray/jar/custom_spider.jar;md5;9e7988212f9d4cc65e3dd0d60f7f35b5"},
 {"key":"csp_Bdys01","name":"哔嘀(SP)","type":3,"api":"csp_Bdys01","searchable": 1,"quickSearch": 1,"filterable":1},
 {"key":"csp_Kuaikan","name":"快看(SP)","type":3,"api":"csp_Kuaikan","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"nmys","name": "农民(SP)","type": 3,"api": "csp_Nmys","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://gst163.github.io/s/nongminyingshi.json"},	
@@ -71,7 +71,17 @@
 {"name":"手动解析3","type":0,"url":"https://jiexi.555jiexi.net:555/player/?url="},
 {"name": "手动解析4","type": 0,"url": "https://okjx.cc/?url="}
 ],
-    
+"rules": [
+  {"host":"*", "rule":["douyinvod.com", "/video/tos/cn/"]},
+  {"host":"*", "rule":["default.365yg.com", "/video/tos/cn/"]},
+  {"host":"*", "rule":["aliyundrive.net", "response-content-disposition=", ".m3u8"]},
+  {"host":"*", "rule":["aliyundrive.net", "response-content-disposition=", ".mp4"]},
+  {"host":"*", "rule":["aliyundrive.net", "response-content-disposition=", ".mkv"]},
+  {"host":"*", "rule":["/m3u8.php?path=", ".m3u8"]},
+  {"host":"*", "rule":["/API.php?time=", "key=", "path=", ".m3u8"]},
+  {"host":"*", "rule":["oss-cn-m3u8", "myqcloud.com.zh188.net", "?url=", ".m3u8"]},
+  {"host":"www.007ts.me", "rule":["hls.pchj.net", ".m3u8"]}
+],    
 "flags":["youku","qq","iqiyi","qiyi","letv","sohu","tudou","pptv","mgtv","wasu","bilibili","renrenmi"],
 "ijk":[
 {"group":"硬解码","options":[
