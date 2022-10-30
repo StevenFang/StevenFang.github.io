@@ -1,5 +1,5 @@
 {
-    "spider":"https://神器每日推送.tk/vod;md5;8a50493d65218bdd6c9c0089f415df2f",
+    "spider":"https://神器每日推送.tk/vod;md5;efe6e973c8e67c2e19b0163e4ddd5d6d",
     "lives":[{"group":"redirect","channels":[{"name":"live","urls":["proxy://do=live&type=txt&ext=aHR0cDovL3huLS00YnJhLmxpdmUvamFyMi96Yi50eHQ="]}]}],
     "wallpaper":"http://www.kf666888.cn/api/tvbox/img",
         
@@ -44,10 +44,6 @@
     {"key":"spider_Bttoo","name":"2BT(SP)","type":3,"api":"csp_Bttoo","searchable":1,"quickSearch":1,"filterable":1},
     {"key":"csp_LiteApple","name":"小苹果(SP)","type":3,"api":"csp_LiteApple","searchable":1,"quickSearch":1,"filterable":1},
         
-    {"key": "魔戒","name":"魔戒(XYQH)","type": 3,"api": "csp_XYQHiker","searchable": 1,"quickSearch": 1,"filterable": 1,"ext":"https://ghproxy.com/https://github.com/susu128/ztv/raw/master/mojiexyqh.json"},
-    {"key": "影视之家","name":"影视之家(XYQH)","type": 3,"api": "csp_XYQHiker","searchable": 1,"quickSearch": 1,"filterable": 1,"ext":"https://ghproxy.com/https://github.com/susu128/ztv/raw/master/yszjxyqh.json"},
-    {"key": "rp123","name":"RP影视(XYQH)","type": 3,"api": "csp_XYQHiker","searchable": 1,"quickSearch": 1,"filterable": 1,"ext":"https://ghproxy.com/https://github.com/susu128/ztv/raw/master/rp123xyqh.json"},
-    {"key":"KanSJ","name":"看视界(XP)","api":"csp_XPathFilter","type":3,"filterable":1,"quickSearch":1,"searchable":1,"ext":"https://stevenfang.github.io/XP/ksj.json"},
     {"key": "csp_XYQBiu_凌云","name": "凌云(XYQ)","type":3,"api":"csp_XYQBiu","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://dxawi.github.io/6/xyqlyys.json"},
     {"key":"csp_XYQBiu_wanneng","name": "万能(XYQ)","type": 3,"api": "csp_XYQBiu","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://stevenfang.github.io/XB/wanneng.json"},
     {"key":"csp_XYQBiu_大米星球","name":"大米星球(XYQ)","type":3,"api":"csp_XYQBiu","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://stevenfang.github.io/XB/dmxq2.json"},
