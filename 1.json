@@ -25,7 +25,7 @@
     {"key":"csp_Bdys01","name":"哔嘀(SP)","type":3,"api":"csp_Bdys01","searchable": 1,"quickSearch": 1,"filterable":1},
     {"key":"csp_Kuaikan","name":"快看(SP)","type":3,"api":"csp_Kuaikan","searchable":1,"quickSearch":1,"filterable":1},
     {"key":"nmys","name": "农民(SP)","type": 3,"api": "csp_Nmys","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://gst163.github.io/s/nongminyingshi.json"},	
-    {"key":"csp_GitCafe","name":"小纸条(云盘)","type":3,"api":"csp_Gitcafe","searchable":1,"quickSearch":1,"filterable":1,"ext": "http://刚刚.live/json/alitoken.json"},    
+    {"key":"csp_GitCafe","name":"小纸条(云盘)","type":3,"api":"csp_Gitcafe","searchable":1,"quickSearch":1,"filterable":1,"ext": "http://api.lengniuge.eu.org/al.txt"},    
     {"key":"csp_DiDuan","name":"低端影视(SP)","type":3,"api":"csp_Ddrk","searchable":1,"quickSearch":1,"filterable":1},
     {"key":"在线之家","name":"在线之家(SP)","type":3,"api":"csp_Zxzj","searchable":1,"quickSearch":1,"filterable":1},
     {"key":"csp_Juhuang","name":"剧荒(SP)","type":3,"api":"csp_Juhuang","searchable":1,"quickSearch":1,"filterable":1},    	    
@@ -57,8 +57,8 @@
     {"key":"csp_xpath_saohuotv","name":"骚火(XP)","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://stevenfang.github.io/XP/saohuotv2.json"},
     {"key":"mtv_xp_动漫岛源","name":"动漫岛(XP)","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://stevenfang.github.io/XB/dongmandao.json"},
             
-    {"key":"csp_Upyunso","name":"云搜","type":3,"api":"csp_Upyunso","searchable":1,"quickSearch":1,"filterable":0,"ext": "http://刚刚.live/json/alitoken.json"}, 
-    {"key":"push_agent","name":"推送","type":3,"api":"csp_PushAgent","searchable":0,"quickSearch":0,"filterable":0,"ext": "http://刚刚.live/json/alitoken.json"}
+    {"key":"csp_Upyunso","name":"云搜","type":3,"api":"csp_Upyunso","searchable":1,"quickSearch":1,"filterable":0,"ext": "http://api.lengniuge.eu.org/al.txt"}, 
+    {"key":"push_agent","name":"推送","type":3,"api":"csp_PushAgent","searchable":0,"quickSearch":0,"filterable":0,"ext": "http://api.lengniuge.eu.org/al.txt"}
     ],
         
     "parses":[
