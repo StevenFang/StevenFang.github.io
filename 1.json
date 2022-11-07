@@ -1,16 +1,16 @@
 {
-"spider":"http://stevenfang.github.io/1031.jar;md5;5f8fc214f8bda7598a1c4387f7062f2e",
+"spider":"http://stevenfang.github.io/sq.jar;md5;583be657f36b0767953ebf6ec3ee83e7",
 "lives":[{"group":"redirect","channels":[{"name":"live","urls":["proxy://do=live&type=txt&ext=aHR0cDovL3huLS00YnJhLmxpdmUvamFyMi96Yi50eHQ="]}]}],
 "wallpaper":"http://www.kf666888.cn/api/tvbox/img",
         
 "sites": [
-{"key":"t4豆瓣","name":"豆瓣","type":4,"api":"http://top.fuqizhishi.com/vod?sites=bdys01&timeout=5","searchable":1,"quickSearch":1,"filterable":1},
+{"key":"t4豆瓣","name":"豆瓣","type":4,"api":"http://top.fuqizhishi.com/vod?sites=bdys01&timeout=5","searchable":1,"quickSearch":0,"filterable":1},
 {"key":"t4public","name":"豆瓣备用","type":4,"api":"https://t4.secan.icu/vod?sites=voflix,ddys&timeout=10","searchable":1,"quickSearch":1,"filterable":0},
 {"key":"360","name":"360(不稳)","type":3,"api":"csp_SP360","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_fant","name":"饭团","api":"csp_Fantuan","type":3,"filterable":1,"quickSearch":1,"searchable":1},
 {"key":"csp_Nkdy","name":"南柯","type":3,"api":"csp_Nkdy","searchable":1,"quickSearch":1,"filterable":1},    
 {"key":"csp_Dy1010","name":"DY101","type":3,"api":"csp_Dy1010","searchable":1,"quickSearch":1,"filterable":1},
-{"key":"Lezhu_spider","name":"乐猪","api": "csp_Lezhu","type": 3,"playerType":2,"filterable": 1,"quickSearch": 1,"searchable":1,"ext":""},
+{"key":"Lezhu_spider","name":"乐猪","api": "csp_Lezhu","type": 3,"playerType":2,"filterable": 1,"quickSearch": 1,"searchable":1},
     
 {"key":"AppTT","name":"图图","type":"3","api":"csp_Dora","searchable":"1","quickSearch":"1","filterable":"1","ext":"110c922de7d69804467fb83d3bb664b5","jar":"https://pandora2277.github.io/cs.jar;md5;c209cbb52503d0a03a56a53f5e78b5dd"},
 {"key":"Zjdr","name":"追剧达人","type":"3","api":"csp_Dora","searchable":"1","quickSearch":"1","filterable":"1","ext":"778e8966ec0e9c0ae0b4682ad3550f40","jar":"https://pandora2277.github.io/cs.jar;md5;c209cbb52503d0a03a56a53f5e78b5dd"},
