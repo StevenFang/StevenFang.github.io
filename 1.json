@@ -1,5 +1,5 @@
 {
-  "spider":"http://stevenfang.github.io/sq.jar;md5;583be657f36b0767953ebf6ec3ee83e7",
+  "spider":"http://stevenfang.github.io/xo.jar;md5;8ee423ce3b796adc63a483565281d75e",
   "lives":[{"group":"redirect","channels":[{"name":"live","urls":["proxy://do=live&type=txt&ext=aHR0cDovL3huLS00YnJhLmxpdmUvamFyMi96Yi50eHQ="]}]}],
   "wallpaper":"http://www.kf666888.cn/api/tvbox/img",
           
@@ -9,8 +9,9 @@
   {"key":"csp_Nkdy","name":"南柯","type":3,"api":"csp_Nkdy","searchable":1,"quickSearch":1,"filterable":1},    
   {"key":"csp_Dy1010","name":"DY101","type":3,"api":"csp_Dy1010","searchable":1,"quickSearch":1,"filterable":1},
   {"key":"csp_Bdys01","name":"哔嘀","type":3,"api":"csp_Bdys01","searchable": 1,"quickSearch": 1,"filterable":1},
-  {"key":"csp_DiDuan","name":"低端影视","type":3,"api":"csp_Ddrk","searchable":1,"quickSearch":1,"filterable":1},
-      
+  {"key":"csp_DiDuan","name":"低端","type":3,"api":"csp_Ddrk","searchable":1,"quickSearch":1,"filterable":1},
+  {"key":"csp_Wmkk","name":"完美","type":3,"api":"csp_Wmkk","searchable":1,"quickSearch":1,"filterable":1},
+    
   {"key":"AppTT","name":"图图","type":"3","api":"csp_Dora","searchable":"1","quickSearch":"1","filterable":"1","ext":"110c922de7d69804467fb83d3bb664b5","jar":"https://pandora2277.github.io/cs.jar;md5;c5ae54af10b1426204a374b9b67546de"},
   {"key":"Zjdr","name":"追剧达人","type":"3","api":"csp_Dora","searchable":"1","quickSearch":"1","filterable":"1","ext":"778e8966ec0e9c0ae0b4682ad3550f40","jar":"https://pandora2277.github.io/cs.jar;md5;c5ae54af10b1426204a374b9b67546de"},
   {"key":"IKan","name":"爱看","type":"3","api":"csp_Dora","searchable":"1","quickSearch":"1","filterable":"1","ext":"a4ce9a4ba7d4f4bced2ff9dfc4ab4e50","jar":"https://pandora2277.github.io/cs.jar;md5;c5ae54af10b1426204a374b9b67546de"},
