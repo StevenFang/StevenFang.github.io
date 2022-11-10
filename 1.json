@@ -1,6 +1,6 @@
 {
   "spider":"http://stevenfang.github.io/xo.jar;md5;8ee423ce3b796adc63a483565281d75e",
-  "lives":[{"group":"redirect","channels":[{"name":"live","urls":["proxy://do=live&type=txt&ext=aHR0cDovL3huLS00YnJhLmxpdmUvamFyMi96Yi50eHQ="]}]}],
+  "lives":[{"group":"redirect","channels":[{"name":"live","urls":["proxy://do=live&type=txt&ext=http://home.jundie.top:81/Cat/tv/live.txt"]}]}],
   "wallpaper":"http://www.kf666888.cn/api/tvbox/img",
           
   "sites": [
