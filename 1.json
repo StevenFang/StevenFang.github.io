@@ -14,6 +14,7 @@
   {"key":"csp_DiDuan","name":"低端","type":3,"api":"csp_Ddrk","searchable":1,"quickSearch":1,"filterable":1},
   {"key":"csp_Voflix","name":"Voflix","type":"3","api":"csp_Voflix","searchable":"1","quickSearch":"1","filterable":"1"},
     
+  {"key":"AppTT","name":"图图","type":"3","api":"csp_Dora","searchable":"1","quickSearch":"1","filterable":"1","ext":"110c922de7d69804467fb83d3bb664b5","jar":"https://stevenfang.github.io/cs.jar;md5;f94c21dc84a8461947ac7b11febd5956"},  
   {"key":"Zjdr","name":"追剧达人","type":"3","api":"csp_Dora","searchable":"1","quickSearch":"1","filterable":"1","ext":"778e8966ec0e9c0ae0b4682ad3550f40","jar":"https://stevenfang.github.io/cs.jar;md5;f94c21dc84a8461947ac7b11febd5956"},
   {"key":"IKan","name":"爱看","type":"3","api":"csp_Dora","searchable":"1","quickSearch":"1","filterable":"1","ext":"a4ce9a4ba7d4f4bced2ff9dfc4ab4e50","jar":"https://stevenfang.github.io/cs.jar;md5;f94c21dc84a8461947ac7b11febd5956"},
   {"key":"Kuaikan","name":"快看","type":"3","api":"csp_Dora","searchable":"1","quickSearch":"1","filterable":"1","ext":"459b1cb892e317546676a2c9dcec2bff","jar":"https://stevenfang.github.io/cs.jar;md5;f94c21dc84a8461947ac7b11febd5956"},
@@ -31,7 +32,6 @@
   {"key":"Lib","name":"Libvio","type":"3","api":"csp_Dora","searchable":"1","quickSearch":"1","filterable":"1","ext":"78d057e4d03e47cb62dce13d69b41d6f","jar":"https://stevenfang.github.io/cs.jar;md5;f94c21dc84a8461947ac7b11febd5956"},
   {"key":"Tian","name":"天天","type":"3","api":"csp_Dora","searchable":"1","quickSearch":"1","filterable":"1","ext":"bdc1c75081e5e477189a463baa47e392","jar":"https://stevenfang.github.io/cs.jar;md5;f94c21dc84a8461947ac7b11febd5956"},
   {"key":"Hei","name":"石榴","type":"3","api":"csp_Dora","searchable":"1","quickSearch":"1","filterable":"1","ext":"3bff500c8b1e06c052a1b0f1f7a62b45","jar":"https://stevenfang.github.io/cs.jar;md5;f94c21dc84a8461947ac7b11febd5956"},        
-  {"key":"AppTT","name":"图图","type":"3","api":"csp_Dora","searchable":"1","quickSearch":"1","filterable":"1","ext":"110c922de7d69804467fb83d3bb664b5","jar":"https://stevenfang.github.io/cs.jar;md5;f94c21dc84a8461947ac7b11febd5956"},
   {"key":"Zxzj","name":"在线","type":"3","api":"csp_Dora","searchable":"1","quickSearch":"1","filterable":"1","ext":"23a412dda32885ae2bcb97b956cd7ad4","jar":"https://stevenfang.github.io/cs.jar;md5;f94c21dc84a8461947ac7b11febd5956"},
   {"key":"Tbook","name":"听书网","type":"3","api":"csp_Dora","searchable":"1","quickSearch":"1","filterable":"1","ext":"d16d1517e9eaad9909cb35c55ba0b784","jar":"https://stevenfang.github.io/cs.jar;md5;f94c21dc84a8461947ac7b11febd5956"},
   {"key":"Bili","name":"哔哩哔哩","type":"3","api":"csp_Dora","searchable":"1","quickSearch":"1","filterable":"1","ext":"85b2986381a134ba3ebbaf25ae8138e7#http://home.jundie.top:81/ray/json/bili.json","jar":"https://stevenfang.github.io/cs.jar;md5;f94c21dc84a8461947ac7b11febd5956"},
