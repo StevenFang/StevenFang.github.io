@@ -1,5 +1,5 @@
 {
-  "spider":"http://stevenfang.github.io/xo.jar;md5;ec03f63796a909bce4c8ac16b938591b",
+  "spider":"http://stevenfang.github.io/xo2.jar;md5;d3c97f7e465249c4d7c7d392516f3da6",
   "lives": [{"group": "redirect","channels": [{"name": "live","urls": ["proxy://do=live&type=txt&ext=http://home.jundie.top:81/Cat/tv/live.txt"]}]}],
   "wallpaper":"http://www.kf666888.cn/api/tvbox/img",
           
