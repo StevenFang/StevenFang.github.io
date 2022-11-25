@@ -29,7 +29,7 @@
   {"key":"Auete","name":"奥特","type":"3","api":"csp_Dora","searchable":"1","quickSearch":"1","filterable":"1","ext":"b04b15448ad5bd4312f1fa1fb9aa9b1b","jar":"https://stevenfang.github.io/cs.jar;md5;3d6c99cae168da455aa766618be7b604"},
   {"key":"Cokemv","name":"可乐","type":"3","api":"csp_Dora","searchable":"1","quickSearch":"1","filterable":"1","ext":"b88de1329655cca1beba45aa9776de70","jar":"https://stevenfang.github.io/cs.jar;md5;3d6c99cae168da455aa766618be7b604"},
   {"key":"Czsapp","name":"厂长","type":"3","api":"csp_Dora","searchable":"1","quickSearch":"1","filterable":"1","ext":"8ee655f702d0d21f3643504783babbc3","jar":"https://stevenfang.github.io/cs.jar;md5;3d6c99cae168da455aa766618be7b604"},
-  {"key":"Gitcafe","name":"纸条(云盘)","type":"3","api":"csp_Gitcafe","searchable":"1","quickSearch":"1","filterable":"1","ext":"http://home.jundie.top:666/token.txt","jar":"https://stevenfang.github.io/cs.jar;md5;3d6c99cae168da455aa766618be7b604"},
+  {"key":"Gitcafe","name":"纸条(云盘)","type":"3","api":"csp_Gitcafe","searchable":"1","quickSearch":"1","filterable":"1","ext":"https://ghproxy.com/https://raw.githubusercontent.com/Pandora2277/box/main/token.txt","jar":"https://stevenfang.github.io/cs.jar;md5;3d6c99cae168da455aa766618be7b604"},
   {"key":"Lib","name":"Libvio","type":"3","api":"csp_Dora","searchable":"1","quickSearch":"1","filterable":"1","ext":"78d057e4d03e47cb62dce13d69b41d6f","jar":"https://stevenfang.github.io/cs.jar;md5;3d6c99cae168da455aa766618be7b604"},
   {"key":"Tian","name":"天天","type":"3","api":"csp_Dora","searchable":"1","quickSearch":"1","filterable":"1","ext":"bdc1c75081e5e477189a463baa47e392","jar":"https://stevenfang.github.io/cs.jar;md5;3d6c99cae168da455aa766618be7b604"},
   {"key":"Hei","name":"石榴","type":"3","api":"csp_Dora","searchable":"1","quickSearch":"1","filterable":"1","ext":"3bff500c8b1e06c052a1b0f1f7a62b45","jar":"https://stevenfang.github.io/cs.jar;md5;3d6c99cae168da455aa766618be7b604"},        
@@ -55,10 +55,10 @@
   {"key":"spider_Bttoo","name":"2BT","type":3,"api":"csp_Bttoo","searchable":1,"quickSearch":1,"filterable":1},
   {"key":"csp_Xxys","name":"小熊","type":3,"api":"csp_Xxys","searchable":1,"quickSearch":1,"filterable":1},
      
-  {"key":"Zhaozy","name":"资源(云盘)","type":"3","api":"csp_Zhaozy","searchable":"1","quickSearch":"1","filterable":"1","ext":"http://home.jundie.top:666/token.txt","jar":"https://stevenfang.github.io/cs.jar;md5;3d6c99cae168da455aa766618be7b604"},
-  {"key":"YiSo","name":"易搜(云盘)","type":"3","api":"csp_YiSo","searchable":"1","quickSearch":"1","filterable":"1","ext":"http://home.jundie.top:666/token.txt","jar":"https://stevenfang.github.io/cs.jar;md5;3d6c99cae168da455aa766618be7b604"},
-  {"key":"AliPS","name":"盘搜(云盘)","type":"3","api":"csp_AliPS","searchable":"1","quickSearch":"1","filterable":"1","ext":"http://home.jundie.top:666/token.txt","jar":"https://stevenfang.github.io/cs.jar;md5;3d6c99cae168da455aa766618be7b604"},
-  {"key":"push_agent","name":"推送","type":3,"api":"csp_PushAgent","searchable":0,"quickSearch":0,"filterable":0,"ext": "http://home.jundie.top:666/token.txt","jar":"https://stevenfang.github.io/cs.jar;md5;3d6c99cae168da455aa766618be7b604"}
+  {"key":"Zhaozy","name":"资源(云盘)","type":"3","api":"csp_Zhaozy","searchable":"1","quickSearch":"1","filterable":"1","ext":"https://ghproxy.com/https://raw.githubusercontent.com/Pandora2277/box/main/token.txt","jar":"https://stevenfang.github.io/cs.jar;md5;3d6c99cae168da455aa766618be7b604"},
+  {"key":"YiSo","name":"易搜(云盘)","type":"3","api":"csp_YiSo","searchable":"1","quickSearch":"1","filterable":"1","ext":"https://ghproxy.com/https://raw.githubusercontent.com/Pandora2277/box/main/token.txt","jar":"https://stevenfang.github.io/cs.jar;md5;3d6c99cae168da455aa766618be7b604"},
+  {"key":"AliPS","name":"盘搜(云盘)","type":"3","api":"csp_AliPS","searchable":"1","quickSearch":"1","filterable":"1","ext":"https://ghproxy.com/https://raw.githubusercontent.com/Pandora2277/box/main/token.txt","jar":"https://stevenfang.github.io/cs.jar;md5;3d6c99cae168da455aa766618be7b604"},
+  {"key":"push_agent","name":"推送","type":3,"api":"csp_PushAgent","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://ghproxy.com/https://raw.githubusercontent.com/Pandora2277/box/main/token.txt","jar":"https://stevenfang.github.io/cs.jar;md5;3d6c99cae168da455aa766618be7b604"}
   ],
           
   "parses":[
