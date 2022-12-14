@@ -4,9 +4,8 @@
   "wallpaper":"http://www.kf666888.cn/api/tvbox/img",
           
   "sites": [
-  {"key":"js豆瓣","name":"豆瓣热播","type":3,"api":"http://xn--m7r412advb92j21st65a.tk/dr/libs/drpy2.min.js","ext":"http://xn--m7r412advb92j21st65a.tk/dr/js/js_drpy.js","searchable": 0,"quickSearch": 0,"filterable": 1},  
-  {"key":"douban","name":"豆瓣","type":4,"api":"https://t4.xn--sss604efuw.ml/vod","searchable":0,"quickSearch":0,"filterable":1},
-  {"key":"t4豆瓣","name":"豆瓣备用","type": 4,"api": "https://t4.secan.icu/vod?sites=voflix&timeout=7","searchable":1,"quickSearch":1,"filterable":1},
+  {"key": "drpy_豆瓣","name": "豆瓣","type": 3, "api": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/libs/drpy2.min.js", "ext": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/js/drpy.js","searchable": 0,"quickSearch": 0,"filterable": 1},  
+  {"key":"douban","name":"豆瓣备用","type":4,"api":"https://t4.xn--sss604efuw.ml/vod","searchable":0,"quickSearch":0,"filterable":1},
   {"key":"360","name":"360","type":3,"api":"csp_SP360","searchable":1,"quickSearch":1,"filterable":1},
   {"key":"csp_fant","name":"饭团","api":"csp_Fantuan","type":3,"filterable":1,"quickSearch":1,"searchable":1},
   {"key":"csp_Nkdy","name":"南柯","type":3,"api":"csp_Nkdy","searchable":1,"quickSearch":1,"filterable":1},    
