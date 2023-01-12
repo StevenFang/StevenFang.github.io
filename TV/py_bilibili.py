@@ -25,7 +25,7 @@ class Spider(Spider):
     max_home_video_content = 3
 
     #二维码图片转码使用国内 tool_lu，国外 qrcode_show
-    qrcode_service = 'qrcode_show'
+    qrcode_service = 'tool_lu'
     
     #收藏标签默认显示追番1，追剧2，默认收藏夹0
     fav_mode = 0
