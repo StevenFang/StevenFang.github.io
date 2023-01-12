@@ -1,6 +1,9 @@
 {
   "spider":"https://ghproxy.com/https://raw.githubusercontent.com/StevenFang/StevenFang.github.io/main/xo.jar;md5;a4a90401116d9f1f6a3358c63167ff1f",
-  "lives":[{"name":"直播","type":0,"url":"https://ghproxy.com/https://raw.githubusercontent.com/shenhuash01/IPTV/main/IPTV.m3u","epg":"https://epg.112114.xyz/?ch={name}&date={date}"}],
+  "lives":[
+    {"name":"APTV","type":0,"url":"https://ghproxy.com/https://raw.githubusercontent.com/Kimentanm/aptv/master/m3u/iptv.m3u","epg":"https://epg.112114.xyz/?ch={name}&date={date}"},
+    {"name":"百事通","type":0,"url":"https://ghproxy.com/https://raw.githubusercontent.com/shenhuash01/IPTV/main/IPTV.m3u","epg":"https://epg.112114.xyz/?ch={name}&date={date}"}
+  ],
   "wallpaper":"http://www.kf666888.cn/api/tvbox/img",
           
   "sites": [
