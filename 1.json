@@ -1,5 +1,5 @@
 {
-"spider":"https://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431;md5;a636612fad3f047f7df1690f8b4cfde4",
+"spider":"https://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431;md5;492f9401fec7d490f6f2e48f045e1580",
 "lives":[
     {"name":"APTV","type":0,"url":"https://gh-proxy.com/https://raw.githubusercontent.com/Kimentanm/aptv/master/m3u/iptv.m3u","epg":"https://epg.112114.xyz/?ch={name}&date={date}"},
     {"name":"百事通","type":0,"url":"https://raw.fastgit.org/vamoschuck/TV/main/M3U","epg":"https://epg.112114.xyz/?ch={name}&date={date}"}
