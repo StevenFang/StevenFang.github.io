@@ -1,5 +1,5 @@
 {
-    "spider":"https://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431;md5;e5d54e7f113a9eb29a7ff6bbebe7eca9",
+    "spider":"img+https://files.zohopublic.com.cn/public/workdrive-public/download/6n8b97e141f59bb5b4c17bd1998733023e102;md5;039d8000fee8db914255316679fd99a8",
     "lives":[
         {"name":"Live","type":0,"url":"https://ghproxy.com/https://raw.githubusercontent.com/dxawi/1/main/tvlive.txt","epg":"https://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"}
     ],
@@ -7,9 +7,10 @@
     "sites": [
     {"key":"t4douban","name":"豆瓣┃荐片","type":4,"api":"https://t4.secan.icu/vod","searchable": 0,"quickSearch": 0,"filterable": 1},
     {"key":"csp_kuaikan","name":"👀快看┃App","type":3,"api":"csp_Kuaikan","searchable":1,"filterable":1},
-    {"key":"csp_YQKAPP","name":"🎉一起看┃App","type":3,"api":"csp_YQKAPP","playerType":2,"searchable":1,"filterable":1,"ext":"https://api-tx.shumaxc.xyz"},
+    {"key":"csp_YQKAPP","name":"🎉一起看┃App","type":3,"api":"csp_YQKAPP","playerType":2,"searchable":1,"filterable":1,"ext":"https://api-tx.11ty.top"},
     {"key":"csp_AppTT","name":"🐰图图┃App","type":3,"api":"csp_AppTT","searchable":1,"filterable":1,"ext":"tv$$$dlJYWXFYbkgqbmlsU1JLIyNkMFZ0OE1JdzRJQW1yY3I=$$$Y2hpbkpaUzdiKnpYbzZzWQ==$$$aHR0cDovL2FwaS50dDU4LnR2L2NvbmZpZy9uZXd0di5qc29uP3NzPQ=="},
-    {"key":"csp_BuLei","name":"💢布雷┃直连","type":3,"api":"csp_BuLei","searchable":1,"filterable":1,"ext":"https://www.bulei.cc"},
+    {"key":"csp_MeiJu69","name":"🗽69美剧┃直连","type":3,"api":"csp_MeiJu69","searchable":1,"filterable":1,"ext":"https://www.69mj.com/"},
+    {"key":"csp_BuLei","name":"💢布雷┃直连","type":3,"api":"csp_BuLei","searchable":1,"filterable":1,"ext":"https://v.bulei.cc/"},
     {"key":"csp_Czsapp","name":"📔厂长┃直连","type":3,"api":"csp_Czsapp","playerType":2,"searchable":1,"filterable":1},
     {"key":"csp_Cokemv","name":"📕可乐┃直连","type":3,"api":"csp_Cokemv","playerType":2,"searchable":1,"filterable":1},
     {"key":"csp_Auete","name":"🏝Auete┃直连","type": 3,"api":"csp_Auete","searchable":1,"filterable":1},
@@ -22,7 +23,7 @@
     {"key":"csp_Xinsj","name":"🐼新视觉┃直连","type":3,"api":"csp_Xinsj","searchable":1,"filterable":1,"ext":"https://www.6080dy3.com"},
     {"key":"csp_77","name":"👒七七┃App","type":3,"api":"csp_Kunyu77","searchable":1,"filterable":1},
     {"key":"csp_AppMr","name":"👻明明┃App","type":3,"api":"csp_AppMr","searchable":1,"filterable":1},
-    {"key":"csp_Lgyy","name":"🌀蓝光┃直连","type":3,"api":"csp_Lgyy","searchable":1,"filterable":1,"ext":"https://www.lgyy.tv"},
+    {"key":"csp_Lgyy","name":"🌀蓝光┃直连","type":3,"api":"csp_Lgyy","searchable":1,"filterable":1,"ext":"https://www.lgyy.vip"},
     {"key":"csp_Smdyy","name": "🐴神马┃直连","type": 3,"api": "csp_Smdyy","searchable": 1,"quickSearch": 1,"filterable": 1},
     {"key":"csp_Bd","name":"💥哔嘀┃直连","type":3,"api":"csp_Bdys01","playerType":1,"searchable":1,"filterable":1},
     {"key":"csp_Nmys","name":"🌾农民┃直连","type":3,"api":"csp_Nmys","searchable":1,"filterable":1,"ext":"http://饭太硬.ga/x/json/nmys.json"},
