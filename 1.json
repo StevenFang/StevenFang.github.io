@@ -1,5 +1,5 @@
 {
-    "spider":"img+https://files.zohopublic.com.cn/public/workdrive-public/download/6n8b97e141f59bb5b4c17bd1998733023e102;md5;039d8000fee8db914255316679fd99a8",
+    "spider":"img+https://files.zohopublic.com.cn/public/workdrive-public/download/6n8b97e141f59bb5b4c17bd1998733023e102;md5;af94cc4d3c30f6cee8b8b20e7b70a0bc",
     "lives":[
         {"name":"Live","type":0,"url":"https://ghproxy.com/https://raw.githubusercontent.com/dxawi/1/main/tvlive.txt","epg":"https://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"}
     ],
