@@ -5,6 +5,7 @@
     ],
     "wallpaper":"http://www.kf666888.cn/api/tvbox/img",
     "sites": [
+    {"key":"csp_Bd","name":"💥哔嘀┃直连","type":3,"api":"csp_Bdys01","searchable":1,"filterable":1},
     {"key":"t4douban","name":"豆瓣┃荐片","type":4,"api":"https://t4.secan.icu/vod","searchable": 0,"quickSearch": 0,"filterable": 1},
     {"key":"csp_kuaikan","name":"👀快看┃App","type":3,"api":"csp_Kuaikan","searchable":1,"filterable":1},
     {"key":"csp_YQKAPP","name":"🎉一起看┃App","type":3,"api":"csp_YQKAPP","playerType":2,"searchable":1,"filterable":1,"ext":"https://api-tx.11ty.top"},
@@ -25,7 +26,6 @@
     {"key":"csp_AppMr","name":"👻明明┃App","type":3,"api":"csp_AppMr","searchable":1,"filterable":1},
     {"key":"csp_Lgyy","name":"🌀蓝光┃直连","type":3,"api":"csp_Lgyy","searchable":1,"filterable":1,"ext":"https://www.lgyy.vip"},
     {"key":"csp_Smdyy","name": "🐴神马┃直连","type": 3,"api": "csp_Smdyy","searchable": 1,"quickSearch": 1,"filterable": 1},
-    {"key":"csp_Bd","name":"💥哔嘀┃直连","type":3,"api":"csp_Bdys01","playerType":1,"searchable":1,"filterable":1},
     {"key":"csp_Nmys","name":"🌾农民┃直连","type":3,"api":"csp_Nmys","searchable":1,"filterable":1,"ext":"http://饭太硬.ga/x/json/nmys.json"},
     {"key":"csp_Ysgc","name":"🏭工厂┃直连","type":3,"api":"csp_Ysgc","searchable":1,"filterable":1,"ext":"https://www.ysgc.vip"},
     {"key":"csp_panghu","name":"🐯胖虎┃直连","type":3,"api":"csp_Panghu","searchable":1,"filterable":1},
