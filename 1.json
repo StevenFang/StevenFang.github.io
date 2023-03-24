@@ -1,5 +1,5 @@
 {
-    "spider":"img+https://files.zohopublic.com.cn/public/workdrive-public/download/6n8b97e141f59bb5b4c17bd1998733023e102;md5;af94cc4d3c30f6cee8b8b20e7b70a0bc",
+    "spider":"https://download.zoho.com.cn/v1/workdrive/download/uyv0t678c488189af47bb91dc108484d17431;md5;61bca6e5fd49bef5a2834109f23303a9",
     "lives":[
         {"name":"Live","type":0,"url":"https://ghproxy.com/https://raw.githubusercontent.com/dxawi/1/main/tvlive.txt","epg":"https://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"}
     ],
@@ -21,6 +21,7 @@
     {"key":"csp_Auete","name":"🏝Auete┃直连","type": 3,"api":"csp_Auete","searchable":1,"filterable":1},
     {"key":"csp_apple","name":"🍎苹果┃App","type":3,"api":"csp_LiteApple","playerType":1,"searchable":1,"filterable":1},
     {"key":"csp_fantuan","name":"🍙饭团┃直连","type":3,"api":"csp_Fantuan","searchable":1,"filterable":1,"ext":"https://www.fantuanhd.com"},
+    {"key":"csp_FanYY","name":"💦剥饭┃4K","type":3,"api":"csp_FanYY","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://ali.饭太硬.ml/alitoken"},
     {"key":"csp_Vofl","name":"🎈Voflix┃直连","type":3,"api":"csp_Voflix","searchable":1,"filterable":1},
     {"key":"csp_Xinsj","name":"🐼新视觉┃直连","type":3,"api":"csp_Xinsj","searchable":1,"filterable":1,"ext":"https://www.6080dy3.com"},
     {"key":"csp_77","name":"👒七七┃App","type":3,"api":"csp_Kunyu77","searchable":1,"filterable":1},
