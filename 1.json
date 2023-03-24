@@ -1,8 +1,6 @@
 {
-    "spider":"https://download.zoho.com.cn/v1/workdrive/download/uyv0t678c488189af47bb91dc108484d17431;md5;61bca6e5fd49bef5a2834109f23303a9",
-    "lives":[
-        {"name":"Live","type":0,"url":"https://ghproxy.com/https://raw.githubusercontent.com/dxawi/1/main/tvlive.txt","epg":"https://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"}
-    ],
+    "spider":"https://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431;md5;61bca6e5fd49bef5a2834109f23303a9",
+    "lives":[{"name":"Live","type":0,"url":"https://ghproxy.com/https://raw.githubusercontent.com/dxawi/1/main/tvlive.txt","epg":"https://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"}],
     "wallpaper":"http://www.kf666888.cn/api/tvbox/img",
     "sites": [
     {"key":"t4douban","name":"豆瓣┃荐片","type":4,"api":"https://t4.secan.icu/vod","searchable": 0,"quickSearch": 0,"filterable": 1},
