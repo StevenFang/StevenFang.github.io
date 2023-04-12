@@ -33,35 +33,28 @@
     {"key":"UpYun","name":"😻Up搜┃4K","type":3,"api":"csp_UpYun","playerType":1,"searchable":1,"filterable":0,"changeable":0,"ext":"https://www.qiaoji8.com/jar1/token.txt"},
     {"key":"csp_Nkdy","name":"👓耐看┃直连","type":3,"api":"csp_Nkdy","searchable":1,"filterable":1},
     {"key":"csp_Hlsp","name":"💣黑料┃直连","type":3,"api":"csp_Hlsp","searchable":1,"filterable":1,"ext":"http://饭太硬.ga/x/json/黑料.json"},
-    {"key":"csp_Bttoo","name":"✌BTtwo┃直连","type":3,"api":"csp_Bttwoo","searchable":1,"filterable":1},
+    {"key":"csp_Bttoo","name":"✌BTtwo┃直连","type":3,"api":"csp_Bttwoo","searchable":1,"filterable":1},    
+    {"key":"csp_Nbys","name":"🛫泥巴┃飞","type":3,"api":"csp_NiNi","searchable":1,"filterable":1},
+    {"key":"csp_If101","name":"🛫 If101┃飞","type":3,"api":"csp_If101","searchable":1,"filterable":1},
+    {"key":"csp_trj","name": "🛫唐人街┃飞","type": 3,"api": "csp_Tangrenjie","searchable": 1,"quickSearch": 1,"filterable": 1}
  
     {"key":"csp_Dm84","name":"🚌动漫巴士┃SP","type":3,"api":"csp_Dm84","searchable":1,"filterable":1},
     {"key":"csp_Ying","name":"💮樱花动漫┃SP","type":3,"api":"csp_Ying","searchable":1,"filterable":1},
     {"key":"csp_Ysj","name":"🎀异界动漫┃SP","type":3,"api":"csp_Ysj","searchable":1,"filterable":1},
-    {"key":"csp_Anime1","name":"🐾Anime1┃SP","type": 3,"api": "csp_Anime1","searchable": 1,"quickSearch": 1,"filterable": 1},
-    {"key":"csp_Yj1211","name":"📽️直播┃SP","type": 3,"api": "csp_Yj1211","searchable": 1,"quickSearch": 1,"filterable": 1},
+    {"key":"csp_Anime1","name":"🐾Anime1┃SP","type": 3,"api": "csp_Anime1","searchable":1,"quickSearch": 1,"filterable": 1},
+    {"key":"csp_Yj1211","name":"📽️直播聚合┃SP","type": 3,"api": "csp_Yj1211","searchable":1,"quickSearch": 1,"filterable": 1},
     
     {"key":"88js","name":"⚽88看球","type":3,"api":"https://ftyyy.tk/JS/lib/drpy.min.js","ext":"https://gitcode.net/qq_32394351/dr_py/-/raw/master/js/88看球.js","searchable": 0,"quickSearch": 0,"filterable": 0},
     {"key":"csp_xp_qiumi","name":"⚽Jrs球迷","type": 3,"api": "csp_XPath","searchable": 0,"quickSearch": 0,"filterable": 0,"ext": "http://饭太硬.ga/x/xp/dj看球.json"},
     {"key":"csp_XYQBiu_310直播","name":"⚽310看球","type":3,"api":"csp_XYQBiu","searchable":0,"quickSearch":0,"filterable":0,"ext":"http://饭太硬.ga/x/XYQ/310直播.json"},
     {"key":"csp_XPath_企鹅体育","name":"🐧企鹅体育","type":3,"api":"csp_XPath","searchable":0,"quickSearch":0,"filterable":0,"ext":"http://饭太硬.ga/x/xp/企鹅直播.json"},
-    {"key":"csp_XYQBiu_酷奇","name":"🎤酷奇 MV","type": 3,"api": "csp_XYQBiu","searchable": 0,"quickSearch": 0,"filterable": 0,"ext": "http://饭太硬.ga/x/XYQ/酷奇MV.json"},
-    {"key":"csp_XYQHiker_虎牙直播","name":"🐯虎牙直播","type":3,"api":"csp_XYQHiker","searchable":0,"quickSearch":0,"filterable":0,"ext":"http://饭太硬.ga/x/XYQ/虎牙直播.json"},
-    {"key":"csp_XYQBiu_斗鱼","name":"🐟斗鱼直播","type":3,"api":"csp_XYQBiu","searchable":0,"quickSearch":0,"filterable":0,"ext":"http://饭太硬.ga/x/XYQ/斗鱼直播.json"},
+    {"key":"csp_XYQBiu_酷奇","name":"🎤酷奇MV","type": 3,"api": "csp_XYQBiu","searchable": 0,"quickSearch": 0,"filterable": 0,"ext": "http://饭太硬.ga/x/XYQ/酷奇MV.json"},
     {"key":"csp_XBPQ_聚短视频","name":"📽️聚短视频","type":3,"api":"csp_XBPQ","searchable":0,"quickSearch":0,"filterable":0,"ext":"http://饭太硬.ga/x/xbpq/短视频.json"},
     {"key":"csp_XYQHiker_有声小说吧","name":"🎧有声小说","type":3,"api":"csp_XYQHiker","searchable":1,"filterable":1,"ext":"http://饭太硬.ga/x/XYQ/有声小说吧.json"},
     {"key":"csp_FanYY","name":"💦剥饭┃4K","type":3,"api":"csp_FanYY","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.qiaoji8.com/jar1/token.txt"},
     {"key":"YiSo","name":"😹易搜┃4K","type":3,"api":"csp_YiSo","playerType":1,"searchable":1,"filterable":0,"changeable":0,"ext":"https://www.qiaoji8.com/jar1/token.txt"},
     {"key":"PanSou","name":"🦊盘搜┃4K","type":3,"api":"csp_PanSou","playerType":1,"searchable":1,"filterable":0,"changeable":0,"ext":"https://www.qiaoji8.com/jar1/token.txt"},
-    {"key":"push_agent","name":"🛴手机┃推送","type":3,"api":"csp_Push","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://www.qiaoji8.com/jar1/token.txt"},
-    
-    {"key":"csp_XYQHiker皮皮鸭","name":"️🌸皮皮鸭┃XH","type":3,"api":"csp_XYQHiker","searchable":1,"filterable":1,"ext":"http://饭太硬.ga/x/XYQ/皮皮鸭.json"},
-    {"key":"csp_XYQH野马","name":"️🌸野马┃XH","type":3,"api":"csp_XYQHiker","searchable":1,"filterable":1,"ext":"http://饭太硬.ga/x/XYQ/野马.json"},
-    {"key":"csp_XBPQ_爱看","name":"🌸爱看┃XB","type":3,"api":"csp_XBPQ","searchable":1,"filterable":0,"ext":"http://饭太硬.ga/x/xbpq/爱看.json"},
-    
-    {"key":"csp_Nbys","name":"🛫泥巴┃飞","type":3,"api":"csp_NiNi","searchable":1,"filterable":1},
-    {"key":"csp_If101","name":"🛫 If101┃飞","type":3,"api":"csp_If101","searchable":1,"filterable":1},
-    {"key":"csp_trj","name": "🛫唐人街┃飞","type": 3,"api": "csp_Tangrenjie","searchable": 1,"quickSearch": 1,"filterable": 1}
+    {"key":"push_agent","name":"🛴手机┃推送","type":3,"api":"csp_Push","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://www.qiaoji8.com/jar1/token.txt"}
     ],
     "ads":["wan.51img1.com","iqiyi.hbuioo.com","vip.ffzyad.com","https://lf1-cdn-tos.bytegoofy.com/obj/tos-cn-i-dy/455ccf9e8ae744378118e4bd289288dd"], 
     "parses":[
