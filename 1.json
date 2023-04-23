@@ -1,5 +1,5 @@
 {
-    "spider":"https://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431;md5;3fb7a166650cde24e9bf51bc5c76e73c",
+    "spider":"https://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431;md5;74553501dcb023314a37e78fe36b81ce",
     "lives":[{"name":"Live","type":0,"url":"https://ghproxy.net/https://raw.githubusercontent.com/dxawi/0/main/tvlive.txt","epg":"https://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"}],
     "wallpaper":"http://www.kf666888.cn/api/tvbox/img",
     "sites": [
@@ -7,7 +7,7 @@
     {"key":"csp_Paper","name":"📜小纸条┃4K","type":3,"api":"csp_Paper","searchable":1,"quickSearch":1,"filterable":1,"changeable":0,"ext":"https://gitee.com/momomojie/iptv/raw/master/alitoken.txt"},
     {"key":"csp_WoGG","name":"👽阿里┃4K","type":3,"api":"csp_WoGG","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitee.com/momomojie/iptv/raw/master/alitoken.txt"},
     {"key":"七夜","name":"😾七夜┃4K","type":3,"api":"csp_Dovx","searchable":1,"filterable":0,"changeable":0,"ext":"https://gitee.com/momomojie/iptv/raw/master/alitoken.txt"},
-    {"key":"csp_BuLei","name":"💢布雷┃直连","type":3,"api":"csp_BuLei","searchable":1,"filterable":1,"ext":"http://movie.bulei.cc"},
+    {"key":"csp_BuLei","name":"💢布雷┃直连","type":3,"api":"csp_BuLei","searchable":1,"filterable":1,"ext":"http://movie.bulei.cc$$$login$$$sdlw1111$$$qqaa1122"},
     {"key":"csp_Xinsj","name":"🐼新视觉┃直连","type":3,"api":"csp_Xinsj","searchable":1,"filterable":1,"ext":"https://www.6080dy3.com"},
     {"key":"csp_Dy1010","name":"❤️双十┃直连","type":3,"api":"csp_Dy1010","searchable":1,"quickSearch":1,"filterable":1},
     {"key":"csp_Bd","name":"💥哔嘀┃直连","type":3,"api":"csp_Bdys01","searchable":1,"filterable":1},
