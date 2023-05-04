@@ -1,10 +1,9 @@
 {
-    "spider":"https://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431;md5;e911ef9b3f3c5101a90cdfd022f566f0",
+    "spider":"https://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431;md5;bace77c91270566ca6a959b935efbd0d",
     "lives":[{"name":"Live","type":0,"playerType":1,"url":"https://ghproxy.net/https://raw.githubusercontent.com/dxawi/0/main/tvlive.txt","epg":"https://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"}],
     "wallpaper":"http://www.kf666888.cn/api/tvbox/img",
     "sites": [
     {"key":"t4douban","name":"豆瓣","type":4,"api":"https://t4.secan.icu/vod","searchable": 0,"quickSearch": 0,"filterable": 1},
-    {"key":"csp_Paper","name":"📜小纸条┃4K","type":3,"api":"csp_Paper","searchable":1,"quickSearch":1,"filterable":1,"changeable":0,"ext":"https://gitee.com/momomojie/iptv/raw/master/alitoken.txt"},
     {"key":"csp_WoGG","name":"👽阿里┃4K","type":3,"api":"csp_WoGG","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitee.com/momomojie/iptv/raw/master/alitoken.txt"},
     {"key":"七夜","name":"😾七夜┃4K","type":3,"api":"csp_Dovx","searchable":1,"filterable":0,"changeable":0,"ext":"https://gitee.com/momomojie/iptv/raw/master/alitoken.txt"},
     {"key":"csp_BuLei","name":"💢布雷┃直连","type":3,"api":"csp_BuLei","searchable":1,"filterable":1,"ext":"http://v.ilime.cc/$$$login$$$sdlw1111$$$qqaa1122"},
@@ -30,7 +29,6 @@
     {"key":"csp_panghu","name":"🐯胖虎┃直连","type":3,"api":"csp_Panghu","searchable":1,"filterable":1},
     {"key":"csp_555","name":"5️⃣️555┃直连","type":3,"api":"csp_Ys555","searchable":1,"filterable":1,"ext":"https://www.555dyy1.com"},
     {"key":"csp_YQKAPP","name":"🎉一起看┃App","type":3,"api":"csp_YQKAPP","playerType":2,"searchable":1,"quickSearch":1,"filterable":1,"ext":"https://api-aws.11ty.top"},
-    {"key":"csp_AppTT","name":"🐰图图┃App","type":3,"api":"csp_AppTT","searchable":1,"quickSearch":1,"filterable":1,"ext":"dk1YWXFYbkhNbmlsU1JLI01kMFZ0OE1JdzRJQW1yY3I=$$$Y2hpbkpaUzdiTXpYbzZzWQ==$$$aHR0cDovL2FwaS50dDU4LnR2L2NvbmZpZy9uZXd0di5qc29uP3NzPQ=="},
     {"key":"UpYun","name":"😻Up搜┃4K","type":3,"api":"csp_UpYun","playerType":1,"searchable":1,"filterable":0,"changeable":0,"ext":"https://gitee.com/momomojie/iptv/raw/master/alitoken.txt"},
     {"key":"csp_Nkdy","name":"👓耐看┃直连","type":3,"api":"csp_Nkdy","searchable":1,"filterable":1},
     {"key":"csp_Hlsp","name":"💣黑料┃直连","type":3,"api":"csp_Hlsp","searchable":1,"filterable":1,"ext":"http://饭太硬.ga/x/json/黑料.json"},
@@ -43,7 +41,7 @@
     {"key":"csp_Ysj","name":"🎀异界动漫┃SP","type":3,"api":"csp_Ysj","searchable":1,"filterable":1},
     {"key":"csp_Anime1","name":"🐾Anime1┃SP","type": 3,"api": "csp_Anime1","searchable":1,"quickSearch": 1,"filterable": 1},
     {"key":"csp_Yj1211","name":"📽️直播聚合┃SP","type": 3,"api": "csp_Yj1211","searchable":1,"quickSearch": 1,"filterable": 1},
-    
+    {"key":"PanSearch","name":"🙀盘Search┃4k","type":3,"api":"csp_PanSearch","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitee.com/momomojie/iptv/raw/master/alitoken.txt"},
     {"key":"YiSo","name":"😹易搜┃4K","type":3,"api":"csp_YiSo","playerType":1,"searchable":1,"filterable":0,"changeable":0,"ext":"https://gitee.com/momomojie/iptv/raw/master/alitoken.txt"},
     {"key":"PanSou","name":"🦊盘搜┃4K","type":3,"api":"csp_PanSou","playerType":1,"searchable":1,"filterable":0,"changeable":0,"ext":"https://gitee.com/momomojie/iptv/raw/master/alitoken.txt"},
     {"key":"push_agent","name":"🛴手机┃推送","type":3,"api":"csp_Push","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://gitee.com/momomojie/iptv/raw/master/alitoken.txt"}
