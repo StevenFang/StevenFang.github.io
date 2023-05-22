@@ -1,15 +1,14 @@
 {
-    "spider":"https://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431;md5;e8fe5d2c9d119879e383a85df8ffd027",
+    "spider":"https://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431;md5;89fe4a02b78c136f02442851d659f1c0",
     "lives":[{"name":"Live","type":0,"playerType":1,"url":"https://ghproxy.net/https://raw.githubusercontent.com/dxawi/0/main/tvlive.txt","epg":"https://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"}],
     "wallpaper":"http://www.kf666888.cn/api/tvbox/img",
     "sites": [
     {"key":"t4douban","name":"豆瓣","type":4,"api":"https://t4.secan.icu/vod","searchable": 0,"quickSearch": 0,"filterable": 1},
     {"key":"csp_WoGG","name":"👽阿里┃4K","type":3,"api":"csp_WoGG","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.qiaoji8.com/jar1/token.txt"},
-    {"key":"七夜","name":"😾七夜┃4K","type":3,"api":"csp_Dovx","searchable":1,"filterable":0,"changeable":0,"ext":"https://gitee.com/momomojie/iptv/raw/master/alitoken.txt"},
     {"key":"csp_酷酷","name":"🏵酷酷┃App","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://kuyun.realku.cn/api.php/app/"},
-    {"key":"csp_BuLei","name":"💢布雷┃直连","type":3,"api":"csp_BuLei","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://kan.bulei.cc/$$$auto$$$sdlw1111$$$qqaa1122"},
     {"key":"drpy_js_FreeOK","name":"FreeOK[js]","type":3,"api":"https://hjdhnx.github.io/dr_py/libs/drpy2.min.js","ext":"https://hjdhnx.github.io/dr_py/js/FreeOK.js"},
-    {"key":"csp_Xinsj","name":"🐼新视觉┃直连","type":3,"api":"csp_Xinsj","searchable":1,"filterable":1,"ext":"https://6080dy3.com"},
+    {"key":"csp_BuLei","name":"💢布雷┃直连","type":3,"api":"csp_BuLei","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://dy.bulei.cc/$$$auto$$$sdlw1111$$$qqaa1122"},
+    {"key":"csp_Xinsj","name":"🐼新视觉┃直连","type":3,"api":"csp_Xinsj","searchable":1,"filterable":1,"ext":"https://6080dy4.com"},
     {"key":"csp_Dy1010","name":"❤️双十┃直连","type":3,"api":"csp_Dy1010","searchable":1,"quickSearch":1,"filterable":1},
     {"key":"csp_Bd","name":"💥哔嘀┃直连","type":3,"api":"csp_Bdys01","searchable":1,"filterable":1},
     {"key":"csp_fantuan","name":"🍙饭团┃直连","type":3,"api":"csp_Fantuan","searchable":1,"filterable":1,"ext":"https://www.fantuanhd.com"},
@@ -17,8 +16,9 @@
     {"key":"csp_DiDuan" ,"name":"⏮️低端┃直连","type":3,"api":"csp_Ddrk","searchable":1,"filterable":0},
     {"key":"csp_Czsapp","name":"📔厂长┃直连","type":3,"api":"csp_Czsapp","playerType":2,"searchable":1,"filterable":1},
     {"key":"csp_Lib","name": "🌟Libvio┃直连","type": 3,"api": "csp_Libvio","searchable": 1,"quickSearch": 1,"filterable": 1,"ext":"https://tv.libvio.cc/"},
-    {"key":"csp_zxzj","name":"📗在线┃直连","type":3,"api":"csp_Zxzj","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.zxzj.pro/"},
+    {"key":"csp_zxzj","name":"📗在线┃直连","type":3,"api":"csp_Zxzj","searchable":0,"filterable":1,"ext":"https://www.zxzj.pro/"},
     {"key":"csp_zxzjH3","name":"📗在线H3┃影视","type":3,"api":"csp_ZxzjH3","searchable":1,"filterable":1,"ext":"https://www.zxzjhd.com"},
+    {"key":"七夜","name":"😾七夜┃4K","type":3,"api":"csp_Dovx","searchable":1,"filterable":0,"changeable":0,"ext":"https://gitee.com/momomojie/iptv/raw/master/alitoken.txt"},    
     {"key":"drpy_js_HDmoli","name":"HDmoli[js]","type":3,"api":"https://hjdhnx.github.io/dr_py/libs/drpy2.min.js","ext":"https://hjdhnx.github.io/dr_py/js/HDmoli.js"},
     {"key":"drpy_js_花猫TV","name":"花猫TV[js]","type":3,"api":"https://hjdhnx.github.io/dr_py/libs/drpy2.min.js","ext":"https://hjdhnx.github.io/dr_py/js/花猫TV.js"},
     {"key":"csp_kuaikan","name":"👀快看┃App","type":3,"api":"csp_Kuaikan","searchable":1,"filterable":1},
@@ -51,18 +51,7 @@
     {"key":"PanSou","name":"🦊盘搜┃4K","type":3,"api":"csp_PanSou","playerType":1,"searchable":1,"filterable":0,"changeable":0,"ext":"https://www.qiaoji8.com/jar1/token.txt"},
     {"key":"push_agent","name":"🛴手机┃推送","type":3,"api":"csp_Push","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://www.qiaoji8.com/jar1/token.txt"}
     ],
-    "rules": [
-    {
-      "hosts": [
-        "vip.ffzy",
-        "vip.lz",
-        "hd.lz"
-      ],
-      "regex": [
-        "#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:6.433333,[\\s\\S]*?#EXT-X-DISCONTINUITY",
-        "#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:6.666667,[\\s\\S]*?#EXT-X-DISCONTINUITY"
-      ]
-    }],
+    "rules":[{"name":"量子","hosts":["vip.lz","hd.lz"],"regex":["#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:6.433333,[\\s\\S]*?#EXT-X-DISCONTINUITY"]},{"name":"非凡","hosts":["vip.ffzy","hd.ffzy"],"regex":["#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:6.666667,[\\s\\S]*?#EXT-X-DISCONTINUITY"]}],
     "ads":["wan.51img1.com","iqiyi.hbuioo.com","vip.ffzyad.com","https://lf1-cdn-tos.bytegoofy.com/obj/tos-cn-i-dy/455ccf9e8ae744378118e4bd289288dd"], 
     "parses":[
     {"name":"Json聚合","type":3,"url":"Demo"},
