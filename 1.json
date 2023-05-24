@@ -1,5 +1,5 @@
 {
-    "spider":"https://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431;md5;89fe4a02b78c136f02442851d659f1c0",
+    "spider":"https://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431;md5;22bea96778121a176132c5d1d2e92889",
     "lives":[{"name":"Live","type":0,"playerType":1,"url":"https://ghproxy.net/https://raw.githubusercontent.com/dxawi/0/main/tvlive.txt","epg":"https://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"}],
     "wallpaper":"http://www.kf666888.cn/api/tvbox/img",
     "sites": [
@@ -13,7 +13,7 @@
     {"key":"csp_zxzjH3","name":"📗在线H3┃影视","type":3,"api":"csp_ZxzjH3","searchable":0,"filterable":1,"ext":"https://www.zxzjhd.com"},  
     {"key":"csp_酷酷","name":"🏵酷酷┃App","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://kuyun.realku.cn/api.php/app/"},
     {"key":"熊熊","name":"熊熊","type":1,"api":"https://v.3412.net.cn/macapi.php/provide/vod","playUrl":"https://player.3412.net.cn/?url=","searchable":1,"changeable":1},   
-    {"key":"csp_BuLei","name":"💢布雷┃直连","type":3,"api":"csp_BuLei","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://dy01.bulei.cc/$$$auto$$$sdlw1111$$$qqaa1122"},
+    {"key":"csp_BuLei","name":"💢布雷┃直连","type":3,"api":"csp_BuLei","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://饭太硬.ga/$$$auto$$$sdlw1111$$$qqaa1122"},
     {"key":"csp_Xinsj","name":"🐼新视觉┃直连","type":3,"api":"csp_Xinsj","searchable":1,"filterable":1,"ext":"https://6080dy4.com"},
     {"key":"多米蓝光","name":"🌽️┃多米┃影视","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://vod.dmdh.top:5680//api.php/app/"},       
     {"key":"csp_Dy1010","name":"❤️双十┃直连","type":3,"api":"csp_Dy1010","searchable":1,"quickSearch":1,"filterable":1},
