@@ -7,6 +7,8 @@
     {"key":"csp_WoGG","name":"👽阿里┃4K","type":3,"api":"csp_WoGG","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitee.com/momomojie/iptv/raw/master/alitoken.txt"},
     {"key":"drpy_js_FreeOK","name":"FreeOK[js]","type":3,"api":"https://hjdhnx.github.io/dr_py/libs/drpy2.min.js","ext":"https://hjdhnx.github.io/dr_py/js/FreeOK.js"},
     {"key":"drpy_js_饭团影视","name":"饭团[js]","type":3,"api":"https://hjdhnx.github.io/dr_py/libs/drpy2.min.js","ext":"https://hjdhnx.github.io/dr_py/js/饭团影视.js"},
+    {"key": "速度", "name": "速度", "type": 3, "api": "csp_XBPQ", "ext": {"站名": "子子影视", "嗅探词":".mp4#m3u8","主页url": "http://sudu.hdvod.top", "分类": "电影$1#电视剧$2#综艺$4#动漫$3", 
+"分类url": "http://sudu.hdvod.top/index.php/vod/show/area/{area}/id/{cateId}/page/{catePg}/year/{year}.html;;m"}},    
     {"key":"csp_DiDuan" ,"name":"⏮️低端┃直连","type":3,"api":"csp_Ddrk","searchable":1,"filterable":0},
     {"key":"csp_Czsapp","name":"📔厂长┃直连","type":3,"api":"csp_Czsapp","playerType":2,"searchable":1,"filterable":1},
     {"key":"csp_Lib","name": "🌟Libvio┃直连","type": 3,"api": "csp_Libvio","searchable": 1,"quickSearch": 1,"filterable": 1,"ext":"https://tv.libvio.cc/"},
