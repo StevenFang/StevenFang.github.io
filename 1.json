@@ -19,7 +19,7 @@
     {"key":"多米蓝光","name":"🌽️┃多米┃影视","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://vod.dmdh.top:5680//api.php/app/"},       
     {"key":"csp_Dy1010","name":"❤️双十┃直连","type":3,"api":"csp_Dy1010","searchable":1,"quickSearch":1,"filterable":1},
     {"key":"csp_Bd","name":"💥哔嘀┃直连","type":3,"api":"csp_Bdys01","searchable":1,"filterable":1},
-    {"key":"csp_fantuan","name":"🍙饭团┃直连","type":3,"api":"csp_Fantuan","searchable":1,"filterable":1,"ext":"https://www.fantuanhd.com"},
+    {"key":"csp_fantuan","name":"🍙饭团┃直连","type":3,"api":"csp_Fantuan","searchable":0,"filterable":1,"ext":"https://www.fantuanhd.com"},
     {"key":"七夜","name":"😾七夜┃4K","type":3,"api":"csp_Dovx","searchable":1,"filterable":0,"changeable":0,"ext":"https://gitee.com/momomojie/iptv/raw/master/alitoken.txt"},    
     {"key":"drpy_js_HDmoli","name":"HDmoli[js]","type":3,"api":"https://hjdhnx.github.io/dr_py/libs/drpy2.min.js","ext":"https://hjdhnx.github.io/dr_py/js/HDmoli.js"},
     {"key":"drpy_js_花猫TV","name":"花猫TV[js]","type":3,"api":"https://hjdhnx.github.io/dr_py/libs/drpy2.min.js","ext":"https://hjdhnx.github.io/dr_py/js/花猫TV.js"},
