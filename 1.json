@@ -1,10 +1,12 @@
 {
-    "spider":"https://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431;md5;07099ea7d907106be7990ad9db491f2a",
+    "spider":"https://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431;md5;8e5f048383b35728c4f1bb21c708c0c7",
     "lives":[{"name":"Live","type":0,"playerType":1,"url":"https://xhdwc.tk/tvlive.txt","epg":"https://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"}],
     "wallpaper":"http://www.kf666888.cn/api/tvbox/img",
     "sites": [
     {"key":"t4douban","name":"豆瓣","type":4,"api":"https://t4.secan.icu/vod","searchable": 0,"quickSearch": 0,"filterable": 1},
     {"key":"csp_WoGG","name":"阿里云┃4K","type":3,"api":"csp_WoGG","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://127.0.0.1:9978/file/tvfan/token.txt$$$http://tvfan.xxooo.cf/"},    
+
+    {"key":"csp_Miaobo","name":"秒播|2K","type":3,"api":"csp_Miaobo","searchable":1,"quickSearch":1,"filterable":1},
     {"key":"drpy_js_FreeOK","name":"FreeOK[js]","type":3,"api":"https://hjdhnx.github.io/dr_py/libs/drpy2.min.js","ext":"https://hjdhnx.github.io/dr_py/js/FreeOK.js"},
     {"key":"drpy_js_饭团影视","name":"饭团[js]","type":3,"api":"https://hjdhnx.github.io/dr_py/libs/drpy2.min.js","ext":"https://hjdhnx.github.io/dr_py/js/饭团影视.js"},
     {"key": "速度", "name": "速度", "type": 3, "api": "csp_XBPQ", "ext": {"站名": "子子影视", "嗅探词":".mp4#m3u8","主页url": "http://sudu.hdvod.top", "分类": "电影$1#电视剧$2#综艺$4#动漫$3", "分类url": "http://sudu.hdvod.top/index.php/vod/show/area/{area}/id/{cateId}/page/{catePg}/year/{year}.html;;m"}},    
@@ -13,7 +15,7 @@
     {"key":"csp_Lib","name": "🌟Libvio┃直连","type": 3,"api": "csp_Libvio","searchable": 1,"quickSearch": 1,"filterable": 1,"ext":"https://tv.libvio.cc/"},
     {"key":"csp_zxzj","name":"📗在线┃直连","type":3,"api":"csp_Zxzj","searchable":1,"filterable":1,"ext":"https://www.zxzj.pro/"},
     {"key":"csp_zxzjH3","name":"📗在线H3┃影视","type":3,"api":"csp_ZxzjH3","searchable":0,"filterable":1,"ext":"https://www.zxzjhd.com"},
-    {"key":"csp_AppTT","name":"🐰图图┃APP","type":3,"api":"csp_AppTT","searchable":1,"quickSearch":1,"filterable":1,"ext":"SldYWXFabkhXTWlsTlpMdFNSSyN0ek1JdzlJQVJSY00=$$$Q01pbkowUzdvNnNZWk1WVw==$$$aHR0cDovL2FwaS50dDU4LnR2L2NvbmZpZy9uZXd0di5qc29uP3NzPQ=="},      
+    {"key":"csp_AppTT","name":"🐰图图┃APP","type":3,"api":"csp_AppTT","searchable":1,"quickSearch":1,"filterable":1,"ext":"U2c3aDRRb0xMQnpWVjRhY1NSSyNIdW8wTkVCZG91ZWw=$$$U3FYMms0cWJZR2kzbzZzWQ==$$$aHR0cDovL2FwaS50dDU4LnR2L2NvbmZpZy9uZXd0di5qc29uP3NzPQ=="},      
     {"key":"csp_如如","name":"🏵如如┃App","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://cms.maoyingshi.cc/api.php/app/"},
     {"key":"熊熊","name":"熊熊","type":1,"api":"https://v.3412.net.cn/macapi.php/provide/vod","playUrl":"https://player.i597.cc/?url=","searchable":1,"changeable":1},
     {"key":"csp_BuLei","name":"💢布雷┃直连","type":3,"api":"csp_BuLei","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://饭太硬.ml/$$$auto$$$sdlw1111$$$qqaa1122"},
