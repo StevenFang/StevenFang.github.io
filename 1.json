@@ -1,6 +1,6 @@
 {
     "spider":"https://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431;md5;a4c63fe74439b399ccd4eaaf4c639588",
-    "lives":[{"name":"Live","type":0,"url":"https://agit.ai/fantaiying/fmm/raw/branch/main/tv/m3u/global.m3u","epg":"https://epg.112114.xyz/?ch={name}&date={date}"],
+    "lives":[{"name":"Live","type":0,"url":"https://agit.ai/fantaiying/fmm/raw/branch/main/tv/m3u/global.m3u","epg":"https://epg.112114.xyz/?ch={name}&date={date}"}],
     "wallpaper":"http://www.kf666888.cn/api/tvbox/img",
     "sites": [
     {"key":"t4douban","name":"豆瓣","type":4,"api":"https://t4.secan.icu/vod","searchable":0,"filterable":1},
