@@ -1,5 +1,5 @@
 {
-    "spider":"https://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431;md5;a4c63fe74439b399ccd4eaaf4c639588",
+    "spider":"https://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431;md5;09baf4a03d362d96f0fc14085c343191",
     "lives":[{"name":"Live","type":0,"url":"https://agit.ai/fantaiying/fmm/raw/branch/main/tv/m3u/global.m3u","epg":"https://epg.112114.xyz/?ch={name}&date={date}"}],
     "wallpaper":"http://www.kf666888.cn/api/tvbox/img",
     "sites": [
@@ -7,9 +7,10 @@
     {"key":"MV_vod","name":"👀┃MV┃视频","type":1,"api":"https://tvbox-mv--leosam2048.repl.co/mv/vod","searchable":1,"playerType":1,"filterable":1},
     {"key":"csp_WoGG","name":"阿里云┃4K","type":3,"api":"csp_WoGG","searchable":1,"changeable":0,"filterable":1,"ext":"http://127.0.0.1:9978/file/tvfan/token.txt+4k|fhd|auto$$$http://tvfan.xxooo.cf/"},
     {"key":"csp_Dy1010","name":"❤️双十┃直连","type":3,"api":"csp_Dy1010","searchable":1,"filterable":1},
+    {"key":"csp_DuoX","name":"💢布蕾┃APP","type":3,"api":"csp_DuoX","searchable":1,"filterable":1},
     {"key":"csp_fantuan","name":"🍙饭团┃直连","type":3,"api":"csp_Fantuan","searchable":1,"filterable":1,"ext":"https://www.fantuanhd.com"},    
     {"key":"drpy_js_新视觉","name":"新视觉","type":3,"api":"https://hjdhnx.github.io/dr_py/libs/drpy2.min.js","ext":"https://hjdhnx.github.io/dr_py/js/新视觉影视.js"},    
-    {"key":"csp_Xinsj","name":"🐼新视觉┃直连","type":3,"api":"csp_Xinsj","searchable":0,"filterable":1,"ext":"https://www.6080yy3.com/"},    
+    {"key":"csp_Xinsj","name":"🐼新视觉┃直连","type":3,"api":"csp_Xinsj","searchable":1,"filterable":1,"ext":"https://www.6080yy3.com/"},    
     {"key":"奇优影院","name":"奇优","type":3,"api":"csp_XBPQ","ext":"https://bitbucket.org/xduo/json/raw/master/奇优影院.json"},
     {"key":"csp_DiDuan","name":"⏮️低端┃直连","type":3,"api":"csp_Ddrk","searchable":1,"filterable":1},
     {"key":"csp_Czsapp","name":"📔厂长┃直连","type":3,"api":"csp_Czsapp","searchable":1,"filterable":1},
@@ -19,7 +20,6 @@
     {"key":"drpy_js_FreeOK","name":"FreeOK[js]","type":3,"api":"https://hjdhnx.github.io/dr_py/libs/drpy2.min.js","ext":"https://hjdhnx.github.io/dr_py/js/FreeOK.js"},    
     {"key":"csp_zxzj","name":"📗在线┃直连","type":3,"api":"csp_Zxzj","searchable":1,"filterable":1,"ext":"https://www.zxzj.pro/"},
     {"key":"csp_如如","name":"如意┃App","type":3,"api":"csp_AppYsV2","searchable":1,"filterable":1,"ext":"http://cms.maoyingshi.cc/api.php/app/"},
-    {"key":"csp_DuoX","name":"💢多线┃APP","type":3,"api":"csp_DuoX","searchable":1,"filterable":1},
     {"key":"多米蓝光","name":"🌽️┃多米┃影视","type":3,"api":"csp_AppYsV2","searchable":1,"filterable":1,"ext":"http://vod.dmdh.top:5680/api.php/app/"},       
     {"key":"csp_Bd","name":"💥哔嘀┃直连","type":3,"api":"csp_Bdys01","searchable":1,"filterable":1},
     {"key":"csp_BuLei","name":"💣布雷┃直连","type":3,"api":"csp_BuLei","searchable":1,"filterable":1,"ext":"http://饭太硬.ml/$$$auto$$$sdlw1111$$$qqaa1122"},
