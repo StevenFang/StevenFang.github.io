@@ -14,7 +14,7 @@
     {"key":"csp_DiDuan","name":"⏮️低端┃直连","type":3,"api":"csp_Ddrk","searchable":1,"filterable":1},
     {"key":"奇优影院","name":"奇优","type":3,"api":"csp_XBPQ","ext":"https://bitbucket.org/xduo/json/raw/master/奇优影院.json"},    
     {"key":"厂长","name":"厂长","type":3,"api":"https://hjdhnx.github.io/dr_py/libs/drpy2.min.js","ext":"https://hjdhnx.github.io/dr_py/js/厂长资源.js"},
-    {"key":"速看","name":"速看","type":3,"api":"https://hjdhnx.github.io/dr_py/libs/drpy2.min.js","ext":"https://hjdhnx.github.io/dr_py/js/速看100[V2].js"}
+    {"key":"速看","name":"速看","type":3,"api":"https://hjdhnx.github.io/dr_py/libs/drpy2.min.js","ext":"https://hjdhnx.github.io/dr_py/js/速看100[V2].js"},
     {"key":"北川","name":"北川","type":3,"api":"https://hjdhnx.github.io/dr_py/libs/drpy2.min.js","ext":"https://hjdhnx.github.io/dr_py/js/北川.js"},
     {"key":"csp_Lib","name": "🌟Libvio┃直连","type": 3,"api": "csp_Libvio","searchable": 1,"filterable": 1,"ext":"https://www.libvio.cc/"},    
     {"key":"子子影视","name":"子子","type":3,"api":"https://hjdhnx.github.io/dr_py/libs/drpy2.min.js","ext":"https://hjdhnx.github.io/dr_py/js/子子影视.js"},
