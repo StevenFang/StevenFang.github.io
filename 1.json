@@ -1,5 +1,5 @@
 {
-    "spider":"https://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431;md5;6fb0a205b857f35e165a5f8cb2f8056d",
+    "spider":"https://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431;md5;a5eaab0a824b174e0024d75e1d8731ff",
     "lives":[{"name":"Live","type":0,"url":"https://agit.ai/fantaiying/fmm/raw/branch/main/tv/m3u/global.m3u","epg":"https://epg.112114.xyz/?ch={name}&date={date}"}],
     "wallpaper":"http://www.kf666888.cn/api/tvbox/img",
     "sites": [
@@ -7,6 +7,7 @@
     {"key":"MV_vod","name":"👀┃MV┃视频","type":1,"api":"https://tvbox-mv--leosam2048.repl.co/mv/vod","searchable":1,"playerType":1,"filterable":1},
     {"key":"csp_WoGG","name":"阿里云┃4K","type":3,"api":"csp_WoGG","searchable":1,"changeable":0,"filterable":1,"ext":"http://127.0.0.1:9978/file/tvfan/token.txt+4k|fhd|auto$$$http://tvfan.xxooo.cf/"},
     {"key":"探探","name":"🏵探探┃App","type":3,"api":"csp_YT","searchable":1,"quickSearch":1,"filterable":1},
+    {"key":"陌陌","name":"蘑菇","type":3,"api":"csp_MmYs","searchable":1,"quickSearch":1,"filterable":1},
     {"key":"csp_Dy1010","name":"❤️双十┃直连","type":3,"api":"csp_Dy1010","searchable":1,"filterable":1},
     {"key":"csp_DuoX","name":"💢布蕾┃APP","type":3,"api":"csp_DuoX","searchable":1,"filterable":1},
     {"key":"csp_fantuan","name":"🍙饭团┃直连","type":3,"api":"csp_Fantuan","searchable":1,"filterable":1,"ext":"https://www.fantuan3.com"},
