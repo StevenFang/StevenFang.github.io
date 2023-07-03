@@ -4,7 +4,8 @@
     "wallpaper":"http://www.kf666888.cn/api/tvbox/img",
     "sites": [
     {"key":"t4douban","name":"豆瓣","type":3,"api":"http://v.tvfan.top:88/tvbox/js/drpy.min.js","ext":"http://v.tvfan.top:88/tvbox/js/drpy.js","searchable":0,"filterable":1},
-    {"key":"MV_vod","name":"👀┃MV┃视频","type":1,"api":"https://tvbox-mv--leosam2048.repl.co/mv/vod","searchable":1,"playerType":1,"filterable":1},
+    {"key":"csp_Nbys","name":"🛫泥巴┃飞","type":3,"api":"csp_NiNi","searchable":1,"filterable":1},    
+    {"key":"MV_vod","name":"👀┃MV┃视频","type":1,"api":"https://tvbox-mv--leosam2048.repl.co/mv/vod","searchable":1,"playerType":1,"filterable":1,"changeable":0},
     {"key":"csp_WoGG","name":"阿里云┃4K","type":3,"api":"csp_WoGG","searchable":1,"changeable":0,"filterable":1,"ext":"http://127.0.0.1:9978/file/tvfan/token.txt+4k|fhd|auto$$$http://tvfan.xxooo.cf/"},
     {"key":"探探","name":"🏵探探┃App","type":3,"api":"csp_YT","searchable":1,"quickSearch":1,"filterable":1},
     {"key":"陌陌","name":"蘑菇","type":3,"api":"csp_MmYs","searchable":1,"quickSearch":1,"filterable":1},
@@ -44,7 +45,6 @@
     {"key":"csp_panghu","name":"🐯胖虎┃直连","type":3,"api":"csp_Panghu","searchable":1,"filterable":1},
     {"key":"csp_555","name":"5️⃣️555┃直连","type":3,"api":"csp_Ys555","searchable":1,"filterable":1,"ext":"https://www.555dyy1.com"},
     {"key":"csp_YQKAPP","name":"🎉一起看┃App","type":3,"api":"csp_YQKAPP","playerType":2,"searchable":1,"filterable":1,"ext":"https://api-aws.11ty.top"},
-    {"key":"csp_Nbys","name":"🛫泥巴┃飞","type":3,"api":"csp_NiNi","searchable":1,"filterable":1},
     {"key":"YiSo","name":"😹易搜┃搜索","type":3,"api":"csp_YiSo","searchable":1,"filterable":0,"changeable":0,"ext":"http://127.0.0.1:9978/file/tvfan/token.txt+4k|fhd|auto"},
     {"key":"Zhaozy","name":"🐺找资源┃搜索","type":3,"api":"csp_Zhaozy","searchable":1,"filterable":0,"changeable":0,"ext":"http://127.0.0.1:9978/file/tvfan/token.txt+4k|fhd|auto$$$fanfan$$$qqq111"},
     {"key":"PanSou","name":"🦊盘搜┃搜索","type":3,"api":"csp_PanSou","searchable":1,"filterable":0,"changeable":0,"ext":"http://127.0.0.1:9978/file/tvfan/token.txt+4k|fhd|auto"},
