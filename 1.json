@@ -3,7 +3,7 @@
     "lives":[{"name":"Live","type":0,"url":"https://agit.ai/fantaiying/fmm/raw/branch/main/tv/m3u/global.m3u","epg":"https://epg.112114.xyz/?ch={name}&date={date}"}],
     "wallpaper":"http://www.kf666888.cn/api/tvbox/img",
     "sites": [
-    {"key":"t4douban","name":"豆瓣","type":3,"changeable":1,"api":"http://v.tvfan.top:88/tvbox/js/drpy.min.js","ext":"http://v.tvfan.top:88/tvbox/js/drpy.js","searchable":0,"filterable":1},
+    {"key":"t4douban","name":"豆瓣","type":3,"changeable":1,"api":"https://pan.shangui.cc/f/x7pBUZ/drpy.min.js","ext":"https://pan.shangui.cc/f/bA8Qc1/drpy.js","searchable":0,"filterable":1},
     {"key":"csp_Nbys","name":"🛫泥巴┃飞","type":3,"changeable":1,"api":"csp_NiNi","searchable":1,"filterable":1},    
     {"key":"MV_vod","name":"👀┃MV┃视频","type":1,"api":"https://tvbox-mv--leosam2048.repl.co/mv/vod","searchable":1,"playerType":1,"filterable":1,"changeable":0},
     {"key":"csp_WoGG","name":"阿里云┃4K","type":3,"api":"csp_WoGG","searchable":1,"changeable":0,"filterable":1,"ext":"http://127.0.0.1:9978/file/tvfan/token.txt+4k|fhd|auto$$$http://tvfan.xxooo.cf/"},
