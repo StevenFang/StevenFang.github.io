@@ -1,5 +1,5 @@
 {
-    "spider":"https://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431;md5;53c068a1f4c2de11d1160e4dbd0ddb0a",
+    "spider":"https://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431;md5;88c55af008dbd9344f3cf95e6f426a2a",
     "lives":[{"name":"Live","type":0,"url":"https://agit.ai/fantaiying/fmm/raw/branch/main/tv/m3u/global.m3u","epg":"https://epg.112114.xyz/?ch={name}&date={date}"}],
     "wallpaper":"http://www.kf666888.cn/api/tvbox/img",
     "sites": [
@@ -32,12 +32,10 @@
     {"key":"csp_apple","name":"🍎苹果┃App","type":3,"changeable":1,"api":"csp_LiteApple","playerType":1,"searchable":1,"filterable":1},
     {"key":"csp_Bttoo","name":"✌BTtwo┃直连","type":3,"changeable":1,"api":"csp_Bttwoo","searchable":1,"filterable":1},    
     {"key":"csp_77","name":"七七","type":3,"changeable":1,"api":"csp_Kunyu77","searchable":1,"filterable":1},
-    {"key":"csp_AppTT","name":"🐰图图┃APP","type":3,"changeable":1,"api":"csp_AppTT","searchable":1,"filterable":1,"ext":"U2c3aDRRb0xMQnpWVjRhY1NSSyNIdW8wTkVCZG91ZWw=$$$U3FYMms0cWJZR2kzbzZzWQ==$$$aHR0cDovL2FwaS50dDU4LnR2L2NvbmZpZy9uZXd0di5qc29uP3NzPQ=="},    
     {"key":"csp_Vofl","name":"🎈Voflix┃直连","type":3,"changeable":1,"api":"csp_Voflix","searchable":1,"filterable":1},
     {"key":"csp_kuaikan","name":"👀快看┃App","type":3,"changeable":1,"api":"csp_Kuaikan","searchable":1,"filterable":1},
     {"key":"csp_Cokemv","name":"📕可乐┃直连","type":3,"changeable":1,"api":"csp_Cokemv","playerType":2,"searchable":1,"filterable":1},    
     {"key":"csp_AppMr","name":"👻明明┃App","type":3,"changeable":1,"api":"csp_AppMr","searchable":1,"filterable":1},
-    {"key":"黄黄","name":"😎黄黄┃App","api":"csp_AppYsV2","type":3,"changeable":1,"filterable":1,"searchable":1,"ext":"https://yayayaaapp.ynf.icu/api.php/app/"},    
     {"key":"csp_Smdyy","name": "🐴神马┃直连","type":3,"changeable":1,"api": "csp_Smdyy","searchable": 1,"filterable": 1},
     {"key":"csp_Nmys","name":"🌾农民┃直连","type":3,"changeable":1,"api":"csp_Nmys","searchable":1,"filterable":1,"ext":"http://饭太硬.top/x/json/nmys.json"},
     {"key":"csp_Ysgc","name":"🏭工厂┃直连","type":3,"changeable":1,"api":"csp_Ysgc","searchable":1,"filterable":1,"ext":"https://www.ysgc.vip"},
@@ -59,10 +57,12 @@
     {"key":"csp_Anime1","name":"🐾Anime1┃SP","type":3,"changeable":1,"api": "csp_Anime1","searchable":1,"filterable": 1},
     {"key":"csp_Yj1211","name":"📽️直播聚合┃SP","type":3,"changeable":0,"api": "csp_Yj1211","searchable":1,"filterable": 1}
     ],
-    "rules":[{"name":"量子","hosts":["vip.lz","hd.lz"],"regex":["#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:6.433333,[\\s\\S]*?#EXT-X-DISCONTINUITY"]},{"name":"非凡","hosts":["vip.ffzy","hd.ffzy"],"regex":["#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:6.666667,[\\s\\S]*?#EXT-X-DISCONTINUITY"]},{"name":"海外看","hosts":["haiwaikan.com"],"regex":["#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:9.175833,[\\s\\S]*?#EXT-X-DISCONTINUITY","#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:9.175832,[\\s\\S]*?#EXT-X-DISCONTINUITY"]}],
+    "rules":[{"name":"量子","hosts":["vip.lz","hd.lz"],"regex":["#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:6.433333,[\\s\\S]*?#EXT-X-DISCONTINUITY","#EXTINF.*?\\s+.*?1o.*?\\.ts\\s+"]},{"name":"非凡","hosts":["vip.ffzy","hd.ffzy"],"regex":["#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:6.666667,[\\s\\S]*?#EXT-X-DISCONTINUITY","#EXTINF.*?\\s+.*?1o.*?\\.ts\\s+"]},{"name":"火山","hosts":["huoshan.com"],"regex":["item_id="]},{"name":"抖音","hosts":["douyin.com"],"regex":["is_play_url="]}],
     "ads":["wan.51img1.com","iqiyi.hbuioo.com","vip.ffzyad.com","https://lf1-cdn-tos.bytegoofy.com/obj/tos-cn-i-dy/455ccf9e8ae744378118e4bd289288dd"], 
     "parses":[
-    {"name":"左岸","type":0,"url":"https://jx.jsonplayer.com/player/?url="},
-    {"name":"来自","type":0,"url":"http://www.miaoys.cc/vip/?url="}
+    {"name":"1","type":1,"url":"http://1.117.111.78:93/home/api?type=ys&uid=230629&key=公众号【影视范】&url="},
+    {"name":"2","type":1,"url":"http://json.g9.pub:66/?url=","ext":{"header":{"User-Agent":"okhttp/4.1.0"}}},    
+    {"name":"3","type":0,"url":"https://jx.jsonplayer.com/player/?url="},
+    {"name":"4","type":0,"url":"http://www.miaoys.cc/vip/?url="}
     ]
 }
