@@ -22,7 +22,7 @@
     {"key":"速看","name":"速看","type":3,"changeable":1,"api":"https://hjdhnx.github.io/dr_py/libs/drpy2.min.js","ext":"https://hjdhnx.github.io/dr_py/js/速看100[V2].js"},
     {"key":"北川","name":"北川","type":3,"changeable":1,"api":"https://hjdhnx.github.io/dr_py/libs/drpy2.min.js","ext":"https://hjdhnx.github.io/dr_py/js/北川.js"},
     {"key":"子子影视","name":"子子","type":3,"changeable":1,"api":"https://hjdhnx.github.io/dr_py/libs/drpy2.min.js","ext":"https://hjdhnx.github.io/dr_py/js/子子影视.js"},
-    {"key":"drpy_js_FreeOK","name":"FreeOK[js]","type":3,"changeable":1,"api":"https://hjdhnx.github.io/dr_py/libs/drpy2.min.js","ext":"https://hjdhnx.github.io/dr_py/js/FreeOK.js"},    
+    {"key":"星影","name":"星影","type":3,"changeable":1,"api":"https://hjdhnx.github.io/dr_py/libs/drpy2.min.js","ext":"https://agit.ai/xiaohewanwan/TVBox/raw/branch/master/js/xx.js"},    
     {"key":"csp_zxzj","name":"📗在线┃直连","type":3,"changeable":1,"api":"csp_Zxzj","searchable":1,"filterable":1,"ext":"https://www.zxzj.pro/"},
     {"key":"酷酷","name":"💡酷酷┃App","type":3,"changeable":1,"api":"csp_AppYsV2","ext":"http://ys.realdou.cn/api.php/app/","categories":["4K电影","4K电视剧"]},
     {"key":"黄黄","name":"😎迪迪┃App","api":"csp_AppYsV2","type":3,"changeable":1,"filterable":1,"searchable":1,"ext":"https://api123.adys.app/xgapp.php/v3/"},     
