@@ -26,7 +26,7 @@
     {"key":"酷酷","name":"💡酷酷┃App","type":3,"changeable":1,"api":"csp_AppYsV2","ext":"http://ys.realdou.cn/api.php/app/","categories":["4K电影","4K电视剧"]},
     {"key":"黄黄","name":"😎迪迪┃App","api":"csp_AppYsV2","type":3,"changeable":1,"filterable":1,"searchable":1,"ext":"https://api123.adys.app/xgapp.php/v3/"},     
     {"key":"csp_Bd","name":"💥哔嘀┃直连","type":3,"changeable":1,"api":"csp_Bdys01","searchable":1,"filterable":1},
-    {"key":"drpy_js_HDmoli","name":"HDmoli[js]","type":3,"changeable":1,"api":"https://hjdhnx.github.io/dr_py/libs/drpy2.min.js","ext":"https://hjdhnx.github.io/dr_py/js/HDmoli.js"},
+    {"key":"北川","name":"北川","type":3,"changeable":1,"api":"https://hjdhnx.github.io/dr_py/libs/drpy2.min.js","ext":"https://hjdhnx.github.io/dr_py/js/北川影视.js"},
     {"key":"drpy_js_花猫TV","name":"花猫TV[js]","type":3,"changeable":1,"api":"https://hjdhnx.github.io/dr_py/libs/drpy2.min.js","ext":"https://hjdhnx.github.io/dr_py/js/花猫TV.js"},
     {"key":"csp_apple","name":"🍎苹果┃App","type":3,"changeable":1,"api":"csp_LiteApple","playerType":1,"searchable":1,"filterable":1},
     {"key":"csp_Bttoo","name":"✌BTtwo┃直连","type":3,"changeable":1,"api":"csp_Bttwoo","searchable":1,"filterable":1},    
