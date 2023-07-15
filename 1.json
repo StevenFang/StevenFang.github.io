@@ -1,6 +1,6 @@
 {
-    "spider":"https://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431;md5;f024a5e507951d3c20514202aa6cf5fe",
-    "lives":[{"name":"Live","type":0,"url":"https://xhdwc.tk/tvlive.txt","epg":"https://epg.112114.xyz/?ch={name}&date={date}"}],
+    "spider":"https://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431;md5;25c5d6aaa6858cc5b9a088b98947e06b",
+    "lives":[{"name":"Live","type":0,"url":"https://xhdwc.tk/tvlive.txt","logo":"https://epg.112114.xyz/logo/{name}.png","epg":"https://epg.112114.xyz/?ch={name}&date={date}"}],
     "wallpaper":"http://www.kf666888.cn/api/tvbox/img",
     "sites": [
     {"key":"js豆瓣","name":"推荐|豆瓣","type":4,"changeable":1,"api":"https://t4.secan.icu/vod","searchable":1},    
