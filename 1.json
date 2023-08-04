@@ -12,6 +12,7 @@
     {"key":"csp_Lib","name": "🌟Libvio┃直连","type":3,"changeable":1,"api": "csp_Libvio","searchable":1,"ext":"https://www.libvio.fun/"},
     {"key":"csp_Auete","name":"🏝Auete┃直连","type":3,"changeable":1,"api":"csp_Auete","searchable":1},
     {"key":"陌陌","name":"蘑菇","type":3,"changeable":1,"api":"csp_MmYs","searchable":1},
+    {"key":"酷酷","name":"酷影┃App","type":3,"api":"csp_Kuying","searchable":1,"changeable":1},
     {"key":"csp_Dy1010","name":"❤️双十┃直连","type":3,"changeable":1,"api":"csp_Dy1010","searchable":1},
     {"key":"csp_fantuan","name":"🍙饭团┃直连","type":3,"changeable":1,"api":"csp_Fantuan","searchable":1,"ext":"https://www.fantuan3.com"},
     {"key":"csp_Xinsj","name":"🐼新视觉┃直连","type":3,"changeable":1,"api":"csp_Xinsj","searchable":1,"ext":"https://www.6080yy3.com/"},   
