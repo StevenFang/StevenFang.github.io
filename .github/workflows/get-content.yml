@@ -1,15 +1,26 @@
 name: 定时更新
+
 on:
   schedule:
     - cron: '0 0 * * *'
   workflow_dispatch:
 
 jobs:
-  job1:
-    name: 获取网页内容
+  build:
     runs-on: ubuntu-latest
+
     steps:
-      - name: 安装 okhttp 和 json 库
-        run: sudo apt-get update && sudo apt-get install -y okhttp json
-      - name: 获取网页内容
-        run: echo '{"request": {"method": "GET", "url": "http://xhww.fun:63/小米/DEMO.json"}}' | okhttp -D user-agent=okhttp/4.11.0 -X POST -b - | json > 1.json
+    - name: Checkout
+      uses: actions/checkout@v2
+
+    - name: Get website content
+      run: |
+        curl -A "okhttp/4.11.0" http://xhww.fun:63/小米/DEMO.json -o 1.json
+
+    - name: Commit and push if it's not a fork
+      if: github.event_name == 'schedule' && github.repository == github.event.repository.full_name
+      run: |
+        git config --local user.email "action@github.com"
+        git config --local user.name "GitHub Action"
+        git add 1.json
+        git diff --quiet && git diff --staged --quiet || (echo 'Committing changes...' && git commit -m 'Update website content' && git push)
