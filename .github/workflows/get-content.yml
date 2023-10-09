@@ -9,7 +9,7 @@ jobs:
     name: 获取网页内容
     runs-on: ubuntu-latest
     steps:
-      - name: 安装 curl
-        run: sudo apt-get update && sudo apt-get install -y curl
+      - name: 安装 okhttp 和 json 库
+        run: sudo apt-get update && sudo apt-get install -y okhttp json
       - name: 获取网页内容
-        run: curl -s "http://xhww.fun:63/小米/DEMO.json" > ./1.json
+        run: echo '{"request": {"method": "GET", "url": "http://xhww.fun:63/小米/DEMO.json"}}' | okhttp -D user-agent=okhttp/4.11.0 -X POST -b - | json > 1.json
