@@ -5,17 +5,11 @@ on:
   workflow_dispatch:
 
 jobs:
-  get-content:
+  job1:
+    name: 获取网页内容
     runs-on: ubuntu-latest
     steps:
-      - name: 获取内容
-        run: |
-          import requests
-          url = 'http://xhww.fun:63/小米/DEMO.json'
-          headers = {'User-Agent': 'okhttp/4.11.0'}
-          response = requests.get(url, headers=headers)
-          content = response.content
-
-      - name: 写入文件
-        run: |
-          echo "${content}" > ./1.json
+      - name: 安装 curl
+        run: sudo apt-get update && sudo apt-get install -y curl
+      - name: 获取网页内容
+        run: curl -s "http://xhww.fun:63/小米/DEMO.json" > ./1.json
