@@ -23,5 +23,4 @@ jobs:
         git config --local user.email "action@github.com"
         git config --local user.name "GitHub Action"
         git add 1.json
-        git commit -m 'Update website content'
-        git push
+        git diff --quiet && git diff --staged --quiet || (echo 'Committing changes...' && git commit -m 'Update website content' && git push)
