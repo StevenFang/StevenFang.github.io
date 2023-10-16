@@ -1,5 +1,5 @@
 {
-     "spider": "https://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431;md5;5388d60fb0519fa359339c3252fa5e69",
+    "spider": "https://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431;md5;e60ee56ecb22ea3575471e7dd9e0c338",
     "wallpaper": "http://饭太硬.top/深色壁纸/api.php",
     "sites": [
         {
@@ -44,7 +44,7 @@
             "quickSearch": 1,
             "filterable": 1,
             "jar": "http://xhww.fun:63/小米/ab.jar;md5;6f9b5a1696e0a8164210fbe6ac9f4ccf",
-            "ext": "http://yycms.77ev.cn/api.php/app/"
+            "ext": "http://106.52.241.21:83/api.php/app/"
         },
         {
             "key": "saohuo",
@@ -56,7 +56,7 @@
             "jar": "http://xhww.fun:63/小米/ab.jar;md5;6f9b5a1696e0a8164210fbe6ac9f4ccf",
             "api": "csp_XBPQ",
             "ext": {
-                "分类url": "https://saohuo.vip/list/{cateId}-{catePg}.html;;r1da",
+                "分类url": "https://shdy2.com/list/{cateId}-{catePg}.html;;r1da",
                 "分类": "电影$1#电视剧$2#韩剧$22#美剧$23#动漫$4",
                 "ocr": "https://api.xhofe.top/ocr/b64/text",
                 "数组二次截取": "class=\"v_list\">&&</ul>",
@@ -106,7 +106,7 @@
             "playerType": 2,
             "ext": "FbjDcUxPqpfNr0QF4QvE6sExbctTA5hPEi0VqbGzxElfS8iS6G6dxFvYo6amRiS2bHOKw3Esnj46QzIsRoZ8bk4fG4OYi0iCaWwRj2ddkaM/FqHtLjQhalHiNTh6w9P3uBbzOpYja64omwk1u3D/dlZ+e5i4lng3PuAGTEUBPE34oPNY9+tFWr0Ibd9pVxAueSBD3QUsYQDulUET8DZ4nPtGpPvrhlgkKksJ9s4mWmxer4u57B2OO9qc8jua09TybbufTjMaeJGQem8U1MtbZnyk1e3UtOPZyIlX24R7PWpyLc4U0VzmkquLAB3kRiQZa1pOYUYuwm6vu/8spvSLhGbMhy+5bLc5qpPAk0mnh1ezzPQa03Cfg3JV6WGwrolC1+3/"
         },
-        {"key":"追忆影视","name":"追忆┃影视","type":3,"jar": "http://xhww.fun:63/小米/ab.jar;md5;6f9b5a1696e0a8164210fbe6ac9f4ccf","api":"csp_Appto","ext":"|NZWNwN0ZXZE02WTRreHpXY2ZmNjJwY0RjWGlZN2ZmQWF8aHR0cDovLzIyMi4yMTEuNzMuMTU3OjExMjIvYXBwdG8vdjE"},{"key":"喵喵影视","name":"喵喵┃影视","jar": "http://xhww.fun:63/小米/ab.jar;md5;6f9b5a1696e0a8164210fbe6ac9f4ccf","type":3,"api":"csp_Appto","ext":"u9EeKUf0q%2BcHjaLXiEz6jDnDeRG2wkm0Kpfm%2BoYiwhK0cRB7pv67WkSSYftOH5B%2F34pZsGU9WMNDBMrAMJDuSguA6FMrMZlnKl2PyXRaU3Y6FAqwrx7nBXrbAECecty5qEjoGGs39zYgew2KdnNWeA%3D%3D|BNndaaFlRcDdFc1BSWHluU2pHbWE1RlhyUkQ3RlNkU1h8aHR0cDovLzE3Mi4yNDcuNDQuMTgyOjk5ODgvYXBwdG8vdjE="},
+     {"key":"喵喵影视","name":"喵喵┃影视","jar": "http://xhww.fun:63/小米/ab.jar;md5;6f9b5a1696e0a8164210fbe6ac9f4ccf","type":3,"api":"csp_Appto","ext":"u9EeKUf0q%2BcHjaLXiEz6jDnDeRG2wkm0Kpfm%2BoYiwhK0cRB7pv67WkSSYftOH5B%2F34pZsGU9WMNDBMrAMJDuSguA6FMrMZlnKl2PyXRaU3Y6FAqwrx7nBXrbAECecty5qEjoGGs39zYgew2KdnNWeA%3D%3D|BNndaaFlRcDdFc1BSWHluU2pHbWE1RlhyUkQ3RlNkU1h8aHR0cDovLzE3Mi4yNDcuNDQuMTgyOjk5ODgvYXBwdG8vdjE="},
         {
             "key": "一起看 ",
             "name": "🎉一起┃App",
@@ -145,6 +145,16 @@
             "quickSearch": 1,
             "changeable": 1,
             "ext": "https://www.maolvys.com/"
+        },
+        {
+            "key": "JOJO",
+            "name": "JOJO┃App",
+            "type": 3,
+            "api": "http://xhww.fun:63/小米/jojo.js",
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 1,
+            "ext": ""
         },
         {
             "key": "csp_Czsapp",
@@ -282,49 +292,7 @@
                 "分类url": "https://www.nkvod.com/show/{cateId}--{by}}------{catePg}---{year}.html"
             }
         },
-        {
-            "key": "csp_XBP南坊",
-            "name": "南坊┃直连",
-            "type": 3,
-            "jar": "./jars/csp_XBP南坊.jar",
-            "api": "csp_XBPQ",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": {
-                "站名": "南坊影视",
-                "主页url": "https://www.nfapp.fun/appto/v1/home/cateData?id=1",
-                "请求头": "User-Agent$Dart/2.10 (dart:io)",
-                "二次截取": "\"data\"*[&&]",
-                "数组": "{&&}[替换:mac>>http]",
-                "图片": "\"vod_pic\"*\"&&\"",
-                "标题": "\"vod_name\"*\"&&\"",
-                "副标题": "\"vod_remarks\"*\"&&\"",
-                "链接": "https://www.nfapp.fun/appto/v1/vod/getVod?id=+\"vod_id\":&&,+&__platform=android&__ic=mssY6U737YHaGX4OjrBG8dnK8QrSnWRVo24nsmBF3LCxbm6oI23agJvbenxkbUneTU7oe4X%2F0N2hN%2BPw%2FxQiIVH%2BG7P4Yx0pESg0pQuc6PET1TqEiszTGAj%2Bay0GAXU1FlfHtuzo8zyrK1KkerSdLQ%3D%3D",
-                "线路数组": "\"player_info\":{&&}",
-                "线路标题": "\"show\"*\"&&\"",
-                "导演": "vod_director\"*\"&&\"",
-                "主演": "vod_actor\"*\"&&\"",
-                "简介": "vod_blurb\"*\"&&\"",
-                "播放二次截取": "&&[替换]",
-                "播放数组": "urls*\\[&&\\]",
-                "播放列表": "{&&}",
-                "跳转播放链接": "\"url\"*\"&&\"",
-                "播放标题": "\"name\"*\"&&\"",
-                "跳转解析": "默认$空#主线[B]$http://110.42.3.71:5000/api/jiexi/xg?Key=IljsrKnj7T0M38IEWh&url=",
-                "播放链接": "解析+\"url\"*\"&&\"",
-                "搜索url": "https://www.nfapp.fun/appto/v1/vod/getVodSearch?wd={wd}&page=1&type",
-                "搜索模式": "1",
-                "搜索二次截取": "\"data\"*[&&]",
-                "搜索数组": "{&&}",
-                "搜索图片": "\"vod_pic\"*\"&&\"[替换:mac>>http]",
-                "搜索标题": "\"vod_name\"*\"&&\"",
-                "搜索副标题": "\"vod_remarks\"*\"&&\"",
-                "搜索链接": "https://www.nfapp.fun/appto/v1/vod/getVod?id=+\"vod_id\":&&,+&__platform=android&__ic=mssY6U737YHaGX4OjrBG8dnK8QrSnWRVo24nsmBF3LCxbm6oI23agJvbenxkbUneTU7oe4X%2F0N2hN%2BPw%2FxQiIVH%2BG7P4Yx0pESg0pQuc6PET1TqEiszTGAj%2Bay0GAXU1FlfHtuzo8zyrK1KkerSdLQ%3D%3D",
-                "分类url": "https://www.nfapp.fun/appto/v1/vod/getLists?area={area}&lang={lang}&year={year}&type_id={cateId}&area=&order=time&type_name=&page={catePg}&pageSize=21;;u0",
-                "分类": "电影$2#电视剧$1#综艺$4#动漫$3"
-            }
-        },
+        
         {
             "key": "子子",
             "name": "子子┃BPQ",
@@ -555,13 +523,7 @@
                 "二次跳转播放链接": "\"url\"*\"&&\""
             }
         },
-        {
-            "key": "直播转点播",
-            "name": "电视┃直播",
-            "type": 3,
-            "api": "./api/直播转点播2.js",
-            "ext": "./json/直播.json"
-        },
+        
         {
             "key": "速搜",
             "name": "速搜┃BPQ",
@@ -1149,7 +1111,7 @@
         {
             "name": "世界🥭",
             "type": 1,
-            "url": "http://175.178.183.192:84/api/?key=f3913eb3f85a8298b3e6e427b8712b2e&url=",
+            "url": "http://175.178.183.192:86/api/?key=b832096861839f56066bf4ae7a0d7be0&url=",
             "ext": {
                 "flag": [
                     "qq",
@@ -1161,7 +1123,7 @@
         {
             "name": "比u比u🥭",
             "type": 1,
-            "url": "http://111.231.2.179//?url=",
+            "url": "",
             "ext": {
                 "flag": [
                     "qq",
@@ -1231,9 +1193,11 @@
         {
             "name": "wn",
             "hosts": [
-                "vip.123pan.cn"
+                "vip.123pan.cn",
+                "rescdn.wuxivlog.cn"
             ],
             "regex": [
+                "#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:20.840000,[\\s\\S]*?#EXT-X-DISCONTINUITY",
                 "#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:10.120000,[\\s\\S]*?#EXT-X-DISCONTINUITY",
                 "#EXTINF.*?\\s+.*?1o.*?\\.ts\\s+"
             ]
