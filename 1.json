@@ -55,9 +55,9 @@
 			"jar": "http://xhww.fun:63/小米/ab1.jar;md5;d043db482b513572cbc6531d337c711b",
 			"api": "csp_XBPQ",
 			"ext": {
-				"分类url": "https://shdy2.com/list/{cateId}-{catePg}.html;;r1da",
+			    "嗅探词":"m3u8#mp4",
+				"分类url": "https://shdy2.com/list/{cateId}-{catePg}.html;;r1dau0",
 				"分类": "电影$1#电视剧$2#韩剧$22#美剧$23#动漫$4",
-				"ocr": "https://api.xhofe.top/ocr/b64/text",
 				"数组二次截取": "class=\"v_list\">&&</ul>",
 				"数组": "\"v_img\"&&/div>",
 				"标题": "title=\"&&\"",
