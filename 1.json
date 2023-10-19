@@ -42,7 +42,7 @@
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 1,
-			"jar": "http://xhww.fun:63/小米/ab12.jar;md5;d043db482b513572cbc6531d337c711b",
+			"jar": "http://xhww.fun:63/小米/ab.jar;md5;6d660515cdcf798d0816bd300f2eeae2",
 			"ext": "http://106.52.241.21:83/api.php/app/"
 		},
 		{
@@ -52,10 +52,10 @@
 			"searchable": 1,
 			"quickSearch": 1,
 			"playerType": "2",
-			"jar": "http://xhww.fun:63/小米/ab11.jar;md5;41462cffb79f8bb10fb5250cc3e2e170",
+			"jar": "http://xhww.fun:63/小米/ab.jar;md5;6d660515cdcf798d0816bd300f2eeae2",
 			"api": "csp_XBPQ",
 			"ext": {
-			    "嗅探词":"m3u8#mp4",
+			    "嗅探词":".m3u8#mp4#.m3u8?",
 				"分类url": "https://shdy2.com/list/{cateId}-{catePg}.html;;r1dau0",
 				"分类": "电影$1#电视剧$2#韩剧$22#美剧$23#动漫$4",
 				"数组二次截取": "class=\"v_list\">&&</ul>",
@@ -290,7 +290,7 @@
 			"key": "JOJO",
 			"name": "JOJO┃BPQ",
 			"type": 3,
-			"jar": "http://xhww.fun:63/小米/ab1.jar;md5;6f9b5a1696e0a8164210fbe6ac9f4ccf",
+			"jar": "http://xhww.fun:63/小米/ab12.jar;md5;41462cffb79f8bb10fb5250cc3e2e170",
 			"api": "csp_XBPQ",
 			"searchable": 1,
 			"quickSearch": 1,
@@ -320,7 +320,7 @@
 			"searchable": 1,
 			"changeable": 1,
 			"quickSearch": 1,
-			"ext": "https://cz01.pw/",
+			"ext": "https://www.czzy88.com/",
 			"filterable": 1
 		},
 		{
@@ -369,6 +369,7 @@
 				"动漫"
 			]
 		},
+		
 		{
 			"key": "Xinsj",
 			"name": "视觉┃直连",
