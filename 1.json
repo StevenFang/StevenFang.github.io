@@ -132,7 +132,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "changeable": 1,
-            "ext": "FbjDcUxPqpfNr0QF4QvE6sExbctTA5hPEi0VqbGzxElfS8iS6G6dxFvYo6amRiS2bHOKw3Esnj46QzIsRoZ8bk4fG4OYi0iCaWwRj2ddka4wFqHtLjQhalHiNTh6w9Of9ADGP70IR6Z3jEgnqm+oREdxZJm8nktRA8E9V38KMk34oPdI8ugMCclsIKNWf0oEEFd7jQg+J06kiGg57gdJuphV2ODd3REMVHU34759SkYEr7GD0jCiO/TMpAnm1emAQazjYwcmYLuSflAsqMVHYxrRyfbS3OLioIlQzOBbFGItBtIH0Vv1gtD3PSTJGX1waF9CIXAG1ybvpNQq5OyVk3/tqSSPCtQmk6jE/gGfgSfZweIe2DCznW9/i0bY8Zgs2L/Ux6Y8yI2fjwRz6k++NcfQIj0sZjnpv7JmoMO+HfQ+lqOrJrQFpYIooi6do62qP/B0Je3Vy3A="
+            "ext": "pbM7swoYcMwhlvQpaoG2Jd/6X2Jd13bHC2Aahc26fZ/idbImlEWVen1XgZcBp3yqv/dv+LwjZdqA6dEPlrD7nM4qD8TjoujS0A0H2Wu8/3J/92iQ364AuVy9ELVKbf3bx5k5Vs7aQch8g1pdki1lQf/SbxTNhTUgWxdhaY4433vESg1GeKVXRJpz1dBlbl4iFc4XVfz2mQrBITIlnn9uLqrEuwBpal3HPeGa/uKaqTRgnwn7g1Y9JUK+NjfU3XDvzGAMW4eZ57tDXsIkBRsVaQQAY8rkU3F1LLi8Hb/g7AYdScOIxxqmuh9l2Ci+h3nzTDG2t4ZAnenfod3YVyAxtGWHSLlBttuvcuu2o6J63QC9qowfj/sE5aeWMMooKEwicHTA11ZGk3nDDvX3ZiUlqvEwZ4UJuAlrTt10GV5o8+S8KqSXfn1QGQCYsOJk4pUNOwP+u1jAARfvdgKzF4Q8Y+KDVclGdWvVQ7gGrqrgQu8DNt9gcpD6bQFM3DBkjOOzhDC96tcMhSSlcwEQnj8E+BqolN1r8IYlt6dKmX5OhnBV9UxZ26k1ORQ9bHI3L2bh9lPpTXHlIifXIEuVKgjKcE7GHaYJls1zZGCMtU3mKOWsrgtB07XnMkTxrbeA8atoTnJZzSW6+8zbe1V8j6LdFaCfyjHcl0dSjPvUKqdpfBAA="
         },
 		{
 			"key": "橘子",
@@ -144,16 +144,7 @@
 			"changeable": 1,
 			"ext": "FbjDcUxPqpfNr0QF4QvE6sExbc1AGIRPUzIPtbexyEhcScOf53TW0F+D7rX5HCm9c3SL03FsmGsmXS04XZMlbxEVW4/ZgwONbnobxj8KzfJ8GvG6ETdzBCbfFw0WuoidvgjRb4EpUL8NqDk4unKXRBhjcoD99QoAIMsLc24lek3u9uBO+6JFAf41Z7sYL00hBBNM3xJsYyXCuX4BrzNYpZRwmfepqhEHQ08b/50BTD4Smp257RWMVpiQ1Tu3ht+MPo7oQAceapuyQGcL2fslXXHVrrb+9pyjtI9Qzph9HFoNJPIj5EXV+qGRI0CjSm9Dbm5nQFlZ6G2jvORw+5LMziXmuxDZH4U7qpnfjh/8hAu18546qyGmiWVI2mfDrKkVmeLq1KFA0rA="
 		},
-		 {
-            "key": "伊人",
-            "name": "伊人┃App",
-            "type": 3,
-            "api": "csp_AppMao",
-            "searchable": 1,
-            "quickSearch": 1,
-            "changeable": 1,
-            "ext": "FbjDcUxPqpfNr0QF4QvE6sExbdNRCYYRDm4TsLq0wUJWQNbPrS+dwlqC76K9AyqwdDOMy2knm2EiXG8sW5g6aRAKRJjRnA/LOWYSnzESgu5FcYzNNG0xf0roJwduq4GBwQbeWKtxcqo79EgUmk7wBAMaZaqxv0MMB5dPInMBPwj4oPNY9+tFWr1sZPUWRk05bRxflgcCQg7kmHtl4gEYx5tMq/vShEkoZE45l40NTUAGsbOf4i+SQPTRyR7qlo+cV4WBYm4fabOOK2gUwMdqZn7P8u3StM3Sk8ps5+RaATUfFuU1+0/f847wGAW7SmBGalhgcQsG2RPKhagprd32llnF+1i1CLkWiYTK/QyhtCfS+tl+jAy/0UlG7Fq1kZlC1+2steoOnaic6WQq9F2nYpq7a3QVfAbWyvIP+/mhJrtEycOuc999pfBr4Ub+yNWhIq06XaaI3EDX8h/oclhtPP9fIlIhPPNgZO/XgdX80PcGXcTIWl8DR+FW+NoZjzcXq7OcD0dUFMueE5ZrJSRVLEAAhzFhoC3qYpmCY6xDrcbPMXuUKB0LcE9qyfm9cw0EjDJZyt2PsVT3JxLuXjMgv0cdhPu2rxnJ36urzE1RBmNugqEbsINIg+pun7OUaS3KO4jwHZOxvHmrGLdzQzxgZxgwG5Z8t4e08xaRZXOd1ujQ/ZNncMJrpVQhY50nmk1+MmPHw5qapafKYcsoRMMM1d7R742jf7MMtSgdFXU/bxzyhaXS5F7mXCee3u5TGKtBujCsllb+9igo+ZO9ThCEx07MrJ7TMEHHBrtYDaoFiOfBRLGzrvXlAcZ0QI2pDiED6vcJTJwEs4mpEPwKFawqojXYteQ0x0NSPvk3XLyMkuMCLdyL9JWKJTh2rTor4R5q5VkYgBIqpFOxIdNtJlr0RYBXf69Do7jNWNxGSYfMO/Qns/JD"
-        },
+		 
 		{
 			"key": "喵喵影视1",
 			"name": "喵喵┃影视",
