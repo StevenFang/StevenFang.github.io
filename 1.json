@@ -226,7 +226,7 @@
             "name": "美剧┃影视",
             "type": 3,
             "api": "csp_XBPQ",
-            "jar": "http://xhww.fun:63/小米/ab12.jar;md5;41462cffb79f8bb10fb5250cc3e2e170",
+            "jar": "http://xhww.fun:63/小米/ab13.jar;md5;41462cffb79f8bb10fb5250cc3e2e170",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
@@ -259,7 +259,7 @@
                 "搜索图片": "\"vod_pic\":\"&&\"",
                 "搜索标题": "\"vod_name\"*\"&&\"",
                 "搜索副标题": "\"vod_remarks\"*\"&&\"",
-                "搜索链接": "http://172.247.44.75:8083/appto/v1/vod/getVod?id=+\"vod_id\":&&,",
+               
                 "分类url": "http://172.247.44.75:8083/appto/v1/vod/getLists?area={area}&lang={lang}&year={year}&type_id={cateId}&area=&order=time&type_name=&page={catePg}&pageSize=21;;u0",
                 "分类": "短剧$41#电影$1#电视剧$2#动漫$4"
             }
