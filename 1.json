@@ -1,5 +1,5 @@
 {
-"spider": "https://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431;md5;60a9856a6deb7dcff27f3056626bbb5a",
+ "spider": "https://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431;md5;8f8f0f3cb3d1c025746ffb35b22748a5",
 	"wallpaper": "http://饭太硬.top/深色壁纸/api.php",
 	"sites": [{
 			"key": "豆豆",
@@ -25,15 +25,15 @@
 			"ext": "https://agit.ai/fantaiying/fty/raw/branch/master/json/bilibili.json"
 		},
 		{
-			"key": "csp_WoGG",
-			"name": "🎬玩偶┃阿里🎉",
-			"type": 3,
-			"api": "csp_WoGG",
-			"changeable": 0,
-			"searchable": 1,
-			"quickSearch": 1,
-			"ext": "http://127.0.0.1:9978/file/tvboxqq/token.txt+4k|fhd|auto$$$http://tvfan.xxooo.cf/"
-		},
+            "key": "csp_WoGG",
+            "name": "玩偶┃4K(弹幕测试)",
+            "type": 3,
+            "api": "csp_WoGG",
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 0,
+            "ext": "http://127.0.0.1:9978/file/tvfan/token.txt+4k|auto|fhd$$$弹"
+        },
 		{
 			"key": "世界",
 			"name": "世界┃聚合",
