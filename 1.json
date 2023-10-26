@@ -32,7 +32,7 @@
 			"searchable": 1,
 			"quickSearch": 1,
 			"changeable": 0,
-			"ext": "http://127.0.0.1:9978/file/tvfan/token.txt+4k|auto|fhd$$$http://fd.888484.xyz:33/$$$弹"
+			"ext": "http://127.0.0.1:9978/file/tvfan/token.txt+4k|auto|fhd$$$http://fd.888484.xyz:33/$$$关"
 		},
 		{
 			"key": "世界",
@@ -45,6 +45,15 @@
 			"jar": "http://xhww.fun:63/小米/ab13.jar;md5;52a96f8841a0b952cbab5af9420be0f5",
 			"ext": "http://106.52.241.21:83/api.php/app/"
 		},
+		{
+    "key":"csp_woggcli",
+    "name":"玩偶┃T4T4",
+    "type":4,
+    "api":"http://home.jundie.top:9520/spider/csp_Wogg?sort=原画,蓝光,超清,高清&token=8e14121f900f4bdfb861306f7a67b17c",
+    "searchable":1,
+    "quickSearch":1,
+    "filterable":1
+}, 
 		{
 			"key": "saohuo",
 			"name": "骚火┃直连",
