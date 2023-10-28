@@ -26,13 +26,13 @@
 		},
 		{
 			"key": "csp_WoGG",
-			"name": "玩偶┃4K(弹幕测试)",
+			"name": "玩偶┃4K(弹幕)",
 			"type": 3,
 			"api": "csp_WoGG",
 			"searchable": 1,
 			"quickSearch": 1,
 			"changeable": 0,
-			"ext": "http://127.0.0.1:9978/file/tvfan/token.txt+4k|auto|fhd$$$http://www.wogg.xyz/$$$关"
+			"ext": "http://127.0.0.1:9978/file/tvfan/token.txt+4k|auto|fhd$$$http://www.wogg.xyz/$$$弹幕"
 		},
 		{
 			"key": "世界",
@@ -53,6 +53,25 @@
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 1
+		},
+		{
+			"key": "csp_77",
+			"name": "七七┃APP",
+			"type": 3,
+			"api": "csp_Kunyu77",
+			"searchable": 1,
+			"quickSearch": 1,
+			"changeable": 1
+		},
+		{
+			"key": "Xinsj",
+			"name": "视觉┃直连",
+			"type": 3,
+			"api": "csp_Xinsj",
+			"searchable": 1,
+			"quickSearch": 1,
+			"changeable": 1,
+			"ext": "https://www.6080yy3.com"
 		},
 		{
 			"key": "saohuo",
@@ -102,7 +121,15 @@
 				"简介": "<p>&&</p>"
 			}
 		},
-
+			{
+			"key": "Auete",
+			"name": "奥特┃直连",
+			"type": 3,
+			"api": "csp_Auete",
+			"searchable": 1,
+			"quickSearch": 1,
+			"changeable": 1
+		},
 		{
 			"key": "Mino",
 			"name": "Mino┃App",
@@ -133,7 +160,6 @@
 			"changeable": 1,
 			"ext": "FbjPcVZY48PN/RIZ5UWFro5tctBJAZhIEz5OvLqy0VZGH5/R/mCR2kPI46ezGyKoem+Vym4tmTJ5Gio/CM0pPlNKXd+d2hTULzhB0SoYmLd4"
 		},
-
 		{
 			"key": "一念",
 			"name": "一念┃App",
@@ -144,44 +170,6 @@
 			"changeable": 1,
 			"ext": "pbM7swoYcMwhlvQpaoG2Jd/6X2Jd13bHC2Aahc26fZ/idbImlEWVen1XgZcBp3yqv/dv+LwjZdqA6dEPlrD7nM4qD8TjoujS0A0H2Wu8/3J/92iQ364AuVy9ELVKbf3bx5k5Vs7aQch8g1pdki1lQf/SbxTNhTUgWxdhaY4433vESg1GeKVXRJpz1dBlbl4iFc4XVfz2mQrBITIlnn9uLqrEuwBpal3HPeGa/uKaqTRgnwn7g1Y9JUK+NjfU3XDvzGAMW4eZ57tDXsIkBRsVaQQAY8rkU3F1LLi8Hb/g7AYdScOIxxqmuh9l2Ci+h3nzTDG2t4ZAnenfod3YVyAxtGWHSLlBttuvcuu2o6J63QC9qowfj/sE5aeWMMooKEwicHTA11ZGk3nDDvX3ZiUlqvEwZ4UJuAlrTt10GV5o8+S8KqSXfn1QGQCYsOJk4pUNOwP+u1jAARfvdgKzF4Q8Y+KDVclGdWvVQ7gGrqrgQu8DNt9gcpD6bQFM3DBkjOOzhDC96tcMhSSlcwEQnj8E+BqolN1r8IYlt6dKmX5OhnBV9UxZ26k1ORQ9bHI3L2bh9lPpTXHlIifXIEuVKgjKcE7GHaYJls1zZGCMtU3mKOWsrgtB07XnMkTxrbeA8atoTnJZzSW6+8zbe1V8j6LdFaCfyjHcl0dSjPvUKqdpfBAA="
 		},
-		{
-			"key": "喵喵影视1",
-			"name": "喵喵┃影视",
-			"type": 3,
-			"jar": "http://xhww.fun:63/小米/ab2.jar;md5;77a7f4d8c203027fe8e07c916276e879",
-			"api": "csp_Appto",
-			"playerType": 2,
-			"ext": "XRZspkas5l6NsZJWpEURh6BqKRxqCIw3QY+Bj3/9Gbahdt/I/fP2xq6LIBnrWE8xh45v/vHcmXllR1G9Po2b5t7Z8VyUowvfHsXJA/bkW7XAzegsRcxq8ZqYgUtJTGeh4UtuRrbaaKK5cL96vwgHLQ9hOn8jppN5pZgJ3ZsWQuocwI45MZOaQqi7aNyJmi0PxTt07Djk0kqVoxoHrNGjT2BH7H4K65HXLRMWhyrWswhbnSciFfwjen91iAeJaMuwqQEWSRhShJWb6WTtjXghM8JBksS0432c31evYyFEEq5yiCHTpSm35nFsLmwiI2Q0F20FTMvOA8xIKqGyazVjCVUN3gc0LDqnLWBLFdxsJHh6asndaxPCn7UitiRVuW0Ans3FzhINr5QayshrUtqJHan9h7ItRlx8XkvCh83eWkuRoGBiPC4X/mcbrawRwOM04jIRiRhJl9Dit+b5Rw35Ugvd8qzARtaLkecNFS54zX1UfVJecKBrqSyl0dx8pk2EyG1vZZ0NnnZ2JMuBvywc0gxO45mAnyMM46+igcv76u4DkqA0wFVKHtLXu5TNbOZOfLnnMChe0PdbnQva25mMHgtHYHfZbYlldh6fPdMOidoaiyg+Yd/n1xgoo16k9zclT+ioH6OBrsKG2GYlFVFxLI4bwm+v6zk237jlWXg5bj4Q="
-		},
-
-		{
-			"key": "布蕾影视",
-			"name": "布蕾┃影视",
-			"jar": "http://xhww.fun:63/小米/ab2.jar;md5;77a7f4d8c203027fe8e07c916276e879",
-			"type": 3,
-			"api": "csp_Appto",
-			"playerType": 2,
-			"ext": "WORXxxNkZ/qIm9P8Q2CsQoHSoD56ZMjPXTU1XhPjBeTgzFGjCvpUyPqE5Y6dWiwsSE/vPkW5b5oKcPiZVQlCfWmB6remhL7Xulwt9IU0jcZWpgqVp4RlS9Gi2C93UCL4i0XMpJFs0RIuS38ZfeBZcdLUOpBR+7XyE/MH6biUdL5TcOBRw+7DiK6M3KAckWDoWEn3Jc6WSCvUb+h6tHJPAoh6l8+fmTJZc+R+M4vRLjSmxS7LuK1PSBEwrh9Qaw+DEQPLSzq0fZPCR5BKmkV0YZnpys/ds+JBC0AS/bRNU9RYTOANYj4Im9cOnoy0Qsl1wwycAQ3PVkDCYbNaRQhUgCb/epnIgxjuqwTqWZPByZbOSA0COoCzA6K6MCUftxSJAKaMCOsUuWuorH9qSIMmQ6IFvQr+4JhTrtpZvF3aU2HWDDgCJZxRTS4jnRhYvgwUEQ0JZlUzinPnaPP/8oCwl+OM2qsNXAYoGCReqFrX0iMZbPs2BNcTjACIo8WAEQJiZgfl1FYOVnc4vnq4W0bT37mSqssct47Ri29fzaiQS9LizQEUZs3Fq3l0V1u71z9SnRW66v/IgNXQWyHFp4Y8p6BY9YmDj0OwK1TrzyMkD5yDz354kF4LMCm1NfV69DGIDhMX9m2+tmbHiQIwiMCL+DYWOSzSVb9M4tJOvQgO+5L2zYiuXc+7Q38GmNW6V400Nw/e+4sCX/uP/Fh4QnwarO2dN64WuSgUlLeDItGd4PcM86KlXRDWxt7hvJQ/TQWE/cRO726YUDeAqAOeoGQuRGiViHDrDqWF1OpSJxzpX/Re6CgYYFb5aulcJBDcoapdkpNAE1Ub3uynJpQl9N97cwtPJa0KOGMlho4pjPU3eVuNlWmFUwLBpH59v6EOO5l0a0Ds1du+GDhiCdaOZyinMTS1H4ft7mFxVZjN/xS1iSt/lYZGyDwhwqFyUHCRvCBLXNEq4iD/FW5zu78v1ktWaNilXePWcih5Sf50Laob5Fl6URRDBvRg9xGQiUsWWSAOFJ2yWAwOn5VY6Xrs8wxhbefROlbVilFdVQ3xlQEoaCNL8UA6WGpib+av4k+JGkA0FssuXJH+YAw2wRGCnvenLf/n5oRY9UKWfx2Oo6gMicFPRUEo7k1oyYPN5DalAMG9+bqnGmoxRd2P+sLVodbtJ+IpQh3dGYcd479mjLSrJVbpbSwcDekLNn0ulABDXM+0UEoec/uSBLB+eaYUh6XgCzSredKyBDaSrr6gy1EcekfmHez0Q4k0JoWl3EqKpkLyoevW9rBpTgNsBXcx4jvpIejDmJMzXGdPVdTP8SS50PQceGczP4+VAkD0NKa9SKHZLGf5Q4pKqd4+NI902VSow5g=="
-		},
-		{
-			"key": "JOJO",
-			"name": "︎JOJO┃直连",
-			"type": 3,
-			"api": "csp_JOJO",
-			"searchable": 1,
-			"quickSearch": 1,
-			"changeable": 1
-		},
-		{
-			"key": "艾艾",
-			"name": "艾艾┃App",
-			"type": 3,
-			"jar": "http://xhww.fun:63/小米/ab2.jar;md5;77a7f4d8c203027fe8e07c916276e879",
-			"api": "csp_Appto",
-			"playerType": 2,
-			"ext": "hcAuLY8Gg7Eb0oRkB84jw+9rQLeiFinDuZH5RMmF6KKO8irmlYhtPQnzRpQe4LPY98R+w/5FmQ0qHpjZJi2IO6Jhj3g50wP9mK/hGAw0EyahT8kphU0Uq+3kgSSMo7xszUGN9EwRotCqpXDfs2g4Cb/mdPhy8Q3I+QIck7eFAPLquyGgZS9WsK/GEwH5WbMKWMQxEhakYUrj0NV1WwSeHOVAuhsgn+Pewj71uD4AOk2UzeTmLbhwvqrRo5zcYCdCzh+e3pUpbuAtK/zaxi7r64ASfqb64bP8TPizK03pSz4b5ksSfBXaFY9HgVOl1ybO7EZS5fttTHxgPNslV+JC3Xhci41Dw8TnXR4ou92WZsj+X9bJAJlDOmLERN0e8hael2DuBA1AR1HaYpSbxPioonGsbr3SheAKfra/RvtjVXciKokPaWRxCNPSlZF8+wKsr9UG4IC35I07Xf5VHfdr9fOH1cCxi+JIS6tZDWg3B858ae1tm24USJsLnHhx2gG/j0X+h0Z4uCCA/uFPqJNZZJ56EqiyG3ZHfdDr0hwKbPTXi1IYSzLz/sYovi1dubRG+ht7C4yaYaZgjllWpkM2i8sG9vvpzF0YXuPrCDEg0B2x+KFpgnMZ2sfY864BRWI5z7JMt4rZhiE2la+PJ3Bw5e+C5/o8UJ4iR0CsirL03EFU="
-		},
-
 		{
 			"key": "追忆影视",
 			"name": "追忆┃影视",
@@ -274,16 +262,6 @@
 			"changeable": 1
 		},
 		{
-			"key": "csp_77",
-			"name": "七七┃APP",
-			"type": 3,
-			"api": "csp_Kunyu77",
-			"searchable": 1,
-			"quickSearch": 1,
-			"changeable": 1
-		},
-
-		{
 			"key": "毛驴",
 			"name": "毛驴┃App",
 			"type": 3,
@@ -305,15 +283,7 @@
 			"ext": "https://www.czzy88.com/",
 			"filterable": 1
 		},
-		{
-			"key": "Auete",
-			"name": "奥特┃直连",
-			"type": 3,
-			"api": "csp_Auete",
-			"searchable": 1,
-			"quickSearch": 1,
-			"changeable": 1
-		},
+	
 		{
 			"key": "csp_Nmys",
 			"name": "农民┃直连",
@@ -350,16 +320,6 @@
 				"综艺",
 				"动漫"
 			]
-		},
-		{
-			"key": "Xinsj",
-			"name": "视觉┃直连",
-			"type": 3,
-			"api": "csp_Xinsj",
-			"searchable": 1,
-			"quickSearch": 1,
-			"changeable": 1,
-			"ext": "https://www.6080yy3.com"
 		},
 		{
 			"key": "云播",
@@ -421,31 +381,6 @@
 			}
 		},
 		{
-			"key": "耐看",
-			"name": "耐看┃BPQ",
-			"type": 3,
-			"changeable": 1,
-			"jar": "http://xhww.fun:63/小米/ab13.jar;md5;52a96f8841a0b952cbab5af9420be0f5",
-			"api": "csp_XBPQ",
-			"playerType": "1",
-			"ext": {
-				"影片类型": "<div class=\"module-blocklist\">&&</div>",
-				"导演": "导演：&&</div>",
-				"主演": "主演：&&</div>",
-				"嗅探词": ".mp4#.m3u8",
-				"过滤词": "aa.m3u8zy.fun",
-				"简介": "video-info-item video-info-content vod_content\">&&</span>",
-				"标题": "title=\"&&\"",
-				"链接": "href=\"&&\"",
-				"搜索图片": "http://xhww.fun:63/小米/4.jpeg",
-				"线路数组": "module-tab-item tab-item&&</div>",
-				"线路标题": "<span>&&</small>[替换:</span><small>>>共]+集",
-				"请求头": "User-Agent$Mozilla/5.0 (Macintosh; Intel Mac OS X 10_7_0) AppleWebKit/535.11 (KHTML, like Gecko) Chrome/17.0.963.56 Safari/535.11",
-				"分类": "动漫$4#国产剧$13#电视剧$2#电影$1#综艺$3",
-				"分类url": "https://www.nkvod.com/show/{cateId}--{by}}------{catePg}---{year}.html"
-			}
-		},
-		{
 			"key": "淘剧",
 			"name": "淘剧┃BPQ",
 			"type": 3,
@@ -494,43 +429,6 @@
 			"quickSearch": 1,
 			"filterable": 1,
 			"ext": "http://api.jialiangos.com:81/api.php/app/"
-		},
-		{
-			"key": "348",
-			"name": "348┃蓝光",
-			"type": 3,
-			"api": "csp_XBPQ",
-			"jar": "http://xhww.fun:63/小米/ab13.jar;md5;52a96f8841a0b952cbab5af9420be0f5",
-			"ext": {
-				"头部集合": "User-Agent$Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.107 Safari/537.36#Referer$https://www.348z.pro/",
-				"站名": "348电影网",
-				"主页url": "https://www.348z.com",
-				"免嗅": "1",
-				"嗅探词": ".m3u8#cn-beijing-data.aliyundrive.net#.mp4#alicloudccp.com",
-				"导演": "导演：</span>&&</p",
-				"主演": "主演：</span>&&</p",
-				"副标题": "class=\"pack-prb hidden\">&&</span>",
-				"简介": "简介：</span>&&</p>",
-				"数组": "class=\"aplus-exp ecimgbor&&</a>",
-				"图片": "data-original=\"&&\"",
-				"标题": "title=\"&&\"",
-				"线路名二次截取": "<div class=\"cf swiper-wrapper\">&& <div id=\"tagContent",
-				"线路数组": "<a class=\"channelname swiper-slide&&/a>",
-				"线路标题": "&nbsp;&&<",
-				"播放请求头": "User-Agent$Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.107 Safari/537.36#Referer$https://www.348z.pro/",
-				"播放数组": "class=\"content_playlist&&</ul>",
-				"搜索url": "https://www.348z.com/vodsearch.html?wd={wd}",
-				"搜索模式": "1",
-				"搜索二次截取": "class=\"ec-search&&</ul",
-				"搜索数组": "<a&&class=\"right cor3",
-				"搜索图片": "data-original=\"&&\"",
-				"搜索标题": "title=\"&&\"",
-				"搜索副标题": "class=\"pack-prb\"&&</span",
-				"搜索链接": "href=\"&&\"",
-				"搜索链接前缀": "https://www.348z.com",
-				"分类": "电影$1#电视剧$2#综艺$3#动漫$4",
-				"分类url": "https://www.348z.com/vodshow/{area}/{class}/id/{cateId}/page/{catePg}/{year}.html;;m"
-			}
 		},
 		{
 			"key": "速搜",
@@ -739,7 +637,6 @@
 			"filterable": 1,
 			"ext": "https://api123.adys.app/xgapp.php/v3/"
 		},
-
 		{
 			"key": "dr_兔小贝",
 			"name": "儿童┃启蒙",
@@ -823,20 +720,6 @@
 			"quickSearch": 0,
 			"changeable": 0,
 			"ext": "https://agit.ai/fantaiying/fty/raw/branch/master/json/企鹅直播.json"
-		},
-		{
-			"key": "秒看资源",
-			"name": "秒看┃切片",
-			"type": 1,
-			"api": "https://www.xy1080.net/api.php/provide/vod/",
-			"searchable": 1,
-			"quickSearch": 1,
-			"categories": [
-				"综艺",
-				"电视剧",
-				"电影",
-				"动漫"
-			]
 		},
 		{
 			"key": "索尼资源",
