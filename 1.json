@@ -73,6 +73,7 @@
 			"changeable": 1,
 			"ext": "https://www.6080yy3.com"
 		},
+		{"key":"玉米","name":"玉米┃采集","type":0,"api":"http://124.222.116.5/macos/api.php/provide/vod/at/xml/","playUrl":"json:https://www.qiaoji8.com/tvbox/json.php?url=","searchable":1,"quickSearch":1,"filterable":1},
 		{
 			"key": "saohuo",
 			"name": "骚火┃直连",
