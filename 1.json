@@ -24,6 +24,15 @@
 			"changeable": 0,
 			"ext": "https://agit.ai/fantaiying/fty/raw/branch/master/json/bilibili.json"
 		},
+			{
+			"key": "csp_woggcli",
+			"name": "玩偶┃T4T4",
+			"type": 4,
+			"api": "http://home.jundie.top:9520/spider/csp_Wogg?sort=原画,蓝光,超清,高清&token=8e14121f900f4bdfb861306f7a67b17c",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1
+		},
 		{
 			"key": "csp_WoGG",
 			"name": "玩偶┃4K(弹幕)",
@@ -32,7 +41,7 @@
 			"searchable": 1,
 			"quickSearch": 1,
 			"changeable": 0,
-			"ext": "http://127.0.0.1:9978/file/tvfan/token.txt+4k|auto|fhd$$$http://www.wogg.xyz/$$$弹幕"
+			"ext": "http://127.0.0.1:9978/file/tvfan/token.txt+4k|auto|fhd$$$http://www.wogg.xyz/$$$弹"
 		},
 		{
 			"key": "世界",
@@ -46,13 +55,14 @@
 			"ext": "http://103.197.25.136:3836/api.php/app/"
 		},
 		{
-			"key": "csp_woggcli",
-			"name": "玩偶┃T4T4",
-			"type": 4,
-			"api": "http://home.jundie.top:9520/spider/csp_Wogg?sort=原画,蓝光,超清,高清&token=8e14121f900f4bdfb861306f7a67b17c",
+			"key": "南瓜",
+			"name": "南瓜┃APP",
+			"type": 3,
+			"api": "http://kudian.51qwtt.xyz/uploads/itvbox//lib/drpy2.min.js",
 			"searchable": 1,
 			"quickSearch": 1,
-			"filterable": 1
+			"filterable": 1,
+			"ext": "http://xhww.fun:63/小米/nangua.js"
 		},
 		{
 			"key": "csp_77",
@@ -71,7 +81,7 @@
 			"searchable": 1,
 			"quickSearch": 1,
 			"changeable": 1,
-			"ext": "https://www.6080yy3.com"
+			"ext": "https://www.80yy1.com/"
 		},
 		{"key":"玉米","name":"玉米┃采集","type":0,"api":"http://124.222.116.5/macos/api.php/provide/vod/at/xml/","playUrl":"json:https://www.qiaoji8.com/tvbox/json.php?url=","searchable":1,"quickSearch":1,"filterable":1},
 		{
