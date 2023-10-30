@@ -1,5 +1,5 @@
 {
-	"spider": "https://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431;md5;9b94bf80abbc161c088fed69f3afd56f",
+	"spider": "http://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431;md5;aabde6a8ab69185b3de13788799f5f53",
 	"wallpaper": "http://饭太硬.top/深色壁纸/api.php",
 	"sites": [{
 			"key": "豆豆",
@@ -24,6 +24,17 @@
 			"changeable": 0,
 			"ext": "https://agit.ai/fantaiying/fty/raw/branch/master/json/bilibili.json"
 		},
+		 {
+	  "key": "新片热播",  
+	  "name": "☄️热播┃新剧", 
+	  "type": 1, 
+	  "api": "https://api.iku.cool/api.php/provide/vod/?ac=list",   
+	  "searchable": 1,  
+	  "quickSearch": 1,
+	  "playerType":2 ,
+	  "playUrl":"https://jx.xmflv.com//?url=",
+	  "categories": ["连续剧","动漫"]
+	},
 		{
 			"key": "csp_woggcli",
 			"name": "✨玩偶┃T4T4K",
@@ -964,7 +975,7 @@
 		{
 			"name": "YuMi-vip🥭",
 			"type": 1,
-			"url": "https://api.xn--kcr500a391b.cc/api/jiexi/common?Key=zcGXEL8jGntDoi3vSR&url=",
+			"url": "https://api.json.icu//api//?key=ad766bae9d8009da0a2ba1199c55cd8e&url=",
 			"ext": {
 				"flag": [
 					"YuMi-vip"
@@ -986,7 +997,7 @@
 		{
 			"name": "比u比u🥭",
 			"type": 1,
-			"url": "",
+			"url": "https://jxjson.cf/json.php?url=",
 			"ext": {
 				"flag": [
 					"qq",
