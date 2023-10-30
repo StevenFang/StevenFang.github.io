@@ -32,7 +32,7 @@
 	  "searchable": 1,  
 	  "quickSearch": 1,
 	  "playerType":2 ,
-	  "playUrl":"https://jx.xmflv.com//?url=",
+	  "playUrl":"https://jx.xmflv.com/?url=",
 	  "categories": ["连续剧","动漫"]
 	},
 		{
@@ -971,15 +971,33 @@
 				}
 			}
 		},
-
 		{
 			"name": "YuMi-vip🥭",
-			"type": 1,
-			"url": "https://api.json.icu//api//?key=ad766bae9d8009da0a2ba1199c55cd8e&url=",
+			"type": 0,
+			"url": "https://jx.xmflv.com/?url=",
 			"ext": {
 				"flag": [
-					"YuMi-vip"
-				]
+					"爱奇艺",
+					"奇艺",
+					"qq",
+					"腾讯",
+					"youku",
+					"优酷",
+					"pptv",
+					"PPTV",
+					"letv",
+					"乐视",
+					"leshi",
+					"bilibili",
+					"哔哩哔哩",
+					"哔哩",
+					"mgtv",
+					"芒果",
+					"芒果"
+				],
+				"header": {
+					"User-Agent": "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Mobile Safari/537.36"
+				}
 			}
 		},
 		{
@@ -1083,6 +1101,16 @@
 			"regex": [
 				"#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:6.666667,[\\s\\S]*?#EXT-X-DISCONTINUITY",
 				"#EXTINF.*?\\s+.*?1o.*?\\.ts\\s+"
+			]
+		},
+		{
+			"name": "阳图",
+			"hosts": [
+				"jx.yangtu.top"
+			],
+			"regex": [
+				"download4.caiyun.feixin.10086.cn",
+				"/servlet/"
 			]
 		},
 		{
