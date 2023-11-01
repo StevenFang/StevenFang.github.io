@@ -1,5 +1,5 @@
 {
-	"spider": "http://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431;md5;aabde6a8ab69185b3de13788799f5f53",
+	"spider": "https://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431;md5;f4e31130882d034e4d097227e2c3b391",
 	"wallpaper": "http://饭太硬.top/深色壁纸/api.php",
 	"sites": [{
 			"key": "豆豆",
@@ -65,6 +65,7 @@
 			"jar": "http://xhww.fun:63/小米/暴脾气.jar;md5;9d8dd0772f214960fa8bfb0184e98644",
 			"ext": "http://103.197.25.136:3836/api.php/app/"
 		},
+		
 		{
 			"key": "南瓜",
 			"name": "🎃南瓜┃APP",
@@ -868,17 +869,6 @@
 			"ext": "http://127.0.0.1:9978/file/tvboxqq/token.txt+4k|fhd|auto$$$wudidewo$$$wudi"
 		},
 		{
-			"key": "PanSou",
-			"name": "☁️盘搜┃4┃搜",
-			"type": 3,
-			"api": "csp_PanSou",
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 0,
-			"changeable": 0,
-			"ext": "http://127.0.0.1:9978/file/tvboxqq/token.txt+4k|fhd|auto"
-		},
-		{
 			"key": "UpYun",
 			"name": "☁️Up搜┃4K搜",
 			"type": 3,
@@ -1163,7 +1153,6 @@
 
 	}],
 	"flags": [
-		"YuMi-vip",
 		"优酷视频",
 		"youku",
 		"seven",
