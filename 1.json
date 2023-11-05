@@ -1,5 +1,5 @@
 {
-	"spider": "https://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431;md5;354a9990b9ad9bfe5c009157751c7769",
+	"spider":"https://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431;md5;231137143871d75a4495b028ee317672",
 	"wallpaper": "http://饭太硬.top/深色壁纸/api.php",
 	"sites": [{
 			"key": "豆豆",
@@ -39,7 +39,7 @@
 			"key": "csp_woggcli",
 			"name": "✨玩偶┃T4T4K",
 			"type": 4,
-			"api": "http://home.jundie.top:9520/spider/csp_Wogg?sort=原画,蓝光,超清,高清&token=8e14121f900f4bdfb861306f7a67b17c",
+			"api": "http://home.jundie.top:9520/spider/csp_Wogg?sort=原画,蓝光,超清,高清&token=https://jihulab.com/0004/0/-/raw/main/tk.php",
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 1
@@ -99,7 +99,7 @@
 			"name": "🌽玉米┃采集",
 			"type": 0,
 			"api": "http://124.222.116.5/macos/api.php/provide/vod/at/xml/",
-			"playUrl": "json:https://www.qiaoji8.com/tvbox/json.php?url=",
+			"playUrl": "json:http://110.42.3.71:5000/api/jiexi/common?Key=KXQPP57nhYzmSX1DBL&url=",
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 1
