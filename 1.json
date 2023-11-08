@@ -25,15 +25,6 @@
 			"ext": "https://agit.ai/fantaiying/fty/raw/branch/master/json/bilibili.json"
 		},
 		{
-			"key": "csp_woggcli",
-			"name": "✨玩偶┃T4T4K",
-			"type": 4,
-			"api": "http://home.jundie.top:9520/spider/csp_Wogg?sort=原画,蓝光,超清,高清&token=https://jihulab.com/0004/0/-/raw/main/tk.php",
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 1
-		},
-		{
 			"key": "csp_WoGG",
 			"name": "🎈玩偶┃4K(弹幕)",
 			"type": 3,
