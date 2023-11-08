@@ -665,32 +665,6 @@
 			}
 		},
 		{
-			"key": "mougu",
-			"name": "🍄蘑菇┃BPQ",
-			"type": 3,
-			"changeable": 1,
-			//"jar": "http://xhww.fun:63/小米/暴脾气.jar;md5;bb155c3f0133bbce4756ad52003f5968",
-			"api": "csp_XBPQ",
-			"playerType": "2",
-			"ext": {
-				"主页url": "https://www.moguys.xyz",
-				"请求头": "User-Agent$Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36",
-				"副标题": "pic-text text-right\">&&</b>+<p class=\"text\">&&</p>",
-			
-				"搜索模式": "1",
-				"搜索url": "https://www.moguys.xyz/vodsearch/{wd}----------1---.html",
-				"图片": "data-original=\"&&\"",
-				"嗅探词": ".mp4#m3u8#.m3u8#/tos/",
-				"链接":"https://www.moguys.xyz/vodplay/+href=\"/voddetail/&&.html\"+-1-1.html",
-				"播放请求头": "User-Agent$Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36",
-				"影片类型": "<div class=\"module-info-tag\">&&立即播放",
-				"导演": "导演：&&</div>",
-				"主演": "主演：&&</div>",
-				"分类": "电影$movie#连续剧$tv#综艺$variety#动漫$cartoon",
-				"分类url": "https://www.moguys.xyz/vodshow/{cateId}-{area}-------{catePg}---{year}.html"
-			}
-		},
-		{
 			"key": "龟龟",
 			"name": "🐢龟龟┃BPQ",
 			"type": 3,
