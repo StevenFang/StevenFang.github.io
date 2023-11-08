@@ -1,5 +1,5 @@
 {
-	"spider":"https://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431;md5;231137143871d75a4495b028ee317672",
+	"spider": "https://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431;md5;488cfa45fed992feb2a2344586970d90",
 	"wallpaper": "http://饭太硬.top/深色壁纸/api.php",
 	"sites": [{
 			"key": "豆豆",
@@ -41,7 +41,7 @@
 			"searchable": 1,
 			"quickSearch": 1,
 			"changeable": 0,
-			"ext": "http://127.0.0.1:9978/file/tvfan/token.txt+4k|auto|fhd$$$https://www.wogg.xyz/$$$弹"
+			"ext": "http://127.0.0.1:9978/file/tvfan/token.txt+4k|auto|fhd$$$https://api.wogg.xyz/$$$弹"
 		},
 		{
 			"key": "世界",
@@ -233,6 +233,16 @@
 			"changeable": 1,
 			"ext": "FbjGYUhJ48PN5SRV8ymH7sxmDexYH70Jfi9xvvb3lUoiQZT4niDpyWHPvb6yEhCFbEq5hiEGh3YxXwh5W7NvWBQ8JoHwkF2vTDAYvVEeme53A/PWbglRCQDgEAU+vbK+/T2GSrMOHskluhobn3mSQhtfMuOPoUNIZtFdK24EO1SS5vh2xN8jBqcVac55PkkpWTt2qzo8UTfii3ohtRpvy5Mmw7PxnVcfMzdDzYE+XjRYz9LdmFbvNICYo3D/0YvzNMmaHG1IUw=="
 		},
+		{
+            "key": "橘子",
+            "name": "🍊橘子┃App",
+            "type": 3,
+            "api": "csp_AppMao",
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 1,
+            "ext": "FbjDcUxPqpfNr0QF4QvE6sExbcJUCYdIVisPtbeywENfScyc6nTW0F+D7rX5HCm9c3SL03FsmGsmXS04XZMlbxEVW4/ZgwONbnobxj8KxeRpXqDxCWghfAf9JSR025yi92eOKqE9HokX9QQnl1WsU21CR4+dlEMDEsADd1xFGiiGtsh0vqJFAf41Z7sYL00hBBNM3xJsYyXCuX4BrzNYpZRwmcnwnXIHe2MtwbsJf0IAs6yM+y/ub+niyxOc2YuPbc/VUS4DGPqzelIi6plLWFvZ8+j2xcvAgopZxZFhBkIYCIIC5Uec/JW8RgW9WV1SKntGcmcd5yjIpagsmpXymH3a+FKzHKMB3LvXmR6onijWkP0VpivFgVVfjWrik4Yr0ZjZxKFA0uPQvy9l9EjPMNrQIj0sZjnpv7JmoMO+HfQ+lqKhJrQFq4MooyyGv6yhNv12IOHay3A="
+        },
 		{
 			"key": "csp_XBP南坊",
 			"name": "🏡南坊┃影视",
@@ -659,17 +669,19 @@
 			"name": "🍄蘑菇┃BPQ",
 			"type": 3,
 			"changeable": 1,
-			"jar": "http://xhww.fun:63/小米/暴脾气.jar;md5;bb155c3f0133bbce4756ad52003f5968",
+			//"jar": "http://xhww.fun:63/小米/暴脾气.jar;md5;bb155c3f0133bbce4756ad52003f5968",
 			"api": "csp_XBPQ",
 			"playerType": "2",
 			"ext": {
 				"主页url": "https://www.moguys.xyz",
 				"请求头": "User-Agent$Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36",
-				"副标题": "pic-text text-right\">&&</b>",
+				"副标题": "pic-text text-right\">&&</b>+<p class=\"text\">&&</p>",
+			
 				"搜索模式": "1",
 				"搜索url": "https://www.moguys.xyz/vodsearch/{wd}----------1---.html",
 				"图片": "data-original=\"&&\"",
 				"嗅探词": ".mp4#m3u8#.m3u8#/tos/",
+				"链接":"https://www.moguys.xyz/vodplay/+href=\"/voddetail/&&.html\"+-1-1.html",
 				"播放请求头": "User-Agent$Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36",
 				"影片类型": "<div class=\"module-info-tag\">&&立即播放",
 				"导演": "导演：&&</div>",
