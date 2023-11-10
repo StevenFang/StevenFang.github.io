@@ -1,5 +1,5 @@
 {
-	"spider": "https://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431;md5;488cfa45fed992feb2a2344586970d90",
+	"spider": "https://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431;md5;f6ce0ce7bd8b398540be062ebef7051d",
 	"wallpaper": "http://饭太硬.top/深色壁纸/api.php",
 	"sites": [{
 			"key": "豆豆",
@@ -133,17 +133,17 @@
 				"简介": "<p>&&</p>"
 			}
 		},
-		 {
-            "key": "快影",
-            "name": "🦄️快影┃App",
-            "type": 3,
-            "api": "csp_AppYsV2",
-            "playerType": 2,
-            "searchable": 1,
-            "quickSearch": 1,
-            "changeable": 1,
-            "ext": "http://iosa.xn--654a.cc/api.php/app/"
-        },
+		{
+			"key": "快影",
+			"name": "🦄️快影┃App",
+			"type": 3,
+			"api": "csp_AppYsV2",
+			"playerType": 2,
+			"searchable": 1,
+			"quickSearch": 1,
+			"changeable": 1,
+			"ext": "http://iosa.xn--654a.cc/api.php/app/"
+		},
 		{
 			"key": "橘子",
 			"name": "🍊橘子┃App",
@@ -215,15 +215,15 @@
 			"ext": "FbjPcVZY48PN/RIZ5UWFro5tctBJAZhIEz5OvLqy0VZGH5/R/mCR2kPI46ezGyKoem+Vym4tmTJ5Gio/CM0pPlNKXd+d2hTULzhB0SoYmLd4"
 		},
 		{
-            "key": "橘子",
-            "name": "🍊橘子┃App",
-            "type": 3,
-            "api": "csp_AppMao",
-            "searchable": 1,
-            "quickSearch": 1,
-            "changeable": 1,
-            "ext": "FbjDcUxPqpfNr0QF4QvE6sExbcJUCYdIVisPtbeywENfScyc6nTW0F+D7rX5HCm9c3SL03FsmGsmXS04XZMlbxEVW4/ZgwONbnobxj8KxeRpXqDxCWghfAf9JSR025yi92eOKqE9HokX9QQnl1WsU21CR4+dlEMDEsADd1xFGiiGtsh0vqJFAf41Z7sYL00hBBNM3xJsYyXCuX4BrzNYpZRwmcnwnXIHe2MtwbsJf0IAs6yM+y/ub+niyxOc2YuPbc/VUS4DGPqzelIi6plLWFvZ8+j2xcvAgopZxZFhBkIYCIIC5Uec/JW8RgW9WV1SKntGcmcd5yjIpagsmpXymH3a+FKzHKMB3LvXmR6onijWkP0VpivFgVVfjWrik4Yr0ZjZxKFA0uPQvy9l9EjPMNrQIj0sZjnpv7JmoMO+HfQ+lqKhJrQFq4MooyyGv6yhNv12IOHay3A="
-        },
+			"key": "橘子",
+			"name": "🍊橘子┃App",
+			"type": 3,
+			"api": "csp_AppMao",
+			"searchable": 1,
+			"quickSearch": 1,
+			"changeable": 1,
+			"ext": "FbjDcUxPqpfNr0QF4QvE6sExbcJUCYdIVisPtbeywENfScyc6nTW0F+D7rX5HCm9c3SL03FsmGsmXS04XZMlbxEVW4/ZgwONbnobxj8KxeRpXqDxCWghfAf9JSR025yi92eOKqE9HokX9QQnl1WsU21CR4+dlEMDEsADd1xFGiiGtsh0vqJFAf41Z7sYL00hBBNM3xJsYyXCuX4BrzNYpZRwmcnwnXIHe2MtwbsJf0IAs6yM+y/ub+niyxOc2YuPbc/VUS4DGPqzelIi6plLWFvZ8+j2xcvAgopZxZFhBkIYCIIC5Uec/JW8RgW9WV1SKntGcmcd5yjIpagsmpXymH3a+FKzHKMB3LvXmR6onijWkP0VpivFgVVfjWrik4Yr0ZjZxKFA0uPQvy9l9EjPMNrQIj0sZjnpv7JmoMO+HfQ+lqKhJrQFq4MooyyGv6yhNv12IOHay3A="
+		},
 		{
 			"key": "csp_XBP南坊",
 			"name": "🏡南坊┃影视",
@@ -482,7 +482,7 @@
 				"播放标题": "\"name\"*\"&&\"",
 				"跳转解析": "默认$http://api.xiaomaomi.tv//api//?key=7c0a5cb3972cd036ec85a0a7b1dbdb62&url=#独家4K$http://110.42.3.71:5000/api/jiexi/common?Key=KXQPP57nhYzmSX1DBL&url=#秒播③$https://htp.behds.cn//json//qp2023//jmznjson.php?url=",
 				"播放链接": "解析+\"url\"*\"&&\"",
-				"搜索url": "http://152.136.162.128:478/appto/v1/vod/getVodSearch?wd={wd}&page=1&type",
+				"搜索url": "http://152.136.162.128:478/addons/apptov4/app.php/v1/vod/getVodSearch?wd={wd}&page=1&type",
 				"搜索模式": "1",
 				"分类url": "http://152.136.162.128:478/addons/apptov4/app.php/v1/vod/getLists?area=&lang=&year=&order=time&type_id={cateId}&type_name=&page={catePg}&pageSize=21;;u0",
 				"分类": "电影$1#电视剧$2#动漫$3#综艺$4"
@@ -523,41 +523,41 @@
 				"分类": "电影$1#电视剧$2#综艺$3#动漫$4"
 			}
 		},
-	 {
-	"key": "好戏",
-	"name": "🍺好戏┃BPQ",
-	"type": 3,
-	"jar": "http://xhww.fun:63/小米/暴脾气.jar;md5;bb155c3f0133bbce4756ad52003f5968",
-	"api": "csp_XBPQ",
-	"ext": {
-		"主页url": "https://haoxi.vip/",
-		"简介": "简介：&&</li>",
-		"导演": "导演：&&</li>",
-		"主演": "主演：&&</li>",
-		"影片状态": "状态：&&</li>",
-		"影片类型": "类型：&&</li>",
-		"影片地区": "地区：&&</li>",
-		"影片年代": "年份：&&</li>",
-		"嗅探词":"aliyuncs.com#.m3u8?#m3u8",
-		"数组": "_self\" class=\"public-list-exp\"&&</div>",
-		"标题": "title=\"&&\"",
-		"副标题": "public-list-prb hide ft2\">&&</span>",
-		"图片": "data-src=\"&&\"",
-		"搜索url": "https://haoxi.vip/vodsearch/{wd}----------1---/",
-		"搜索数组": "a target=\"_self\" class=\"public-list-exp\"&&thumb-else cor5 hide\">",
-		"搜索标题": "<a target=\"_self\" href=*>&&</a>",
-		"搜索副标题": "public-list-prb hide ft2\">&&</span>",
-		"搜索图片": "data-src=\"&&\"",
-		"线路数组": "<i class=\"fa ds-dianying\">&&/a>",
-		"线路标题": "</i>&&<",
-		"播放数组": "<ul class=\"anthology-list-play size\"&&</ul>",
-		"播放标题": ">&&</a>",
-		"播放列表": "<li&&</li>",
-		"线路二次截取": "<div class=\"swiper-wrapper\"&&</div>",
-		"分类url": "https://haoxi.vip/vodshow/{cateId}-{area}-{by}-{class}-{lang}----{catePg}---{year}/;;a",
-		"分类": "电影$1#电视剧$2#综艺$3#动漫$4#B站$5#电影解说$43"
-	}
-},
+		{
+			"key": "好戏",
+			"name": "🍺好戏┃BPQ",
+			"type": 3,
+			"jar": "http://xhww.fun:63/小米/暴脾气.jar;md5;bb155c3f0133bbce4756ad52003f5968",
+			"api": "csp_XBPQ",
+			"ext": {
+				"主页url": "https://haoxi.vip/",
+				"简介": "简介：&&</li>",
+				"导演": "导演：&&</li>",
+				"主演": "主演：&&</li>",
+				"影片状态": "状态：&&</li>",
+				"影片类型": "类型：&&</li>",
+				"影片地区": "地区：&&</li>",
+				"影片年代": "年份：&&</li>",
+				"嗅探词": "aliyuncs.com#.m3u8?#m3u8",
+				"数组": "_self\" class=\"public-list-exp\"&&</div>",
+				"标题": "title=\"&&\"",
+				"副标题": "public-list-prb hide ft2\">&&</span>",
+				"图片": "data-src=\"&&\"",
+				"搜索url": "https://haoxi.vip/vodsearch/{wd}----------1---/",
+				"搜索数组": "a target=\"_self\" class=\"public-list-exp\"&&thumb-else cor5 hide\">",
+				"搜索标题": "<a target=\"_self\" href=*>&&</a>",
+				"搜索副标题": "public-list-prb hide ft2\">&&</span>",
+				"搜索图片": "data-src=\"&&\"",
+				"线路数组": "<i class=\"fa ds-dianying\">&&/a>",
+				"线路标题": "</i>&&<",
+				"播放数组": "<ul class=\"anthology-list-play size\"&&</ul>",
+				"播放标题": ">&&</a>",
+				"播放列表": "<li&&</li>",
+				"线路二次截取": "<div class=\"swiper-wrapper\"&&</div>",
+				"分类url": "https://haoxi.vip/vodshow/{cateId}-{area}-{by}-{class}-{lang}----{catePg}---{year}/;;a",
+				"分类": "电影$1#电视剧$2#综艺$3#动漫$4#B站$5#电影解说$43"
+			}
+		},
 		{
 			"key": "云播",
 			"name": "☁️云播┃BPQ",
@@ -590,6 +590,43 @@
 				"播放列表": "<a&&/a>",
 				"分类url": "http://www.tvyb03.com/vod/show/area/{area}/by/{by}/class/{class}/id/{cateId}/lang/{lang}/page/{catePg}/year/{year}.html;;a",
 				"分类": "电影$1#电视剧$2#综艺$3#动漫$4"
+			}
+		},
+		{
+			"key": "乌鸦",
+			"name": "🐦乌鸦┃影视",
+			"type": 3,
+			"api": "csp_XBPQ",
+			"jar": "http://xhww.fun:63/小米/暴脾气.jar;md5;bb155c3f0133bbce4756ad52003f5968",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1,
+			"ext": {
+				"站名": "乌鸦影视",
+				"主页url": "https://wyys.wuyays.top/appto/v1/home/cateData?id=1",
+				"请求头": "User-Agent$Dart/2.19 (dart:io)",
+				"二次截取": "\"data\"*[&&]",
+				"数组": "{&&}",
+				"图片": "\"vod_pic\"*\"&&\"",
+				"标题": "\"vod_name\"*\"&&\"",
+				"副标题": "\"vod_remarks\"*\"&&\"",
+				"链接": "https://wyys.wuyays.top/addons/apptov4/app.php/v1/vod/getVod?id=+\"vod_id\":&&,+_platform=android&__ic=lqGGz9NM4aHVoD8jSoFFcmfeQ0zcjkG0a6dOiCPe4lHMGzMEigPzyXuhccQRZf6D75pAyu5qXZa8Woq50p8Xvf11kZq38Yk6UAkKR0nWIPWyUN%2BrL68%2FTxsj%2Fs%2F%2Bdvz3d9mhjzeyYUyI71OEzzkEnw%3D%3D",
+				"线路数组": "\"player_info\":{&&}",
+				"线路标题": "\"show\"*\"&&\"",
+				"导演": "vod_director\"*\"&&\"",
+				"主演": "vod_actor\"*\"&&\"",
+				"简介": "vod_blurb\"*\"&&\"",
+				"播放二次截取": "&&[替换]",
+				"播放数组": "urls*\\[&&\\]",
+				"播放列表": "{&&}",
+				"跳转播放链接": "\"url\"*\"&&\"",
+				"播放标题": "\"name\"*\"&&\"",
+				"跳转解析": "默认$http://122.228.193.2:3333//guanggao.php?url=#墨鸦独家$空#墨鸦VIP$http://110.42.2.247:880//analysis//json//?uid=2496&my=abefhjpvBCGJLOUWX3&format=json&url=",
+				"播放链接": "解析+\"url\"*\"&&\"",
+				"搜索url": "https://wyys.wuyays.top/addons/apptov4/app.php/v1/vod/getVodSearch?wd={wd}&page=1&type",
+				"搜索模式": "1",
+				"分类url": "https://wyys.wuyays.top/addons/apptov4/app.php/v1/vod/getLists?area=&lang=&year=&order=time&type_id={cateId}&type_name=&page={catePg}&pageSize=21;;u0",
+				"分类": "电影$1#电视剧$2#动漫$3#综艺$4"
 			}
 		},
 		{
@@ -778,7 +815,7 @@
 				"分类url": "https://www.jugege.cc/vodshow/{cateId}-{area}-{by}--{lang}----{catePg}---{year}.html"
 			}
 		},
-		
+
 		{
 			"key": "双黄",
 			"name": "🥚双黄┃BPQ",
@@ -1080,40 +1117,40 @@
 			}
 		},
 		{
-            "name": "米太硬",
-            "type": 1,
-            "url": "http://luoye.shop/jiexi/米太硬.php?url=",
-            "ext": {
-                "flag": [
-                    "qq",
-                    "腾讯",
-                    "qiyi",
-                    "爱奇艺",
-                    "奇艺",
-                    "youku",
-                    "优酷",
-                    "tucheng",
-                    "sohu",
-                    "搜狐",
-                    "letv",
-                    "乐视",
-                    "mgtv",
-                    "芒果",
-                    "tnmb",
-                    "seven",
-                    "yzm",
-                    "aliyun",
-                    "RJuMao",
-                    "bilibili",
-                    "1905",
-                    "xinvip",
-                    "XAL",
-                    "qiqi",
-                    "XALS",
-                    "YuMi-vip"
-                ]
-            }
-        },
+			"name": "米太硬",
+			"type": 1,
+			"url": "http://luoye.shop/jiexi/米太硬.php?url=",
+			"ext": {
+				"flag": [
+					"qq",
+					"腾讯",
+					"qiyi",
+					"爱奇艺",
+					"奇艺",
+					"youku",
+					"优酷",
+					"tucheng",
+					"sohu",
+					"搜狐",
+					"letv",
+					"乐视",
+					"mgtv",
+					"芒果",
+					"tnmb",
+					"seven",
+					"yzm",
+					"aliyun",
+					"RJuMao",
+					"bilibili",
+					"1905",
+					"xinvip",
+					"XAL",
+					"qiqi",
+					"XALS",
+					"YuMi-vip"
+				]
+			}
+		},
 		{
 			"name": "YuMi-vip🥭",
 			"type": 0,
