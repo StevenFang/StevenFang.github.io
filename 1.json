@@ -11,6 +11,16 @@
 			"filterable": 0
 		},
 		{
+            "key": "alist",
+            "name": "🍰小鸭┃网盘",
+            "type": 3,
+            "api": "csp_AList",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "http://xhww.fun:63/alist.json"
+        },
+		{
 			"key": "Bili",
 			"name": "🅱哔哔┃收费接口都是骗子",
 			"type": 3,
