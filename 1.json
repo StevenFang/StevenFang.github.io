@@ -79,7 +79,7 @@
 			"name": "🌽玉米┃采集",
 			"type": 0,
 			"api": "http://124.222.116.5/macos/api.php/provide/vod/at/xml/",
-			"playUrl": "json:http://luoye.shop/jiexi/米太硬.php?url=",
+			"playUrl": "json:http://110.42.3.71:5000/api/jiexi/common?Key=scR2SCxYQGqNWKLltR&url=",
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 1
@@ -1260,6 +1260,11 @@
 				"#EXTINF.*?\\s+.*?1o.*?\\.ts\\s+"
 			]
 		},
+		{
+	"name": "廣告",
+	"hosts": ["."],
+	"regex": ["#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:6.433333,[\\s\\S]*?#EXT-X-DISCONTINUITY", "#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:8,[\\s\\S]*?#EXT-X-DISCONTINUITY", "#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:7.680000,[\\s\\S]*?#EXT-X-DISCONTINUITY", "#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:6.666667,[\\s\\S]*?#EXT-X-DISCONTINUITY", "#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:15,[\\s\\S]*?#EXT-X-DISCONTINUITY", "#EXTINF.*?\\s+.*?1o.*?\\.ts\\s+", "#EXTINF.*?\\s+.*?muguacdn.*?\\.ts\\s+"]
+},
 		{
 			"name": "蜗牛直连去广",
 			"hosts": [
