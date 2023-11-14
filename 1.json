@@ -517,7 +517,7 @@
 				"播放列表": "{&&}",
 				"跳转播放链接": "\"url\"*\"&&\"",
 				"播放标题": "\"name\"*\"&&\"",
-				"跳转解析": "蓝光4K尊享$https://sp.huihuidns.cn//api//?key=gcPsa54Vu2YvkIcCB8&url=#蓝光4K自建$https://daina.hk//api//?key=e485908c5bbca313205e6dcda369258e&url=#蓝光-无广告$https://jiemi.iqiyi.lol//api//?key=YdzHhPrbldRoeTEyKU&url=#腾讯视频$https://jiemi.iqiyi.lol//api//?key=YdzHhPrbldRoeTEyKU&url=#优酷视频$https://jiemi.iqiyi.lol//api//?key=YdzHhPrbldRoeTEyKU&url=#奇艺视频$https://jiemi.iqiyi.lol//api//?key=YdzHhPrbldRoeTEyKU&url=#芒果视频$https://jiemi.iqiyi.lol//api//?key=YdzHhPrbldRoeTEyKU&url=",
+				"跳转解析": "蓝光4K尊享$https://sp.huihuidns.cn//api//?key=gcPsa54Vu2YvkIcCB8&url=#蓝光4K自建$https://daina.hk//api//?key=e485908c5bbca313205e6dcda369258e&url=#蓝光-无广告$https://jiemi.iqiyi.lol//api//?key=YdzHhPrbldRoeTEyKU&url=#腾讯视频$https://jiemi.iqiyi.lol//api//?key=YdzHhPrbldRoeTEyKU&url=#优酷视频$https://jiemi.iqiyi.lol//api//?key=YdzHhPrbldRoeTEyKU&url=#奇艺视频$https://jiemi.iqiyi.lol//api//?key=YdzHhPrbldRoeTEyKU&url=#芒果视频$https://jiemi.iqiyi.lol//api//?key=YdzHhPrbldRoeTEyKU&url=#超清-无广告②$http://110.42.2.247:880//analysis//json//?uid=2467&my=bhkmquvyCDEILNPVX7&url=",
 				"播放链接": "解析+\"url\"*\"&&\"",
 				"搜索url": "http://mengmi.yibowang.asia/appto/v1/vod/getVodSearch?wd={wd}&page=1&type",
 				"搜索模式": "1",
