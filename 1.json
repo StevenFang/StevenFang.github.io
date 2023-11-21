@@ -1284,15 +1284,7 @@
 			]
 		}
 	],
-	"lives": [{
-		"name": "live2",
-		"type": 0,
-		"url": "无",
-		"ua": "okhttp/3.12.13",
-		"epg": "http://epg.112114.xyz/?ch={name}&date={date}",
-		"logo": "https://epg.112114.xyz/logo/{name}.png"
-
-	}],
+	
 	"flags": [
 		"优酷视频",
 		"youku",
