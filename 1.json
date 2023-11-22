@@ -1175,7 +1175,7 @@
 	"lives": [{
 		"name": "live2",
 		"type": 0,
-		"url": "https://agit.ai/138001380000/MHQTV/raw/branch/master/TV/0903zh.txt",
+		"url": "https://gh-proxy.com/raw.githubusercontent.com/dxawi/0/main/tvlive.txt",
 		"ua": "okhttp/3.12.13",
 		"epg": "http://epg.112114.xyz/?ch={name}&date={date}",
 		"logo": "https://epg.112114.xyz/logo/{name}.png"
