@@ -26,7 +26,7 @@
 		},
 		{
 			"key": "alist",
-			"name": "🍰小鸭┃收费接口都是诈骗",
+			"name": "🍰小鸭┃网盘",
 			"type": 3,
 			"playerType": "1",
 			"api": "csp_AList",
@@ -42,8 +42,78 @@
 			}
 		},
 		{
+			"key": "相声",
+			"name": "📻相声┃BPQ",
+			"type": 3,
+			"searchable": 0,
+			"style": {
+				"type": "rect",
+				"ratio": 1.597
+			},
+			"quickSearch": 0,
+			"api": "csp_XBPQ",
+			"jar": "http://luoye.shop/b.jar;md5;1484e86a3a4463eaf8ef41c6832a1df0",
+			"ext": {
+				"主页url": "https://www.xsmp3.com",
+				"数组二次截取": "<ul id=\"post_list_box\">&&</ul",
+				"数组":"<li class=\"www_xsmp3_com post_list_li\">&&</div>",
+				"图片": "https://gd-filems.dancf.com/gaoding/cms/mcm79j/mcm79j/59385/6a211035-3658-45ce-a476-79f6f5dc02b71172884.png?x-oss-process=image/resize,h_1308/interlace,1",
+				"标题": "title=\"&&\"",
+				"副标题":">&&</a",
+				"链接": "href=\"&&\"",
+			    "播放二次截取":"autoplay&&;</script>",
+                "播放数组": "\\[&&\\]",
+                "播放列表": "{&&}",
+                "播放链接": "url*\"&&\"",
+                "播放标题": "name*\"&&\"",
+                "播放副标题": "artist*\"&&\"",
+                "线路数组":"相声随身听",
+                "线路标题": "相声随身听",
+                "导演": "小米",
+                "主演": "相声明星",
+                "简介": "相声合集",
+				"分类url": "https://www.xsmp3.com/{cateId}/{catePg}.html;;av",
+				"分类": "郭德纲$gdg#德云社$dys#新势力$xsxsl#青区社$qqs#马三立$msl#更多$xsmj"
+			}
+		},
+		{
+			"key": "评书",
+			"name": "📻评书┃BPQ",
+			"type": 3,
+			"searchable": 0,
+			"style": {
+				"type": "rect",
+				"ratio": 1.597
+			},
+			"quickSearch": 0,
+			"api": "csp_XBPQ",
+			"jar": "http://luoye.shop/b.jar;md5;1484e86a3a4463eaf8ef41c6832a1df0",
+			"ext": {
+				"主页url": "https://www.psmp3.com",
+				"数组二次截取": "<ul id=\"post_list_box\">&&</ul",
+				"数组":"<li class=\"www_psmp3_com post_list_li\">&&</div>",
+				"图片": "https://bkimg.cdn.bcebos.com/pic/86d6277f9e2f07084e3cb402ee24b899a901f2f3",
+				"标题": "title=\"&&\"",
+				"副标题":">&&</a",
+				"链接": "href=\"&&\"",
+			    "播放二次截取":"autoplay&&;</script>",
+                "播放数组": "\\[&&\\]",
+                "播放列表": "{&&}",
+                "播放链接": "url*\"&&\"",
+                "播放标题": "name*\"&&\"",
+                "播放副标题": "artist*\"&&\"",
+                "线路数组":"评书随身听",
+                "线路标题": "评书随身听",
+                "导演": "小米",
+                "主演": "评书明星",
+                "简介": "评书合集",
+				"分类url": "https://www.psmp3.com/{cateId}/{catePg}.html;;av",
+				"分类": "袁阔成$ykc#单田芳$stf#田连元$tly#刘兰芳$llf#连丽如$llr#张少佐$zsz#田战义$tzy"
+			}
+		},
+		{
 			"key": "csp_WoGG",
-			"name": "🎈玩偶┃4K(弹幕)",
+			"name": "🎈玩偶┃4K弹幕",
 			"type": 3,
 			"api": "csp_WoGG",
 			"searchable": 1,
@@ -244,16 +314,6 @@
 			"ext": "FbjPcVZY48PN/RIZ5UWFro5tctBJAZhIEz5OvLqy0VZGH5/R/mCR2kPI46ezGyKoem+Vym4tmTJ5Gio/CM0pPlNKXd+d2hTULzhB0SoYmLd4"
 		},
 		{
-			"key": "橘子",
-			"name": "🍊橘子┃App",
-			"type": 3,
-			"api": "csp_AppMao",
-			"searchable": 1,
-			"quickSearch": 1,
-			"changeable": 0,
-			"ext": "FbjDcUxPqpfNr0QF4QvE6sExbcJUCYdIVisPtbeywENfScyc6nTW0F+D7rX5HCm9c3SL03FsmGsmXS04XZMlbxEVW4/ZgwONbnobxj8KxeRpXqDxCWghfAf9JSR025yi92eOKqE9HokX9QQnl1WsU21CR4+dlEMDEsADd1xFGiiGtsh0vqJFAf41Z7sYL00hBBNM3xJsYyXCuX4BrzNYpZRwmcnwnXIHe2MtwbsJf0IAs6yM+y/ub+niyxOc2YuPbc/VUS4DGPqzelIi6plLWFvZ8+j2xcvAgopZxZFhBkIYCIIC5Uec/JW8RgW9WV1SKntGcmcd5yjIpagsmpXymH3a+FKzHKMB3LvXmR6onijWkP0VpivFgVVfjWrik4Yr0ZjZxKFA0uPQvy9l9EjPMNrQIj0sZjnpv7JmoMO+HfQ+lqKhJrQFq4MooyyGv6yhNv12IOHay3A="
-		},
-		{
 			"key": "csp_XBP南坊",
 			"name": "🏡南坊┃影视",
 			"type": 3,
@@ -302,7 +362,6 @@
 			"jar": "http://luoye.shop/b.jar;md5;bb155c3f0133bbce4756ad52003f5968",
 			"ext": "http://4k.953365.cn:8090/xgapp.php/v2/"
 		},
-		
 		{
 			"key": "一起看 ",
 			"name": "👑一起┃App",
@@ -408,7 +467,6 @@
 				"分类": "电影$20#电视剧$21#动漫$22#综艺$23"
 			}
 		},
-		
 		{
 			"key": "爱看d",
 			"name": "🍵爱看┃影视",
@@ -636,43 +694,6 @@
 			"quickSearch": 1,
 			"filterable": 1,
 			"ext": "http://api.jialiangos.com:81/api.php/app/"
-		},
-		{
-			"key": "速搜",
-			"name": "🇸🇩速搜┃BPQ",
-			"type": 3,
-			"api": "csp_XBPQ",
-			"playerType": "1",
-			"jar": "http://luoye.shop/b.jar;md5;bb155c3f0133bbce4756ad52003f5968",
-			"ext": {
-				"数组": "class=\"top&&</li",
-				"请求头": "AppleCoreMedia/1.0.0.17D50 (iPhone; U; CPU OS 13_3_2 like Mac OS X; zh_cn)",
-				"嗅探词": ".m3u8#.mp4#download-cdn.123pan.cn",
-				"图片": "data-original=\" &&\"",
-				"链接": "/v_+/project-&&.html+_1_1.html",
-				"线路数组": "class='swiper-slide&&</a>[不包含:lzm3u8#ffm3u8]",
-				"线路标题": "data-from=\"&&\"",
-				"影片类型": "备注：&&</li>",
-				"影片年代": "年份：</b>&&</li>",
-				"影片地区": "地区：&&</li>",
-				"导演": "<h2>&&</h2>",
-				"主演": "演员：&&</li>",
-				"简介": "简介：&&</li>",
-				"播放数组": "<ul class='content-playlist&&</ul",
-				"播放列表": "<a&&/a>",
-				"跳转播放链接": "https://web-pro2.cjjd18.com.2kj.org/jx.php?url=+link_pre*url\":\"&&\"",
-				"二次跳转播放链接": "Base64(\"url\"*\"&&\"[替换:\\*>>9#->>1#\\&>>5])",
-				"搜索url": "https://影搜.com/s/?wd={wd}",
-				"搜索模式": "1",
-				"搜索二次截取": "<div class=\"row\">&&<i class=\"posts-nav",
-				"搜索数组": "<div class=\"card-body\">&&/i>[包含:速搜影院]",
-				"搜索图片": "data-src=\"&&\"",
-				"搜索标题": "<strong>&&</strong>",
-				"搜索副标题": "速搜",
-				"搜索链接": "https://www.sstv.pw/v_+<a href=\"https://www.sstv.pw/project-&&.html+_1_1.html",
-				"分类url": "https://www.akj.ee/vodshow-{cateId}/area/{area}/by/{by}/page/{catePg}/year/{year}.html;;au0",
-				"分类": "电影$1#剧集$2#综艺$3#动漫$4#纪录$21"
-			}
 		},
 		{
 			"key": "csp_DiDuan",
@@ -1151,6 +1172,14 @@
 			}
 		}
 	],
+	"lives": [{
+		"name": "live2",
+		"type": 0,
+		"url": "https://agit.ai/138001380000/MHQTV/raw/branch/master/TV/0903zh.txt",
+		"ua": "okhttp/3.12.13",
+		"epg": "http://epg.112114.xyz/?ch={name}&date={date}",
+		"logo": "https://epg.112114.xyz/logo/{name}.png"
+	}],
 	"doh": [{
 			"name": "Google",
 			"url": "https://dns.google/dns-query",
