@@ -3,7 +3,7 @@
 	"wallpaper": "http://饭太硬.top/深色壁纸/api.php",
 	"sites": [{
 			"key": "豆豆",
-			"name": "🎟豆瓣┃11.20接口仅测试使用",
+			"name": "🎟豆瓣┃11.27接口仅测试使用",
 			"type": 3,
 			"api": "csp_DouDou",
 			"searchable": 0,
@@ -122,11 +122,11 @@
 			"ext": "http://127.0.0.1:9978/file/tvfan/token.txt+4k|auto|fhd$$$https://api.wogg.xyz/$$$弹"
 		},
 		{
-			"key": "左岸",
-			"name": "🌊左岸┃切片",
+			"key": "赞赞",
+			"name": "➕赞赞┃切片",
 			"type": 3,
 			"api": "https://fanty.run.goorm.site/ext/js/drpy2.min.js",
-			"ext": "https://agit.ai/xiaohewanwan/TVBox/raw/branch/master/js/zuoan.js",
+			"ext": "https://agit.ai/xiaohewanwan/TVBox/raw/branch/master/js/zanzan.js",
 			"searchable": 1,
 			"quickSearch": 1,
 			"changeable": 0
@@ -169,17 +169,6 @@
 			"quickSearch": 1,
 			"changeable": 0,
 			"ext": "https://www.80yy1.com/"
-		},
-		{
-			"key": "玉米",
-			"name": "🌽玉米┃采集",
-			"type": 0,
-			"api": "http://124.222.116.5/macos/api.php/provide/vod/at/xml/",
-			"playUrl": "json:http://110.42.3.71:5000/api/jiexi/common?Key=scR2SCxYQGqNWKLltR&url=",
-			"searchable": 1,
-			"changeable": 0,
-			"quickSearch": 1,
-			"filterable": 1
 		},
 		{
 			"key": "saohuo",
@@ -326,7 +315,7 @@
 			"ext": {
 				"站名": "南坊影视",
 				"主页url": "https://www.nfapp.fun/appto/v1/home/cateData?id=1",
-				"请求头": "User-Agent$Dart/2.10 (dart:io)",
+				"请求头": "User-Agent$Dart/2.10 (dart:io)#host$www.nfapp.fun",
 				"二次截取": "\"data\"*[&&]",
 				"数组": "{&&}",
 				"图片": "\"vod_pic\"*\"&&\"[替换:mac>>http]",
@@ -343,7 +332,7 @@
 				"播放列表": "{&&}",
 				"跳转播放链接": "\"url\"*\"&&\"",
 				"播放标题": "\"name\"*\"&&\"",
-				"跳转解析": "默认$空#主线[A]$http://110.42.2.247:880/analysis/json/?uid=2497&my=bgkmoqsuwBDILMPQU2&format=json&url=#主线[B]$https://daina.hk//api//?key=41b637ec6192036e0c35960addd26615&url=#主线[C]$https://wpjx.chanchuan.top/znjsonapi.php?url=#主线[D]$https://sp.huihuidns.cn//api//?key=aTRZhPX8ESjgWVdwDR&url=",
+				"跳转解析": "默认$空#主线[A]$http://www.jx.xn--7eyud.com//index.php?url=#主线[B]$https://daina.hk//api//?key=41b637ec6192036e0c35960addd26615&url=#主线[C]$https://wpjx.chanchuan.top/znjsonapi.php?url=#主线[D]$https://sp.huihuidns.cn//api//?key=aTRZhPX8ESjgWVdwDR&url=",
 				"播放链接": "解析+\"url\"*\"&&\"",
 				"搜索url": "https://www.nfapp.fun/appto/v1/vod/getVodSearch?wd={wd}&page=1&type",
 				"分类url": "https://www.nfapp.fun/appto/v1/vod/getLists?area={area}&lang={lang}&year={year}&type_id={cateId}&area=&order=time&type_name=&page={catePg}&pageSize=21;;u0t",
@@ -1083,7 +1072,7 @@
 		{
 			"name": "米太硬",
 			"type": 1,
-			"url": "https://cache.json.icu/s1804857380.php?url=",
+			"url": "",
 			"ext": {
 				"flag": [
 					"qq",
