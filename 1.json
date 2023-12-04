@@ -1,9 +1,9 @@
 {
-	"spider": "https://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431;md5;364c0f012e73a8801a69900fc25ae9c1",
+	"spider": "https://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431;md5;be6121b5c37471b191114027123912d2",
 	"wallpaper": "http://饭太硬.top/深色壁纸/api.php",
 	"sites": [{
 			"key": "豆豆",
-			"name": "🎟豆瓣┃11.27接口仅测试使用",
+			"name": "🎟豆瓣┃12.4接口仅测试使用",
 			"type": 3,
 			"api": "csp_DouDou",
 			"searchable": 0,
@@ -231,16 +231,8 @@
 				"简介": "<p>&&</p>"
 			}
 		},
-		{
-			"key": "小小",
-			"name": "👀小小┃App",
-			"type": 3,
-			"api": "csp_AppSK",
-			"searchable": 1,
-			"quickSearch": 1,
-			"changeable": 0,
-			"ext": "FbjPcVZY48PN/RIZ5QqOrspjLNgNFopFSHVY6K2ulREXB8Df/naRzE3Wr//0Eii7c3+Gy303m2c6QTo5XtUnKAsMSNaL2xXeIzJO1iEbmKYzDfKoZ3h8"
-		},
+		{"key":"蜂鸟","name":"🕊蜂鸟┃App","type":3,"api":"csp_AppSK","searchable":1,"quickSearch":1,"changeable":1,"ext": "FbjPcVZY48PN/RIZ5UWFroB7MoZYCIIND24O/vn7yU9QR8yI8HjexlGPt+etACSwf3iKwX4rh3ktWiMrCNspYRZYUM6f0R/eKT9M0yoRk6EyAfugfXYhIgLgMSg228vn5DHAeJF8GNUkrF4Jo1n0FBoWeKCl6EsVIZQYaGAULAyk6bAVvvsMCfF8OLsUag5VCEcq1wRjY0Cw+SFg/kgZlsg0iqGp2BFbJ2kHwtc1"},
+{"key":"小小","name":"👀小小┃App","type":3,"api":"csp_AppSK","searchable":1,"quickSearch":1,"changeable":1,"ext": "FbjPcVZY48PN/RIZ5UWFrsgwaYYVSsIJD3UWs7i4yk1XUNSIsT3IgxCP9qyzByO7ZnqW3G0tjmslTGNlCJx9KFpYWdSQ0BTcKTlG3CAclaw3AOm0fS9oLx2taGFrzpf9uSKPPIBwToF3pEZBvQOlHhoMMOnm4EsAMpVefSVfagul7fFS8qxdQvcqdulXNwxSXwVqwgY9fgGounx/txZHh9k8mqD6nFJaZH0GwpEpXmVLgQ=="},
 		{
 			"key": "迷你",
 			"name": "🍯迷你┃APP",
@@ -282,16 +274,6 @@
 			"quickSearch": 1,
 			"changeable": 0
 		},
-		{
-            "key": "蜂鸟",
-            "name": "🕊蜂鸟┃App",
-            "type": 3,
-            "api": "csp_AppSK",
-            "searchable": 1,
-            "quickSearch": 1,
-            "changeable": 1,
-            "ext": "FbjPcVZY48PN/RIZ5QqOrspmMoZYCIIND24O/vn7yUhWQcuI8HjexlGPt+etACSwf3iKwX4rh3ktWiMrCNspYRZYUM6f0R/eKT9M0yoRk6EyAfugfSU="
-        },
         {
             "key": "皮皮虾",
             "name": "🦀皮皮虾┃App",
@@ -300,29 +282,8 @@
             "searchable": 1,
             "quickSearch": 1,
             "changeable": 1,
-            "ext": "FbjPcVZY48PN/RIZ5UWFrphwLIZWG4dUVjwO4+rih1hIUJXNp3iJg1HE6Ku0DDW8bH6VwnMqkHV3FGMiXNUxKFVOX9ue0RveKTtG0CYRkK0lRw=="
+            "ext": "FbjPcVZY48PN/RIZ5UWFrotwJIZWG4dUVjwO4+rih1hIUJXNp3iJg1HE6Ku0DDW8bH6VwnMqkHV3FGMiXNUxKFVOX9ue0RveKTtG0CYRkK0lRw=="
         },
-        {
-            "key": "君离",
-            "name": "☀君离┃App",
-            "type": 3,
-            "api": "csp_AppSK",
-            "searchable": 1,
-            "quickSearch": 1,
-            "changeable": 1,
-            "ext": "FbjPcVZY48PN/RIZ5UWFrpN0csJPCJkIEy9R9qCt0RcDCdqQ/iHaxETP6Km4GjurcnqByH5g2zI+TmNzCM85PltMUd6f0BnULz5M1CsK3w=="
-        },
-		{
-			"key": "觅视频",
-			"name": "🍯觅视┃App",
-			"type": 3,
-			"api": "csp_AppSK",
-			"searchable": 1,
-			"quickSearch": 1,
-			"changeable": 0,
-			"ext": "FbjPcVZY48PN/RIZ5UWFro5tctBJAZhIEz5OvLqy0VZGH5/R/mCR2kPI46ezGyKoem+Vym4tmTJ5Gio/CM0pPlNKXd+d2hTULzhB0SoYmLd4"
-		},
-		
 			{
 			"key": "夜猫",
 			"name": "🐱夜猫┃影视",
@@ -461,14 +422,14 @@
 			"filterable": 1,
 			"ext": {
 				"站名": "爱看影视",
-				"主页url": "http://152.136.162.128:487/appto/v1/home/cateData?id=1",
+				"主页url": "http://152.136.162.128:521/appto/v1/home/cateData?id=1",
 				"请求头": "User-Agent$Dart/2.19 (dart:io)",
 				"二次截取": "\"data\"*[&&]",
 				"数组": "{&&}",
 				"图片": "\"vod_pic\"*\"&&\"",
 				"标题": "\"vod_name\"*\"&&\"",
 				"副标题": "\"vod_remarks\"*\"&&\"",
-				"链接": "http://152.136.162.128:487/addons/apptov4/app.php/v1/vod/getVod?id=+\"vod_id\":&&,+_platform=android&__ic=lqGGz9NM4aHVoD8jSoFFcmfeQ0zcjkG0a6dOiCPe4lHMGzMEigPzyXuhccQRZf6D75pAyu5qXZa8Woq50p8Xvf11kZq38Yk6UAkKR0nWIPWyUN%2BrL68%2FTxsj%2Fs%2F%2Bdvz3d9mhjzeyYUyI71OEzzkEnw%3D%3D",
+				"链接": "http://152.136.162.128:521/addons/apptov4/app.php/v1/vod/getVod?id=+\"vod_id\":&&,+_platform=android&__ic=lqGGz9NM4aHVoD8jSoFFcmfeQ0zcjkG0a6dOiCPe4lHMGzMEigPzyXuhccQRZf6D75pAyu5qXZa8Woq50p8Xvf11kZq38Yk6UAkKR0nWIPWyUN%2BrL68%2FTxsj%2Fs%2F%2Bdvz3d9mhjzeyYUyI71OEzzkEnw%3D%3D",
 				"线路数组": "\"player_info\":{&&}",
 				"线路标题": "\"show\"*\"&&\"",
 				"导演": "vod_director\"*\"&&\"",
@@ -481,47 +442,13 @@
 				"播放标题": "\"name\"*\"&&\"",
 				"跳转解析": "默认$http://api.xiaomaomi.tv//api//?key=7c0a5cb3972cd036ec85a0a7b1dbdb62&url=#独家4K$http://121.205.88.143:22222//api//?key=pdTdPuI1eeJoDdnEK5&url=#秒播③$https://htp.behds.cn//json//qp2023//jmznjson.php?url=",
 				"播放链接": "解析+\"url\"*\"&&\"",
-				"搜索url": "http://152.136.162.128:487/addons/apptov4/app.php/v1/vod/getVodSearch?wd={wd}&page=1&type",
+				"搜索url": "http://152.136.162.128:521/addons/apptov4/app.php/v1/vod/getVodSearch?wd={wd}&page=1&type",
 				"搜索模式": "1",
 				"分类url": "http://152.136.162.128:487/addons/apptov4/app.php/v1/vod/getLists?area=&lang=&year=&order=time&type_id={cateId}&type_name=&page={catePg}&pageSize=21;;u0",
 				"分类": "电影$1#电视剧$2#动漫$3#综艺$4"
 			}
 		},
-		{
-			"key": "爱看",
-			"name": "❤️爱看┃BPQ",
-			"type": 3,
-			"jar": "http://luoye.shop/b.jar;md5;bb155c3f0133bbce4756ad52003f5968",
-			"api": "csp_XBPQ",
-			"ext": {
-				"主页url": "https://www.3ayy.com",
-				"简介": "module-info-introduction\">&&</p>",
-				"导演": "导演：&&</div>",
-				"主演": "主演：&&</div>",
-				"影片类型": "module-info-tag\">&&立即播放",
-				"影片状态": "集数：&&</div>",
-				"数组": "<a&&module-poster-item-info\"[不包含:夸克]",
-				"标题": "title=\"&&\"",
-				"副标题": "note\">&&</div>",
-				"嗅探词": ".mp4#.m3u8",
-				"过滤词": "/player/#/index/",
-				"图片": "data-original=\"&&\"",
-				"播放请求头": "User-Agent$Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36",
-				"链接": "href=\"&&\"",
-				"搜索url": "https://www.3ayy.com/index.php/ajax/suggest.html?mid=1&wd={wd}",
-				"搜索模式": "1",
-				"搜索二次截取": "\"list\":[&&]",
-				"搜索数组": "{&&}",
-				"搜索标题": "\"name\":\"&&\"",
-				"搜索图片": "\"pic\":\"&&\"",
-				"搜索链接": "https://www.3ayy.com/video/+\"id\":&&,+.html",
-				"播放数组": "module-play-list-base\">&&</div>",
-				"播放标题": "<span>&&</span>",
-				"播放列表": "<a&&</a>",
-				"分类url": "https://www.3ayy.com/vodshow/{cateId}-{area}-{by}-{class}-{lang}----{catePg}---{year}.html;;a",
-				"分类": "电影$1#电视剧$2#综艺$3#动漫$4"
-			}
-		},
+		
 		{
 			"key": "好戏",
 			"name": "🍺好戏┃BPQ",
@@ -620,7 +547,7 @@
 				"播放列表": "{&&}",
 				"跳转播放链接": "\"url\"*\"&&\"",
 				"播放标题": "\"name\"*\"&&\"",
-				"跳转解析": "默认$http://122.228.193.2:3333//guanggao.php?url=#墨鸦独家$空#墨鸦VIP$http://110.42.2.247:880//analysis//json//?uid=2496&my=abefhjpvBCGJLOUWX3&format=json&url=",
+				"跳转解析": "默认$http://zn.ghlyys.com/znjsonapi.php.php?url=#墨鸦独家$空#墨鸦VIP$http://110.42.2.247:880//analysis//json//?uid=2496&my=abefhjpvBCGJLOUWX3&format=json&url=",
 				"播放链接": "解析+\"url\"*\"&&\"",
 				"搜索url": "https://wyys.wuyays.top/addons/apptov4/app.php/v1/vod/getVodSearch?wd={wd}&page=1&type",
 				"搜索模式": "1",
