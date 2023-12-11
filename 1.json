@@ -152,34 +152,26 @@
 			"quickSearch": 1,
 			"ext": "http://m.hhssyyss.icu/ruifenglb_api.php/v1.vod"
 		},
-		{
-			"key": "freeok",
-			"name": "🌟free┃BPQ",
-			"type": 3,
-			"api": "csp_XBPQ",
-			"changeable": 0,
-			"playerType": "1",
-			"jar": "http://luoye.shop/b.jar;md5;bb155c3f0133bbce4756ad52003f5968",
-			"ext": {
-				"分类url": "https://www.freeok.vip/vodshow/{cateId}-{area}-{by}-{class}-----{catePg}---{year}.html",
-				"分类": "最新热榜&今日更新&FREE电影&FREE剧集&FREE动漫&FREE综艺",
-				"分类值": "hot&new&1&2&3&4",
-				"播放请求头": "User-Agent$Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36",
-				"嗅探词": "m3u8#.m3u8#.mp4#freeok.mp4#/obj/",
-				//"搜索模式": "1",
-				//"搜索url": "https://search.ymck.me/index.php?q={wd}",
-				//	"搜索数组": "<b>&&</b>[包含:Freeok]",
-				//"搜索副标题": "Freeok",
-				"线路数组": "data-dropdown-value=&&</div>[不包含:夸克]",
-				"线路标题": "<span>&&</small>",
-				//"搜索标题": "class='movie_name'>&&</a>",
-				//"搜索链接": "href='&&'",
-				//"搜索图片": "http://xhww.fun:63/ss.jpg",
-				"导演": "导演：&&</div>",
-				"主演": "主演：&&</div>",
-				"简介": "<p>&&</p>"
-			}
-		},
+	        {
+            "key": "freeok",
+            "name": "🌟free┃BPQ",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "playerType": "1",
+            "jar": "http://luoye.shop/b.jar;md5;bb155c3f0133bbce4756ad52003f5968",
+            "ext": {
+                "分类url": "https://www.freeok.vip/vodshow/{cateId}-{area}-{by}-{class}-----{catePg}---{year}.html",
+                "分类": "最新热榜&今日更新&FREE电影&FREE剧集&FREE动漫&FREE综艺",
+                "分类值": "hot&new&1&2&3&4",
+                "播放请求头": "User-Agent$Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36",
+                "嗅探词": "m3u8#.m3u8#.mp4#freeok.mp4#/obj/",
+                "线路数组": "data-dropdown-value=&&</div>[不包含:夸克]",
+                "线路标题": "<span>&&</small>",
+                "导演": "导演：&&</div>",
+                "主演": "主演：&&</div>",
+                "简介": "<p>&&</p>"
+            }
+        },
 		{
 			"key": "1080看",
 			"name": "📺1080┃BPQ",
