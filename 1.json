@@ -270,17 +270,6 @@
 			"filterable": 1
 		},
 		{
-			"key": "爱迪",
-			"name": "🛎️爱迪┃外剧",
-			"type": 3,
-			"jar": "http://luoye.shop/c.jar;md5;bb155c3f0133bbce4756ad52003f5968",
-			"api": "csp_AppYs",
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 1,
-			"ext": "https://api123.adys.app/xgapp.php/v3/"
-		},
-		{
 			"key": "csp_Nmys",
 			"name": "🧑农民┃直连",
 			"type": 3,
@@ -650,7 +639,7 @@
 			"quickSearch": 1,
 			"filterable": 0,
 			"changeable": 0,
-			"ext": "http://127.0.0.1:9978/file/tvboxqq/token.txt+4k|fhd|auto"
+			"ext": "http://127.0.0.1:9978/file/tvboxqq/token.txt+4k|fhd|auto$$$satoken=1aee2366-2ff4-4436-b321-a14db23e8294"
 		},
 		{
 			"key": "Zhaozy",
@@ -823,13 +812,22 @@
 		}
 	],
 	"lives": [{
-		"name": "live2",
+		"name": "live1",
 		"type": 0,
-		"url": "https://github.com/ggrrttyyiii/CatVodSpider/blob/main/txt/xmzb.m3u",
+		"url": "https://agit.ai/xiaohewanwan/TVBox/raw/branch/master/js/xmzb.txt",
 		"ua": "okhttp/3.12.13",
 		"epg": "http://epg.112114.xyz/?ch={name}&date={date}",
 		"logo": "https://epg.112114.xyz/logo/{name}.png"
-	}],
+	},
+	{
+		"name": "live2",
+		"type": 0,
+		"url": "https://wds.ecsxs.com/211161.txt",
+		"ua": "okhttp/3.12.13",
+		"epg": "http://epg.112114.xyz/?ch={name}&date={date}",
+		"logo": "https://epg.112114.xyz/logo/{name}.png"
+	}
+	],
 	"doh": [{
 			"name": "Google",
 			"url": "https://dns.google/dns-query",
