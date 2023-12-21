@@ -1,9 +1,9 @@
 {
-    "spider": "https://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431;md5;14a42dfc35f4780e0d2aebf9fa397bbd",
+    "spider": "https://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431;md5;58adbd51a4bbed437f442e4e9a4c85c2",
 	"wallpaper": "http://饭太硬.top/深色壁纸/api.php",
 	"sites": [{
 			"key": "豆豆",
-			"name": "🎟豆瓣┃12.18接口仅测试使用",
+			"name": "🎟豆瓣┃请清理接口缓存暂时放弃JS源",
 			"type": 3,
 			"api": "csp_DouDou",
 			"searchable": 0,
@@ -64,8 +64,20 @@
 			"key": "赞赞",
 			"name": "➕赞赞┃切片",
 			"type": 3,
-			"api": "https://fanty.run.goorm.site/ext/js/drpy2.min.js",
-			"ext": "https://agit.ai/xiaohewanwan/TVBox/raw/branch/master/js/zanzan.js",
+			"jar": "http://luoye.shop/c.jar;md5;bb155c3f0133bbce4756ad52003f5968",
+			"api": "csp_AppYsV2",
+			"ext": "http://154.12.21.186:119/api.php/app/",
+			"searchable": 1,
+			"quickSearch": 1,
+			"changeable": 0
+		},
+		{
+			"key": "亮亮",
+			"name": "💡亮亮┃APP",
+			"type": 3,
+			"jar": "http://luoye.shop/c.jar;md5;bb155c3f0133bbce4756ad52003f5968",
+			"api": "csp_AppYsV2",
+			"ext": "http://api.jialiangos.com:65533/api.php/app/",
 			"searchable": 1,
 			"quickSearch": 1,
 			"changeable": 0
@@ -80,16 +92,7 @@
 			"quickSearch": 1,
 			"ext": "http://103.42.31.123:5820/api.php/app/"
 		},
-		{
-			"key": "亮亮",
-			"name": "💡亮亮┃APP",
-			"type": 3,
-			"api": "https://fanty.run.goorm.site/ext/js/drpy2.min.js",
-			"ext": "https://agit.ai/xiaohewanwan/TVBox/raw/branch/master/js/fy.js",
-			"searchable": 1,
-			"quickSearch": 1,
-			"changeable": 0
-		},
+		
 		{
 			"key": "南瓜",
 			"name": "🎃南瓜┃App",
@@ -279,17 +282,7 @@
 			"changeable": 0,
 			"ext": "https://agit.ai/fantaiying/fty/raw/branch/master/json/nmys.json"
 		},
-		{
-			"key": "贱贱",
-			"name": "🎫贱贱┃p2p",
-			"type": 3,
-			"searchable": 1,
-			"quickSearch": 1,
-			"changeable": 0,
-			"playerType": "1",
-			"api": "https://agit.ai/fantaiying/fty/raw/branch/master/JS/drpy1.min.js",
-			"ext": "https://agit.ai/fantaiying/fty/raw/branch/master/JS/js/jp.js"
-		},
+		
 		{
 			"key": "云播",
 			"name": "☁️云播┃BPQ",
@@ -531,62 +524,7 @@
 				"分类": "袁阔成$ykc#单田芳$stf#田连元$tly#刘兰芳$llf#连丽如$llr#张少佐$zsz#田战义$tzy"
 			}
 		},
-		{
-			"key": "虎牙直播js",
-			"name": "🐯虎牙┃直播",
-			"type": 3,
-			"api": "https://fanty.run.goorm.site/ext/js/drpy2.min.js",
-			"ext": "https://fanty.run.goorm.site/ext/虎牙直播.js",
-			"style": {
-				"type": "rect",
-				"ratio": 1.755
-			},
-			"searchable": 0,
-			"quickSearch": 0,
-			"changeable": 0
-		},
-		{
-			"key": "csp_XYQBiu_斗鱼",
-			"name": "🐟斗鱼┃直播",
-			"type": 3,
-			"api": "https://fanty.run.goorm.site/ext/js/drpy2.min.js",
-			"ext": "https://fanty.run.goorm.site/ext/斗鱼直播.js",
-			"style": {
-				"type": "rect",
-				"ratio": 1.755
-			},
-			"searchable": 0,
-			"quickSearch": 0,
-			"changeable": 0
-		},
-		{
-			"key": "88js",
-			"name": "⚽ 88┃看球",
-			"type": 3,
-			"api": "https://fanty.run.goorm.site/ext/js/drpy2.min.js",
-			"ext": "https://fanty.run.goorm.site/ext/88看球.js",
-			"style": {
-				"type": "rect",
-				"ratio": 1
-			},
-			"searchable": 0,
-			"quickSearch": 0,
-			"changeable": 0
-		},
-		{
-			"key": "csp_qiumi",
-			"name": "⚽ Jrs┃球迷",
-			"type": 3,
-			"api": "https://fanty.run.goorm.site/ext/js/drpy2.min.js",
-			"ext": "https://fanty.run.goorm.site/ext/jrk.js",
-			"style": {
-				"type": "rect",
-				"ratio": 1
-			},
-			"searchable": 0,
-			"quickSearch": 0,
-			"changeable": 0
-		},
+		
 		{
 			"key": "索尼资源",
 			"name": "😻索尼┃资源",
@@ -732,7 +670,53 @@
 			"url": "https://daina.hk/api/?key=e1e84ecae847b6e4a1a27fd4611f45f5&url=",
 			"ext": {
 				"flag": [
-					"FYNB"
+					"FYNB",
+					"mgtv",
+					"qiyi",
+					"imgo",
+					"爱奇艺",
+					"奇艺",
+					"qq",
+					"腾讯",
+					"youku",
+					"优酷",
+					"pptv",
+					"PPTV",
+					"letv",
+					"乐视",
+					"leshi",
+					"bilibili",
+					"哔哩哔哩",
+					"哔哩",
+					"mgtv",
+					"芒果"
+				],
+				"header": {
+					"User-Agent": "okhttp/4.1.0"
+				}
+			}
+		},
+		{
+			"name": "亮亮🌾",
+			"type": 1,
+			"url": "https://m.jialiangos.com/jx/?url=",
+			"ext": {
+				"flag": [
+					"K_JL",
+					"JIALIANGCODE"
+				],
+				"header": {
+					"User-Agent": "okhttp/4.1.0"
+				}
+			}
+		},
+		{
+			"name": "赞赞🌾",
+			"type": 1,
+			"url": "http://zn.ghlyys.com/znjsonapi.php.php?url=",
+			"ext": {
+				"flag": [
+					"JMZN"
 				],
 				"header": {
 					"User-Agent": "okhttp/4.1.0"
@@ -742,7 +726,7 @@
 		{
 			"name": "左岸🌾",
 			"type": 1,
-			"url": "http://110.42.2.247:880/analysis/json/?uid=2500&my=cfiknqswABGHJSU058&format=json&url=",
+			"url": "http://110.42.2.247:880/analysis/json/?uid=2500&my=abejnoqyFGMN023789&format=json&url=",
 			"ext": {
 				"flag": [
 					"seven"
@@ -755,7 +739,7 @@
 		{
 			"name": "米饭🌾",
 			"type": 1,
-			"url": "https://json.oorl.cn/api/?key=gajpAki7cu8560ro4C&url=",
+			"url": "https://api.json.icu/api/?key=b1f3b1a9e1c0a42ae969db10bd315a95&url=",
 			"ext": {
 				"flag": [
 					"爱奇艺",
