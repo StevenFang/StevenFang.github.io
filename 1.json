@@ -546,6 +546,25 @@
 			"ext": "http://127.0.0.1:9978/file/tvboxqq/token.txt+4k|fhd|auto"
 		},
 		{
+      "key": "九六",
+      "name": "🎀九六┃直连",
+      "type": 3,
+      "api": "csp_Cs1369",
+      "playerType": 2,
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1
+    },
+		{
+      "key": "小胡",
+      "name": "👒资源┃小胡",
+      "searchable": 1,
+	  "quickSearch": 1,
+      "type": 1,
+      "playerType": 1,
+      "api": "http://c.小胡.icu/api.php/provide/vod/"
+    },
+		{
 			"key": "push_agent",
 			"name": "公众号：神秘的哥哥们",
 			"type": 3,
@@ -601,7 +620,7 @@
 		{
 			"name": "飞云🌾",
 			"type": 1,
-			"url": "https://daina.hk/api/?key=e1e84ecae847b6e4a1a27fd4611f45f5&url=",
+			"url": "",
 			"ext": {
 				"flag": [
 					"FYNB",
@@ -660,10 +679,11 @@
 		{
 			"name": "左岸🌾",
 			"type": 1,
-			"url": "http://110.42.2.247:880/analysis/json/?uid=2500&my=egjmrsuzDGMNTY0368&format=json&url=",
+			"url": "http://122.228.84.103:5829/jx/?url=F",
 			"ext": {
 				"flag": [
-					"seven"
+					"seven",
+					"FYNB"
 				],
 				"header": {
 					"User-Agent": "okhttp/4.1.0"
@@ -730,17 +750,9 @@
 		}
 	],
 	"lives": [{
-			"name": "live1",
+			"name": "IPv4",
 			"type": 0,
-			"url": "https://agit.ai/xiaohewanwan/TVBox/raw/branch/master/js/xmzb.txt",
-			"ua": "okhttp/3.12.13",
-			"epg": "http://epg.112114.xyz/?ch={name}&date={date}",
-			"logo": "https://epg.112114.xyz/logo/{name}.png"
-		},
-		{
-			"name": "live2",
-			"type": 0,
-			"url": "https://wds.ecsxs.com/211161.txt",
+			"url": "http://124.223.177.85:88/svip/直播挺快.txt",
 			"ua": "okhttp/3.12.13",
 			"epg": "http://epg.112114.xyz/?ch={name}&date={date}",
 			"logo": "https://epg.112114.xyz/logo/{name}.png"
