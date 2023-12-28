@@ -59,7 +59,7 @@
 			"key": "赞赞",
 			"name": "➕赞赞┃切片",
 			"type": 3,
-			"jar": "http://luoye.shop/c.jar;md5;bb155c3f0133bbce4756ad52003f5968",
+			"jar": "http://luoye.shop/d.jar;md5;a4b6906ce4be19dad8eeae6e71774fdf",
 			"api": "csp_AppYsV2",
 			"ext": "http://154.12.21.186:119/api.php/app/",
 			"searchable": 1,
@@ -70,7 +70,7 @@
 			"key": "亮亮",
 			"name": "💡亮亮┃APP",
 			"type": 3,
-			"jar": "http://luoye.shop/c.jar;md5;bb155c3f0133bbce4756ad52003f5968",
+			"jar": "http://luoye.shop/d.jar;md5;a4b6906ce4be19dad8eeae6e71774fdf",
 			"api": "csp_AppYsV2",
 			"ext": "http://api.jialiangos.com:65533/api.php/app/",
 			"searchable": 1,
@@ -81,7 +81,7 @@
 			"key": "加速",
 			"name": "🐰加速┃APP",
 			"type": 3,
-			"jar": "http://luoye.shop/c.jar;md5;bb155c3f0133bbce4756ad52003f5968",
+			"jar": "http://luoye.shop/d.jar;md5;a4b6906ce4be19dad8eeae6e71774fdf",
 			"api": "csp_AppYsV2",
 			"searchable": 1,
 			"quickSearch": 1,
@@ -152,7 +152,7 @@
 			"changeable": 0,
 			"quickSearch": 1,
 			"playerType": "2",
-			"jar": "http://luoye.shop/c.jar;md5;bb155c3f0133bbce4756ad52003f5968",
+			"jar": "http://luoye.shop/d.jar;md5;a4b6906ce4be19dad8eeae6e71774fdf",
 			"api": "csp_XBPQ",
 			"ext": {
 				"嗅探词": ".m3u8#.mp4#.m3u8?#freeok.mp4",
@@ -174,7 +174,7 @@
 			"type": 3,
 			"api": "csp_XBPQ",
 			"playerType": "2",
-			"jar": "http://luoye.shop/c.jar;md5;bb155c3f0133bbce4756ad52003f5968",
+			"jar": "http://luoye.shop/d.jar;md5;a4b6906ce4be19dad8eeae6e71774fdf",
 			"ext": {
 				"分类url": "https://www.freeok.vip/vod-show/{cateId}-{area}-------{catePg}---{year}.html",
 				"分类": "FREE电影&FREE剧集&FREE动漫&FREE综艺&FREE短剧&FREE少儿",
@@ -194,7 +194,7 @@
 			"name": "🛀03影┃BPQ",
 			"type": 3,
 			"api": "csp_XBPQ",
-			"jar": "http://luoye.shop/c.jar;md5;bb155c3f0133bbce4756ad52003f5968",
+			"jar": "http://luoye.shop/d.jar;md5;a4b6906ce4be19dad8eeae6e71774fdf",
 			"playerType": "2",
 			"ext": {
 				"主页url": "https://www.03yy.co",
@@ -260,7 +260,7 @@
 			"name": "🐦乌鸦┃影视",
 			"type": 3,
 			"api": "csp_XBPQ",
-			"jar": "http://luoye.shop/c.jar;md5;bb155c3f0133bbce4756ad52003f5968",
+			"jar": "http://luoye.shop/d.jar;md5;a4b6906ce4be19dad8eeae6e71774fdf",
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 1,
@@ -308,7 +308,7 @@
 			"searchable": 1,
 			"quickSearch": 1,
 			"changeable": 1,
-			"jar": "http://luoye.shop/c.jar;md5;bb155c3f0133bbce4756ad52003f5968",
+			"jar": "http://luoye.shop/d.jar;md5;a4b6906ce4be19dad8eeae6e71774fdf",
 			"playerType": "2",
 			"api": "csp_XBPQ",
 			"ext": {
@@ -348,7 +348,7 @@
 			"key": "双黄",
 			"name": "🥚双黄┃BPQ",
 			"type": 3,
-			"jar": "http://luoye.shop/c.jar;md5;bb155c3f0133bbce4756ad52003f5968",
+			"jar": "http://luoye.shop/d.jar;md5;a4b6906ce4be19dad8eeae6e71774fdf",
 			"api": "csp_XBPQ",
 			"ext": {
 				"嗅探词": "v3.toutiaovod.com#v3-dy-o.zjcdn#.m3u8#/tos/#.mp4",
@@ -366,7 +366,7 @@
 			"name": "🔥热播┃BPQ",
 			"type": 3,
 			"changeable": 1,
-			"jar": "http://luoye.shop/c.jar;md5;bb155c3f0133bbce4756ad52003f5968",
+			"jar": "http://luoye.shop/d.jar;md5;a4b6906ce4be19dad8eeae6e71774fdf",
 			"api": "csp_XBPQ",
 			"playerType": "1",
 			"ext": {
@@ -480,6 +480,7 @@
 			"name": "🍰小鸭┃网盘",
 			"type": 3,
 			"playerType": "1",
+			"jar":"http://luoye.shop/d.jar;md5;a4b6906ce4be19dad8eeae6e71774fdf",
 			"api": "csp_AList",
 			"searchable": 1,
 			"quickSearch": 0,
@@ -503,6 +504,7 @@
 			"changeable": 0,
 			"ext": "http://127.0.0.1:9978/file/tvboxqq/token.txt+4k|fhd|auto$$$satoken=1aee2366-2ff4-4436-b321-a14db23e8294"
 		},
+		
 		{
 			"key": "PanSou",
 			"name": "🦊盘搜┃搜索",
@@ -679,7 +681,7 @@
 		{
 			"name": "左岸🌾",
 			"type": 1,
-			"url": "http://122.228.84.103:5829/jx/?url=F",
+			"url": "http://122.228.84.103:5829/jx/?url=",
 			"ext": {
 				"flag": [
 					"seven",
