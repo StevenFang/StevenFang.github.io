@@ -59,7 +59,7 @@
 			"key": "赞赞",
 			"name": "➕赞赞┃切片",
 			"type": 3,
-			"jar": "http://8.140.244.154:1315/down/9zLyLbbFMtzx.jpg?fname=/c.jpg&down=true;md5;bb155c3f0133bbce4756ad52003f5968",
+			"jar": "http://8.140.244.154:1315/down/lB08ogbjg2Lp;md5;bb155c3f0133bbce4756ad52003f5968",
 			"api": "csp_AppYsV2",
 			"ext": "http://111.230.51.151:9696//api.php/app/",
 			"searchable": 1,
@@ -70,7 +70,7 @@
 			"key": "亮亮",
 			"name": "💡亮亮┃APP",
 			"type": 3,
-			"jar": "http://8.140.244.154:1315/down/9zLyLbbFMtzx.jpg?fname=/c.jpg&down=true;md5;bb155c3f0133bbce4756ad52003f5968",
+			"jar": "http://8.140.244.154:1315/down/lB08ogbjg2Lp;md5;bb155c3f0133bbce4756ad52003f5968",
 			"api": "csp_AppYsV2",
 			"ext": "http://api.jialiangos.com:65533/api.php/app/",
 			"searchable": 1,
@@ -81,7 +81,7 @@
 			"key": "加速",
 			"name": "🐰加速┃APP",
 			"type": 3,
-			"jar": "http://8.140.244.154:1315/down/9zLyLbbFMtzx.jpg?fname=/c.jpg&down=true;md5;bb155c3f0133bbce4756ad52003f5968",
+			"jar": "http://8.140.244.154:1315/down/lB08ogbjg2Lp;md5;bb155c3f0133bbce4756ad52003f5968",
 			"api": "csp_AppYsV2",
 			"searchable": 1,
 			"quickSearch": 1,
@@ -152,7 +152,7 @@
 			"changeable": 0,
 			"quickSearch": 1,
 			"playerType": "2",
-			"jar": "http://8.140.244.154:1315/down/9zLyLbbFMtzx.jpg?fname=/c.jpg&down=true;md5;bb155c3f0133bbce4756ad52003f5968",
+			"jar": "http://8.140.244.154:1315/down/lB08ogbjg2Lp;md5;bb155c3f0133bbce4756ad52003f5968",
 			"api": "csp_XBPQ",
 			"ext": {
 				"嗅探词": ".m3u8#.mp4#.m3u8?#freeok.mp4",
@@ -174,7 +174,7 @@
 			"type": 3,
 			"api": "csp_XBPQ",
 			"playerType": "2",
-			"jar": "http://8.140.244.154:1315/down/9zLyLbbFMtzx.jpg?fname=/c.jpg&down=true;md5;bb155c3f0133bbce4756ad52003f5968",
+			"jar": "http://8.140.244.154:1315/down/lB08ogbjg2Lp;md5;bb155c3f0133bbce4756ad52003f5968",
 			"ext": {
 				"分类url": "https://www.freeok.vip/vod-show/{cateId}-{area}-------{catePg}---{year}.html",
 				"分类": "FREE电影&FREE剧集&FREE动漫&FREE综艺&FREE短剧&FREE少儿",
@@ -194,7 +194,7 @@
 			"name": "🛀03影┃BPQ",
 			"type": 3,
 			"api": "csp_XBPQ",
-			"jar": "http://8.140.244.154:1315/down/9zLyLbbFMtzx.jpg?fname=/c.jpg&down=true;md5;bb155c3f0133bbce4756ad52003f5968",
+			"jar": "http://8.140.244.154:1315/down/lB08ogbjg2Lp;md5;bb155c3f0133bbce4756ad52003f5968",
 			"playerType": "2",
 			"ext": {
 				"主页url": "https://www.03yy.co",
@@ -260,7 +260,7 @@
 			"name": "🐦乌鸦┃影视",
 			"type": 3,
 			"api": "csp_XBPQ",
-			"jar": "http://8.140.244.154:1315/down/9zLyLbbFMtzx.jpg?fname=/c.jpg&down=true;md5;bb155c3f0133bbce4756ad52003f5968",
+			"jar": "http://8.140.244.154:1315/down/lB08ogbjg2Lp;md5;bb155c3f0133bbce4756ad52003f5968",
 			"searchable": 1,
 			"playerType": 2,
 			"quickSearch": 1,
@@ -309,7 +309,7 @@
 			"searchable": 1,
 			"quickSearch": 1,
 			"changeable": 1,
-			"jar": "http://8.140.244.154:1315/down/9zLyLbbFMtzx.jpg?fname=/c.jpg&down=true;md5;bb155c3f0133bbce4756ad52003f5968",
+			"jar": "http://8.140.244.154:1315/down/lB08ogbjg2Lp;md5;bb155c3f0133bbce4756ad52003f5968",
 			"playerType": "2",
 			"api": "csp_XBPQ",
 			"ext": {
@@ -349,7 +349,7 @@
 			"key": "双黄",
 			"name": "🥚双黄┃BPQ",
 			"type": 3,
-			"jar": "http://8.140.244.154:1315/down/9zLyLbbFMtzx.jpg?fname=/c.jpg&down=true;md5;bb155c3f0133bbce4756ad52003f5968",
+			"jar": "http://8.140.244.154:1315/down/lB08ogbjg2Lp;md5;bb155c3f0133bbce4756ad52003f5968",
 			"api": "csp_XBPQ",
 			"ext": {
 				"嗅探词": "v3.toutiaovod.com#v3-dy-o.zjcdn#.m3u8#/tos/#.mp4",
@@ -367,7 +367,7 @@
 			"name": "🔥热播┃BPQ",
 			"type": 3,
 			"changeable": 1,
-			"jar": "http://8.140.244.154:1315/down/9zLyLbbFMtzx.jpg?fname=/c.jpg&down=true;md5;bb155c3f0133bbce4756ad52003f5968",
+			"jar": "http://8.140.244.154:1315/down/lB08ogbjg2Lp;md5;bb155c3f0133bbce4756ad52003f5968",
 			"api": "csp_XBPQ",
 			"playerType": "1",
 			"ext": {
@@ -404,7 +404,7 @@
 			},
 			"quickSearch": 0,
 			"api": "csp_XBPQ",
-			"jar": "http://8.140.244.154:1315/down/9zLyLbbFMtzx.jpg?fname=/c.jpg&down=true;md5;1484e86a3a4463eaf8ef41c6832a1df0",
+			"jar": "http://8.140.244.154:1315/down/lB08ogbjg2Lp;md5;1484e86a3a4463eaf8ef41c6832a1df0",
 			"ext": {
 				"主页url": "https://www.xsmp3.com",
 				"数组二次截取": "<ul id=\"post_list_box\">&&</ul",
@@ -452,7 +452,7 @@
 			},
 			"quickSearch": 0,
 			"api": "csp_XBPQ",
-			"jar": "http://8.140.244.154:1315/down/9zLyLbbFMtzx.jpg?fname=/c.jpg&down=true;md5;1484e86a3a4463eaf8ef41c6832a1df0",
+			"jar": "http://8.140.244.154:1315/down/lB08ogbjg2Lp;md5;1484e86a3a4463eaf8ef41c6832a1df0",
 			"ext": {
 				"主页url": "https://www.psmp3.com",
 				"数组二次截取": "<ul id=\"post_list_box\">&&</ul",
@@ -481,7 +481,7 @@
 			"name": "🍰小鸭┃网盘",
 			"type": 3,
 			"playerType": "1",
-			"jar":"http://8.140.244.154:1315/down/9zLyLbbFMtzx.jpg?fname=/c.jpg&down=true;md5;bb155c3f0133bbce4756ad52003f5968",
+			"jar":"http://8.140.244.154:1315/down/lB08ogbjg2Lp;md5;bb155c3f0133bbce4756ad52003f5968",
 			"api": "csp_AList",
 			"searchable": 1,
 			"quickSearch": 0,
@@ -623,7 +623,7 @@
 		{
 			"name": "飞云🌾",
 			"type": 1,
-			"url": "http://122.228.84.103:7777/api/?key=XX84Rm4utDcfLT21tT&url=",
+			"url": "http://122.228.84.103:7777/api/?key=t5MX8svgCfYhyBo0XE&url=",
 			"ext": {
 				"flag": [
 					"FYNB",
@@ -685,8 +685,7 @@
 			"url": "http://122.228.84.103:5829/jx/?url=",
 			"ext": {
 				"flag": [
-					"seven",
-					"FYNB"
+					"seven"
 				],
 				"header": {
 					"User-Agent": "okhttp/4.1.0"
