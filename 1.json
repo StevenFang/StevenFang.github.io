@@ -421,19 +421,6 @@
 			}
 		},
 		{
-			"key": "88js",
-			"name": "⚽ 88┃看球",
-			"type": 3,
-			"api": "https://fanty.run.goorm.site/ext/js/drpy2.min.js",
-			"ext": "https://fanty.run.goorm.site/ext/88看球.js",
-			"style": {
-				"type": "list"
-			},
-			"searchable": 0,
-			"quickSearch": 0,
-			"changeable": 0
-		},
-		{
 			"key": "评书",
 			"name": "📻评书┃BPQ",
 			"type": 3,
