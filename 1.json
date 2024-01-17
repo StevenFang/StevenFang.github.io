@@ -89,6 +89,16 @@
             "ext":"http://122.228.84.103:6117/api.php/app/"
         },
         {
+            "key":"要啥脸",
+            "name":"要啥脸┃APP",
+            "type":3,
+            "jar":"https://fs-im-kefu.7moor-fs1.com/29397395/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1704761840381/c (1).txt;md5;bb155c3f0133bbce4756ad52003f5968",
+            "api":"csp_AppYsV2",
+            "searchable":1,
+            "quickSearch":1,
+            "ext":"http://122.228.84.103:5822/api.php/app/"
+        },
+        {
             "key":"小胡",
             "name":"👒胡总┃超清",
             "searchable":1,
@@ -638,7 +648,7 @@
         {
             "name":"飞云🌾",
             "type":1,
-            "url":"http://122.228.84.103:7777/api/?key=CmVoteP0qwx4wZiK5G&url=",
+            "url":"http://122.228.84.103:7777/api/?key=EauMlPIBC3spoYGaOB&url=",
             "ext":{
                 "flag":[
                     "FYNB",
@@ -670,7 +680,7 @@
         {
             "name":"亮亮🌾",
             "type":1,
-            "url":"http://xiutan.shiyifacai.com/json/qingfeng.php?url=",
+            "url":"",
             "ext":{
                 "flag":[
                     "seven"
@@ -683,10 +693,10 @@
         {
             "name":"赞赞🌾",
             "type":1,
-            "url":"https://vip.yybjs.top/home/api?type=ys&uid=2691400&key=bcmqsvwyzACFIPY368&url=",
+            "url":"http://121.62.61.51:6888/api/?key=qy9VEMeeqwl3nI4gvA&url=",
             "ext":{
                 "flag":[
-                    "JMZN"
+                    "NBY"
                 ],
                 "header":{
                     "User-Agent":"okhttp/4.1.0"
