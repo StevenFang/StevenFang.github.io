@@ -170,6 +170,42 @@
             }
         },
         {
+            "key":"视觉",
+            "name":"👓视觉┃BPQ",
+            "type":3,
+            "api":"csp_XBPQ",
+            "playerType":"2",
+            "jar":"https://fs-im-kefu.7moor-fs1.com/29397395/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1704761840381/c (1).txt;md5;bb155c3f0133bbce4756ad52003f5968",
+            "ext":{
+                "主页url": "https://www.3ayy.com",
+        "简介": "module-info-introduction\">&&</p>",
+        "导演": "导演：&&</div>",
+        "主演": "主演：&&</div>",
+        "影片类型": "module-info-tag\">&&立即播放",
+        "影片状态": "集数：&&</div>",
+        "数组": "<a&&module-poster-item-info\"[不包含:夸克]",
+        "标题": "title=\"&&\"",
+        "副标题": "note\">&&</div>",
+        "嗅探词": ".mp4#.m3u8",
+        "过滤词": "/player/#/index/",
+        "图片": "data-original=\"&&\"",
+        "播放请求头": "User-Agent$Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36",
+        "链接": "href=\"&&\"",
+        "搜索url": "https://www.3ayy.com/index.php/ajax/suggest.html?mid=1&wd={wd}",
+        "搜索模式": "1",
+        "搜索二次截取": "\"list\":[&&]",
+        "搜索数组": "{&&}",
+        "搜索标题": "\"name\":\"&&\"",
+        "搜索图片": "\"pic\":\"&&\"",
+        "搜索链接": "https://www.3ayy.com/video/+\"id\":&&,+.html",
+        "播放数组": "module-play-list-base\">&&</div>",
+        "播放标题": "<span>&&</span>",
+        "播放列表": "<a&&</a>",
+        "分类url": "https://www.3ayy.com/vodshow/{cateId}-{area}-{by}-{class}-{lang}----{catePg}---{year}.html;;a",
+        "分类": "电影$1#电视剧$2#综艺$3#动漫$4"
+            }
+        },
+        {
             "key":"freeok",
             "name":"🌟free┃BPQ",
             "type":3,
@@ -189,16 +225,6 @@
                 "主演":"主演：&&</div>",
                 "简介":"<p>&&</p>"
             }
-        },
-        {
-            "key":"6080",
-            "name":"😸视觉┃BPQ",
-            "type":3,
-            "api":"https://jihulab.com/zhulr7765/tvbox/-/raw/main/JS/drpy.min.js",
-            "ext":"https://jihulab.com/zhulr7765/tvbox/-/raw/main/JS/%E6%96%B0%E8%A7%86%E8%A7%89.js",
-            "searchable":1,
-            "quickSearch":1,
-            "changeable":0
         },
         {
             "key":"03影院",
