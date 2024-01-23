@@ -744,8 +744,8 @@
         },
         {
             "name":"米饭🌾",
-            "type":1,
-            "url":"http://xhww.fun/jx.php?id=1&url=",
+            "type":0,
+            "url":"https://jx.yangtu.top/?url=",
             "ext":{
                 "flag":[
                     "爱奇艺",
@@ -767,7 +767,7 @@
                     "芒果"
                 ],
                 "header":{
-                    "User-Agent":"okhttp/4.1.0"
+                    "User-Agent":"Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36"
                 }
             }
         },
@@ -929,6 +929,7 @@
                 "#EXTINF.*?\\s+.*?1o.*?\\.ts\\s+"
             ]
         },
+        
         {
             "name":"火山嗅探",
             "hosts":[
