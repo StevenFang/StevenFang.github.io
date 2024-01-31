@@ -1,5 +1,5 @@
 {
-     "spider": "https://fs-im-kefu.7moor-fs1.com/29397395/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1706264384526/fan.txt;md5;5543dae038ce2248e7759e9cbca295b9",
+    "spider": "https://fs-im-kefu.7moor-fs1.com/29397395/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1706645996429/fan.txt;md5;1ff3df38a66ee5378031e4fac1799596",
     "wallpaper":"http://饭太硬.top/深色壁纸/api.php",
     "sites":[
         {
@@ -87,16 +87,6 @@
             "searchable":1,
             "quickSearch":1,
             "ext":"http://43.154.162.194/ruifenglb_api.php/v1.vod"
-        },
-        {
-            "key":"蚂蚁",
-            "name":"🍉主源┃无广",
-            "type":3,
-            "jar":"https://fs-im-kefu.7moor-fs1.com/29397395/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1704761840381/c (1).txt;md5;bb155c3f0133bbce4756ad52003f5968",
-            "api":"csp_AppYsV2",
-            "searchable":1,
-            "quickSearch":1,
-            "ext":"http://122.228.84.103:5822/api.php/app/"
         },
         {
             "key":"小胡",
@@ -408,7 +398,7 @@
             "ext":{
                 "嗅探词":"v3.toutiaovod.com#v3-dy-o.zjcdn#.m3u8#/tos/#.mp4",
                 "请求头":"手机#Referer$https://www.cupfox1.cc",
-                "分类url":"https://www.cupfox1.cc/show/{cateId}/area/{area}/page/{catePg}/year/{year}.html",
+                "分类url":"https://cupfox1.cc/show/{cateId}/area/{area}/page/{catePg}/year/{year}.html",
                 "标题":"movie-title txtHide\"*>&&</div",
                 "副标题":"豆瓣评分+div class=\"movie-rating cor4\">&&</div>",
                 "分类":"电影$1#剧集$2#动漫$4#综艺$4",
@@ -516,19 +506,18 @@
                 "分类":"袁阔成$ykc#单田芳$stf#田连元$tly#刘兰芳$llf#连丽如$llr#张少佐$zsz#田战义$tzy"
             }
         },
-        {
-            "key":"88js",
-            "name":"⚽ 88┃看球",
-            "type":3,
-            "api":"https://agit.ai/fantaiying/fty/raw/branch/master/ext/drpy2.min.js",
-            "ext":"https://agit.ai/fantaiying/fty/raw/branch/master/ext/88看球.js",
-            "style":{
-                "type":"list"
-            },
-            "searchable":0,
-            "quickSearch":0,
-            "changeable":0
-        },
+         {
+      "key": "88js",
+      "name": "⚽ 看球┃在线",
+      "type": 3,
+      "api": "csp_Kanqiu",
+      "style": {
+        "type": "list"
+      },
+      "searchable": 0,
+      "quickSearch": 0,
+      "changeable": 0
+    },
         {
             "key":"alist",
             "name":"🍰小鸭┃网盘",
