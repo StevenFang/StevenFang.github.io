@@ -4,7 +4,7 @@
     "sites":[
         {
             "key":"豆豆",
-            "name":"🎟豆瓣┃主页",
+            "name":"🎟豆瓣┃新年🎉",
             "type":3,
             "api":"csp_DouDou",
             "searchable":0,
@@ -95,7 +95,7 @@
             "quickSearch":1,
             "type":1,
             "playerType":1,
-            "api":"http://c.小胡.icu/api.php/provide/vod/"
+            "api":"http://xh.xn--yetu07f.icu/api.php/provide/vod"
         },
         {
             "key":"南瓜",
@@ -116,16 +116,16 @@
             "quickSearch":1,
             "changeable":1
         },
-        {
-            "key":"南坊",
-            "name":"☀南坊┃App",
-            "type":3,
-            "api":"csp_AppMao",
-            "searchable":1,
-            "quickSearch":1,
-            "changeable":1,
-            "ext":"FbjCcU1KqpC5pkRX4Q3D+NciPclIFs4EHzRV89m3pENRS6PivxPrlXvH/4efUSWwUCWwwk8srkIDSXN9RIJkSCZPJqnRikLRakBH0XBB6uNlX6XgMjhUKBTbBXopnsWdvXX6OowIBLQ78wghs3yRbgJxOYvrglBVIeI4cTcDGxixtMJ+yL0zE9g1d+N2RH4JERZh3CoYXSO1hH420ARbjt08lerroREmfGoT8JEGfTFW3MrK3hWueIyRsyOllsj/P87VXSxEVLnwNm4fos8lCFL74+azvs61n89svqg="
-        },
+         {
+      "key": "南坊",
+      "name": "☀南坊┃App",
+      "type": 3,
+      "api": "csp_AppMao",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
+      "ext": "FbjCcU1KqpC5pkRX4Q3D+NciPclIFs4EHzRV89m3pENRS6PivxPrlXvH/4efUSWwUCWwwk8srkIDSXN9RIJkSCZPJqnRikLRakBH0XBB6uNlX6XgMjhUKBTbBXopnsWdvXX6OowIBLQ78wghs3yRbgJxOYvrglBVIeI4cTcDGxixtMJ+yL0zE9g1d+N2RH4JERZh3CoYXSO1hH420ARbjt08lerroREmfGoT8JEGfTFW3MrK3hWueIyRsyOllsj/P87VXSxEVLnwNm4fos8lCFL74+azvs61n89svqg="
+    },
         {
             "key":"嘿嘿",
             "name":"🌾嘿嘿┃App",
