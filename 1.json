@@ -1,5 +1,5 @@
 {
-	"spider": "https://fs-im-kefu.7moor-fs1.com/29397395/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1707044072121/fan.txt;md5;c3e8c08b4cd6f7fd0f868ea48dd42cb2",
+	"spider": "https://fs-im-kefu.7moor-fs1.com/29397395/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1707932830072/fan.txt;md5;be7060a567ce9e8021946b6de0ed8da",
 	"wallpaper": "http://饭太硬.top/深色壁纸/api.php",
 	"sites": [{
 			"key": "豆豆",
@@ -33,7 +33,7 @@
 			"searchable": 1,
 			"changeable": 0,
 			"quickSearch": 1,
-			"ext": "https://www.czzy66.com/",
+			"ext": "https://www.czz55.com/",
 			"filterable": 1
 		},
 		{
@@ -96,16 +96,16 @@
 			"quickSearch": 1,
 			"changeable": 1
 		},
-		{
-			"key": "南坊",
-			"name": "☀南坊┃App",
-			"type": 3,
-			"api": "csp_AppMao",
-			"searchable": 1,
-			"quickSearch": 1,
-			"changeable": 1,
-			"ext": "FbjDcUxPqpfNr0QF4QvE6sExbd4UXJxJXzdL462ywU1XScGa5G6Hj0/c+Ou1GW6rdX6N2XIhnD46QzIsRoZ8bk4fG4OYi0iCaWwRj2ddkaI+FqHtLjQhalHqIy0+kpiTv2eOfJYxTshgoxEZvRX9BA0UIrOurFxHa4dPZw=="
-		},
+		 {
+      "key": "南坊",
+      "name": "☀南坊┃App",
+      "type": 3,
+      "api": "csp_Appto",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
+      "ext": "FbjDcUxPqpfNr0QF4QvE6sExbdFaCsJGU3QP9+aykEFcCJTRtWyLyATI/Kr0RWOrdmmE82op1Sp3CSI5WoN6fFdLHN+LxA+CamUTj3pr0P4lAumpPCpzMgL5ZXIuytPprjLXKt5kbYcwtkFA9gT8BgdcY6mr40MUeodBOmAdLR2v8uYbpugEDOo5fQ=="
+    },
 		{
 			"key": "酷看",
 			"name": "💡酷看┃App",
@@ -183,10 +183,10 @@
 			"jar": "https://fs-im-kefu.7moor-fs1.com/29397395/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1704761840381/c (1).txt;md5;bb155c3f0133bbce4756ad52003f5968",
 			"ext": {
 				"分类url": "https://www.freeok.vip/vod-show/{cateId}-{area}-------{catePg}---{year}.html",
-				"请求头": "User-Agent$Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36#Referer$https://www.freeok.vip",
+				//"请求头": "User-Agent$Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36#Referer$https://www.freeok.vip",
 				"分类": "FREE电影&FREE剧集&FREE动漫&FREE综艺&FREE短剧&FREE少儿",
 				"分类值": "1&2&3&4&12&5",
-				"播放请求头": "User-Agent$Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36#Referer$https://www.freeok.vip",
+				//"播放请求头": "User-Agent$Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36#Referer$https://www.freeok.vip",
 				"副标题": "<div class=\"module-item-note\">&&</div>",
 				"嗅探词": "m3u8#.m3u8#.mp4#freeok.mp4#/obj/",
 				"线路数组": "data-dropdown-value=&&</div>[不包含:夸克]",
