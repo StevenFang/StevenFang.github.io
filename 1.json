@@ -47,6 +47,33 @@
 			"ext": "http://127.0.0.1:9978/file/tvfan/token.txt+auto|4k|fhd$$$https://api.wogg.xyz/$$$弹"
 		},
 		{
+			"key": "新剧",
+			"name": "🐦新剧┃影视",
+			"type": 3,
+			"api": "csp_XBPQ",
+			"jar": "https://fs-im-kefu.7moor-fs1.com/29397395/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1704761840381/c (1).txt;md5;bb155c3f0133bbce4756ad52003f5968",
+			"searchable": 0,
+			"playerType": 2,
+			"quickSearch": 0,
+			"filterable": 1,
+			"ext": {
+		"请求头": "User-Agent$Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36#Referer$https://www.03yy.co/#Cookie$__ancc_token=W5jzBYpcImDP/Iik1IURZg==; PHPSESSID=j11nnfvlgq36kd9u80ua370i41;",
+        "数组": "<div class=\"pic-content pic-width-2\">&&</div>",
+        "副标题": "<span>&&</span>",
+        "嗅探词": ".mp4?#.m3u8",
+        "简介": "<p&&</p>",
+        "导演": "导演：&&</div>",
+        "主演": "主演：&&</div>",
+        
+        "线路二次截取": "<ul id=\"playlist\">&&</ul",
+        "线路数组": " <li&&li>",
+        "线路标题": ">&&<",
+        "播放请求头": "Cookie$__ancc_token=W5jzBYpcImDP/Iik1IURZg==; PHPSESSID=j11nnfvlgq36kd9u80ua370i41;",
+        "分类url": "https://www.03yy.co/search.php?page={catePg}&searchtype=5&order=time&tid={cateId};;ar1",
+        "分类": "电影$1#电视剧$2#动漫$4#综艺$3"
+			}
+		},
+		{
 			"key": "sansan",
 			"name": "⭕️三三┃解析",
 			"type": 3,
@@ -95,6 +122,17 @@
 			"searchable": 1,
 			"quickSearch": 1,
 			"changeable": 1
+		},
+		{
+			"key": "二三",
+			"name": "🐭二三┃APP",
+			"type": 3,
+			"searchable": 1,
+			"quickSearch": 1,
+			"changeable": 1,
+			"playerType": "1",
+			"api": "http://dt.xn--yety82d.love/js/lib/drpy2.min.js",
+			"ext": "https://01.xu.tw.cn/down.php/751376c9824fecd9ff4f9dd8d811553e.js"
 		},
 		 {
       "key": "南坊",
@@ -175,27 +213,25 @@
 			}
 		},
 		{
-			"key": "freeok",
-			"name": "🌟free┃BPQ",
-			"type": 3,
-			"api": "csp_XBPQ",
-			"playerType": "2",
-			"jar": "https://fs-im-kefu.7moor-fs1.com/29397395/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1704761840381/c (1).txt;md5;bb155c3f0133bbce4756ad52003f5968",
-			"ext": {
-				"分类url": "https://www.freeok.vip/vod-show/{cateId}-{area}-------{catePg}---{year}.html",
-				//"请求头": "User-Agent$Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36#Referer$https://www.freeok.vip",
-				"分类": "FREE电影&FREE剧集&FREE动漫&FREE综艺&FREE短剧&FREE少儿",
-				"分类值": "1&2&3&4&12&5",
-				//"播放请求头": "User-Agent$Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36#Referer$https://www.freeok.vip",
-				"副标题": "<div class=\"module-item-note\">&&</div>",
-				"嗅探词": "m3u8#.m3u8#.mp4#freeok.mp4#/obj/",
-				"线路数组": "data-dropdown-value=&&</div>[不包含:夸克]",
-				"线路标题": "<span>&&</small>",
-				"导演": "导演：&&</div>",
-				"主演": "主演：&&</div>",
-				"简介": "<p>&&</p>"
-			}
-		},
+            "key":"freeok",
+            "name":"🌟free┃BPQ",
+            "type":3,
+            "api":"csp_XBPQ",
+            "playerType":"2",
+            "jar":"https://fs-im-kefu.7moor-fs1.com/29397395/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1704761840381/c (1).txt;md5;bb155c3f0133bbce4756ad52003f5968",
+            "ext":{
+                "分类url":"https://www.freeok.vip/vod-show/{cateId}-{area}-------{catePg}---{year}.html;;ar1",
+                "分类":"FREE电影&FREE剧集&FREE动漫&FREE综艺&FREE短剧&FREE少儿",
+                "分类值":"1&2&3&4&12&5",
+                "副标题":"<div class=\"module-item-note\">&&</div>",
+                "嗅探词":"m3u8#.m3u8#.mp4#freeok.mp4#/obj/",
+                "线路数组":"data-dropdown-value=&&</div>[不包含:夸克]",
+                "线路标题":"<span>&&</small>",
+                "导演":"导演：&&</div>",
+                "主演":"主演：&&</div>",
+                "简介":"<p>&&</p>"
+            }
+        },
 		{
 			"key": "Auete",
 			"name": "🏂奥特┃直连",
@@ -217,16 +253,6 @@
 			"ext": "https://www.hdmyy.com/"
 		},
 		{
-			"key": "毛驴",
-			"name": "🎀毛驴┃App",
-			"type": 3,
-			"api": "csp_MLYS",
-			"searchable": 1,
-			"quickSearch": 1,
-			"changeable": 0,
-			"ext": "https://www.maolvys.com/"
-		},
-		{
 			"key": "csp_Nmys",
 			"name": "🧑农民┃直连",
 			"type": 3,
@@ -235,44 +261,6 @@
 			"quickSearch": 1,
 			"changeable": 0,
 			"ext": "https://agit.ai/fantaiying/fty/raw/branch/master/json/nmys.json"
-		},
-		{
-			"key": "乌鸦",
-			"name": "🐦乌鸦┃影视",
-			"type": 3,
-			"api": "csp_XBPQ",
-			"jar": "https://fs-im-kefu.7moor-fs1.com/29397395/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1704761840381/c (1).txt;md5;bb155c3f0133bbce4756ad52003f5968",
-			"searchable": 1,
-			"playerType": 2,
-			"quickSearch": 1,
-			"filterable": 1,
-			"ext": {
-				"站名": "乌鸦影视",
-				"主页url": "https://wyys.wuyays.top/appto/v1/home/cateData?id=1",
-				"请求头": "User-Agent$Dart/2.19 (dart:io)",
-				"二次截取": "\"data\"*[&&]",
-				"数组": "{&&}",
-				"图片": "\"vod_pic\"*\"&&\"",
-				"标题": "\"vod_name\"*\"&&\"",
-				"副标题": "\"vod_remarks\"*\"&&\"",
-				"链接": "https://wyys.wuyays.top/addons/apptov4/app.php/v1/vod/getVod?id=+\"vod_id\":&&,+_platform=android&__ic=lqGGz9NM4aHVoD8jSoFFcmfeQ0zcjkG0a6dOiCPe4lHMGzMEigPzyXuhccQRZf6D75pAyu5qXZa8Woq50p8Xvf11kZq38Yk6UAkKR0nWIPWyUN%2BrL68%2FTxsj%2Fs%2F%2Bdvz3d9mhjzeyYUyI71OEzzkEnw%3D%3D",
-				"线路数组": "\"player_info\":{&&}",
-				"线路标题": "\"show\"*\"&&\"",
-				"导演": "vod_director\"*\"&&\"",
-				"主演": "vod_actor\"*\"&&\"",
-				"简介": "vod_blurb\"*\"&&\"",
-				"播放二次截取": "&&[替换]",
-				"播放数组": "urls*\\[&&\\]",
-				"播放列表": "{&&}",
-				"跳转播放链接": "\"url\"*\"&&\"",
-				"播放标题": "\"name\"*\"&&\"",
-				"跳转解析": "默认$空#墨鸦内部$https://vip.yybjs.top/home/api?type=ys&uid=2691400&key=bcmqsvwyzACFIPY368&url=#墨鸦VIP$http://110.42.2.247:880//analysis//json//?uid=2496&my=adegilpstxyAEFOQWY&format=json&url=",
-				"播放链接": "解析+\"url\"*\"&&\"",
-				"搜索url": "https://wyys.wuyays.top/addons/apptov4/app.php/v1/vod/getVodSearch?wd={wd}&page=1&type",
-				"搜索模式": "1",
-				"分类url": "https://wyys.wuyays.top/addons/apptov4/app.php/v1/vod/getLists?area=&lang=&year=&order=time&type_id={cateId}&type_name=&page={catePg}&pageSize=21;;u0",
-				"分类": "电影$1#电视剧$2#动漫$3#综艺$4"
-			}
 		},
 		{
 			"key": "csp_DiDuan",
@@ -344,6 +332,19 @@
 			}
 		},
 		{
+			"key": "即可",
+			"name": "👋即刻┃BPQ",
+			"type": 3,
+			"jar": "https://fs-im-kefu.7moor-fs1.com/29397395/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1704761840381/c (1).txt;md5;bb155c3f0133bbce4756ad52003f5968",
+			"api": "csp_XBPQ",
+			"ext": {
+				"嗅探词": ".m3u8",
+				"分类url": "https://www.jkdy.cc/vodshow/{cateId}-{area}-------{catePg}---{year}.html",
+				"分类": "电影$1#剧集$2#动漫$4#综艺$4",
+				"搜索模式": "0"
+			}
+		},
+		{
 			"key": "茶杯",
 			"name": "🍵茶杯┃BPQ",
 			"type": 3,
@@ -355,8 +356,7 @@
 				"分类url": "https://cupfox1.cc/show/{cateId}/area/{area}/page/{catePg}/year/{year}.html",
 				"标题": "movie-title txtHide\"*>&&</div",
 				"副标题": "豆瓣评分+div class=\"movie-rating cor4\">&&</div>",
-				"分类": "电影$1#剧集$2#动漫$4#综艺$4",
-				"搜索模式": "0"
+				"分类": "电影$1#剧集$2#动漫$4#综艺$4"
 			}
 		},
 		{
