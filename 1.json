@@ -3,7 +3,7 @@
 	"wallpaper": "http://饭太硬.top/深色壁纸/api.php",
 	"sites": [{
 			"key": "豆豆",
-			"name": "🎟豆瓣┃新年🎉",
+			"name": "🎟豆瓣┃接口纯免费",
 			"type": 3,
 			"api": "csp_DouDou",
 			"searchable": 0,
@@ -12,7 +12,7 @@
 		},
 		{
 			"key": "Bili",
-			"name": "🅱哔哔┃哔哩",
+			"name": "🅱哔哔┃收费是诈骗",
 			"type": 3,
 			"api": "csp_Bili",
 			"style": {
@@ -46,59 +46,14 @@
 			"ext": "http://127.0.0.1:9978/file/tvfan/token.txt+auto|4k|fhd$$$https://api.wogg.xyz/$$$弹"
 		},
 		{
-			"key": "新剧",
-			"name": "🐦新剧┃影视",
+			"key": "有来",
+			"name": "🚑有来┃医生",
 			"type": 3,
-			"api": "csp_XBPQ",
-			"jar": "https://fs-im-kefu.7moor-fs1.com/29397395/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1704761840381/c (1).txt;md5;bb155c3f0133bbce4756ad52003f5968",
-			"searchable": 0,
-			"playerType": 2,
-			"quickSearch": 0,
-			"filterable": 1,
-			"ext": {
-		"请求头": "User-Agent$Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36#Referer$https://www.03yy.co/#Cookie$__ancc_token=W5jzBYpcImDP/Iik1IURZg==; PHPSESSID=j11nnfvlgq36kd9u80ua370i41;",
-        "数组": "<div class=\"pic-content pic-width-2\">&&</div>",
-        "副标题": "<span>&&</span>",
-        "嗅探词": ".mp4?#.m3u8",
-        "简介": "<p&&</p>",
-        "导演": "导演：&&</div>",
-        "主演": "主演：&&</div>",
-        
-        "线路二次截取": "<ul id=\"playlist\">&&</ul",
-        "线路数组": " <li&&li>",
-        "线路标题": ">&&<",
-        "播放请求头": "Cookie$__ancc_token=W5jzBYpcImDP/Iik1IURZg==; PHPSESSID=j11nnfvlgq36kd9u80ua370i41;",
-        "分类url": "https://www.03yy.co/search.php?page={catePg}&searchtype=5&order=time&tid={cateId};;ar1",
-        "分类": "电影$1#电视剧$2#动漫$4#综艺$3"
-			}
+			"api": "csp_FirstAid",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1
 		},
-		{
-      "key": "爱看",
-      "name": "❤️爱看┃影院",
-      "type": 3,
-      "api": "csp_Ayy",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1      
-    },
-    {
-      "key": "高光",
-      "name": "✌️️高光┃影视",
-      "type": 3,
-      "api": "csp_Ggys",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1      
-    },  
-    {
-      "key": "有来",
-      "name": "🚑有来┃医生",
-      "type": 3,
-      "api": "csp_FirstAid",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1      
-    },     
 		{
 			"key": "sansan",
 			"name": "⭕️三三┃解析",
@@ -108,6 +63,19 @@
 			"quickSearch": 1,
 			"changeable": 0
 		},
+		{
+      "key": "气球",
+      "name": "🎈气球┃左岸",
+      "type": 1,
+      "api": "https://cj.wanbu.cc/api.php/provide/vod/",
+      "playUrl": "https://cj.wanbu.cc/jmza.php?url=",
+      "categories": [
+        "电影",
+        "电视剧",
+        "动漫",
+        "综艺"
+      ]
+    },
 		{
 			"key": "赞赞",
 			"name": "➕赞赞┃切片",
@@ -120,12 +88,23 @@
 			"changeable": 0
 		},
 		{
-			"key": "亮亮",
-			"name": "💡主源┃无广",
+			"key": "蚂蚁",
+			"name": "🐜蚂蚁┃无广",
 			"type": 3,
 			"jar": "https://fs-im-kefu.7moor-fs1.com/29397395/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1704761840381/c (1).txt;md5;bb155c3f0133bbce4756ad52003f5968",
 			"api": "csp_AppYsV2",
-			"ext": "http://xiutan.shiyifacai.com/zuoan/api.php/app/",
+			"ext": "http://122.228.84.103:5822/api.php/app/",
+			"searchable": 1,
+			"quickSearch": 1,
+			"changeable": 0
+		},
+		{
+			"key": "亮亮",
+			"name": "💡左岸┃无广",
+			"type": 3,
+			"jar": "https://fs-im-kefu.7moor-fs1.com/29397395/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1704761840381/c (1).txt;md5;bb155c3f0133bbce4756ad52003f5968",
+			"api": "csp_AppYsV2",
+			"ext": "http://106.54.20.134:7788/zuoan/api.php/app/",
 			"searchable": 1,
 			"quickSearch": 1,
 			"changeable": 0
@@ -150,42 +129,12 @@
 			"changeable": 1
 		},
 		{
-			"key": "二三",
-			"name": "🐭二三┃APP",
+			"key": "csp_Dm84",
+			"name": "🤣动漫┃巴士",
 			"type": 3,
-			"searchable": 1,
-			"quickSearch": 1,
-			"changeable": 1,
-			"playerType": "1",
-			"api": "http://dt.xn--yety82d.love/js/lib/drpy2.min.js",
-			"ext": "https://01.xu.tw.cn/down.php/751376c9824fecd9ff4f9dd8d811553e.js"
+			"playerType": "2",
+			"api": "csp_Dm84"
 		},
-		 {
-      "key": "南坊",
-      "name": "☀南坊┃App",
-      "type": 3,
-      "api": "csp_Appto",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1,
-      "ext": "FbjDcUxPqpfNr0QF4QvE6sExbdFaCsJGU3QP9+aykEFcCJTRtWyLyATI/Kr0RWOrdmmE82op1Sp3CSI5WoN6fFdLHN+LxA+CamUTj3pr0P4lAumpPCpzMgL5ZXIuytPprjLXKt5kbYcwtkFA9gT8BgdcY6mr40MUeodBOmAdLR2v8uYbpugEDOo5fQ=="
-    },
-		{
-			"key": "酷看",
-			"name": "💡酷看┃App",
-			"type": 3,
-			"api": "csp_Kkys",
-			"searchable": 1,
-			"quickSearch": 1,
-			"changeable": 1
-		},
-		{
-      "key": "csp_Dm84",
-      "name": "🤣动漫┃巴士",
-      "type": 3,
-      "playerType": "2",
-      "api": "csp_Dm84"
-    },
 		{
 			"key": "saohuo",
 			"name": "🔥骚火┃直连",
@@ -246,25 +195,25 @@
 			}
 		},
 		{
-            "key":"freeok",
-            "name":"🌟free┃BPQ",
-            "type":3,
-            "api":"csp_XBPQ",
-            "playerType":"2",
-            "jar":"https://fs-im-kefu.7moor-fs1.com/29397395/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1704761840381/c (1).txt;md5;bb155c3f0133bbce4756ad52003f5968",
-            "ext":{
-                "分类url":"https://www.freeok.vip/vod-show/{cateId}-{area}-------{catePg}---{year}.html;;ar1",
-                "分类":"FREE电影&FREE剧集&FREE动漫&FREE综艺&FREE短剧&FREE少儿",
-                "分类值":"1&2&3&4&12&5",
-                "副标题":"<div class=\"module-item-note\">&&</div>",
-                "嗅探词":"m3u8#.m3u8#.mp4#freeok.mp4#/obj/",
-                "线路数组":"data-dropdown-value=&&</div>[不包含:夸克]",
-                "线路标题":"<span>&&</small>",
-                "导演":"导演：&&</div>",
-                "主演":"主演：&&</div>",
-                "简介":"<p>&&</p>"
-            }
-        },
+			"key": "freeok",
+			"name": "🌟free┃BPQ",
+			"type": 3,
+			"api": "csp_XBPQ",
+			"playerType": "2",
+			"jar": "https://fs-im-kefu.7moor-fs1.com/29397395/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1704761840381/c (1).txt;md5;bb155c3f0133bbce4756ad52003f5968",
+			"ext": {
+				"分类url": "https://www.freeok.vip/vod-show/{cateId}-{area}-------{catePg}---{year}.html;;ar1",
+				"分类": "FREE电影&FREE剧集&FREE动漫&FREE综艺&FREE短剧&FREE少儿",
+				"分类值": "1&2&3&4&12&5",
+				"副标题": "<div class=\"module-item-note\">&&</div>",
+				"嗅探词": "m3u8#.m3u8#.mp4#freeok.mp4#/obj/",
+				"线路数组": "data-dropdown-value=&&</div>[不包含:夸克]",
+				"线路标题": "<span>&&</small>",
+				"导演": "导演：&&</div>",
+				"主演": "主演：&&</div>",
+				"简介": "<p>&&</p>"
+			}
+		},
 		{
 			"key": "Auete",
 			"name": "🏂奥特┃直连",
@@ -274,16 +223,6 @@
 			"quickSearch": 1,
 			"changeable": 0,
 			"ext": "https://haozhansou.com/"
-		},
-		{
-			"key": "Xinsj",
-			"name": "👓视觉┃直连",
-			"type": 3,
-			"api": "csp_Xinsj",
-			"searchable": 1,
-			"quickSearch": 1,
-			"changeable": 1,
-			"ext": "https://www.hdmyy.com/"
 		},
 		{
 			"key": "csp_Nmys",
@@ -524,15 +463,15 @@
 			}
 		},
 		{
-      "key": "csp_XiaoZhiTiao",
-      "name": "📜纸条┃网盘",
-      "type": 3,
-      "api": "csp_XiaoZhiTiao",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": ""
-    },
+			"key": "csp_XiaoZhiTiao",
+			"name": "📜纸条┃网盘",
+			"type": 3,
+			"api": "csp_XiaoZhiTiao",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1,
+			"ext": ""
+		},
 		{
 			"key": "YiSo",
 			"name": "☁️易搜┃4K搜",
@@ -646,41 +585,9 @@
 			}
 		},
 		{
-			"name": "飞云🌾",
+			"name": "左岸🌾",
 			"type": 1,
-			"url": "http://122.228.84.103:7777/api/?key=EauMlPIBC3spoYGaOB&url=",
-			"ext": {
-				"flag": [
-					"FYNB",
-					"NBY",
-					"qiyi",
-					"imgo",
-					"爱奇艺",
-					"奇艺",
-					"qq",
-					"腾讯",
-					"youku",
-					"优酷",
-					"pptv",
-					"PPTV",
-					"letv",
-					"乐视",
-					"leshi",
-					"bilibili",
-					"哔哩哔哩",
-					"哔哩",
-					"mgtv",
-					"芒果"
-				],
-				"header": {
-					"User-Agent": "okhttp/4.1.0"
-				}
-			}
-		},
-		{
-			"name": "亮亮🌾",
-			"type": 1,
-			"url": "http://xiutan.shiyifacai.com/json/qingfeng.php?url=",
+			"url": "http://42.157.129.139:7788/json/aiku.php?url=",
 			"ext": {
 				"flag": [
 					"seven"
@@ -691,25 +598,12 @@
 			}
 		},
 		{
-			"name": "赞赞🌾",
+			"name": "蚂蚁🌾",
 			"type": 1,
-			"url": "http://121.62.61.51:6888/api/?key=qy9VEMeeqwl3nI4gvA&url=",
+			"url": "http://y1.ys.33love.cn:8665/lunxun/index.php?url=",
 			"ext": {
 				"flag": [
 					"NBY"
-				],
-				"header": {
-					"User-Agent": "okhttp/4.1.0"
-				}
-			}
-		},
-		{
-			"name": "左岸🌾",
-			"type": 1,
-			"url": "http://122.228.84.103:5829/jx/?url=",
-			"ext": {
-				"flag": [
-					"seven"
 				],
 				"header": {
 					"User-Agent": "okhttp/4.1.0"
@@ -742,35 +636,6 @@
 				],
 				"header": {
 					"User-Agent": "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36"
-				}
-			}
-		},
-		{
-			"name": "YuMi-vip🥭",
-			"type": 0,
-			"url": "https://jx.xmflv.com/?url=",
-			"ext": {
-				"flag": [
-					"爱奇艺",
-					"奇艺",
-					"qq",
-					"腾讯",
-					"youku",
-					"优酷",
-					"pptv",
-					"PPTV",
-					"letv",
-					"乐视",
-					"leshi",
-					"bilibili",
-					"哔哩哔哩",
-					"哔哩",
-					"mgtv",
-					"芒果",
-					"芒果"
-				],
-				"header": {
-					"User-Agent": "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Mobile Safari/537.36"
 				}
 			}
 		}
