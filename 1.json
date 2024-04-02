@@ -1,5 +1,5 @@
 {
-	"spider": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1711988761126/fan.txt;md5;939c79aa5e93766504d1f7a957d32f24",
+	"spider": "https://fs-im-kefu.7moor-fs1.com/29397395/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1710238671597/fan.txt;md5;d275081b5b9f999614a1930aa7599cb9",
 	"wallpaper": "http://饭太硬.top/深色壁纸/api.php",
 	"sites": [{
 			"key": "豆豆",
@@ -35,7 +35,7 @@
 			},
 			"quickSearch": 0,
 			"api": "csp_XBPQ",
-			"jar": "https://jihulab.com/xiaohutx/meisha/-/raw/main/1.jar;md5;1484e86a3a4463eaf8ef41c6832a1df0",
+			"jar": "https://fs-im-kefu.7moor-fs1.com/29397395/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1704761840381/c (1).txt;md5;1484e86a3a4463eaf8ef41c6832a1df0",
 			"ext": {
 				"主页url": "https://www.xsmp3.com",
 				"数组二次截取": "<ul id=\"post_list_box\">&&</ul",
@@ -70,7 +70,7 @@
 			},
 			"quickSearch": 0,
 			"api": "csp_XBPQ",
-			"jar": "https://jihulab.com/xiaohutx/meisha/-/raw/main/1.jar;md5;1484e86a3a4463eaf8ef41c6832a1df0",
+			"jar": "https://fs-im-kefu.7moor-fs1.com/29397395/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1704761840381/c (1).txt;md5;1484e86a3a4463eaf8ef41c6832a1df0",
 			"ext": {
 				"主页url": "https://www.psmp3.com",
 				"数组二次截取": "<ul id=\"post_list_box\">&&</ul",
@@ -143,7 +143,7 @@
 			"api": "csp_BaiPiao",
 			"playerType": 2,
 			"searchable": 1,
-			"ext": "https://www.baipiaoys.com:9092/",
+			"quickSearch": 1,
 			"changeable": 1
 		},
 		{
@@ -168,7 +168,7 @@
 			"key": "赞赞",
 			"name": "➕1080P┃切片",
 			"type": 3,
-			"jar": "https://jihulab.com/xiaohutx/meisha/-/raw/main/1.jar;md5;bb155c3f0133bbce4756ad52003f5968",
+			"jar": "https://fs-im-kefu.7moor-fs1.com/29397395/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1704761840381/c (1).txt;md5;bb155c3f0133bbce4756ad52003f5968",
 			"api": "csp_AppYsV2",
 			"ext": "http://mf.songshu.cyou/ruifenglb_api.php/v1.vod",
 			"searchable": 1,
@@ -202,7 +202,7 @@
 			"changeable": 0,
 			"quickSearch": 1,
 			"playerType": "2",
-			"jar": "https://jihulab.com/xiaohutx/meisha/-/raw/main/1.jar;md5;bb155c3f0133bbce4756ad52003f5968",
+			"jar": "https://fs-im-kefu.7moor-fs1.com/29397395/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1704761840381/c (1).txt;md5;bb155c3f0133bbce4756ad52003f5968",
 			"api": "csp_XBPQ",
 			"ext": {
 				"嗅探词": ".m3u8#.mp4#.m3u8?#freeok.mp4",
@@ -221,7 +221,7 @@
 	"key": "晴天",
 	"name": "☀️晴天┃1080P",
 	"type": 3,
-	"jar": "https://jihulab.com/xiaohutx/meisha/-/raw/main/1.jar;md5;bb155c3f0133bbce4756ad52003f5968",
+	"jar": "https://fs-im-kefu.7moor-fs1.com/29397395/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1704761840381/c (1).txt;md5;bb155c3f0133bbce4756ad52003f5968",
 	"api": "csp_XBPQ",
 	"searchable": 1,
 	"quickSearch": 1,
@@ -239,7 +239,7 @@
 			"type": 3,
 			"api": "csp_XBPQ",
 			"playerType": "2",
-			"jar": "https://jihulab.com/xiaohutx/meisha/-/raw/main/1.jar;md5;bb155c3f0133bbce4756ad52003f5968",
+			"jar": "https://fs-im-kefu.7moor-fs1.com/29397395/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1704761840381/c (1).txt;md5;bb155c3f0133bbce4756ad52003f5968",
 			"ext": {
 				"主页url": "https://www.3ayy.com",
 				"简介": "module-info-introduction\">&&</p>",
@@ -268,7 +268,7 @@
 			"type": 3,
 			"api": "csp_XBPQ",
 			"playerType": "2",
-			"jar": "https://jihulab.com/xiaohutx/meisha/-/raw/main/1.jar;md5;bb155c3f0133bbce4756ad52003f5968",
+			"jar": "https://fs-im-kefu.7moor-fs1.com/29397395/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1704761840381/c (1).txt;md5;bb155c3f0133bbce4756ad52003f5968",
 			"ext": {
 				"分类url": "https://www.freeok.vip/vod-show/{cateId}-{area}-------{catePg}---{year}.html;;ar1",
 				"分类": "FREE电影&FREE剧集&FREE动漫&FREE综艺&FREE短剧&FREE少儿",
@@ -319,7 +319,7 @@
 			"searchable": 1,
 			"quickSearch": 1,
 			"changeable": 1,
-			"jar": "https://jihulab.com/xiaohutx/meisha/-/raw/main/1.jar;md5;bb155c3f0133bbce4756ad52003f5968",
+			"jar": "https://fs-im-kefu.7moor-fs1.com/29397395/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1704761840381/c (1).txt;md5;bb155c3f0133bbce4756ad52003f5968",
 			"playerType": "2",
 			"api": "csp_XBPQ",
 			"ext": {
@@ -359,7 +359,7 @@
 			"key": "双黄",
 			"name": "🥚1080P┃蛋蛋",
 			"type": 3,
-			"jar": "https://jihulab.com/xiaohutx/meisha/-/raw/main/1.jar;md5;bb155c3f0133bbce4756ad52003f5968",
+			"jar": "https://fs-im-kefu.7moor-fs1.com/29397395/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1704761840381/c (1).txt;md5;bb155c3f0133bbce4756ad52003f5968",
 			"api": "csp_XBPQ",
 			"ext": {
 				"嗅探词": "v3.toutiaovod.com#v3-dy-o.zjcdn#.m3u8#/tos/#.mp4",
@@ -377,8 +377,7 @@
                 "name": "🐿️1080P┃白白",
                 "type": 3,
                 "api": "csp_XBPQ",
-		"searchable": 0,
-                "jar": "https://jihulab.com/xiaohutx/meisha/-/raw/main/1.jar;md5;bb155c3f0133bbce4756ad52003f5968",
+                "jar": "https://fs-im-kefu.7moor-fs1.com/29397395/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1704761840381/c (1).txt;md5;bb155c3f0133bbce4756ad52003f5968",
                 "ext": {
                         "地区": "[替换:大陆>>中国大陆#香港>>中国香港#台湾>>中国台湾]",
                         "分类": "电影$1#电视剧$2#动漫$3#爽文短剧$4",
@@ -390,7 +389,7 @@
 			"name": "🔥1080P┃热播",
 			"type": 3,
 			"changeable": 1,
-			"jar": "https://jihulab.com/xiaohutx/meisha/-/raw/main/1.jar;md5;bb155c3f0133bbce4756ad52003f5968",
+			"jar": "https://fs-im-kefu.7moor-fs1.com/29397395/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1704761840381/c (1).txt;md5;bb155c3f0133bbce4756ad52003f5968",
 			"api": "csp_XBPQ",
 			"playerType": "1",
 			"ext": {
