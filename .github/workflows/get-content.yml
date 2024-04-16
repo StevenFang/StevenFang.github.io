@@ -21,9 +21,16 @@ jobs:
         echo "::set-output name=status_code::$?"
         set -e
 
-    - name: Commit and push if it's not a fork and site is up
+    - name: Extract and encode content
       if: steps.get_content.outputs.status_code == '0' && github.event_name == 'schedule' && github.repository == github.event.repository.full_name
       run: |
+        base64encoded=$(cat 1.json | grep -oP '(?<=**).*' | base64 -w 0)
+        echo "::set-output name=encoded_content::$base64encoded"
+
+    - name: Save encoded content to 1.json
+      if: steps.extract_encode_content.outputs.status_code == '0' && github.event_name == 'schedule' && github.repository == github.event.repository.full_name
+      run: |
+        echo "$steps.extract_encode_content.outputs.encoded_content" > 1.json
         git config --local user.email "action@github.com"
         git config --local user.name "GitHub Action"
         git add 1.json
