@@ -17,7 +17,7 @@ jobs:
       id: get_content
       run: |
         set +e
-        curl --fail -A "okhttp/4.11.0" http://xhww.fun/小米/DEMO.json -o 1.json
+        curl --fail -A "okhttp/4.11.0" http://www.饭太硬.top/tv -o 1.json
         echo "::set-output name=status_code::$?"
         set -e
 
