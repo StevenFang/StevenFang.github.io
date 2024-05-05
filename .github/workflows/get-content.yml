@@ -17,7 +17,7 @@ jobs:
       id: get_content
       run: |
         set +e
-        curl --fail -A "okhttp/4.11.0" http://000.hfr1107.top/jm.php?jm=http://xn--sss604efuw.top/tv -o 1.json
+        curl --fail -A "okhttp/4.11.0" http://000.hfr1107.top/jm.php?jm=http://tvbox.xn--4kq62z5rby2qupq9ub.xyz -o 1.json
         echo "::set-output name=status_code::$?"
         set -e
 
