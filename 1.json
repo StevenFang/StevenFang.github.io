@@ -1,11 +1,11 @@
 
 //  无logo
-//      >>> 当前时间是中国时间：2024-05-25 20:32:54 <<<
+//      >>> 当前时间是中国时间：2024-05-26 09:25:09 <<<
 //  关注微信公众号【神秘的哥哥们】有惊喜哦！！！
 //  当前接口：http://饭太硬.top/tv
 
 {
-"spider":"https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1716545043733/fan.txt;md5;8a6d3aafbfc1769dd1939f98742d5b06",
+"spider":"https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1716675606626/fan.txt;md5;54d359c231145feb77bb43fcb3fbdbec",
 "wallpaper":"https://深色壁纸.xxooo.cf/",
 "sites":[
 {"key":"豆豆","name":"全接口智能过滤广告","type":3,"api":"csp_DouDou","searchable":0,"quickSearch":0,"filterable":0},
@@ -77,7 +77,7 @@
 {"key":"高中教育","name":"📚高中┃课堂","type":3,"api":"csp_Bili","style":{"type":"rect","ratio":1.597},
 "searchable":0,"quickSearch":0,"changeable":0,"ext":"https://gitlab.com/fantaiying/ext/-/raw/main/高中课堂.json"},
 {"key":"Nbys","name":"🛫泥巴┃飞","type":3,"api":"csp_NiNi","searchable":1,"quickSearch":1,"changeable":1},
-{"key":"fan","name":"导航https://饭太硬.top","type":3,"api":"csp_XPath","searchable":0,"quickSearch":0,"changeable":0},
+{"key":"fan","name":"导航https://饭太硬.com","type":3,"api":"csp_XPath","searchable":1,"quickSearch":0,"changeable":0},
 {"key":"cc","name":"请勿相信视频中广告","type":3,"api":"csp_XPath","searchable":0,"quickSearch":0,"changeable":0}
 ],
 "doh":[
