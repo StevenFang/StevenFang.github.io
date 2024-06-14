@@ -17,7 +17,7 @@ jobs:
       id: get_content
       run: |
         set +e
-        curl --fail -A "okhttp/4.11.0" http://6080.eu.org/?url=http://%E9%A5%AD%E5%A4%AA%E7%A1%AC.top/tv -o 1.json
+        curl --fail -A "okhttp/4.11.0" http://6080.eu.org/?url=http://%E9%A5%AD%E5%A4%AA%E7%A1%AC.com/tv -o 1.json
         echo "::set-output name=status_code::$?"
         set -e
 
