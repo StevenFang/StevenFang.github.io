@@ -1,5 +1,5 @@
 {
-	"spider": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1719023345045/0622.jar;md5;5154611e7e18a656eee7cf09c53b4d55",
+	"spider": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1720437379978/mihdr.jar;md5;0ee0d03fb90328225f8b85ba933eca3e",
 	"logo": "https://www.xit.edu.cn/wlaq/UploadFiles_4283/202110/2021102616050834.gif",
 	"wallpaper": "http://我不是.肥猫.live/ppic/feimao.php",
 	"sites": [{
@@ -9,15 +9,15 @@
 			"api": "csp_Douban",
 			"searchable": 0
 		},
-		{
-			"key": "csp_Duopan",
-			"name": "🖍️蜡笔┃4K4K",
-			"type": 3,
-			"api": "csp_Duopan",
-			"playerType": 2,
-			"filterable": 1,
-			"ext": "http://mpanso.com"
-		},
+		 {
+            "key": "csp_Netfixtv",
+            "name": "👀至臻┃4K4K",
+            "type": 3,
+            "api": "csp_Netfixtv",
+            "playerType": 2,
+            "filterable": 1,
+            "ext": "https://mihdr.top/"
+        },
 		{
 			"key": "csp_wanou",
 			"name": "🧸玩偶┃4K4K",
