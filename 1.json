@@ -19,6 +19,15 @@
 			"ext": "https://mihdr.top/"
 		},
 		{
+			"key": "csp_labi",
+			"name": "🖍️蜡笔┃4K4K",
+			"type": 3,
+			"api": "csp_Duopan",
+			"playerType": 2,
+			"filterable": 1,
+			"ext": "https://duopan.fun/"
+		},
+		{
 			"key": "csp_wanou",
 			"name": "🧸玩偶┃4K4K",
 			"api": "csp_Wogg",
@@ -246,6 +255,26 @@
 				"播放列表": "<a&&</a>",
 				"分类url": "https://www.3ayy.com/vodshow/{cateId}-{area}-{by}-{class}-{lang}----{catePg}---{year}.html;;a",
 				"分类": "电影$1#电视剧$2#综艺$3#动漫$4"
+			}
+		},
+		{
+			"key": "freeok",
+			"name": "🦁free┃小米",
+			"type": 3,
+			"api": "csp_XBPQ",
+			"jar": "https://fs-im-kefu.7moor-fs1.com/29397395/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1704761840381/c (1).txt;md5;bb155c3f0133bbce4756ad52003f5968",
+			"ext": {
+			"分类url": "https://www.freeok.lol/vod-show/{cateId}-{area}-------{catePg}---{year}.html",
+        "分类": "Free电影&Free剧集&Free动漫&Free综艺&Free短剧&Free少儿",
+        "分类值": "1&2&3&4&12&5",
+        "播放请求头": "User-Agent$Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36",
+        "副标题": "<div class=\"module-item-note\">&&</div>",
+        "嗅探词": "m3u8#.m3u8#.mp4#freeok.mp4#/obj/",
+        "线路数组": "data-dropdown-value=&&</div>[不包含:夸克]",
+        "线路标题": "<span>&&</small>",
+        "导演": "导演：&&</div>",
+        "主演": "主演：&&</div>",
+        "简介": "请勿相信影片中的广告，以免上当受骗。+<p>&&</p>"
 			}
 		},
 		{
