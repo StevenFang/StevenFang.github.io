@@ -9,15 +9,15 @@
 			"api": "csp_Douban",
 			"searchable": 0
 		},
-		 {
-            "key": "csp_Netfixtv",
-            "name": "👀至臻┃4K4K",
-            "type": 3,
-            "api": "csp_Netfixtv",
-            "playerType": 2,
-            "filterable": 1,
-            "ext": "https://mihdr.top/"
-        },
+		{
+			"key": "csp_Netfixtv",
+			"name": "👀至臻┃4K4K",
+			"type": 3,
+			"api": "csp_Netfixtv",
+			"playerType": 2,
+			"filterable": 1,
+			"ext": "https://mihdr.top/"
+		},
 		{
 			"key": "csp_wanou",
 			"name": "🧸玩偶┃4K4K",
@@ -88,6 +88,23 @@
 			"filterable": 1
 		},
 		{
+      "key": "csp_KmeiJu",
+      "name": "🌎美剧┃影视",
+      "type": 3,
+      "api": "csp_KmeiJu",
+      "playerType": 2
+    },
+     {
+      "key": "csp_LiteApple",
+      "name": "🍎苹果┃影视",
+      "type": 3,
+      "playerType": "1",
+      "api": "csp_LiteApple",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+		{
 			"key": "4开",
 			"name": "📺4KK┃影视",
 			"type": 3,
@@ -151,76 +168,27 @@
 			}
 		},
 		{
-			"key": "XBPQ_文才",
-			"name": "🌽文才┃秒播",
-			"type": 3,
-			"api": "csp_XBPQ",
-			"ext": {
-				"首页": "90",
-				"起始页": "1",
-				"分类url": "https://api.zeqaht.com/api.php/provide/vod/?ac=list&ac=detail&t={cateId}&pg={catePg};;rc",
-				"分类": "电影&电视剧&动漫&综艺",
-				"分类值": "23&14&75&69",
-				"二次截取": "list\":\\[&&\\]",
-				"数组": "{&&}[不包含:伦理剧]",
-				"图片": "vod_pic\":\"&&\"",
-				"标题": "vod_name\":\"&&\"",
-				"副标题": "vod_remarks\":\"&&\"+_+vod_pubdate\":\"&&\"",
-				"链接": "https://www.cfkj86.com/detail/+vod_id\":&&,",
-				"线路二次截取": "",
-				"线路数组": "span class=\"label\">&&/span>",
-				"线路标题": "小米",
-				"播放数组": "episodeList\":\\[&&\\][替换:nid\":>>nid\":/1/]",
-				"播放列表": "{&&}",
-				"播放标题": "name\":\"&&\"",
-				"播放请求头": "User-Agent$Mozilla/5.0 (Linux; Android 12; TAS-AL00 Build/HUAWEITAS-AL00; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/99.0.4844.88 Mobile Safari/537.36#Origin$https://www.cfkj86.com/",
-			   
-			   "播放链接前缀":"https://www.cfkj86.com/vod/play/+data\":{\"vodId\":&&,",
-				"播放链接":"nid\":&&,",
-				
-				"倒序": "0",
-				"跳转解析": "",
-				"跳转播放链接": "",
-				"影片类型": "vod_class\":\"&&\"",
-				"影片年代": "vod_year\":\"&&\"",
-				"影片地区": "vod_area\":\"&&\"",
-				"导演": "vod_director\":\"&&\"",
-				"主演": "vod_actor\":\"&&\"",
-				"简介": "vod_content\":\"&&\"",
-				"搜索url": "/api.php/provide/vod/?ac=detail&wd={wd}&pg={pg}",
-				"搜索模式": "1",
-				"搜索二次截取": "list\":\\[&&\\]",
-				"搜索数组": "{&&}[不包含:伦理]",
-				"搜索图片": "vod_pic\":\"&&\"",
-				"搜索标题": "vod_name\":\"&&\"",
-				"搜索副标题": "vod_remarks\":\"&&\"",
-				"搜索链接": "https://m.cfkj86.com/detail/+vod_id\":&&,",
-				"筛选": "1",
-				"类型": "喜剧$22#动作$23#战争$25#爱情$26#悬疑$27#武侠$28#科幻$30#冒险$31#警匪$32#动画$33#惊悚$34#犯罪$35#恐怖$36#剧情$37#历史$38#纪录$39#传记$40#歌舞$41||国产剧$14#欧美剧$15#港台剧$16#日韩剧$62#其他剧$68||国产动漫$75#日韩动漫$76#欧美动漫$77#港台动漫$78#其他动漫$80||国产综艺$69#港台综艺$70#日韩综艺$72#欧美综艺$73#其他综艺$74"
-			}
-		},
-		       
-		{
 			"key": "剧哥哥",
 			"name": "🧍兄弟┃影视",
 			"type": 3,
 			"api": "csp_XBPQ",
-			 "ext": {
-	"主页url": "https://www.jugege.cc/",
-	"副标题": "pic-text text-right\">&&</b>",
-	"搜索模式": "1",
-	"搜索url": "https://www.jugege.cc/rss.xml?wd={wd}",
-	"搜索数组":"<item>&&</item",
-	"搜索标题":"<title>&&</title",
-	"搜索链接":"<link>&&</link",
-	"搜索图片":"https://img1.baidu.com/it/u=3089581607,2904981351&fm=253&fmt=auto&app=138&f=JPEG?w=500&h=500",
-	"图片": "data-original=\"&&\"",
-	"嗅探词": "huoshanvod.com#.mp4#m3u8#.m3u8#/tos/",
-	"影片类型": "<div class=\"module-info-tag\">&&立即播放",
-	"导演": "导演：&&</div>",
-	"主演": "主演：&&</div>",
-	"分类": "电影$1#连续剧$2#综艺$3#动漫$4",
-	"分类url": "https://www.jugege.cc/vodshow/{cateId}-{area}-{by}--{lang}----{catePg}---{year}.html"}
+			"ext": {
+				"主页url": "https://www.jugege.cc/",
+				"副标题": "pic-text text-right\">&&</b>",
+				"搜索模式": "1",
+				"搜索url": "https://www.jugege.cc/rss.xml?wd={wd}",
+				"搜索数组": "<item>&&</item",
+				"搜索标题": "<title>&&</title",
+				"搜索链接": "<link>&&</link",
+				"搜索图片": "https://img1.baidu.com/it/u=3089581607,2904981351&fm=253&fmt=auto&app=138&f=JPEG?w=500&h=500",
+				"图片": "data-original=\"&&\"",
+				"嗅探词": "huoshanvod.com#.mp4#m3u8#.m3u8#/tos/",
+				"影片类型": "<div class=\"module-info-tag\">&&立即播放",
+				"导演": "导演：&&</div>",
+				"主演": "主演：&&</div>",
+				"分类": "电影$1#连续剧$2#综艺$3#动漫$4",
+				"分类url": "https://www.jugege.cc/vodshow/{cateId}-{area}-{by}--{lang}----{catePg}---{year}.html"
+			}
 		},
 		{
 			"key": "saohuo",
@@ -250,6 +218,7 @@
 			"name": "🎀爱看┃小米",
 			"type": 3,
 			"api": "csp_XBPQ",
+			"jar": "https://fs-im-kefu.7moor-fs1.com/29397395/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1704761840381/c (1).txt;md5;bb155c3f0133bbce4756ad52003f5968",
 			"ext": {
 				"主页url": "https://www.3ayy.com",
 				"简介": "module-info-introduction\">&&</p>",
@@ -263,7 +232,7 @@
 				"嗅探词": ".mp4#.m3u8",
 				"过滤词": "/player/#/index/",
 				"图片": "data-original=\"&&\"",
-				"播放请求头": "User-Agent$Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36",
+				//"播放请求头": "User-Agent$Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36",
 				"链接": "href=\"&&\"",
 				"搜索url": "https://www.3ayy.com/ajax/suggest.html?mid=1&wd={wd}",
 				"搜索模式": "1",
@@ -287,15 +256,15 @@
 			"ext": {
 				"嗅探词": "v3.toutiaovod.com#v3-dy-o.zjcdn#.m3u8#/tos/#.mp4",
 				"请求头": "手机#Referer$https://www.dandanju.cc/",
-				"分类url": "https://www.dandanju.cc/show/{cateId}--------{catePg}---2023.html",
+				"分类url": "https://www.dandanju.cc/type/{cateId}.html",
 				"分类": "电影$1#剧集$2#动漫$4#综艺$4",
 				"数组": " <li class=\"col-md-6 col-sm-4 col-xs-3&&</li",
 				"搜索模式": "1",
-			"搜索url": "https://www.dandanju.cc/rss.xml?wd={wd}",
-	"搜索数组":"<item>&&</item",
-	"搜索标题":"<title>&&</title",
-	"搜索链接":"<link>&&</link",
-	"搜索图片":"https://img1.baidu.com/it/u=3089581607,2904981351&fm=253&fmt=auto&app=138&f=JPEG?w=500&h=500"
+				"搜索url": "https://www.dandanju.cc/rss.xml?wd={wd}",
+				"搜索数组": "<item>&&</item",
+				"搜索标题": "<title>&&</title",
+				"搜索链接": "<link>&&</link",
+				"搜索图片": "https://img1.baidu.com/it/u=3089581607,2904981351&fm=253&fmt=auto&app=138&f=JPEG?w=500&h=500"
 			}
 		},
 		{
@@ -331,17 +300,6 @@
 				"分类url": "https://rebozj.pro/show/{cateId}--{area}------{catePg}---{year}.html;;a"
 			}
 		},
-		{
-			"key": "zhitiao",
-			"name": "☁️阿里┃易搜",
-			"type": 3,
-			"api": "csp_YiSo",
-			"searchable": 1,
-			"quickSearch": 1,
-			"changeable": 0,
-			"ext": "satoken=e96da071-9159-4827-89e1-ea93eea899e1"
-		},
-
 		{
 			"key": "csp_YouShengBook",
 			"name": "📖有声┃小说",
