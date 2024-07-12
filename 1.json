@@ -1,5 +1,5 @@
 {
-	"spider": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1720536470429/mapnso.txt;md5;46c07812f0d548b41a8b20a3707e16ab",
+	"spider": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1720716011585/xmwd.jar;md5;e463d7d5e65144ce9a907fdf07281d96",
 	"logo": "https://www.xit.edu.cn/wlaq/UploadFiles_4283/202110/2021102616050834.gif",
 	"wallpaper": "http://我不是.肥猫.live/ppic/feimao.php",
 	"sites": [{
@@ -62,6 +62,13 @@
 			"playerType": 1,
 			"ext": "http://dt.xn--yety82d.love/js/B站.js"
 		},
+		{
+			"key": "csp_taozi",
+			"name": "🍑桃子┃测试",
+			"type": 3,
+			"api": "csp_Taozi"
+		},
+		
 		{
 			"key": "csp_SP360",
 			"name": "🐠360┃官源",
