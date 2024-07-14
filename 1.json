@@ -1,5 +1,5 @@
 {
-	"spider": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1720716011585/xmwd.jar;md5;e463d7d5e65144ce9a907fdf07281d96",
+	"spider": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1720881724752/xiaomiwudi.jar;md5;5b8f49d96a437dac9553e6f1f2f751b2",
 	"logo": "https://www.xit.edu.cn/wlaq/UploadFiles_4283/202110/2021102616050834.gif",
 	"wallpaper": "http://我不是.肥猫.live/ppic/feimao.php",
 	"sites": [{
@@ -17,15 +17,6 @@
 			"playerType": 2,
 			"filterable": 1,
 			"ext": "https://mihdr.top/"
-		},
-		{
-			"key": "csp_labi",
-			"name": "🖍️蜡笔┃无广4K",
-			"type": 3,
-			"api": "csp_Duopan",
-			"playerType": 2,
-			"filterable": 1,
-			"ext": "https://duopan.fun/"
 		},
 		{
 			"key": "csp_wanou",
@@ -46,17 +37,7 @@
 			"playerType": 2,
 			"filterable": 1
 		},
-		{
-			"key": "管管",
-			"name": "🐵官源┃影视",
-			"type": 3,
-			"playerType": "2",
-			"ext": "http://122.228.84.103:5825/api.php/app/",
-			"api": "csp_AppYsV2",
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 1
-		}, {
+	    {
 			"key": "云云",
 			"name": "🦊云云┃影视",
 			"type": 3,
@@ -89,7 +70,18 @@
 			"type": 3,
 			"api": "csp_Taozi"
 		},
-
+        {
+			"key": "csp_农民",
+			"name": "🐶汪汪┃1080P",
+			"type": 3,
+			"api": "csp_Nongm"
+		},
+		{
+			"key": "csp_全网",
+			"name": "🥣全网┃1080P",
+			"type": 3,
+			"api": "csp_Quanwk"
+		},
 		{
 			"key": "csp_SP360",
 			"name": "🐠360┃官源",
