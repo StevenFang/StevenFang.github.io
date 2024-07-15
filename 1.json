@@ -200,6 +200,7 @@
 			"key": "剧哥哥",
 			"name": "🧍兄弟┃影视",
 			"type": 3,
+			"click":"document.getElementById('start').click();",
 			"api": "csp_XBPQ",
 			"ext": {
 				"主页url": "https://www.jugege.cc/",
