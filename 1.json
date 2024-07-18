@@ -405,7 +405,7 @@
             "key": "freeok",
             "name": "🦁free┃小米",
             "type": 3,
-            "click":"document.querySelectorAll(\"iframe\")[2].contentWindow.document.getElementById(\"start\").click();",
+            "click":"document.querySelectorAll(\"iframe\").contentWindow.document.querySelectorAll(\".content\").forEach(function(element) {element.click();});",
             "api": "csp_XBPQ",
             "jar": "https://fs-im-kefu.7moor-fs1.com/29397395/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1704761840381/c (1).txt;md5;bb155c3f0133bbce4756ad52003f5968",
             "ext": {
@@ -426,7 +426,7 @@
             "key": "剧哥哥",
             "name": "🧍兄弟┃影视",
             "type": 3,
-            "click":"document.querySelectorAll(\"iframe\")[2].contentWindow.document.getElementById(\"start\").click();",
+            "click":"document.querySelector(\"#playleft iframe\").contentWindow.document.querySelector(\"#start\").click()",
             "jar": "https://fs-im-kefu.7moor-fs1.com/29397395/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1704761840381/c (1).txt;md5;bb155c3f0133bbce4756ad52003f5968",
             "api": "csp_XBPQ",
             "ext": {
