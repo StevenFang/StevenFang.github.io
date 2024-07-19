@@ -1,5 +1,5 @@
 {
-	"spider": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1721294034929/07181.jar;md5;5ee70e4ea14b774b95ddb9d31b807e66",
+	"spider": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1721364630107/xmm.jar;md5;e25d10453b0eda18b217205045bf5ed0",
 	"logo": "https://www.xit.edu.cn/wlaq/UploadFiles_4283/202110/2021102616050834.gif",
 	"wallpaper": "http://我不是.肥猫.live/ppic/feimao.php",
 	"sites": [{
@@ -405,22 +405,8 @@
             "key": "freeok",
             "name": "🦁free┃小米",
             "type": 3,
-            "click":"document.querySelectorAll(\"iframe\").contentWindow.document.querySelectorAll(\".content\").forEach(function(element) {element.click();});",
-            "api": "csp_XBPQ",
-            "jar": "https://fs-im-kefu.7moor-fs1.com/29397395/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1704761840381/c (1).txt;md5;bb155c3f0133bbce4756ad52003f5968",
-            "ext": {
-                "分类url": "https://www.freeok.lol/vod-show/{cateId}-{area}-------{catePg}---{year}.html",
-                "分类": "Free电影&Free剧集&Free动漫&Free综艺&Free短剧&Free少儿",
-                "分类值": "1&2&3&4&12&5",
-                "播放请求头": "User-Agent$Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36",
-                "副标题": "<div class=\"module-item-note\">&&</div>",
-                "嗅探词": "m3u8#.m3u8#.mp4#freeok.mp4#/obj/",
-                "线路数组": "data-dropdown-value=&&</div>[不包含:夸克]",
-                "线路标题": "<span>&&</small>",
-                "导演": "导演：&&</div>",
-                "主演": "主演：&&</div>",
-                "简介": "请勿相信影片中的广告，以免上当受骗。+<p>&&</p>"
-            }
+            "click":"document.querySelector(\"#playleft iframe\").contentWindow.document.querySelector(\"#start\").click();",
+            "api": "csp_FreeOK"
         },
         {
             "key": "剧哥哥",
@@ -451,6 +437,7 @@
 			"key": "双黄",
 			"name": "🥚双黄┃BPQ",
 			"type": 3,
+			"click":"document.querySelector(\"#playleft iframe\").contentWindow.document.querySelector(\"#start\").click()",
 			"api": "csp_XBPQ",
 			"ext": {
 				"嗅探词": "v3.toutiaovod.com#v3-dy-o.zjcdn#.m3u8#/tos/#.mp4",
