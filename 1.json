@@ -46,6 +46,13 @@
 			"filterable": 1
 		},
 		{
+            "key": "freeok",
+            "name": "🦁free┃小米",
+            "type": 3,
+            "click":"document.querySelector(\"#playleft iframe\").contentWindow.document.querySelector(\"#start\").click();",
+            "api": "csp_FreeOK"
+        },
+		{
 			"key": "drpy_哔哩",
 			"name": "🎵哔哩┃合集",
 			"type": 3,
@@ -226,49 +233,7 @@
 				"分类": "电影$1#电视剧$2#动漫$3#综艺$4"
 			}
 		},
-		{
-			"key": "SHILIU",
-			"name": "🐯石榴┃影视",
-			"type": 3,
-			"jar": "https://fs-im-kefu.7moor-fs1.com/29397395/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1704761840381/c (1).txt;md5;bb155c3f0133bbce4756ad52003f5968",
-			"api": "csp_XBPQ",
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 0,
-			"ext": {
-				"主页url": "https://hei19.com",
-				"分类": "电影&剧集&综艺&动漫",
-				"分类值": "1&2&3&4",
-				"分类url": "https://hei19.com/catalog?column={cateId}&sort=1&per_page=72&page={catePg}",
-				"二次截取": "type=\"application/json\">&&</script>",
-				"数组": "props.pageProps.mediaData.data",
-				"图片": "cover",
-				"标题": "name",
-				"副标题": "tag",
-				"链接前缀": "https://hei19.com/detail/",
-				"链接": "id",
-				"搜索模式": "1",
-				"搜索url": "https://hei19.com/search?type=1&keywords={wd}",
-				"搜索二次截取": "type=\"application/json\">&&</script>",
-				"搜索数组": "props.pageProps.searchMovieList.data",
-				"搜索图片": "pic",
-				"搜索标题": "name",
-				"搜索链接": "id",
-				"搜索副标题": "resolution",
-				"搜索链接前缀": "https://hei19.com/detail/",
-				"影片年代": "props.pageProps.videoDetail.videoinfo.year",
-				"影片地区": "props.pageProps.videoDetail.videoinfo.area",
-				"影片类型": "props.pageProps.videoDetail.videoinfo.type",
-				"导演": "props.pageProps.videoDetail.videoinfo.director[].name(♥)",
-				"主演": "props.pageProps.videoDetail.videoinfo.starring[].name(♥)",
-				"简介": "props.pageProps.videoDetail.videoinfo.introduction",
-				"线路标题": "播放列表",
-				"播放二次截取": "type=\"application/json\">&&</script>",
-				"播放列表": "props.pageProps.videoDetail.videoepisode.data",
-				"播放标题": "episode",
-				"播放链接": "url"
-			}
-		},
+		
 		{
 			"key": "黑狐",
 			"name": "🦊黑狐┃影视",
@@ -336,6 +301,47 @@
 			}
 		},
 		{
+    "key": "小米",
+    "name": "📺小米┃独家",
+    "type": 3,
+    "searchable": 1,
+    "quickSearch": 1,
+    "changeable": 1,
+    "jar": "https://fs-im-kefu.7moor-fs1.com/29397395/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1704761840381/c (1).txt;md5;bb155c3f0133bbce4756ad52003f5968",
+    "playerType": "2",
+    "api": "csp_XBPQ",
+    "ext": {
+        "请求头":"User-Agent$okhttp/4.1.0",
+        "主页url":"http://124.222.116.5/mb/api.php/provide/vod/?ac=list&ac=detail",
+        "分类url": "http://124.222.116.5/mb/api.php/provide/vod/?ac=detail&t={cateId}&pg={catePg};;v", 
+        "搜索模式": "1",
+        "搜索url": "http://124.222.116.5/mb/api.php/provide/vod/?ac=videolist&wd={wd}",
+        "数组二次截取": "",
+        "数组": "{\"v&&}",
+        "图片": "vod_pic\":\"&&\"",
+        "标题": "vod_name\":\"&&\"",
+        "副标题": "vod_remarks\":\"&&\"",
+        "链接": "http://124.222.116.5/mb/api.php/provide/vod/?ac=detail&ids=+od_id\":&&,",
+        "影片类型": "vod_class\"*\"&&\"",
+        "影片年代": "vod_year\"*\"&&\"",
+        "影片地区": "vod_area\"*\"&&\"",
+        "导演": "vod_director\"*\"&&\"",
+        "主演": "vod_actor\"*\"&&\"",
+        "简介": "vod_remarks\"*\"&&\"+vod_content\"*\"&&\"",
+        "线路二次截取": "", 
+        "线路数组": "\"vod_play_from\":&&,", 
+        "线路标题": "\"&&\"",
+        "播放二次截取": "", 
+        "播放数组": "vod_play_url\"&&\"vod_[替换:\\#>>\",:\"]", 
+        "播放列表": ":&&,",
+        "播放标题": "\"&&$", 
+        "播放链接": "http://134.122.136.84/btjson.php/?url=+$&&\"",
+        "跳转播放链接":"url\"*\"&&\""
+    
+        
+    }
+},
+		{
 			"key": "爱看",
 			"name": "🎀爱看┃小米",
 			"type": 3,
@@ -369,13 +375,6 @@
 				"分类": "电影$1#电视剧$2#综艺$3#动漫$4"
 			}
 		},
-		{
-            "key": "freeok",
-            "name": "🦁free┃小米",
-            "type": 3,
-            "click":"document.querySelector(\"#playleft iframe\").contentWindow.document.querySelector(\"#start\").click();",
-            "api": "csp_FreeOK"
-        },
         {
             "key": "剧哥哥",
             "name": "🧍兄弟┃影视",
