@@ -1,5 +1,5 @@
 {
-	"spider": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1721737646132/xmwudiha.jar;md5;729548f265d7b4b4e35bd19ac12ab662",
+	"spider": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1721803013397/xmmwudi.jar;md5;c33a0728ecfcc52ffe3ee6e345b3e39c",
 	"logo": "https://www.xit.edu.cn/wlaq/UploadFiles_4283/202110/2021102616050834.gif",
 	"wallpaper": "http://www.mpanso.com/%E5%B0%8F%E7%B1%B3/mpansou.php",
 	"sites": [{
@@ -147,42 +147,9 @@
 			"key": "QIYIU",
 			"name": "🦌奇优┃影视",
 			"type": 3,
-			"jar": "https://fs-im-kefu.7moor-fs1.com/29397395/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1704761840381/c (1).txt;md5;bb155c3f0133bbce4756ad52003f5968",
 			"changeable": 1,
-			"api": "csp_XBPQ",
-			"playerType": "1",
-			"ext": {
-				"主页url": "http://www.qiyoudy1.com",
-				"数组": "<div class=\"stui-vodlist__box\">&&</div>",
-				"图片": "data-original=\"&&\"",
-				"标题": "title=\"&&\"",
-				"链接": "href=\"&&\"",
-				"副标题": "<span class=\"pic-text text-right\">&&</span>",
-				"搜索url": "http://www.qiyoudy1.com/search.php;post;searchword={wd}",
-				"搜索模式": "1",
-				"搜索数组": "<a class=\"v-thumb stui-vodlist__thumb&&</a>",
-				"搜索图片": "data-original=\"&&\"",
-				"搜索标题": "title=\"&&\"",
-				"搜索链接": "href=\"&&\"",
-				"搜索副标题": "<span class=\"pic-text text-right\">&&</span>",
-				"搜索后缀": "/view/",
-				"线路数组": "<a data-toggle=\"tab\"&&/a>[排序:播放源2>播放源3>播放源4>播放源1]",
-				"线路标题": ">&&<",
-				"播放数组": "<ul class=\"stui-content__playlist clearfix&&</ul>",
-				"影片年代": "年份：&&</p>",
-				"影片地区": "地区：&&<span",
-				"影片类型": "类型：&&</a>",
-				"导演": "导演：&&</p>",
-				"主演": "主演：&&</p>",
-				"简介": "简介：&&</a>",
-				"播放列表": "<a&&/a>",
-				"播放标题": ">&&<",
-				"播放链接": "href=\"&&\"",
-				"播放链接前缀": "http://www.qiyoudy1.com",
-				"嗅探词": ".m3u8#.mp4#.flv#.mp3#.m4a",
-				"分类url": "http://www.qiyoudy1.com/list/{cateId}_{catePg}.html?order={by}",
-				"分类": "电影$1#电视剧$2#动漫$3#综艺$4"
-			}
+			"api": "csp_Qiyou",
+			"playerType": "1"
 		},
 		{
 			"key": "黑狐",
@@ -267,7 +234,6 @@
 
 			}
 		},
-
 		{
 			"key": "双黄",
 			"name": "🥚双黄┃BPQ",
@@ -288,7 +254,6 @@
 				"搜索图片": "https://img1.baidu.com/it/u=3089581607,2904981351&fm=253&fmt=auto&app=138&f=JPEG?w=500&h=500"
 			}
 		},
-
 		{
 			"key": "csp_YouShengBook",
 			"name": "📖有声┃小说",
