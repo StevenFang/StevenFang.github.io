@@ -48,6 +48,14 @@
 			"filterable": 1
 		},
 		{
+			"key": "csp_Nkdy",
+			"name": "🥛耐看┃APP",
+			"type": 3,
+			"api": "csp_Nkdy",
+			"playerType": 2,
+			"filterable": 1
+		},
+		{
 			"key": "csp_蚂蚁",
 			"name": "🐜蚂蚁┃无广",
 			"type": 1,
