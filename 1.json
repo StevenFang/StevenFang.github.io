@@ -1,5 +1,5 @@
 {
-	"spider": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1721803013397/xmmwudi.jar;md5;c33a0728ecfcc52ffe3ee6e345b3e39c",
+	"spider": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1722232307531/xmpg.jar;md5;0de3618bcd45a182e481de750b9097ff",
 	"logo": "https://www.xit.edu.cn/wlaq/UploadFiles_4283/202110/2021102616050834.gif",
 	"wallpaper": "http://www.mpanso.com/%E5%B0%8F%E7%B1%B3/mpansou.php",
 	"sites": [{
@@ -11,7 +11,7 @@
 		},
 		{
 			"key": "csp_Netfixtv",
-			"name": "👀至臻┃自营4K",
+			"name": "👀至臻┃自建4K",
 			"type": 3,
 			"api": "csp_Duopan",
 			"playerType": 2,
@@ -20,7 +20,7 @@
 		},
 		{
 			"key": "csp_wanou",
-			"name": "🧸玩偶┃无广4K",
+			"name": "🧸玩偶┃自建4K",
 			"api": "csp_Wogg",
 			"type": 3,
 			"searchable": 1,
@@ -30,14 +30,27 @@
 			"ext": "https://wogg.888484.xyz/"
 		},
 		{
-			"key": "配置",
-			"name": "⚙️配置┃中心",
+			"key": "csp_LiteApple",
+			"name": "🍎苹果┃1080P",
 			"type": 3,
 			"searchable": 1,
-			"api": "csp_Config",
-
-			"filterable": 1,
-			"ext": ""
+			"api": "csp_LiteApple",
+			"playerType": 1,
+			"filterable": 1
+		},
+		{
+			"key": "freeok",
+			"name": "🦁freeOK┃独家",
+			"type": 3,
+			"click": "document.querySelector(\"#playleft iframe\").contentWindow.document.querySelector(\"#start\").click();",
+			"api": "csp_FreeOK"
+		},
+		{
+			"key": "配置",
+			"name": "⚙️网盘┃配置",
+			"type": 3,
+		    "searchable": 0,
+			"api": "csp_Config"
 		},
 		{
 			"key": "csp_NanGua",
@@ -62,13 +75,6 @@
 			"api": "http://dsakf23665.com/api.php/provide/vod/from/NBY",
 			"playUrl": "json:http://121.62.61.51:6888//api//?key=qMdg1EDXPe9NH3bG0z&url=",
 			"filterable": 1
-		},
-		{
-			"key": "freeok",
-			"name": "🦁free┃独家",
-			"type": 3,
-			"click": "document.querySelector(\"#playleft iframe\").contentWindow.document.querySelector(\"#start\").click();",
-			"api": "csp_FreeOK"
 		},
 		{
 			"key": "huohuo",
@@ -353,16 +359,16 @@
 		}
 	],
 	"lives": [{
-			"name": "tvlive",
+			"name": "不再提供直播接口",
 			"type": 0,
-			"url": "https://gh.idayer.com/https://raw.githubusercontent.com/YueChan/Live/main/IPTV.m3u",
+			"url": "",
 			"playerType": 2
 		},
 		{
-			"name": "嗅探",
+			"name": "请自行找资源替代",
 			"ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 Edg/120.0.0.0",
 			"type": 0,
-			"url": "https://xhdwc.tk/xiutan.m3u"
+			"url": ""
 		}
 	]
 }
