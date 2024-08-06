@@ -1,5 +1,5 @@
 {
-	"spider": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1722512401365/0801xm.jar;md5;968967baa558fa1aeb571470a1e7f1c5",
+	"spider": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1722867523047/xm0805.txt;md5;6ddd3ff435784800d0d8ca1df1e2aa07",
 	"logo": "http://www.ppxys.vip/upload/mxprocms/20240615-1/ac058e14dbf22f6f7520868d5022c65f.gif",
 	"wallpaper": "http://www.mpanso.com/%E5%B0%8F%E7%B1%B3/mpansou.php",
 	"sites": [{
@@ -10,14 +10,18 @@
 			"searchable": 0
 		},
 		{
-			"key": "csp_Netfixtv",
-			"name": "👀至臻┃自建4K",
-			"type": 3,
-			"api": "csp_Duopan",
-			"playerType": 2,
-			"filterable": 1,
-			"ext": "http://mpanso.com/"
-		},
+            "key": "csp_zhizhen",
+            "name": "🌹至臻┃4K4K",
+            "type": 3,
+            "api": "csp_Duopan",
+            "filterable": 1,
+            "ext": {
+            "site_urls": [
+          "http://mihdr.top",
+          "http://mpanso.com"
+        ]
+      }
+        },
 		{
 			"key": "csp_wanou",
 			"name": "🧸玩偶┃自建4K",
@@ -27,7 +31,13 @@
 			"playerType": 2,
 			"timeout": 30,
 			"changeable": 0,
-			"ext": "https://wogg.xxooo.cf/"
+			"ext": {
+            "site_urls": [
+          "https://wogg.xxooo.cf/",
+          "https://www.wogg.bf/",
+          "https://www.wogg.net/"
+        ]
+      }
 		},
 		{
 			"key": "csp_LiteApple",
