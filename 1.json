@@ -1,5 +1,5 @@
 {
-	"spider": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1722867523047/xm0805.txt;md5;6ddd3ff435784800d0d8ca1df1e2aa07",
+	"spider": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1722929715494/0806xm.jar;md5;8f613ce3a83ee9428695d97a84c8bd48",
 	"logo": "http://www.ppxys.vip/upload/mxprocms/20240615-1/ac058e14dbf22f6f7520868d5022c65f.gif",
 	"wallpaper": "http://www.mpanso.com/%E5%B0%8F%E7%B1%B3/mpansou.php",
 	"sites": [{
@@ -10,18 +10,18 @@
 			"searchable": 0
 		},
 		{
-            "key": "csp_zhizhen",
-            "name": "🌹至臻┃4K4K",
-            "type": 3,
-            "api": "csp_Duopan",
-            "filterable": 1,
-            "ext": {
-            "site_urls": [
-          "http://mihdr.top",
-          "http://mpanso.com"
-        ]
-      }
-        },
+			"key": "csp_zhizhen",
+			"name": "🌹至臻┃4K4K",
+			"type": 3,
+			"api": "csp_Duopan",
+			"filterable": 1,
+			"ext": {
+				"site_urls": [
+					"http://mihdr.top",
+					"http://mpanso.com"
+				]
+			}
+		},
 		{
 			"key": "csp_wanou",
 			"name": "🧸玩偶┃自建4K",
@@ -32,12 +32,12 @@
 			"timeout": 30,
 			"changeable": 0,
 			"ext": {
-            "site_urls": [
-          "https://wogg.xxooo.cf/",
-          "https://www.wogg.bf/",
-          "https://www.wogg.net/"
-        ]
-      }
+				"site_urls": [
+					"https://wogg.xxooo.cf/",
+					"https://www.wogg.bf/",
+					"https://www.wogg.net/"
+				]
+			}
 		},
 		{
 			"key": "csp_LiteApple",
@@ -59,7 +59,7 @@
 			"key": "配置",
 			"name": "⚙️网盘┃配置",
 			"type": 3,
-		    "searchable": 0,
+			"searchable": 0,
 			"api": "csp_Config"
 		},
 		{
@@ -79,14 +79,6 @@
 			"filterable": 1
 		},
 		{
-			"key": "csp_蚂蚁",
-			"name": "🐜蚂蚁┃无广",
-			"type": 1,
-			"api": "http://dsakf23665.com/api.php/provide/vod/from/NBY",
-			"playUrl": "json:http://121.62.61.51:6888//api//?key=qMdg1EDXPe9NH3bG0z&url=",
-			"filterable": 1
-		},
-		{
 			"key": "huohuo",
 			"name": "💥火火┃独家",
 			"type": 3,
@@ -94,19 +86,19 @@
 			"api": "csp_SaoHuo"
 		},
 		{
-            "key": "Bili",
-            "name": "哔哔┃合集",
-            "type": 3,
-            "api": "csp_Bili",
-            "style": {
-                "type": "rect",
-                "ratio": 1.597
-            },
-            "searchable": 1,
-            "quickSearch": 0,
-            "changeable": 0,
-            "ext": "https://gitlab.com/fantaiying/ext/-/raw/main/bilibili.json"
-        },
+			"key": "Bili",
+			"name": "🎒哔哔┃合集",
+			"type": 3,
+			"api": "csp_Bili",
+			"style": {
+				"type": "rect",
+				"ratio": 1.597
+			},
+			"searchable": 1,
+			"quickSearch": 0,
+			"changeable": 0,
+			"ext": "https://gitlab.com/fantaiying/ext/-/raw/main/bilibili.json"
+		},
 		{
 			"key": "csp_农民",
 			"name": "🐶汪汪┃独家",
@@ -117,7 +109,8 @@
 			"key": "csp_全网",
 			"name": "🥣全网┃独家",
 			"type": 3,
-			"api": "csp_Xdys"
+			"api": "csp_Quanwk",
+			"ext": "https://888.qkw1.cc/"
 		},
 		{
 			"key": "csp_SP360",
@@ -224,47 +217,47 @@
 			}
 		},
 		{
-            "key": "小米",
-            "name": "📺小米┃独家",
-            "type": 3,
-            "searchable": 1,
-            "quickSearch": 1,
-            "changeable": 1,
-            "jar": "https://fs-im-kefu.7moor-fs1.com/29397395/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1704761840381/c (1).txt;md5;bb155c3f0133bbce4756ad52003f5968",
-            "playerType": "2",
-            "api": "csp_XBPQ",
-            "ext": {
-                "请求头": "User-Agent$okhttp/4.1.0",
-                "主页url": "http://124.222.116.5/mb/api.php/provide/vod/?ac=list&ac=detail",
-                "分类url": "http://124.222.116.5/mb/api.php/provide/vod/?ac=detail&t={cateId}&pg={catePg};;v",
-                "搜索模式": "1",
-                "搜索url": "http://124.222.116.5/mb/api.php/provide/vod/?ac=videolist&wd={wd}",
-                "数组二次截取": "",
-                "数组": "{\"v&&}",
-                "图片": "vod_pic\":\"&&\"",
-                "标题": "vod_name\":\"&&\"",
-                "副标题": "vod_remarks\":\"&&\"",
-                "链接": "http://124.222.116.5/mb/api.php/provide/vod/?ac=detail&ids=+od_id\":&&,",
-                "影片类型": "vod_class\"*\"&&\"",
-                "影片年代": "vod_year\"*\"&&\"",
-                "影片地区": "vod_area\"*\"&&\"",
-                "导演": "vod_director\"*\"&&\"",
-                "主演": "vod_actor\"*\"&&\"",
-                "简介": "vod_remarks\"*\"&&\"+vod_content\"*\"&&\"",
-                "线路二次截取": "",
-                "线路数组": "\"vod_play_from\":&&,",
-                "线路标题": "\"&&\"",
-                "播放二次截取": "",
-                "播放数组": "vod_play_url\"&&\"vod_[替换:\\#>>\",:\"]",
-                "播放列表": ":&&,",
-                "播放标题": "\"&&$",
-                "跳转解析":"nmys$http://pan.qiaoji8.com/tvbox/neibu.php?url=#BBA$http://pan.qiaoji8.com/tvbox/gouzi.php?url=",
-                "播放链接": "解析+$&&\"",
-                "跳转播放链接": "url\"*\"&&\""
+			"key": "小米",
+			"name": "📺小米┃独家",
+			"type": 3,
+			"searchable": 1,
+			"quickSearch": 1,
+			"changeable": 1,
+			"jar": "https://fs-im-kefu.7moor-fs1.com/29397395/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1704761840381/c (1).txt;md5;bb155c3f0133bbce4756ad52003f5968",
+			"playerType": "2",
+			"api": "csp_XBPQ",
+			"ext": {
+				"请求头": "User-Agent$okhttp/4.1.0",
+				"主页url": "http://124.222.116.5/mb/api.php/provide/vod/?ac=list&ac=detail",
+				"分类url": "http://124.222.116.5/mb/api.php/provide/vod/?ac=detail&t={cateId}&pg={catePg};;v",
+				"搜索模式": "1",
+				"搜索url": "http://124.222.116.5/mb/api.php/provide/vod/?ac=videolist&wd={wd}",
+				"数组二次截取": "",
+				"数组": "{\"v&&}",
+				"图片": "vod_pic\":\"&&\"",
+				"标题": "vod_name\":\"&&\"",
+				"副标题": "vod_remarks\":\"&&\"",
+				"链接": "http://124.222.116.5/mb/api.php/provide/vod/?ac=detail&ids=+od_id\":&&,",
+				"影片类型": "vod_class\"*\"&&\"",
+				"影片年代": "vod_year\"*\"&&\"",
+				"影片地区": "vod_area\"*\"&&\"",
+				"导演": "vod_director\"*\"&&\"",
+				"主演": "vod_actor\"*\"&&\"",
+				"简介": "vod_remarks\"*\"&&\"+vod_content\"*\"&&\"",
+				"线路二次截取": "",
+				"线路数组": "\"vod_play_from\":&&,",
+				"线路标题": "\"&&\"",
+				"播放二次截取": "",
+				"播放数组": "vod_play_url\"&&\"vod_[替换:\\#>>\",:\"]",
+				"播放列表": ":&&,",
+				"播放标题": "\"&&$",
+				"跳转解析": "nmys$http://pan.qiaoji8.com/tvbox/neibu.php?url=#BBA$http://pan.qiaoji8.com/tvbox/gouzi.php?url=",
+				"播放链接": "解析+$&&\"",
+				"跳转播放链接": "url\"*\"&&\""
 
 
-            }
-        },
+			}
+		},
 		{
 			"key": "双黄",
 			"name": "🥚双黄┃BPQ",
