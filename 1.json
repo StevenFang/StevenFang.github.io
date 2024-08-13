@@ -49,6 +49,17 @@
 			"filterable": 1
 		},
 		{
+			"key": "酷影",
+			"name": "🥥酷影┃4K",
+			"playerType": 1,
+			"type": 3,
+			"api": "csp_AppYsV2",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1,
+			"ext": "http://122.228.85.203:3366/api.php/app/"
+		},
+		{
 			"key": "freeok",
 			"name": "🦁freeOK┃独家",
 			"type": 3,
@@ -173,48 +184,6 @@
 			"changeable": 1,
 			"api": "csp_Qiyou",
 			"playerType": "1"
-		},
-		{
-			"key": "黑狐",
-			"name": "🦊黑狐┃影视",
-			"type": 3,
-			"searchable": 1,
-			"quickSearch": 1,
-			"changeable": 1,
-			"playerType": "2",
-			"api": "csp_XBPQ",
-			"ext": {
-				"站名": "黑狐影院",
-				"主页url": "http://fagmn.com",
-				"数组": "class=\"stui-vodlist__box\"&&</a",
-				"图片": "data-original=\"&&\"",
-				"标题": "title=\"&&\"",
-				"链接": "href=\"&&\"",
-				"嗅探词": ".m3u8?#v3.huoshanvod.com#.m3u8#v3-dy-o.zjcdn#sf16-sg.larksuitecdn.com#v.kd1.qq.com#.mp4",
-				"过滤词": "/hls/#php",
-				"副标题": "<span class=\"pic-text text-right\">&&</span>",
-				"搜索url": "http://fagmn.com/search.php;post;searchword={wd}",
-				"搜索模式": "1",
-				"搜索数组": "<a class=\"v-thumb stui-vodlist__thumb&&</a>",
-				"搜索图片": "data-original=\"&&\"",
-				"搜索标题": "title=\"&&\"",
-				"搜索链接": "href=\"&&\"",
-				"搜索副标题": "<span class=\"pic-text text-right\">&&</span>",
-				"搜索后缀": "/view/",
-				"线路数组": "href=\"#down&&/a>[替换:奇异视频>>黑狐一线#优酷视频>>黑狐二线#搜狐视频>>黑狐三线#咪咕视频>>黑狐四线]",
-				"线路标题": ">&&<",
-				"播放数组": "class=\"stui-content__playlist clearfix&&</ul>",
-				"状态": "地区：&&</p>",
-				"导演": "导演：&&</p>",
-				"主演": "主演：&&</p>",
-				"简介": "简介：&&</div>",
-				"播放列表": "<a&&/a>",
-				"播放标题": ">&&<",
-				"播放链接": "href=\"&&\"",
-				"免嗅": "0",
-				"分类": "电影$1#电视剧$2#动漫$3#综艺$4",
-				"分类url": "http://fagmn.com/list/{cateId}_{catePg}.html?order=time"
-			}
 		},
 		{
 			"key": "4K",
@@ -347,26 +316,7 @@
 
 			}
 		},
-		{
-			"key": "双黄",
-			"name": "🥚双黄┃BPQ",
-			"type": 3,
-			"click": "document.querySelector(\"#playleft iframe\").contentWindow.document.querySelector(\"#start\").click()",
-			"api": "csp_XBPQ",
-			"ext": {
-				"嗅探词": "v3.toutiaovod.com#v3-dy-o.zjcdn#.m3u8#/tos/#.mp4",
-				"请求头": "手机#Referer$https://www.dandanju.cc/",
-				"分类url": "https://www.dandanju.cc/type/{cateId}.html",
-				"分类": "电影$1#剧集$2#动漫$4#综艺$4",
-				"数组": " <li class=\"col-md-6 col-sm-4 col-xs-3&&</li",
-				"搜索模式": "1",
-				"搜索url": "https://www.dandanju.cc/rss.xml?wd={wd}",
-				"搜索数组": "<item>&&</item",
-				"搜索标题": "<title>&&</title",
-				"搜索链接": "<link>&&</link",
-				"搜索图片": "https://img1.baidu.com/it/u=3089581607,2904981351&fm=253&fmt=auto&app=138&f=JPEG?w=500&h=500"
-			}
-		},
+		
 		{
 			"key": "csp_YouShengBook",
 			"name": "📖有声┃小说",
@@ -435,7 +385,7 @@
 		{
 			"name": "小米无敌",
 			"type": 1,
-			"url": "https://cdn.suxun.site/api/?key=HRTgKIxjsFBAhDcrge&url=",
+			"url": "",
 			"ext": {
 				"flag": ["qq", "腾讯", "qiyi", "爱奇艺", "奇艺", "youku", "优酷", "sohu", "搜狐", "letv", "乐视", "mgtv", "芒果", "tnmb", "seven", "bilibili", "1905"],
 				"header": {
@@ -447,7 +397,7 @@
 		{
 			"name": "小米",
 			"type": 1,
-			"url": "http://466.jxjx.8.ahrljk.cn:8663/api/?key=gG4Iq5xVZXc8R4jmTn&url=",
+			"url": "http://www.mpanso.com/62-1.php?url=",
 			"ext": {
 				"flag": ["qq", "腾讯", "qiyi", "爱奇艺", "奇艺", "youku", "优酷", "sohu", "搜狐", "letv", "乐视", "mgtv", "芒果", "tnmb", "seven", "bilibili", "1905"],
 				"header": {
