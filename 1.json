@@ -60,6 +60,17 @@
 			"ext": "http://122.228.85.203:3366/api.php/app/"
 		},
 		{
+			"key": "君君",
+			"name": "🚗君君┃4K",
+			"playerType": 1,
+			"type": 3,
+			"api": "csp_AppYsV2",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1,
+			"ext": "http://122.228.85.203:1000/api.php/app/"
+		},
+		{
 			"key": "freeok",
 			"name": "🦁freeOK┃独家",
 			"type": 3,
@@ -385,7 +396,7 @@
 		{
 			"name": "小米无敌",
 			"type": 1,
-			"url": "",
+			"url": "https://xcoo.vip/xiaojun/xiaojunjiexi.php?url=",
 			"ext": {
 				"flag": ["qq", "腾讯", "qiyi", "爱奇艺", "奇艺", "youku", "优酷", "sohu", "搜狐", "letv", "乐视", "mgtv", "芒果", "tnmb", "seven", "bilibili", "1905"],
 				"header": {
