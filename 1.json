@@ -1,5 +1,5 @@
 {
-	"spider": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1722929715494/0806xm.jar;md5;8f613ce3a83ee9428695d97a84c8bd48",
+	"spider": "https://pan.ly93.cc/f/vEP3Fl/OYWCN.txt;md5;89edf4358bcd12ad16d35bb8e3df19c3",
 	"logo": "http://www.ppxys.vip/upload/mxprocms/20240615-1/ac058e14dbf22f6f7520868d5022c65f.gif",
 	"wallpaper": "http://www.mpanso.com/%E5%B0%8F%E7%B1%B3/mpansou.php",
 	"sites": [{
@@ -104,7 +104,6 @@
 			"key": "huohuo",
 			"name": "💥火火┃独家",
 			"type": 3,
-			"click": "document.querySelector(\"#playleft iframe\").contentWindow.document.querySelector(\"#start\").click();",
 			"api": "csp_SaoHuo"
 		},
 		{
@@ -133,6 +132,22 @@
 			"type": 3,
 			"api": "csp_Quanwk",
 			"ext": "https://888.qkw1.cc/"
+		},
+		{
+			"key": "csp_Jqq2",
+			"name": "🎃圈圈┃影视",
+			"type": 3,
+			"api": "csp_Jqq",
+			"playerType": 2,
+			"filterable": 1
+		},
+		{
+			"key": "csp_pptv",
+			"name": "🫧泡泡┃影视",
+			"type": 3,
+			"api": "csp_Pptv",
+			"playerType": 2,
+			"filterable": 1
 		},
 		{
 			"key": "csp_SP360",
@@ -180,13 +195,6 @@
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 1
-		},
-		{
-			"key": "csp_DADAG",
-			"name": "⭕️剧圈┃影视",
-			"type": 3,
-			"playerType": "2",
-			"api": "csp_Dadag"
 		},
 		{
 			"key": "QIYIU",
@@ -245,7 +253,7 @@
 		},
 		{
 			"key": "小米",
-			"name": "📺小米┃独家",
+			"name": "📺米米┃独家",
 			"type": 3,
 			"searchable": 1,
 			"quickSearch": 1,
@@ -287,7 +295,7 @@
 		},
 		{
 			"key": "小MI",
-			"name": "📺米搜┃独家",
+			"name": "📺搜搜┃独家",
 			"type": 3,
 			"searchable": 1,
 			"quickSearch": 1,
@@ -396,7 +404,7 @@
 		{
 			"name": "小米无敌",
 			"type": 1,
-			"url": "http://www.mpanso.com/62-2.php?url=",
+			"url": "http://www.mpanso.com/woainiba.php?url=",
 			"ext": {
 				"flag": ["qq", "腾讯", "qiyi", "爱奇艺", "奇艺", "youku", "优酷", "sohu", "搜狐", "letv", "乐视", "mgtv", "芒果", "tnmb", "seven", "bilibili", "1905"],
 				"header": {
@@ -407,7 +415,7 @@
        {
 			"name": "小米无敌2",
 			"type": 1,
-			"url": "https://cdn.suxun.site/api/?key=HRTgKIxjsFBAhDcrge&url=",
+			"url": "http://117.50.183.202:8036/?ip=111.55.12.236&url=",
 			"ext": {
 				"flag": ["qq", "腾讯", "qiyi", "爱奇艺", "奇艺", "youku", "优酷", "sohu", "搜狐", "letv", "乐视", "mgtv", "芒果", "tnmb", "seven", "bilibili", "1905"],
 				"header": {
@@ -418,7 +426,7 @@
 		{
 			"name": "腾4K",
 			"type": 1,
-			"url": "http://www.mpanso.com/62-1.php?url=",
+			"url": "http://www.mpanso.com/woaini.php?url=",
 			"ext": {
 				"flag": ["qq", "腾讯", "qiyi", "爱奇艺", "奇艺", "youku", "优酷", "sohu", "搜狐", "letv", "乐视", "mgtv", "芒果", "tnmb", "seven", "bilibili", "1905"],
 				"header": {
