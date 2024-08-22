@@ -364,7 +364,7 @@
 				"播放数组": "vod_play_url\":&&,[替换:\">>链表题#$>>题链#\\#>>链表表题]",
 				"播放列表": "表&&表",
 				"播放标题": "题&&题",
-				"播放链接": "http://198.44.173.91:1234/qqa/json.php?url=+链&&链",
+				"播放链接": "http://www.mpanso.com/%E7%88%B1%E4%BD%A0/%E6%8D%9E%E9%B1%BC.php?url=+链&&链",
 				"跳转播放链接": "url\": \"&&\"",
 				"过滤词": "51.la#cnzz.com#baidu.com#bilibili.com",
 				"播放请求头": "User-Agent$Mozilla/5.0 (Linux; Android 13) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Mobile Safari/537.36uacq",
