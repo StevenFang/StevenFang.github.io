@@ -207,7 +207,7 @@
 				"播放数组": "vod_play_url\"&&\"vod_[替换:\\#>>\",:\"]",
 				"播放列表": ":&&,",
 				"播放标题": "\"&&$",
-				"跳转解析": "nmys$http://pan.qiaoji8.com/tvbox/neibu.php?url=#BBA$http://pan.qiaoji8.com/tvbox/gouzi.php?url=",
+				"跳转解析": "默认$http://pan.qiaoji8.com/tvbox/neibu.php?url=",
 				"播放链接": "解析+$&&\"",
 				"跳转播放链接": "url\"*\"&&\""
 
