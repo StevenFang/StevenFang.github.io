@@ -108,7 +108,7 @@
 			"filterable": 1,
 			"order_num": 0,
 			"changeable": 0,
-			"ext": "http://www.mpanso.com/小米/ttt.js"
+			"ext": "http://www.mpanso.com/小米/ttt1.js"
 		},
         {
             "key": "csp_NanGua", 
@@ -400,7 +400,7 @@
         {
             "name": "4K解析", 
             "type": 1, 
-            "url": "http://www.mpanso.com/woaini.php?url=", 
+            "url": "http://43.242.202.173:25253/x.php?url=", 
             "ext": {
                 "flag": [
                     "qq", 
