@@ -64,7 +64,7 @@
             "name": "🍎苹果┃1080P", 
             "type": 3, 
             "searchable": 1, 
-            "changeable": 0,
+            "changeable": 1,
             "api": "csp_LiteApple", 
             "playerType": 1, 
             "filterable": 1,
@@ -86,7 +86,7 @@
             "key": "freeok", 
             "name": "🦁freeOK┃独家", 
             "type": 3, 
-            "changeable": 0,
+            "changeable": 1,
             "click": "document.querySelector(\"#playleft iframe\").contentWindow.document.querySelector(\"#start\").click();", 
             "api": "csp_FreeOK"
         }, 
@@ -114,7 +114,7 @@
             "key": "csp_NanGua", 
             "name": "🎃南瓜┃APP", 
             "type": 3, 
-            "changeable": 0,
+            "changeable": 1,
             "api": "csp_NanGua", 
             "playerType": 2, 
             "filterable": 1
