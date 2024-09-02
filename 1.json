@@ -283,11 +283,12 @@
                 "链接": "https://www.hkybqufgh.com/detail/+vodId\":&&,", 
                 "导演": "导演:</div>&&主演", 
                 "主演": "主演:</div>&&别名", 
-                "线路标题": "文采", 
+                "线路标题": "小米文采", 
                 "播放数组": "listitem\">&&info\">", 
                 "播放列表": "<a&&</a>", 
                 "倒序": "否", 
                 "搜索url": "https://www.hkybqufgh.com/vod/search/{wd}", 
+                "搜索副标题":"class=\"boottom\"*<div>&&</div",
                 "分类": "电影$1#电视剧$2#综艺$3#动漫$4", 
                 "分类url": "https://www.hkybqufgh.com/vod/show/id/{cateId}/class/{class}/year/{year}/area/{area}/page/{catePg}"
             }
@@ -400,7 +401,7 @@
         {
             "name": "4K解析", 
             "type": 1, 
-            "url": "", 
+            "url": "http://1.xiaomi666.work.gd/laoyu.php?url=", 
             "ext": {
                 "flag": [
                     "qq", 
