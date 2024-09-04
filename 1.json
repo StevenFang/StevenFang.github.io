@@ -110,7 +110,18 @@
 			"changeable": 0,
 			"ext": "http://www.mpanso.com/%E5%B0%8F%E7%B1%B3/tx.js"
 		},
-		 
+		 {
+			"key": "hipy_js_腾云驾雾[官]",
+			"name": "🌞腾腾┃析",
+			"type": 3,
+			"api": "http://193.134.211.100:1888/tv/ijia/4kk/lib/drpy2.min.js",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1,
+			"order_num": 0,
+			"changeable": 0,
+			"ext": "http://www.mpanso.com/%E5%B0%8F%E7%B1%B3/ttt1.js"
+		},
         {
             "key": "csp_NanGua", 
             "name": "🎃南瓜┃APP", 
@@ -431,7 +442,7 @@
         {
             "name": "1080解析", 
             "type": 1, 
-            "url": "https://cdn.suxun.site/api/?key=7QeqS18ZCrJgj0BSOn&url=", 
+            "url": "https://jf.lemiaoyun.cn/api/?key=bc1e1c72813140c311929a461d167707&url=", 
             "ext": {
                 "flag": [
                     "qq", 
