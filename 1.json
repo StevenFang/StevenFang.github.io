@@ -111,8 +111,8 @@
 			"ext": "http://www.mpanso.com/%E5%B0%8F%E7%B1%B3/tx.js"
 		},
 		 {
-			"key": "hipy_js_腾云驾雾[官]",
-			"name": "🌞腾腾┃析",
+			"key": "guoguo",
+			"name": "🌞果果┃解析",
 			"type": 3,
 			"api": "http://193.134.211.100:1888/tv/ijia/4kk/lib/drpy2.min.js",
 			"searchable": 1,
@@ -120,7 +120,7 @@
 			"filterable": 1,
 			"order_num": 0,
 			"changeable": 0,
-			"ext": "http://www.mpanso.com/%E5%B0%8F%E7%B1%B3/ttt1.js"
+			"ext": "http://www.mpanso.com/%E5%B0%8F%E7%B1%B3/guoguo.js"
 		},
         {
             "key": "csp_NanGua", 
@@ -309,7 +309,7 @@
             "key": "有声小说js", 
             "name": "🎧有声┃小说", 
             "type": 3, 
-            "api": "https://gitlab.com/fantaiying/ext/-/raw/main/drpy2.min.js", 
+            "api": "http://193.134.211.100:1888/tv/ijia/4kk/lib/drpy2.min.js", 
             "ext": "https://gitlab.com/fantaiying/ext/-/raw/main/有声小说吧.js", 
             "style": {
                 "type": "rect", 
@@ -336,7 +336,7 @@
             "key": "dr_兔小贝", 
             "name": "📚儿童┃启蒙", 
             "type": 3, 
-            "api": "https://gitlab.com/fantaiying/ext/-/raw/main/drpy2.min.js", 
+            "api": "http://193.134.211.100:1888/tv/ijia/4kk/lib/drpy2.min.js", 
             "ext": "https://gitlab.com/fantaiying/ext/-/raw/main/%E5%85%94%E5%B0%8F%E8%B4%9D.js", 
             "style": {
                 "type": "rect", 
@@ -350,7 +350,7 @@
             "key": "虎牙直播js", 
             "name": "🐯虎牙┃直播", 
             "type": 3, 
-            "api": "https://gitlab.com/fantaiying/ext/-/raw/main/drpy2.min.js", 
+            "api": "http://193.134.211.100:1888/tv/ijia/4kk/lib/drpy2.min.js", 
             "ext": "https://gitlab.com/fantaiying/ext/-/raw/main/huya2.js", 
             "style": {
                 "type": "rect", 
@@ -365,7 +365,7 @@
             "key": "斗鱼js", 
             "name": "🐟斗鱼┃直播", 
             "type": 3, 
-            "api": "https://gitlab.com/fantaiying/ext/-/raw/main/drpy2.min.js", 
+            "api": "http://193.134.211.100:1888/tv/ijia/4kk/lib/drpy2.min.js", 
             "ext": "https://gitlab.com/fantaiying/ext/-/raw/main/斗鱼直播.js", 
             "style": {
                 "type": "rect", 
@@ -380,7 +380,7 @@
             "key": "Jrsjs", 
             "name": "🏀JRS┃球迷", 
             "type": 3, 
-            "api": "https://gitlab.com/fantaiying/ext/-/raw/main/drpy2.min.js", 
+            "api": "http://193.134.211.100:1888/tv/ijia/4kk/lib/drpy2.min.js", 
             "ext": "https://gitlab.com/fantaiying/ext/-/raw/main/jrk.js", 
             "style": {
                 "type": "list"
@@ -413,7 +413,7 @@
         {
             "name": "4K解析", 
             "type": 1, 
-            "url": "http://www.mpanso.com/%E6%88%91%E7%88%B1%E4%BD%A0.php?url=", 
+            "url": "http://www.mpanso.com/%E6%88%91%E7%88%B1%E4%BD%A0.php?url=",
             "ext": {
                 "flag": [
                     "qq", 
