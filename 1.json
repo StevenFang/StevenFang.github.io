@@ -1,5 +1,5 @@
 {
-    "spider": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1724936798422/xpg1.jar;md5;d982e61fe8a00da65435afd86938d2da", 
+    "spider": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1725698351563/hebine.jar;md5;1a38fcccb4dbd0fb2ffc447096ebed33", 
     "logo": "https://p3-pc-sign.douyinpic.com/tos-cn-i-0813c001/oEb9EAiMhR67DA00fZCpIXMigA8LAkAI9enDAD~tplv-dy-aweme-images-v2:3000:3000:q75.webp?biz_tag=aweme_images&from=327834062&s=PackSourceEnum_SEARCH&sc=image&se=false&x-expires=1727452800&x-signature=Q6AiH8FOO86OfzLFvuUZpJbsV4s%3D", 
     "wallpaper": "http://www.mpanso.com/%E5%B0%8F%E7%B1%B3/mpansou.php", 
     "sites": [
@@ -414,6 +414,35 @@
             "name": "4K解析", 
             "type": 1, 
             "url": "http://www.mpanso.com/%E6%88%91%E7%88%B1%E4%BD%A0.php?url=",
+            "ext": {
+                "flag": [
+                    "qq", 
+                    "腾讯", 
+                    "qiyi", 
+                    "爱奇艺", 
+                    "奇艺", 
+                    "youku", 
+                    "优酷", 
+                    "sohu", 
+                    "搜狐", 
+                    "letv", 
+                    "乐视", 
+                    "mgtv", 
+                    "芒果", 
+                    "tnmb", 
+                    "seven", 
+                    "bilibili", 
+                    "1905"
+                ], 
+                "header": {
+                    "User-Agent": "okhttp/4.9.1"
+                }
+            }
+        }, 
+        {
+            "name": "何必", 
+            "type": 1, 
+            "url": "http://www.mpanso.com/小姐姐/何必呢.php?url=",
             "ext": {
                 "flag": [
                     "qq", 
