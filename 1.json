@@ -1,5 +1,5 @@
 {
-    "spider": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1726040546821/woaini2.jar;md5;290e27949800b021dc78b1d7b41a400f",
+    "spider": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1726110591116/fantan.jar;md5;544c8f23dcbf54fb08605ed4c6e6685a",
     "logo": "https://p3-pc-sign.douyinpic.com/tos-cn-i-0813c001/oEb9EAiMhR67DA00fZCpIXMigA8LAkAI9enDAD~tplv-dy-aweme-images-v2:3000:3000:q75.webp?biz_tag=aweme_images&from=327834062&s=PackSourceEnum_SEARCH&sc=image&se=false&x-expires=1727452800&x-signature=Q6AiH8FOO86OfzLFvuUZpJbsV4s%3D",
     "wallpaper": "http://www.mpanso.com/%E5%B0%8F%E7%B1%B3/mpansou.php",
     "sites": [
@@ -73,7 +73,6 @@
         {
             "key": "君君",
             "name": "🚗君君┃1080P",
-            "playerType": 1,
             "type": 3,
             "changeable": 0,
             "api": "csp_AppYsV2",
@@ -82,6 +81,13 @@
             "filterable": 1,
             "ext": "http://122.228.85.203:1000/api.php/app/"
         },
+        {
+			"key": "csp_Xdys",
+			"name": "👬️兄弟┃108P",
+			"type": 3,
+			"api": "csp_Xdys",
+			"playerType": 2
+		},
         {
             "key": "freeok",
             "name": "🦁freeOK┃独家",
@@ -163,6 +169,13 @@
             "filterable": 1
         },
         {
+			"key": "csp_Dm84",
+			"name": "🎨动漫┃1080P",
+			"type": 3,
+			"api": "csp_Dm84",
+			"playerType": 2
+		},
+        {
             "key": "huohuo",
             "name": "💥火火┃1080P",
             "type": 3,
@@ -187,6 +200,7 @@
             "key": "csp_农民",
             "name": "🐶汪汪┃1080P",
             "type": 3,
+            "playerType": 1,
             "changeable": 0,
             "api": "csp_Nongm"
         },
@@ -196,7 +210,7 @@
             "type": 3,
             "changeable": 0,
             "api": "csp_Quanwk",
-            "ext": "https://1.qkw1.cc/"
+            "ext": "https://888.qkw2.cc/"
         },
         {
             "key": "csp_SP360",
@@ -288,7 +302,7 @@
         },
         {
             "key": "文采影视",
-            "name": "🌼文采┃影视",
+            "name": "🌼文采┃1080P",
             "type": 3,
             "api": "csp_XBPQ",
             "changeable": 0,
