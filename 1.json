@@ -1,11 +1,11 @@
 {
-    "spider": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1726110591116/fantan.jar;md5;544c8f23dcbf54fb08605ed4c6e6685a",
+    "spider": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1726332831793/08015.jar;md5;d797a2aea119c4c5e217172e274d72f6",
     "logo": "https://p3-pc-sign.douyinpic.com/tos-cn-i-0813c001/oEb9EAiMhR67DA00fZCpIXMigA8LAkAI9enDAD~tplv-dy-aweme-images-v2:3000:3000:q75.webp?biz_tag=aweme_images&from=327834062&s=PackSourceEnum_SEARCH&sc=image&se=false&x-expires=1727452800&x-signature=Q6AiH8FOO86OfzLFvuUZpJbsV4s%3D",
     "wallpaper": "http://www.mpanso.com/%E5%B0%8F%E7%B1%B3/mpansou.php",
     "sites": [
         {
             "key": "豆瓣",
-            "name": "🌈豆瓣┃反馈QQ群:665981772 公众号：叨观荐影",
+            "name": "🌈豆瓣┃反馈QQ群:665981772 公众号：叨观荐影 播放失败后重新点击下",
             "type": 3,
             "api": "csp_Douban",
             "searchable": 0
@@ -82,10 +82,10 @@
             "ext": "http://122.228.85.203:1000/api.php/app/"
         },
         {
-			"key": "csp_Xdys",
-			"name": "👬️兄弟┃108P",
+			"key": "csp_yunbo",
+			"name": "☁️️云播┃108P",
 			"type": 3,
-			"api": "csp_Xdys",
+			"api": "csp_Tvyb",
 			"playerType": 2
 		},
         {
@@ -115,18 +115,6 @@
             "order_num": 0,
             "changeable": 0,
             "ext": "http://www.mpanso.com/%E5%B0%8F%E7%B1%B3/tx.js"
-        },
-        {
-            "key": "hipy_guazi",
-            "name": "🍉瓜子┃1080P",
-            "type": 3,
-            "api": "http://47.76.163.123/drpy_dzlive/drpy_libs/drpy2.min.js",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "order_num": 0,
-            "changeable": 0,
-            "ext": "http://www.mpanso.com/瓜子.js"
         },
         {
             "key": "guoguo",
@@ -453,7 +441,7 @@
         {
             "name": "反弹",
             "type": 1,
-            "url": "http://www.mpanso.com/反弹/反弹.php?url=",
+            "url": "",
             "ext": {
                 "flag": [
                     "qq",
