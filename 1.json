@@ -297,6 +297,7 @@
             "jar": "https://fs-im-kefu.7moor-fs1.com/29397395/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1704761840381/c (1).txt;md5;bb155c3f0133bbce4756ad52003f5968",
             "ext": {
                 "主页url": "https://www.hkybqufgh.com/",
+                "播放请求头":"User-Agent$Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36",
                 "简介": "</label>&&</div>",
                 "嗅探词": "m3u8",
                 "影片类型": "tags\">&&director\">",
@@ -441,7 +442,7 @@
         {
             "name": "反弹",
             "type": 1,
-            "url": "http://43.136.176.188:91/api/?key=a36b9dd9ea79547e2ed3c14ec901d9fe&url=",
+            "url": "",
             "ext": {
                 "flag": [
                     "qq",
