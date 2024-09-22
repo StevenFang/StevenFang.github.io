@@ -91,14 +91,6 @@
 			"playerType": 2
 		},
         {
-            "key": "freeok",
-            "name": "🦁freeOK┃独家",
-            "type": 3,
-            "changeable": 1,
-            "click": "document.querySelector(\"#playleft iframe\").contentWindow.document.querySelector(\"#start\").click();",
-            "api": "csp_FreeOK"
-        },
-        {
             "key": "配置",
             "name": "⚙️网盘┃配置",
             "type": 3,
@@ -129,6 +121,18 @@
             "order_num": 0,
             "changeable": 0,
             "ext": "http://www.mpanso.com/%E5%B0%8F%E7%B1%B3/guoguo.js"
+        },
+        {
+            "key": "摘星",
+            "name": "✨摘星┃解析",
+            "type": 3,
+            "api": "http://47.76.163.123/drpy_dzlive/drpy_libs/drpy2.min.js",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "order_num": 0,
+            "changeable": 0,
+            "ext": "http://www.mpanso.com/%E5%B0%8F%E7%B1%B3/摘星.js"
         },
         {
             "key": "csp_NanGua",
