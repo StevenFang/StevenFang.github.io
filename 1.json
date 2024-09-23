@@ -102,7 +102,7 @@
             "key": "hipy_js_腾云驾雾[官]",
             "name": "🌞腾腾┃解析",
             "type": 3,
-            "api": "http://47.76.163.123/drpy_dzlive/drpy_libs/drpy2.min.js",
+            "api": "http://我不是.摸鱼儿.top/json/js/drpy.min.js",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
@@ -114,7 +114,7 @@
             "key": "guoguo",
             "name": "🌞果果┃解析",
             "type": 3,
-            "api": "http://47.76.163.123/drpy_dzlive/drpy_libs/drpy2.min.js",
+            "api": "http://我不是.摸鱼儿.top/json/js/drpy.min.js",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
@@ -126,7 +126,7 @@
             "key": "摘星",
             "name": "✨摘星┃解析",
             "type": 3,
-            "api": "http://47.76.163.123/drpy_dzlive/drpy_libs/drpy2.min.js",
+            "api": "http://我不是.摸鱼儿.top/json/js/drpy.min.js",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
@@ -506,7 +506,7 @@
         {
             "name": "1080解析",
             "type": 1,
-            "url": "https://jf.lemiaoyun.cn/api/?key=86950663b3198d25885fdf61501a3366&url=",
+            "url": "https://jf.lemiaoyun.cn/api/?key=8b7dec2f10ce79cd5687a7d6f6a335a8&url=",
             "ext": {
                 "flag": [
                     "qq",
