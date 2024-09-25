@@ -10,16 +10,7 @@
             "api": "csp_Douban",
             "searchable": 0
         },
-        {
-            "key": "csp_瓜子",
-            "name": "🌰瓜子┃1080P",
-            "api": "csp_Gz360",
-            "type": 3,
-            "searchable": 1,
-            "playerType": 2,
-            "timeout": 30,
-            "changeable": 0
-        },
+        
         {
             "key": "csp_wanou",
             "name": "🧸玩偶┃盘聚4K",
