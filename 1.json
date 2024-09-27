@@ -1,16 +1,23 @@
 {
-    "spider": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1727105129113/0924.jar;md5;2a630d3d6dd827abd8b9a96d21bee0bf5",
+    "spider": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1727398313929/0927.txt;md5;5f7ad832093d5ffd021bfd3d665b5a4a",
     "logo": "https://p3-pc-sign.douyinpic.com/tos-cn-i-0813c001/oEb9EAiMhR67DA00fZCpIXMigA8LAkAI9enDAD~tplv-dy-aweme-images-v2:3000:3000:q75.webp?biz_tag=aweme_images&from=327834062&s=PackSourceEnum_SEARCH&sc=image&se=false&x-expires=1727452800&x-signature=Q6AiH8FOO86OfzLFvuUZpJbsV4s%3D",
     "wallpaper": "http://www.mpanso.com/%E5%B0%8F%E7%B1%B3/mpansou.php",
     "sites": [
         {
             "key": "豆瓣",
-            "name": "🌈豆瓣┃反馈QQ群:665981772 公众号：叨观荐影 播放失败后重新点击下",
+            "name": "🌈豆瓣┃反馈QQ群:665981772 公众号：叨观荐影 接口只兼容OK影视或者影视",
             "type": 3,
             "api": "csp_Douban",
             "searchable": 0
         },
-        
+        {
+            "key": "配置",
+            "name": "⚙️网盘┃配置4K",
+            "type": 3,
+            "changeable": 0,
+            "searchable": 0,
+            "api": "csp_Config"
+        },
         {
             "key": "csp_wanou",
             "name": "🧸玩偶┃盘聚4K",
@@ -101,30 +108,46 @@
             "ext": ""
         },
         {
-            "key": "君君",
-            "name": "🚗君君┃1080P",
+            "key": "junjun",
+            "name": "🚗君君┃1080",
             "type": 3,
-            "changeable": 0,
-            "api": "csp_AppYsV2",
             "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "http://122.228.85.203:1000/api.php/app/"
+             "quickSearch": 1, 
+			"api": "./appys.js",
+            "ext": {
+                "host": "http://122.228.85.203:1000/api.php/app/",
+                "*": [
+                    "http://122.228.85.203:7979/api/?key=7cb64e30a4ba635990e54b59adf172aa&url=", 
+                    "https://xcoo.vip/xiaojun/xiaojunjiexi.php?url="
+                ]
+            }
         },
         {
+			"key": "csp_Czsapp",
+			"name": "🪖厂长┃1080P",
+			"type": 3,
+			"api": "csp_Czsapp",
+			"playerType": 2,
+			"ext":"https://www.czzy.site/"
+		},
+        {
 			"key": "csp_yunbo",
-			"name": "☁️️云播┃108P",
+			"name": "☁️️云播┃1080",
 			"type": 3,
 			"api": "csp_Tvyb",
 			"playerType": 2
 		},
         {
-            "key": "配置",
-            "name": "⚙️网盘┃配置",
+            "key": "hipy_闪电",
+            "name": "⚡️闪电┃1080P",
             "type": 3,
+            "api": "http://我不是.摸鱼儿.top/json/js/drpy.min.js",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "order_num": 0,
             "changeable": 0,
-            "searchable": 0,
-            "api": "csp_Config"
+            "ext": "./闪电.js"
         },
         {
             "key": "hipy_js_腾云驾雾[官]",
@@ -152,7 +175,7 @@
         },
         {
             "key": "摘星",
-            "name": "✨摘星┃解析",
+            "name": "✨星星┃1080P",
             "type": 3,
             "api": "http://我不是.摸鱼儿.top/json/js/drpy.min.js",
             "searchable": 1,
@@ -416,7 +439,7 @@
         {
             "name": "4K解析",
             "type": 1,
-            "url": "https://xcoo.vip/xiaojun/xiaojunjiexi.php?url=",
+            "url": "",
             "ext": {
                 "flag": [
                     "qq",
