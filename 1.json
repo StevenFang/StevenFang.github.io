@@ -159,7 +159,7 @@
             "filterable": 1,
             "order_num": 0,
             "changeable": 0,
-            "ext": "http://www.mpanso.com/%E5%B0%8F%E7%B1%B3/tx.js"
+            "ext": "http://www.mpanso.com/%E5%B0%8F%E7%B1%B3/tx2.js"
         },
         {
             "key": "guoguo",
@@ -191,26 +191,6 @@
             "type": 3,
             "changeable": 1,
             "api": "csp_NanGua",
-            "playerType": 2,
-            "filterable": 1
-        },
-        {
-            "key": "csp_paopao",
-            "name": "🫧菠菜┃1080P",
-            "type": 3,
-            "changeable": 0,
-            "api": "csp_Pptv",
-            "playerType": 2,
-            "filterable": 1,
-            "ext": "https://yigeg.pro"
-        },
-        {
-            "key": "csp_Nkdy",
-            "name": "🥛耐看┃1080P",
-            "type": 3,
-            "changeable": 0,
-            "click": "document.querySelector(\"#playleft iframe\").contentWindow.document.querySelector(\"#start\").click();",
-            "api": "csp_Nkdy",
             "playerType": 2,
             "filterable": 1
         },
@@ -497,7 +477,7 @@
         {
             "name": "1080解析1",
             "type": 1,
-            "url": "https://jxjson.icu/neibu.php?url=",
+            "url": "http://193.134.211.213:1999/4k.php?url=",
             "ext": {
                 "flag": [
                     "qq",
@@ -526,7 +506,7 @@
         {
             "name": "1080解析",
             "type": 1,
-            "url": "https://jf.lemiaoyun.cn/api/?key=8b7dec2f10ce79cd5687a7d6f6a335a8&url=",
+            "url": "http://117.50.183.202:8036/?ip=111.55.12.236&url=",
             "ext": {
                 "flag": [
                     "qq",
