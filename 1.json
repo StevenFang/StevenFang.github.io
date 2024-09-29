@@ -87,7 +87,7 @@
             "type": 3,
             "searchable": 1,
              "quickSearch": 1, 
-			"api": "./appys.js",
+			"api": "http://www.mpanso.com/appys.js",
             "ext": {
                 "host": "http://110.42.37.106:7788/api.php/app/",
                 "*": [
@@ -113,7 +113,7 @@
             "type": 3,
             "searchable": 1,
              "quickSearch": 1, 
-			"api": "./appys.js",
+			"api": "http://www.mpanso.com/appys.js",
             "ext": {
                 "host": "http://122.228.85.203:1000/api.php/app/",
                 "*": [
@@ -159,7 +159,7 @@
             "filterable": 1,
             "order_num": 0,
             "changeable": 0,
-            "ext": "http://www.mpanso.com/%E5%B0%8F%E7%B1%B3/tx2.js"
+            "ext": "http://www.mpanso.com/小米/ttt.js"
         },
         {
             "key": "guoguo",
