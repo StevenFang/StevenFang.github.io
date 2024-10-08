@@ -223,10 +223,10 @@
         },
         {
       "key": "荐片",
-      "name": "🎬┃荐片┃影视",
+      "name": "🎬荐片┃磁力",
       "api": "csp_Jianpian",
       "type": 3,
-      "playerType": "2",
+      "playerType": "1",
       "ext": "http://api2.rinhome.com"
     },
         {
