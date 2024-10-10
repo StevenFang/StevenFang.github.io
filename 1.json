@@ -51,7 +51,17 @@
                 ]
             }
         },
-       
+       {
+      "key": "FreeOK",
+      "name": "👀FreeOK┃影视",
+      "type": 3,
+      "api": "csp_Pptv",
+      "click": "try{function requestApix(callback){$.post(\"api.php\",{vid:getQueryString(\"vid\")},function(result){callback(result.data.url);},\"json\");}requestApix(function(data){location.href=sign(data);})}catch(e){}location.href=document.querySelector(\"#playleft iframe\").src;",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://www.freeok.lol"
+    },
         {
             "key": "米搜",
             "name": "🌾米搜┃盘盘4K",
@@ -59,6 +69,18 @@
             "api": "csp_MiSou",
             "changeable": 0,
             "ext": "http://127.0.0.1:9978/file/fatcat/kk.txt"
+        },
+        {
+            "key": "88看球",
+            "name": "🏀看球┃直播",
+            "type": 3,
+            "api": "https://gitee.com/liuqu01/liuqutvbox/raw/master/drpy_libs/drpy2.min.js",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "order_num": 0,
+            "changeable": 0,
+            "ext": "http://www.mpanso.com/小米/kanqiu.js"
         },
         {
             "key": "csp_LiteApple",
@@ -136,18 +158,6 @@
 			"api": "csp_Tvyb",
 			"playerType": 2
 		},
-        {
-            "key": "hipy_闪电",
-            "name": "⚡️闪电┃1080P",
-            "type": 3,
-            "api": "http://itvbox.cc//云星日记/drpy2.min.js",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "order_num": 0,
-            "changeable": 0,
-            "ext": "./闪电.js"
-        },
         {
             "key": "hipy_js_腾云驾雾[官]",
             "name": "🌞腾腾┃解析",
@@ -343,20 +353,6 @@
             }
         },
         {
-            "key": "有声小说js",
-            "name": "🎧有声┃小说",
-            "type": 3,
-            "api": "https://gitlab.com/fantaiying/ext/-/raw/main/drpy2.min.js",
-            "ext": "https://gitlab.com/fantaiying/ext/-/raw/main/有声小说吧.js",
-            "style": {
-                "type": "rect",
-                "ratio": 1
-            },
-            "searchable": 0,
-            "quickSearch": 0,
-            "changeable": 0
-        },
-        {
             "key": "csp_FirstAid",
             "name": "🍧急救┃教学",
             "type": 3,
@@ -368,48 +364,6 @@
                 "ratio": 3.8
             },
             "gridview": "0-0-4.1"
-        },
-        {
-            "key": "dr_兔小贝",
-            "name": "📚儿童┃启蒙",
-            "type": 3,
-            "api": "https://gitlab.com/fantaiying/ext/-/raw/main/drpy2.min.js",
-            "ext": "https://gitlab.com/fantaiying/ext/-/raw/main/%E5%85%94%E5%B0%8F%E8%B4%9D.js",
-            "style": {
-                "type": "rect",
-                "ratio": 1.597
-            },
-            "searchable": 0,
-            "quickSearch": 0,
-            "changeable": 0
-        },
-        {
-            "key": "虎牙直播js",
-            "name": "🐯虎牙┃直播",
-            "type": 3,
-            "api": "https://gitlab.com/fantaiying/ext/-/raw/main/drpy2.min.js",
-            "ext": "https://gitlab.com/fantaiying/ext/-/raw/main/huya2.js",
-            "style": {
-                "type": "rect",
-                "ratio": 1.755
-            },
-            "playerType": "2",
-            "searchable": 0,
-            "quickSearch": 0,
-            "changeable": 0
-        },
-        {
-            "key": "Jrsjs",
-            "name": "🏀JRS┃球迷",
-            "type": 3,
-            "api": "https://gitlab.com/fantaiying/ext/-/raw/main/drpy2.min.js",
-            "ext": "https://gitlab.com/fantaiying/ext/-/raw/main/jrk.js",
-            "style": {
-                "type": "list"
-            },
-            "searchable": 0,
-            "quickSearch": 0,
-            "changeable": 0
         },
         {
             "key": "push_agent",
@@ -493,7 +447,7 @@
         {
             "name": "1080解析1",
             "type": 1,
-            "url": "",
+            "url": "http://www.mpanso.com/%E5%B0%8F%E7%B1%B3/mying.php?url=",
             "ext": {
                 "flag": [
                     "qq",
