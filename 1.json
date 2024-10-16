@@ -201,7 +201,7 @@
 			"filterable": 1,
 			"order_num": 0,
 			"changeable": 0,
-			"ext": "http://www.mpanso.com/小米/ttt111222.js"
+			"ext": "https://gitee.com/smallmi1007/mimi/raw/master/ttt.js"
 		},
 		{
 			"key": "guoguo",
@@ -213,7 +213,7 @@
 			"filterable": 1,
 			"order_num": 0,
 			"changeable": 0,
-			"ext": "http://www.mpanso.com/%E5%B0%8F%E7%B1%B3/guoguo111222.js"
+			"ext": "https://gitee.com/smallmi1007/mimi/raw/master/guoguo.js"
 		},
 		{
 			"key": "摘星",
