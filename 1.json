@@ -74,8 +74,8 @@
 			"name": "🍉瓜子┃APP",
 			"type": 3,
 			"api": "csp_Gz360",
-			"searchable": 0,
-			"quickSearch": 1,
+			"searchable": 1,
+			"quickSearch": 0,
 			"filterable": 1,
 			"order_num": 0,
 			"changeable": 0
