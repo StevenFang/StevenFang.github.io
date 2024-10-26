@@ -20,7 +20,7 @@
         },
         {
             "key": "csp_wanou",
-            "name": "🧸玩偶┃盘聚4K",
+            "name": "🧸玩偶┃4K4K",
             "api": "csp_Wogg",
             "type": 3,
             "searchable": 1,
@@ -37,7 +37,7 @@
         },
         {
             "key": "csp_zhizhen",
-            "name": "🌹至臻┃盘聚4K",
+            "name": "🌹至臻┃4K4K",
             "type": 3,
             "api": "csp_Duopan",
             "changeable": 0,
@@ -51,7 +51,7 @@
         },
         {
             "key": "米搜",
-            "name": "🌾米搜┃盘盘4K",
+            "name": "🌾米搜┃4K4K",
             "type": 3,
             "api": "csp_MiSou",
             "changeable": 0
@@ -131,33 +131,12 @@
             "ext": ""
         },
         {
-            "key": "junjun",
-            "name": "🚗君君┃1080",
-            "type": 3,
-            "searchable": 1,
-            "quickSearch": 1,
-            "api": "http://www.mpanso.com/appys.js",
-            "ext": {
-                "host": "http://122.228.85.203:1000/api.php/app/",
-                "*": [
-                    "https://xcoo.vip/xiaojun/xiaojunjiexi.php?url="
-                ]
-            }
-        },
-        {
             "key": "csp_Czsapp",
             "name": "🪖厂长┃1080P",
             "type": 3,
             "api": "csp_Czsapp",
             "playerType": 2,
             "ext": "https://www.czzy.site/"
-        },
-        {
-            "key": "csp_yunbo",
-            "name": "☁️️云播┃1080",
-            "type": 3,
-            "api": "csp_Tvyb",
-            "playerType": 2
         },
         {
             "key": "hipy_js_腾云驾雾[官]",
@@ -236,14 +215,6 @@
             "changeable": 0,
             "api": "csp_Wwys",
             "ext": "https://www.wwgz.cn/"
-        },
-        {
-            "key": "QIYIU",
-            "name": "🦌奇优┃1080P",
-            "type": 3,
-            "changeable": 0,
-            "api": "csp_Qiyou",
-            "playerType": "1"
         },
         {
             "key": "小米",
