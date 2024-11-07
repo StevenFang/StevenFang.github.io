@@ -147,8 +147,8 @@
 			"api": "csp_Nkdy"
 		},
 		{
-			"key": "xiongmao",
-			"name": "🐼熊猫┃1080P",
+			"key": "xiongmao2",
+			"name": "🐼猫咪┃1080P",
 			"type": 3,
 			"api": "http://154.9.252.167:666/tvbox/js/drpy_libs/drpy2.min.js",
 			"searchable": 1,
@@ -156,7 +156,7 @@
 			"filterable": 1,
 			"order_num": 0,
 			"changeable": 0,
-			"ext": "./xiongmao.js"
+			"ext": "https://gitee.com/smallmi1007/mimi/raw/master/xiongmao.js"
 		},
 		{
 			"key": "hipy_js_腾云驾雾[官]",
