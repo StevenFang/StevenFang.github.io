@@ -96,6 +96,7 @@
 			"ext": "caHR0cDovLzE1NC4zNy4yMjAuMTc6NjYyMnw1ODliMTkwNmI5NWY3MTljfDU4OWIxOTA2Yjk1ZjcxOWM=",
 			"jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1729754716332/qj.jar;md5;1c2663a32f99e9e488cb4777ba1ea73f"
 		},
+		
 		{
 			"key": "繁荣",
 			"name": "🥝凡人┃1080P",
@@ -144,6 +145,18 @@
 			"name": "🌽耐看┃影视",
 			"type": 3,
 			"api": "csp_Nkdy"
+		},
+		{
+			"key": "xiongmao",
+			"name": "🐼熊猫┃1080P",
+			"type": 3,
+			"api": "http://154.9.252.167:666/tvbox/js/drpy_libs/drpy2.min.js",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1,
+			"order_num": 0,
+			"changeable": 0,
+			"ext": "./xiongmao.js"
 		},
 		{
 			"key": "hipy_js_腾云驾雾[官]",
