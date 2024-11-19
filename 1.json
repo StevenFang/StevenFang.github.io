@@ -175,6 +175,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
+      "playerType": 1,
       "order_num": 0,
       "changeable": 0,
       "ext": "https://gitee.com/smallmi1007/mimi/raw/master/tm.js"
