@@ -1,61 +1,77 @@
 {
-  "spider": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1732155296962/11211.jar;md5;365a6cd519e4bd1e41b47b8af5cc1c23",
+  "spider": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1732528193331/1125xm.jar;md5;3343979c257958f64738e1952128a491",
   "logo": "https://p3-pc-sign.douyinpic.com/tos-cn-i-0813c001/oEb9EAiMhR67DA00fZCpIXMigA8LAkAI9enDAD~tplv-dy-aweme-images-v2:3000:3000:q75.webp?biz_tag=aweme_images&from=327834062&s=PackSourceEnum_SEARCH&sc=image&se=false&x-expires=1727452800&x-signature=Q6AiH8FOO86OfzLFvuUZpJbsV4s%3D",
   "wallpaper": "http://www.mucpan.cc/%E5%B0%8F%E7%B1%B3/mpansou.php",
   "sites": [
     {
       "key": "豆瓣",
-      "name": "🌈豆瓣┃防失联：QQ群：665981772   接口被屏蔽 加群防止失联 ",
+      "name": "🌈豆瓣┃防失联：QQ群：665981772 接口容易被屏蔽 加群防止失联 ",
       "type": 3,
       "api": "csp_Douban",
       "searchable": 0
     },
     {
       "key": "配置",
-      "name": "⚙️网盘┃配置4K 修复弹窗 夸夸非会员3G可播",
+      "name": "🔧️网盘┃配置4K 修复弹窗 夸夸非会员3G可播",
       "type": 3,
       "changeable": 0,
       "searchable": 0,
       "api": "csp_Config"
     },
     {
-      "key": "csp_wanou",
+      "key": "csp_Wogg",
       "name": "🧸玩偶┃4K4K",
+      "type": 3,
       "api": "csp_Wogg",
-      "type": 3,
-      "searchable": 1,
-      "playerType": 2,
-      "timeout": 30,
-      "changeable": 0,
-      "ext": {
-        "site_urls": [
-          "https://wogg.xxooo.cf/",
-          "https://www.wogg.bf/",
-          "https://www.wogg.net/"
-        ]
-      }
-    },
-    {
-      "key": "csp_zhizhen",
-      "name": "🌹米QK┃4K4K",
-      "type": 3,
-      "api": "csp_Duopan",
-      "changeable": 0,
       "filterable": 1,
       "ext": {
         "site_urls": [
-          "http://mucpan.cc",
-          "http://mihdr.top"
-        ]
+          "https://wogg.xxooo.cf",
+          "http://www.wogg.bf",
+          "https://www.wogg.net"
+        ],
+        "threadinfo": {
+          "chunksize": 450,
+          "threads": 10
+        }
       }
     },
     {
-      "key": "csp_xiaomi",
-      "name": "🌹米UC┃4K4K",
+      "key": "csp_Netfixtv",
+      "name": "💯至臻┃4K4K",
       "type": 3,
       "api": "csp_Duopan",
-      "changeable": 0,
-      "ext": "http://www.mucpan.cc"
+      "filterable": 1,
+      "ext": {
+        "site_urls": [
+          "https://mihdr.top",
+          "https://xiaomiai.site"
+        ],
+        "url_key": "Netfixtv",
+        "threadinfo": {
+          "chunksize": 250,
+          "threads": 10
+        }
+      }
+    },
+    {
+      "key": "csp_UC",
+      "name": "💌MIUC┃4K4K",
+      "type": 3,
+      "api": "csp_Duopan",
+      "filterable": 1,
+      "ext": {
+        "site_urls": [
+          "http://www.mucpan.cc",
+          "http://ucmi.fun",
+          "http://www.ucmi.fun"
+        ],
+        "url_key": "UC",
+        "threadinfo": {
+          "chunksize": 450,
+          "threads": 10
+        }
+      }
     },
     {
       "key": "米搜",
@@ -63,6 +79,21 @@
       "type": 3,
       "api": "csp_MiSou",
       "changeable": 0
+    },
+    {
+      "key": "csp_Bili",
+      "name": "🆎哔哩┃哔哩",
+      "type": 3,
+      "api": "csp_Bili",
+      "playerType": 2,
+      "ext": {
+        "json": "https://3450.kstore.vip/bibi.json",
+        "cookie": ""
+      },
+      "style": {
+        "type": "rect",
+        "ratio": 1.333
+      }
     },
     {
       "key": "88看球",
@@ -78,7 +109,7 @@
     },
     {
       "key": "瓜子",
-      "name": "🍉瓜子┃APP",
+      "name": "🍉瓜子┃1080P",
       "type": 3,
       "api": "csp_Gz360",
       "searchable": 1,
@@ -103,7 +134,23 @@
       "api": "csp_Xdai",
       "playerType": 2,
       "ext": "caHR0cHM6Ly9zYzEwODAudG9wfGU1OWQ0NGIyZWVmMDNiYTJ8ZTU5ZDQ0YjJlZWYwM2JhMg==",
-     "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1732107398295/qj.jar;md5;68959abc51dbfcba14fb08d537dbf230"
+      "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1732107398295/qj.jar;md5;68959abc51dbfcba14fb08d537dbf230"
+    },
+    {
+      "key": "zhaixing",
+      "name": "✨摘星┃1080P",
+      "type": 3,
+      "api": "csp_AppZX",
+      "playerType": 2
+    },
+    {
+      "key": "熊猫",
+      "name": "🐈熊猫┃1080P",
+      "type": 3,
+      "api": "csp_Xdai",
+      "playerType": 2,
+      "ext": "caHR0cDovLzE1NC4yMjEuMTcuMTI3OjgxODh8YWU3MTU4ODgyN2EzODAzNnxhZTcxNTg4ODI3YTM4MDM2",
+      "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1732107398295/qj.jar;md5;68959abc51dbfcba14fb08d537dbf230"
     },
     {
       "key": "繁荣",
@@ -112,11 +159,11 @@
       "api": "csp_Frong",
       "playerType": 2,
       "ext": "FMy4wLjJ8aHR0cDovLzQzLjI0OC4xMjguMTM4OjgxMzN8NDJmN2EyMDl8MjV8NTY4Njg1NDM0RkVDN0M4QzI5MEFFNEZCMzI1RkYxMzB8c2hpamllbWFvdHZ8MzNhN2ZmYTljODU0MTJjNzQyZjdhMjA5fDI1fDU2ODY4NTQzNEZFQzdDOEMyOTBBRTRGQjMyNUZGMTMwfHNoaWppZW1hb3R2fDMzYTdmZmE5Yzg1NDEyYzc=",
-     "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1732107398295/qj.jar;md5;68959abc51dbfcba14fb08d537dbf230"
+      "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1732107398295/qj.jar;md5;68959abc51dbfcba14fb08d537dbf230"
     },
     {
       "key": "csp_LiteApple",
-      "name": "🍎苹果┃无光",
+      "name": "🍎苹果┃1080P",
       "type": 3,
       "searchable": 1,
       "changeable": 1,
@@ -127,7 +174,7 @@
     },
     {
       "key": "csp_JPYY",
-      "name": "🥇文采┃无广",
+      "name": "🥇文采┃1080P",
       "type": 3,
       "searchable": 1,
       "changeable": 1,
@@ -137,34 +184,42 @@
       "ext": ""
     },
     {
-      "key": "csp_饭团",
-      "name": "🍙饭团┃点击",
+      "key": "csp_XSX",
+      "name": "👀视讯┃1080P",
       "type": 3,
       "searchable": 1,
       "changeable": 1,
-      "api": "csp_FanTuan",
+      "quickSearch": 1,
+      "api": "csp_Xsx",
+      "playerType": 2,
+      "filterable": 1,
+      "ext": ""
+    },
+    {
+      "key": "csp_Tvyb",
+      "name": "☁️云播┃1080P",
+      "type": 3,
+      "api": "csp_Tvyb"
+    },
+    {
+      "key": "csp_Czsapp",
+      "name": "🏭厂长┃1080P",
+      "type": 3,
+      "api": "csp_Czsapp",
+      "playerType": 2,
+      "ext": "http://www.czzyvideo.com"
+    },
+    {
+      "key": "csp_饭团",
+      "name": "🍙饭团┃1080P",
+      "type": 3,
+      "searchable": 1,
+      "changeable": 1,
+      "api": "csp_Fantuan",
       "playerType": 2,
       "filterable": 1,
       "click": "document.querySelector(\"#playleft iframe\").contentWindow.document.querySelector(\"#start\").click();",
       "ext": "https://fantuan.vip/"
-    },
-    {
-      "key": "csp_Nkdy",
-      "name": "🌽耐看┃影视",
-      "type": 3,
-      "api": "csp_Nkdy"
-    },
-    {
-      "key": "xiongmao2",
-      "name": "🐼猫咪┃1080P",
-      "type": 3,
-      "api": "https://3450.kstore.vip/js/drpy_libs/drpy2.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "order_num": 0,
-      "changeable": 0,
-      "ext": "https://gitee.com/smallmi1007/mimi/raw/master/xiongmao.js"
     },
     {
       "key": "hipy_js_腾云驾雾[官]",
@@ -192,15 +247,6 @@
       "ext": "https://gitee.com/smallmi1007/mimi/raw/master/guoguo.js"
     },
     {
-      "key": "csp_NanGua",
-      "name": "🎃南瓜┃APP",
-      "type": 3,
-      "changeable": 1,
-      "api": "csp_NanGua",
-      "playerType": 2,
-      "filterable": 1
-    },
-    {
       "key": "csp_Dm84",
       "name": "🎨动漫┃1080P",
       "type": 3,
@@ -214,23 +260,10 @@
       "changeable": 0,
       "api": "csp_SaoHuo"
     },
-    {
-      "key": "Bili",
-      "name": "🎒哔哔┃合集",
-      "type": 3,
-      "api": "csp_Bili",
-      "style": {
-        "type": "rect",
-        "ratio": 1.597
-      },
-      "searchable": 1,
-      "quickSearch": 0,
-      "changeable": 0,
-      "ext": "https://github.moeyy.xyz/https://raw.githubusercontent.com/yoursmile66/TVBox/main/sub/Bili.json"
-    },
+    
     {
       "key": "荐片",
-      "name": "🎬荐片┃磁力",
+      "name": "🍭荐片┃磁力",
       "api": "csp_Jianpian",
       "type": 3,
       "playerType": "1",
@@ -240,7 +273,7 @@
       "key": "csp_Wwys",
       "name": "🐶汪汪┃1080P",
       "type": 3,
-      "playerType": 1,
+      "playerType": 2,
       "changeable": 0,
       "api": "csp_Wwys",
       "ext": "https://www.wwgz.cn/"
@@ -396,17 +429,32 @@
     }
   ],
   "lives": [
-    {
-      "name": "直播",
+     {
+      "name": "IPV4若卡顿切IPV6",
       "type": 0,
-      "url": "https://tv.iill.top/m3u/Gather",
-      "playerType": 2
+      "url": "https://ghp.ci/raw.githubusercontent.com/MemoryCollection/IPTV/refs/heads/main/itvlist.txt",
+      "playerType": 1,
+      "logo": "https://live.fanmingming.com/tv/{name}.png"
     },
     {
-      "name": "直播2",
-      "ua": "",
+      "name": "IPV6①",
       "type": 0,
-      "url": "https://tv.iill.top/m3u/Live"
+      "url": "https://ghp.ci/https://raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/m3u/ipv6.m3u",
+      "playerType": 1
+    },
+    {
+      "name": "IPV6②",
+      "type": 0,
+      "url": "https://ghp.ci/https://raw.githubusercontent.com/wwb521/live/main/tv.m3u",
+      "playerType": 1,
+      "logo": "https://live.fanmingming.com/tv/{name}.png"
+    },
+    {
+      "name": "平台直播",
+      "type": 0,
+      "url": "https://tv.iill.top/m3u/Live",
+      "ua": "okhttp/3.15",
+      "playerType": 2
     }
   ]
 }
