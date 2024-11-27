@@ -5,7 +5,7 @@
   "sites": [
     {
       "key": "豆瓣",
-      "name": "🌈豆瓣┃防失联：QQ群：665981772 接口容易被屏蔽 加群防止失联 ",
+      "name": "🌈豆瓣┃如有侵权 反馈：QQ群：665981772",
       "type": 3,
       "api": "csp_Douban",
       "searchable": 0
@@ -221,31 +221,7 @@
       "click": "document.querySelector(\"#playleft iframe\").contentWindow.document.querySelector(\"#start\").click();",
       "ext": "https://fantuan.vip/"
     },
-    {
-      "key": "hipy_js_腾云驾雾[官]",
-      "name": "🌞腾腾┃解析",
-      "type": 3,
-      "api": "https://3450.kstore.vip/js/drpy_libs/drpy2.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "playerType": 2,
-      "order_num": 0,
-      "changeable": 0,
-      "ext": "https://gitee.com/smallmi1007/mimi/raw/master/tm.js"
-    },
-    {
-      "key": "guoguo",
-      "name": "🌞果果┃解析",
-      "type": 3,
-      "api": "https://3450.kstore.vip/js/drpy_libs/drpy2.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "order_num": 0,
-      "changeable": 0,
-      "ext": "https://gitee.com/smallmi1007/mimi/raw/master/guoguo.js"
-    },
+    
     {
       "key": "csp_Dm84",
       "name": "🎨动漫┃1080P",
@@ -293,7 +269,7 @@
     },
     {
       "key": "push_agent",
-      "name": "杜绝未成年测试本项目｜请于24小时内删除测试内容｜官网mpanso.com",
+      "name": "接口完全免费公益性质 纯互联网搜集 杜绝未成年测试本项目｜请于24小时内删除本测试内容",
       "type": 3,
       "api": "csp_Push",
       "playerType": "1",
