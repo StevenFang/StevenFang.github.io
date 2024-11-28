@@ -1,5 +1,5 @@
 {
-  "spider": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1732757091690/1128mi.jar",
+  "spider": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1732763660181/xmwd.jar;md5;6c89ddbe14836a4999d18ff806ab0a6f",
   "logo": "https://p3-pc-sign.douyinpic.com/tos-cn-i-0813c001/oEb9EAiMhR67DA00fZCpIXMigA8LAkAI9enDAD~tplv-dy-aweme-images-v2:3000:3000:q75.webp?biz_tag=aweme_images&from=327834062&s=PackSourceEnum_SEARCH&sc=image&se=false&x-expires=1727452800&x-signature=Q6AiH8FOO86OfzLFvuUZpJbsV4s%3D",
   "wallpaper": "http://www.mucpan.cc/%E5%B0%8F%E7%B1%B3/mpansou.php",
   "sites": [
@@ -149,7 +149,7 @@
       "type": 3,
       "api": "csp_Xdai",
       "playerType": 2,
-      "ext": "caHR0cDovLzE1NC4yMjEuMTcuMTI3OjgxODh8YWU3MTU4ODgyN2EzODAzNnxhZTcxNTg4ODI3YTM4MDM2",
+      "ext": "caHR0cDovL2dldGFwcC50dnliYXBwLmNvbXxtaWNrMjQ1OG1pY2syNDU4fG1pY2syNDU4bWljazI0NTg=",
       "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1732107398295/qj.jar;md5;68959abc51dbfcba14fb08d537dbf230"
     },
     {
@@ -201,7 +201,7 @@
             "type": 3,
             "api": "csp_SuBaiBai",
             "playerType": 2,
-            "ext": "https://www.subaibai.com/"
+            "ext": "https://subaibai.com/"
     },
     {
       "key": "csp_Tvyb",
