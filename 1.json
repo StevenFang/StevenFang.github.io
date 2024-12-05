@@ -1,5 +1,5 @@
 {
-	"spider": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1732868600931/tounima.jar;md5;859ac4d2f96f5168819e8da09af1207d",
+	"spider": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1733384755672/bietoule.jar;md5;5f2fc61f8de0065e2878d0c16f15a56c",
 	"logo": "https://p3-pc-sign.douyinpic.com/tos-cn-i-0813c001/oEb9EAiMhR67DA00fZCpIXMigA8LAkAI9enDAD~tplv-dy-aweme-images-v2:3000:3000:q75.webp?biz_tag=aweme_images&from=327834062&s=PackSourceEnum_SEARCH&sc=image&se=false&x-expires=1727452800&x-signature=Q6AiH8FOO86OfzLFvuUZpJbsV4s%3D",
 	"wallpaper": "https://bing.img.run/uhd.php",
 	"sites": [{
@@ -124,6 +124,15 @@
 			"ext": ""
 		},
 		{
+			"key": "csp_Wwys",
+			"name": "👨农民┃1080P",
+			"type": 3,
+			"playerType": 2,
+			"changeable": 0,
+			"api": "csp_Wwys",
+			"ext": "https://www.wwgz.cn/"
+		},
+		{
 			"key": "csp_XSX",
 			"name": "👀视讯┃1080P",
 			"type": 3,
@@ -162,22 +171,18 @@
 			"changeable": 0
 		},
 		{
-			"key": "天天",
-			"name": "☁️天天┃1080P",
+			"key": "csp_MiTuApp",
+			"name": "🐰米兔┃1080P",
 			"type": 3,
-			"api": "csp_TTian",
-			"playerType": 2,
-			"ext": "baHR0cDovL29wLnlzZHFqcy5jbg==",
-			"jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1732107398295/qj.jar;md5;68959abc51dbfcba14fb08d537dbf230"
+			"api": "csp_MiTuApp",
+			"ext": "ewogICAgICAgICJ1cmwiOiAiaHR0cHM6Ly9reTEwODAudG9wIiwKICAgICAgICAiZGF0YUtleSI6ICJlNTlkNDRiMmVlZjAzYmEyIiwKICAgICAgICAiZGF0YUl2IjogImU1OWQ0NGIyZWVmMDNiYTIiLAogICAgICAgICJkZXZpY2VJZCI6ICIyMzgxM2IxNWJmN2JkMzU5Y2I4ZDMyZjlkMDI4NjI0NGMiCiAgfQ=="
 		},
 		{
-			"key": "🌟客星",
-			"name": "🌟客星┃1080P",
+			"key": "csp_电影",
+			"name": "🎬电影┃1080P",
 			"type": 3,
-			"api": "csp_Xdai",
-			"playerType": 2,
-			"ext": "caHR0cHM6Ly9zYzEwODAudG9wfGU1OWQ0NGIyZWVmMDNiYTJ8ZTU5ZDQ0YjJlZWYwM2JhMg==",
-			"jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1732107398295/qj.jar;md5;68959abc51dbfcba14fb08d537dbf230"
+			"api": "csp_MiTuApp",
+			"ext": "ewogICAgICAgICJ1cmwiOiAiaHR0cHM6Ly9hcGlhcHBkeXl6dHZ5eWRzcXdkeS42OC5neTo1Njg5IiwKICAgICAgICAiZGF0YUtleSI6ICJkeXl6dHZhcGlhcHB5eWRzIiwKICAgICAgICAiZGF0YUl2IjogImR5eXp0dmFwaWFwcHl5ZHMiLAogICAgICAgICJkZXZpY2VJZCI6ICIyMzgxM2IxNWJmN2JkMzU5Y2I4ZDMyZjlkMDI4NjI0NGMiCiAgICAgIH0="
 		},
 		{
 			"key": "zhaixing",
@@ -185,15 +190,6 @@
 			"type": 3,
 			"api": "csp_AppZX",
 			"playerType": 2
-		},
-		{
-			"key": "熊猫",
-			"name": "🐈熊猫┃1080P",
-			"type": 3,
-			"api": "csp_Xdai",
-			"playerType": 2,
-			"ext": "caHR0cDovL2dldGFwcC50dnliYXBwLmNvbXxtaWNrMjQ1OG1pY2syNDU4fG1pY2syNDU4bWljazI0NTg=",
-			"jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1732107398295/qj.jar;md5;68959abc51dbfcba14fb08d537dbf230"
 		},
 		{
 			"key": "csp_zhufan",
@@ -220,7 +216,6 @@
 			"filterable": 1,
 			"ext": ""
 		},
-
 		{
 			"key": "hipy_js_腾云驾雾[官]",
 			"name": "🌞腾腾┃解析",
@@ -256,30 +251,6 @@
 			"playerType": 2,
 			"filterable": 1
 		},
-
-		{
-			"key": "csp_Czsapp",
-			"name": "🏭厂长┃1080P",
-			"type": 3,
-			"api": "csp_Czsapp",
-			"playerType": 2,
-			"ext": "http://www.czzyvideo.com"
-		},
-		{
-			"key": "csp_饭团",
-			"name": "🍙饭团┃1080P",
-			"type": 3,
-			"searchable": 1,
-			"changeable": 1,
-			"api": "csp_Fantuan",
-			"playerType": 2,
-			"filterable": 1,
-			"click": "document.querySelector(\"#playleft iframe\").contentWindow.document.querySelector(\"#start\").click();",
-			"ext": "https://fantuan.vip/"
-		},
-
-
-
 		{
 			"key": "荐片",
 			"name": "🍭荐片┃磁力",
@@ -287,15 +258,6 @@
 			"type": 3,
 			"playerType": "1",
 			"ext": "http://api2.rinhome.com"
-		},
-		{
-			"key": "csp_Wwys",
-			"name": "🐶汪汪┃1080P",
-			"type": 3,
-			"playerType": 2,
-			"changeable": 0,
-			"api": "csp_Wwys",
-			"ext": "https://www.wwgz.cn/"
 		},
 		{
 			"key": "csp_FirstAid",
