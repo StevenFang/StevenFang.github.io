@@ -26,10 +26,10 @@
 			"filterable": 1,
 			"ext": {
 				"site_urls": [
-					"https://woggpan.333232.xyz/",
-					"https://wogg.xxooo.cf/",
-					"https://woggapi.888484.xyz/",
-					"https://www.wogg.net"
+					"http://woggpan.333232.xyz/",
+					"http://wogg.xxooo.cf/",
+					"http://woggapi.888484.xyz/",
+					"http://www.wogg.net"
 				],
 				"threadinfo": {
 					"chunksize": 450,
