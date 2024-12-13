@@ -11,7 +11,7 @@
 		},
 		{
 			"key": "配置",
-			"name": "🔧️网盘┃配置4K 修复弹窗 夸夸非会员3G可播",
+			"name": "️⚙️网盘┃配置4K 修复弹窗 夸夸非会员3G可播",
 			"type": 3,
 			"changeable": 0,
 			"searchable": 0,
@@ -80,7 +80,7 @@
 		},
 		{
 			"key": "米搜",
-			"name": "🌾米搜┃4K4K",
+			"name": "🔍米搜┃4K4K",
 			"type": 3,
 			"api": "csp_MiSou",
 			"changeable": 0
@@ -114,7 +114,7 @@
 		},
 		{
 			"key": "csp_JPYY",
-			"name": "🥇文采┃1080P",
+			"name": "🚗文采┃1080P",
 			"type": 3,
 			"searchable": 1,
 			"changeable": 1,
@@ -193,7 +193,7 @@
 		},
 		{
 			"key": "csp_zhufan",
-			"name": "🚗追饭┃1080P",
+			"name": "🍚追饭┃1080P",
 			"searchable": 1,
 			"quickSearch": 1,
 			"type": 3,
@@ -218,7 +218,7 @@
 		},
 		{
 			"key": "hipy_js_腾云驾雾[官]",
-			"name": "🌞腾腾┃解析",
+			"name": "🐧腾腾┃1080P",
 			"type": 3,
 			"api": "https://gitee.com/zj521jj/little-tiger-spot/raw/master/drpy_libs/drpy2.min.js",
 			"searchable": 1,
@@ -230,7 +230,7 @@
 		},
 		{
 			"key": "guoguo",
-			"name": "🌞果果┃解析",
+			"name": "🥭果果┃4K4K",
 			"type": 3,
 			"api": "https://gitee.com/zj521jj/little-tiger-spot/raw/master/drpy_libs/drpy2.min.js",
 			"searchable": 1,
