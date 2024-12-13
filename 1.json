@@ -322,8 +322,8 @@
 		},
 		{
 			"name": "反弹",
-			"type": 0,
-			"url": "https://jx.hls.one/?url=",
+			"type": 1,
+			"url": "https://150.138.78.37:4399/api?key=2b879e7ecc09a112c1d9f85c42967aca&url=",
 			"ext": {
 				"flag": [
 					"qq",
