@@ -123,6 +123,13 @@
 			"filterable": 1,
 			"ext": ""
 		},
+        {
+            "key": "csp_Xlys",
+            "name": "🍤哔嘀┃1080P",
+            "api": "csp_Xlys",
+            "type": 3,
+            "playerType": 2
+        },
 		{
 			"key": "csp_Wwys",
 			"name": "👨农民┃1080P",
@@ -185,26 +192,20 @@
 			"ext": "ewogICAgICAgICJ1cmwiOiAiaHR0cHM6Ly9hcGlhcHBkeXl6dHZ5eWRzcXdkeS42OC5neTo1Njg5IiwKICAgICAgICAiZGF0YUtleSI6ICJkeXl6dHZhcGlhcHB5eWRzIiwKICAgICAgICAiZGF0YUl2IjogImR5eXp0dmFwaWFwcHl5ZHMiLAogICAgICAgICJkZXZpY2VJZCI6ICIyMzgxM2IxNWJmN2JkMzU5Y2I4ZDMyZjlkMDI4NjI0NGMiCiAgICAgIH0="
 		},
 		{
-			"key": "zhaixing",
-			"name": "✨摘星┃1080P",
-			"type": 3,
-			"api": "csp_AppZX",
-			"playerType": 2
-		},
-		{
-			"key": "csp_zhufan",
-			"name": "🍚追饭┃1080P",
-			"searchable": 1,
-			"quickSearch": 1,
-			"type": 3,
-			"api": "csp_MiTo",
-			"ext": {
-				"url": "http://xiafan.zhuiju666.com",
-				"dataKey": "aassddwwxxllsx1x",
-				"playKey": "bbssqdbbssll25sx",
-				"version": "1.1.0"
-			}
-		},
+            "key": "csp_zhufan",
+            "name": "🍚追饭┃1080P",
+            "searchable": 1,
+            "quickSearch": 1,
+            "type": 3,
+            "api": "csp_MiTo",
+            "ext": {
+                "url": "http://103.88.35.251:8989",
+                "dataKey": "aassddwwxxllsx1x",
+                "playKey": "bbssqdbbssll25sx",
+                "version": "2.1.0"
+            }
+        },
+		
 		{
 			"key": "csp_LiteApple",
 			"name": "🍎苹果┃1080P",
