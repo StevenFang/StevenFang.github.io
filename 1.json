@@ -178,6 +178,13 @@
 			"changeable": 0
 		},
 		{
+			"key": "csp_南瓜",
+			"name": "🎃南瓜┃1080P",
+			"type": 3,
+			"api": "csp_MiTuApp",
+			"ext": "ewogICAgICAgICJ1cmwiOiAiaHR0cDovLzExMS4xODAuMjA2LjEyNzozMzAiLAogICAgICAgICJkYXRhS2V5IjogInZhM2hmNzkzbjNDRmR2RlMiLAogICAgICAgICJkYXRhSXYiOiAidmEzaGY3OTNuM0NGZHZGUyIsCiAgICAgICAgImRldmljZUlkIjogIjIzODEzYjE1YmY3YmQzNTljYjhkMzJmOWQwMjg2MjQ0YyIKICB9"
+		},
+		{
 			"key": "csp_MiTuApp",
 			"name": "🐰米兔┃1080P",
 			"type": 3,
