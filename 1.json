@@ -79,6 +79,13 @@
 			}
 		},
 		{
+			"key": "小怡",
+			"name": "🔍怡搜┃4K4K",
+			"type": 3,
+			"api": "csp_XiaoYi",
+			"changeable": 0
+		},
+		{
 			"key": "米搜",
 			"name": "🔍米搜┃4K4K",
 			"type": 3,
