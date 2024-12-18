@@ -18,6 +18,14 @@
 			"api": "csp_Config"
 		},
 		{
+			"key": "csp_SuBaiBai",
+			"name": "☁️白白┃1080P",
+			"type": 3,
+			"api": "csp_SuBaiBai",
+			"playerType": 2,
+			"ext": "https://subaibai.com/"
+		},
+		{
 			"key": "csp_Wogg",
 			"name": "🧸玩偶┃4K4K",
 			"type": 3,
@@ -59,6 +67,13 @@
 			}
 		},
 		{
+			"key": "小怡",
+			"name": "🔍怡搜┃4K4K",
+			"type": 3,
+			"api": "csp_XiaoYi",
+			"changeable": 0
+		},
+		{
 			"key": "csp_UC",
 			"name": "💌MIUC┃4K4K",
 			"type": 3,
@@ -79,33 +94,11 @@
 			}
 		},
 		{
-			"key": "小怡",
-			"name": "🔍怡搜┃4K4K",
-			"type": 3,
-			"api": "csp_XiaoYi",
-			"changeable": 0
-		},
-		{
 			"key": "米搜",
 			"name": "🔍米搜┃4K4K",
 			"type": 3,
 			"api": "csp_MiSou",
 			"changeable": 0
-		},
-		{
-			"key": "csp_Bili",
-			"name": "🆎哔哩┃哔哩",
-			"type": 3,
-			"api": "csp_Bili",
-			"playerType": 2,
-			"ext": {
-				"json": "https://drive.almondcloud.cn/f/odVjUB/bili.json",
-				"cookie": ""
-			},
-			"style": {
-				"type": "rect",
-				"ratio": 1.333
-			}
 		},
 		{
 			"key": "88看球",
@@ -157,14 +150,6 @@
 			"playerType": 2,
 			"filterable": 1,
 			"ext": ""
-		},
-		{
-			"key": "csp_SuBaiBai",
-			"name": "☁️白白┃1080P",
-			"type": 3,
-			"api": "csp_SuBaiBai",
-			"playerType": 2,
-			"ext": "https://subaibai.com/"
 		},
 		{
 			"key": "huohuo",
@@ -219,7 +204,6 @@
                 "version": "2.1.0"
             }
         },
-		
 		{
 			"key": "csp_LiteApple",
 			"name": "🍎苹果┃1080P",
@@ -267,25 +251,27 @@
 			"filterable": 1
 		},
 		{
+			"key": "csp_Bili",
+			"name": "🆎哔哩┃哔哩",
+			"type": 3,
+			"api": "csp_Bili",
+			"playerType": 2,
+			"ext": {
+				"json": "https://drive.almondcloud.cn/f/odVjUB/bili.json",
+				"cookie": ""
+			},
+			"style": {
+				"type": "rect",
+				"ratio": 1.333
+			}
+		},
+		{
 			"key": "荐片",
 			"name": "🍭荐片┃磁力",
 			"api": "csp_Jianpian",
 			"type": 3,
 			"playerType": "1",
 			"ext": "http://api2.rinhome.com"
-		},
-		{
-			"key": "csp_FirstAid",
-			"name": "🍧急救┃教学",
-			"type": 3,
-			"api": "csp_FirstAid",
-			"searchable": 0,
-			"quickSearch": 0,
-			"style": {
-				"type": "rect",
-				"ratio": 3.8
-			},
-			"gridview": "0-0-4.1"
 		},
 		{
 			"key": "push_agent",
@@ -338,7 +324,7 @@
 		{
 			"name": "反弹",
 			"type": 1,
-			"url": "https://150.138.78.37:4399/api?key=2b879e7ecc09a112c1d9f85c42967aca&url=",
+			"url": "http://110.40.85.39:81/jxxx/api.php?url=",
 			"ext": {
 				"flag": [
 					"qq",
@@ -395,22 +381,9 @@
 		}
 	],
 	"lives": [{
-			"name": "IPV4若卡顿切IPV6",
+			"name": "IPV6",
 			"type": 0,
-			"url": "https://ghp.ci/raw.githubusercontent.com/MemoryCollection/IPTV/refs/heads/main/itvlist.txt",
-			"playerType": 1,
-			"logo": "https://live.fanmingming.com/tv/{name}.png"
-		},
-		{
-			"name": "IPV6①",
-			"type": 0,
-			"url": "https://ghp.ci/https://raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/m3u/ipv6.m3u",
-			"playerType": 1
-		},
-		{
-			"name": "IPV6②",
-			"type": 0,
-			"url": "https://ghp.ci/https://raw.githubusercontent.com/wwb521/live/main/tv.m3u",
+			"url": "https://live.fanmingming.com/tv/m3u/ipv6.m3u",
 			"playerType": 1,
 			"logo": "https://live.fanmingming.com/tv/{name}.png"
 		},
