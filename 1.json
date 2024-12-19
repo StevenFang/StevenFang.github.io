@@ -183,13 +183,7 @@
 			"api": "csp_MiTuApp",
 			"ext": "ewogICAgICAgICJ1cmwiOiAiaHR0cHM6Ly9reTEwODAudG9wIiwKICAgICAgICAiZGF0YUtleSI6ICJlNTlkNDRiMmVlZjAzYmEyIiwKICAgICAgICAiZGF0YUl2IjogImU1OWQ0NGIyZWVmMDNiYTIiLAogICAgICAgICJkZXZpY2VJZCI6ICIyMzgxM2IxNWJmN2JkMzU5Y2I4ZDMyZjlkMDI4NjI0NGMiCiAgfQ=="
 		},
-			{
-			"key": "csp_renrne",
-			"name": "🥵人人┃1080P",
-			"type": 3,
-			"api": "csp_MiTuApp",
-			"ext": "ewogICAgICAgICJ1cmwiOiAiaHR0cDovLzExMS4xODAuMjAzLjE2NToxOTE5MCIsCiAgICAgICAgImRhdGFLZXkiOiAiRjUxRjVENTJEMjNDQkYyNyIsCiAgICAgICAgImRhdGFJdiI6ICJGNTFGNUQ1MkQyM0NCRjI3IiwKICAgICAgICAiZGV2aWNlSWQiOiAiMmNmNzM4ZWE2YmFjOTM2NmZiNjE1MDdmMDc5MTYwZTVjIgogIH0="
-		},
+		
 		{
 			"key": "csp_电影",
 			"name": "🎬电影┃1080P",
