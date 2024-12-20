@@ -381,7 +381,22 @@
 			}
 		}
 	],
-	"lives": [{
+	"lives": [
+	    {
+			"name": "央卫",
+			"type": 0,
+			"url": "https://livetv.wqwqwq.sbs/tv.m3u",
+			"playerType": 1,
+			"logo": "https://live.fanmingming.com/tv/{name}.png"
+		},
+	    {
+			"name": "4GTV",
+			"type": 0,
+			"url": "https://tvv.wqwqwq.sbs/iptv.m3u",
+			"playerType": 1,
+			"logo": "https://live.fanmingming.com/tv/{name}.png"
+		},
+	    {
 			"name": "IPV6",
 			"type": 0,
 			"url": "https://live.fanmingming.com/tv/m3u/ipv6.m3u",
