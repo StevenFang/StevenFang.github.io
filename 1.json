@@ -192,30 +192,11 @@
             "ext": "s1/kf8dfHZAgs5H4ledT0gNpK7vQhd67t79FMOlp/3hon97gPN02BO+erk3EBCNXM6SamStX8E1N/eOSW8iHnh/V/WWXQik712AKDkDyClacr4JX917KX00fvnFi+PAJCJmEjfkTIInNogcntp+7cErzTorQY87aZkXQz64jcMNBTxpU+OGhfwZ2WqemvRRoQcF3TRFQdK9yVcAPrcKlPHxNivbPun5GntvfOIbWqYyWQSzU7f8y5TSHoXNt3Ag7WpEtt5DdeFwKFlYQ/RcwUw=="
         },
         {
-      "key": "csp_MiTo",
-      "name": "🚗MITO┃1080P",
-      "type": 3,
-      "api": "csp_MiTo",
-      "ext": {
-        "url": "http://mito.minotv.cn",
-        "dataKey": "aassddwwxxllsx1x",
-        "playKey": "bbssqdbbssll25sx",
-        "version": "1.6.0"
-      }
-    },
-		{
-            "key": "csp_zhufan",
-            "name": "🍚追饭┃1080P",
-            "searchable": 1,
-            "quickSearch": 1,
+            "key": "csp_良人",
+            "name": "👨良人┃1080P",
             "type": 3,
-            "api": "csp_MiTo",
-            "ext": {
-                "url": "http://103.88.35.251:8989",
-                "dataKey": "aassddwwxxllsx1x",
-                "playKey": "bbssqdbbssll25sx",
-                "version": "2.1.0"
-            }
+            "api": "csp_MiTuApp",
+            "ext": "sHR2rlsfjI4L3t4RXQMknzkBg7Vkp4iTNqyeosAJpHnw6roDAjVKHwM/MZzlXynRCKNQf+PEtIE3pKftvdy035HammwEvPJdXnu53vPsiVjInePtgdaIgmcH8QzBLPlDKW1pNMfczNnMzBOp9pYad354sdlKgFnUBsFuy5KfTh6NymaocNlwJqN85IfMUV4M"
         },
 		{
 			"key": "csp_LiteApple",
