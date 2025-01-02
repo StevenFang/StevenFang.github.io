@@ -1,5 +1,5 @@
 {
-	"spider": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1735790120624/250102.jar",
+	"spider": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1735808055188/xiaom250102.jar;md5;a3df7f0e4c407a28548fdc68b5e213b6",
 	"logo": "https://p3-pc-sign.douyinpic.com/tos-cn-i-0813c001/oEb9EAiMhR67DA00fZCpIXMigA8LAkAI9enDAD~tplv-dy-aweme-images-v2:3000:3000:q75.webp?biz_tag=aweme_images&from=327834062&s=PackSourceEnum_SEARCH&sc=image&se=false&x-expires=1727452800&x-signature=Q6AiH8FOO86OfzLFvuUZpJbsV4s%3D",
 	"wallpaper": "https://bing.img.run/uhd.php",
 	"sites": [{
@@ -139,6 +139,12 @@
 			"type": 3,
 			"playerType": 2
 		},
+		 {
+            "key": "csp_qiyou",
+            "name": "🎮骑友┃1080P",
+            "type": 3,
+            "api": "csp_Qiyou"
+        },
 		{
 			"key": "csp_Wwys",
 			"name": "👨农民┃1080P",
@@ -167,14 +173,6 @@
 			"type": 3,
 			"searchable": 1,
 			"api": "csp_Fantuan"
-		},
-		{
-			"key": "huohuo",
-			"name": "💥火火┃1080P",
-			"type": 3,
-			"searchable": 1,
-			"changeable": 0,
-			"api": "csp_SaoHuo"
 		},
 		{
 			"key": "瓜子",
@@ -206,17 +204,12 @@
 			"ext": "s1/kf8dfHZAgs5H4ledT0gNpK7vQhd67t79FMOlp/3hon97gPN02BO+erk3EBCNXM6SamStX8E1N/eOSW8iHnh/V/WWXQik712AKDkDyClacr4JX917KX00fvnFi+PAJCJmEjfkTIInNogcntp+7cErzTorQY87aZkXQz64jcMNBTxpU+OGhfwZ2WqemvRRoQcF3TRFQdK9yVcAPrcKlPHxNivbPun5GntvfOIbWqYyWQSzU7f8y5TSHoXNt3Ag7WpEtt5DdeFwKFlYQ/RcwUw=="
 		},
 		{
-            "key": "csp_MiTo",
-            "name": "🚗MITO┃1080P",
+            "key": "csp_DUODUO",
+            "name": "💨多多┃1080P",
             "type": 3,
-            "searchable": 1,
-            "api": "csp_MiTo",
-            "ext": {
-                "url": "http://mito.minotv.cn",
-                "dataKey": "aassddwwxxllsx1x",
-                "playKey": "bbssqdbbssll25sx",
-                "version": "1.6.0"
-            }
+            "quickSearch": 0,
+            "api": "csp_MiTuApp",
+            "ext": "sHR2rlsfjI4L3t4RXQMkn6HTjU76bdvB3up+9CiGGVZHR3fM8KlJPXSneStHrC+DgWIxl9G+rM70oCwdQkorhrIzUoY/hqgTn/n8VXBDfMYYJQXjRv4wnyIB9zbV+McOQuf9XquqTIYCrvZq2K/XN8gy3u6uGRNLRlVrwt2esQ5pwE+Y8C3ts7ivRub9bEpuB7nN4tthfe6L4f4RdQDHpA=="
         },
 		{
 			"key": "csp_良人",
@@ -255,6 +248,17 @@
 			"changeable": 1,
 			"quickSearch": 1,
 			"api": "https://drive.almondcloud.cn/f/q3JKT9/shijue.py",
+			"playerType": 2,
+			"filterable": 1
+		},
+		{
+			"key": "csp_猎手",
+			"name": "💰猎手┃PYTHON",
+			"type": 3,
+			"searchable": 1,
+			"changeable": 1,
+			"quickSearch": 1,
+			"api": "https://drive.almondcloud.cn/f/mnyRt1/py_%E7%94%B5%E5%BD%B1%E7%8C%8E%E6%89%8B.py",
 			"playerType": 2,
 			"filterable": 1
 		},
