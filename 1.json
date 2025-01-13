@@ -1,5 +1,5 @@
 {
-	"spider": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1736146321637/ts0106.jar;md5;0e4c32257d0d98c00c8552b4d3365f51",
+	"spider": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1736752647017/0113-4.jar;md5;6bd68323863c83157d6bf539faccacd4",
 	"logo": "https://p3-pc-sign.douyinpic.com/tos-cn-i-0813c001/oEb9EAiMhR67DA00fZCpIXMigA8LAkAI9enDAD~tplv-dy-aweme-images-v2:3000:3000:q75.webp?biz_tag=aweme_images&from=327834062&s=PackSourceEnum_SEARCH&sc=image&se=false&x-expires=1727452800&x-signature=Q6AiH8FOO86OfzLFvuUZpJbsV4s%3D",
 	"wallpaper": "https://bing.img.run/uhd.php",
 	"sites": [{
@@ -28,7 +28,7 @@
 		},
 		{
 			"key": "csp_Wogg",
-			"name": "🧸玩偶┃4K4K",
+			"name": "🧸玩偶┃4K弹幕",
 			"type": 3,
 			"api": "csp_Wogg",
 			"changeable": 0,
@@ -49,7 +49,7 @@
 		},
 		{
 			"key": "csp_Netfixtv",
-			"name": "💯至臻┃4K4K",
+			"name": "💯至臻┃4K弹幕",
 			"type": 3,
 			"api": "csp_Duopan",
 			"changeable": 0,
@@ -79,7 +79,7 @@
 		},
 		{
 			"key": "csp_UC",
-			"name": "💌UCUC┃4K4K",
+			"name": "💌UCUC┃4K弹幕",
 			"type": 3,
 			"searchable": 1,
 			"api": "csp_Duopan",
@@ -154,18 +154,6 @@
 			"changeable": 0,
 			"api": "csp_Wwys",
 			"ext": "https://www.wwgz.cn/"
-		},
-		{
-			"key": "csp_XSX",
-			"name": "👀视讯┃1080P",
-			"type": 3,
-			"searchable": 1,
-			"changeable": 1,
-			"quickSearch": 1,
-			"api": "csp_Xsx",
-			"playerType": 2,
-			"filterable": 1,
-			"ext": ""
 		},
 		{
 			"key": "csp_Fantuan",
