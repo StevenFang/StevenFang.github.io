@@ -27,8 +27,8 @@
 			"ext": "https://www.subaibaiys.com/"
 		},
 		{
-            "key": "guoguo",
-            "name": "🥭果果┃4K4K",
+            "key": "guoguo1",
+            "name": "🥭文采┃1080P",
             "type": 3,
             "api": "https://gitee.com/zj521jj/little-tiger-spot/raw/master/drpy_libs/drpy2.min.js",
             "searchable": 1,
@@ -131,17 +131,6 @@
 			"order_num": 0,
 			"changeable": 0,
 			"ext": "https://gitee.com/smallmi1007/mimi/raw/master/kanqiu.js"
-		},
-		{
-			"key": "csp_JPYY",
-			"name": "🚗文采┃1080P",
-			"type": 3,
-			"searchable": 1,
-			"changeable": 1,
-			"api": "csp_Jpyy",
-			"playerType": 2,
-			"filterable": 1,
-			"ext": ""
 		},
 		{
 			"key": "csp_Xlys",
