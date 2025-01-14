@@ -27,6 +27,18 @@
 			"ext": "https://www.subaibaiys.com/"
 		},
 		{
+            "key": "guoguo",
+            "name": "🥭果果┃4K4K",
+            "type": 3,
+            "api": "https://gitee.com/zj521jj/little-tiger-spot/raw/master/drpy_libs/drpy2.min.js",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "order_num": 0,
+            "changeable": 0,
+            "ext": "https://gitee.com/smallmi1007/mimi/raw/master/wencai.js"
+        },
+		{
 			"key": "csp_Wogg",
 			"name": "🧸玩偶┃4K弹幕",
 			"type": 3,
