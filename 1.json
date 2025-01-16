@@ -1,8 +1,9 @@
 {
-	"spider": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1736752647017/0113-4.jar;md5;6bd68323863c83157d6bf539faccacd4",
+	"spider": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1736998904961/0116.jar;md5;5d55d1e0bf4079bc9591d2ce641a9959",
 	"logo": "https://p3-pc-sign.douyinpic.com/tos-cn-i-0813c001/oEb9EAiMhR67DA00fZCpIXMigA8LAkAI9enDAD~tplv-dy-aweme-images-v2:3000:3000:q75.webp?biz_tag=aweme_images&from=327834062&s=PackSourceEnum_SEARCH&sc=image&se=false&x-expires=1727452800&x-signature=Q6AiH8FOO86OfzLFvuUZpJbsV4s%3D",
 	"wallpaper": "https://bing.img.run/uhd.php",
-	"sites": [{
+	"sites": [
+	    {
 			"key": "豆瓣",
 			"name": "🌈豆瓣┃新年快乐：接口已移交开源平台 请测试完删除处理",
 			"type": 3,
@@ -140,12 +141,6 @@
 			"type": 3,
 			"playerType": 2
 		},
-		 {
-            "key": "csp_qiyou",
-            "name": "🎮骑友┃1080P",
-            "type": 3,
-            "api": "csp_Qiyou"
-        },
 		{
 			"key": "csp_Wwys",
 			"name": "👨农民┃1080P",
@@ -157,12 +152,21 @@
 			"ext": "https://www.wwgz.cn/"
 		},
 		{
-			"key": "csp_Fantuan",
-			"name": "🍙饭团┃1080P",
-			"type": 3,
-			"searchable": 1,
-			"api": "csp_Fantuan"
-		},
+            "key": "csp_AppDrama",
+            "name": "👓视觉┃1080P",
+            "type": 3,
+            "quickSearch": 0,
+            "api": "csp_AppDrama",
+            "ext": "ATzdJTBzsnKvrQ2L6AKDQnBAHhw+jLmU9mdwIkKtWE5l9ZOw779POW3bGR53SGnj6Z9ZqlLYLUWxTlAwGD5P0CQxwMd3/os57BQg2fWEVlKLgIz2jj9ZfGYcdeHa6TNAohp5oS6k6U9ickpr69Y3xYxIrxwADs1UqNZBakDxid+YOx9hzCJYy3/Svo2+4HH4+rh7MMhtJMMUz1+GWl7CYBgk/Qqs280Sjjw2D31D/8U="
+        },
+        {
+            "key": "csp_AppDrama2",
+            "name": "🐯虎虎┃1080P",
+            "type": 3,
+            "quickSearch": 0,
+            "api": "csp_AppDrama",
+            "ext": "dZyf/FE+KyNozU1BJTipIlQwV9Exzgodak8HaPQS3+zONEYCA2iEg3LraoCo2u5+6rn3VmrCG6H/XvFKSMzGrev5JV2DZOVsAQxLXRNRbxFUFKM1SEJpngJgi7Fj/n1DfJU3XaJt/aV+5tEC4C+/K7Bx/k1Kz08b1iyW0f8Ghf/NH5BnTsoFeiXrPUjRIyi1oIQh1RUF0aQHwI/DPqGAMHE+KK9efsb7FTDKW7TXastSWVcfpizheTXfXFdRtX+qjWkii8PMPPizDUAlTR3Ptg=="
+        },
 		{
 			"key": "瓜子",
 			"name": "🍉瓜子┃1080P",
@@ -236,28 +240,6 @@
 			"playerType": 1,
 			"filterable": 1,
 			"ext": ""
-		},
-		{
-			"key": "csp_视觉",
-			"name": "🔭视觉┃PYTHON",
-			"type": 3,
-			"searchable": 1,
-			"changeable": 1,
-			"quickSearch": 1,
-			"api": "https://drive.almondcloud.cn/f/q3JKT9/shijue.py",
-			"playerType": 2,
-			"filterable": 1
-		},
-		{
-			"key": "csp_猎手",
-			"name": "💰猎手┃PYTHON",
-			"type": 3,
-			"searchable": 1,
-			"changeable": 1,
-			"quickSearch": 1,
-			"api": "https://drive.almondcloud.cn/f/mnyRt1/py_%E7%94%B5%E5%BD%B1%E7%8C%8E%E6%89%8B.py",
-			"playerType": 2,
-			"filterable": 1
 		},
 		{
 			"key": "csp_LaoBaiBook",
