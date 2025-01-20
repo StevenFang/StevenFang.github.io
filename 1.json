@@ -186,10 +186,10 @@
 			"type": 3,
 			"api": "csp_MiTo",
 			"ext": {
-				"url": "http://mito.minotv.cn",
+				"url": "http://mito.minotv.cn/",
 				"dataKey": "aassddwwxxllsx1x",
 				"playKey": "bbssqdbbssll25sx",
-				"version": "2.3.0"
+				"version": "2.2.0"
 			}
 		},
 		{
