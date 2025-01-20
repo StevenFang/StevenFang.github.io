@@ -179,6 +179,20 @@
 			"changeable": 0
 		},
 		{
+			"key": "csp_minuo",
+			"name": "🍚米诺┃1080P",
+			"searchable": 1,
+			"quickSearch": 1,
+			"type": 3,
+			"api": "csp_MiTo",
+			"ext": {
+				"url": "http://mito.minotv.cn",
+				"dataKey": "aassddwwxxllsx1x",
+				"playKey": "bbssqdbbssll25sx",
+				"version": "2.3.0"
+			}
+		},
+		{
 			"key": "csp_MiTuApp",
 			"name": "🐰米兔┃1080P",
 			"type": 3,
@@ -186,6 +200,15 @@
 			"quickSearch": 1,
 			"api": "csp_MiTuApp",
 			"ext": "s1/kf8dfHZAgs5H4ledT0oVFC1n/KhNfQfc0onBTauGjjbKin/VdMFrfJlKKnt/ClccntSyJqzbI1hHzGUUmZg7v02l1fvcdAH0iCUzGlopNgnI3rkeQtAwS54GySfRT0IRokasLwr5Rr6pm8/lTNJXMTEkq+9mzK976Dvv80seU9riYmFeBD+EBp8RzurdP02PNc0S2aZPlMbdm5yTIQfI8QeSRJGz+0AIsFOyBoPr4LDptq0AAc37KMhnWDCXF"
+		},
+		{
+			"key": "csp_yumi",
+			"name": "🌽玉米┃1080P",
+			"type": 3,
+			"searchable": 1,
+			"quickSearch": 1,
+			"api": "csp_MiTuApp",
+			"ext": "s1/kf8dfHZAgs5H4ledT0kZQrMUCI8rXw7epGjycfCXLihZ62DdR64D5LaZb2mflUmuSse7ltUts45Cnv0V0m+Q9p5c1FTbv5/VwYS81iZQ9iPiuVzdhDJiT4OVqzO9EcNMTbM+1exEw9intRaaLaMowD73KzX67Lirwk1OCQ8YkKMiLo1yfBhjQxArXGH4Ssyej7fNkVkhwbnzjqyhQ4Hqp3TjYKadLoxHfqROzhLY="
 		},
 		{
 			"key": "csp_电影",
