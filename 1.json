@@ -211,6 +211,15 @@
 			"ext": "0YM2rlqPCLd5eMAslwMf/pkq/uUsA1uF3B25joY8JATIek3vhcdq9bMZ2NSRsZoHPWXfN0mYboypozT7qBZNw3dp/7SJL9zC7D6+VYxoNFI9F9KOs5FOj0L8CBPgIi9Q32p+zn/Qy1wkQ4F9bd6OE3+L3q8exNFplavF97PuAt4RjLnFQxxqZvmIssPYfKq0j3OzPUQU8QbeVY9y2gyignbiva/VY6FNyMiMuKlEW2E="
 		},
 		{
+			"key": "csp_xiami",
+			"name": "🦐虾米┃1080P",
+			"type": 3,
+			"searchable": 1,
+			"quickSearch": 1,
+			"api": "csp_MiTuApp",
+			"ext": "0YM2rlqPCLd5eMAslwMf/pkq/uUsA1uF3B25joY8JASvvb2Q0+hMviUWwIZZabWTLl6snUNOQLDmF0UpcL5KcA/VPEbN+BftFTiohAjUPdTV2QeDl0h6Gh7JWsFxT91JomuJsF4EZyaRmCAQROh9kd/N70AbZtF+DuLWti1k1jfQjqi9SJkyVAGqbyosFa1ZuYbyxAKSAateBYOy6J1Ke1syn8R7CP1PY/PT6Ot8KwZX1ayPEJSwp3EaaTCTcl+jdWiKbr6zbK7T1W6NFSyjqQ=="
+		},
+		{
 			"key": "csp_电影",
 			"name": "🎬电影┃1080P",
 			"type": 3,
