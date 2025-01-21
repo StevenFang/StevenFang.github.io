@@ -418,7 +418,7 @@
 		{
 			"name": "IPV6",
 			"type": 0,
-			"url": "https://live.fanmingming.com/tv/m3u/ipv6.m3u",
+			"url": "https://gh-proxy.com/raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/m3u/ipv6.m3u",
 			"playerType": 1,
 			"logo": "https://live.fanmingming.com/tv/{name}.png"
 		},
