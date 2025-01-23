@@ -1,9 +1,8 @@
 {
-	"spider": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1737601189965/0123.jar;md5;74f785658e8ab4798fd417dd44ad9809",
+	"spider": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1737615281091/0124.jar;md5;150bd645651760acb6117d0e4c14ab0d",
 	"logo": "https://p3-pc-sign.douyinpic.com/tos-cn-i-0813c001/oEb9EAiMhR67DA00fZCpIXMigA8LAkAI9enDAD~tplv-dy-aweme-images-v2:3000:3000:q75.webp?biz_tag=aweme_images&from=327834062&s=PackSourceEnum_SEARCH&sc=image&se=false&x-expires=1727452800&x-signature=Q6AiH8FOO86OfzLFvuUZpJbsV4s%3D",
 	"wallpaper": "https://xn--11x805d.xn--4kq62z5rby2qupq9ub.xyz/",
-	"sites": [
-	    {
+	"sites": [{
 			"key": "豆瓣",
 			"name": "🌈豆瓣┃新年快乐：接口已移交开源平台 请测试完删除处理",
 			"type": 3,
@@ -28,17 +27,17 @@
 			"ext": "https://www.subaibaiys.com/"
 		},
 		{
-            "key": "wencai",
-            "name": "🥭文采┃1080P",
-            "type": 3,
-            "api": "csp_Jpys",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "order_num": 0,
-            "changeable": 0,
-            "ext": "https://www.hkybqufgh.com"
-        },
+			"key": "wencai",
+			"name": "🥭文采┃1080P",
+			"type": 3,
+			"api": "csp_Jpys",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1,
+			"order_num": 0,
+			"changeable": 0,
+			"ext": "https://www.hkybqufgh.com"
+		},
 		{
 			"key": "csp_Wogg",
 			"name": "🧸玩偶┃4K弹幕",
@@ -143,12 +142,12 @@
 			"type": 3,
 			"playerType": 2
 		},
-		 {
-            "key": "csp_Wetv",
-            "name": "🚗尘落┃1080P",
-            "type": 3,
-            "api": "csp_Wetv"
-        },
+		{
+			"key": "csp_Wetv",
+			"name": "🚗尘落┃1080P",
+			"type": 3,
+			"api": "csp_Wetv"
+		},
 		{
 			"key": "csp_Wwys",
 			"name": "👨农民┃1080P",
@@ -161,21 +160,21 @@
 			"ext": "https://www.wwgz.cn/"
 		},
 		{
-            "key": "csp_AppDrama",
-            "name": "👓视觉┃1080P",
-            "type": 3,
-            "quickSearch": 1,
-            "api": "csp_AppDrama",
-            "ext": "ATzdJTBzsnKvrQ2L6AKDQnBAHhw+jLmU9mdwIkKtWE5l9ZOw779POW3bGR53SGnj6Z9ZqlLYLUWxTlAwGD5P0CQxwMd3/os57BQg2fWEVlKLgIz2jj9ZfGYcdeHa6TNAohp5oS6k6U9ickpr69Y3xYxIrxwADs1UqNZBakDxid+YOx9hzCJYy3/Svo2+4HH4+rh7MMhtJMMUz1+GWl7CYBgk/Qqs280Sjjw2D31D/8U="
-        },
-        {
-            "key": "csp_AppDrama2",
-            "name": "🐯虎虎┃1080P",
-            "type": 3,
-            "quickSearch": 1,
-            "api": "csp_AppDrama",
-            "ext": "dZyf/FE+KyNozU1BJTipIlQwV9Exzgodak8HaPQS3+zONEYCA2iEg3LraoCo2u5+6rn3VmrCG6H/XvFKSMzGrev5JV2DZOVsAQxLXRNRbxFUFKM1SEJpngJgi7Fj/n1DfJU3XaJt/aV+5tEC4C+/K7Bx/k1Kz08b1iyW0f8Ghf/NH5BnTsoFeiXrPUjRIyi1oIQh1RUF0aQHwI/DPqGAMHE+KK9efsb7FTDKW7TXastSWVcfpizheTXfXFdRtX+qjWkii8PMPPizDUAlTR3Ptg=="
-        },
+			"key": "csp_AppDrama",
+			"name": "👓视觉┃1080P",
+			"type": 3,
+			"quickSearch": 1,
+			"api": "csp_AppDrama",
+			"ext": "ATzdJTBzsnKvrQ2L6AKDQnBAHhw+jLmU9mdwIkKtWE5l9ZOw779POW3bGR53SGnj6Z9ZqlLYLUWxTlAwGD5P0CQxwMd3/os57BQg2fWEVlKLgIz2jj9ZfGYcdeHa6TNAohp5oS6k6U9ickpr69Y3xYxIrxwADs1UqNZBakDxid+YOx9hzCJYy3/Svo2+4HH4+rh7MMhtJMMUz1+GWl7CYBgk/Qqs280Sjjw2D31D/8U="
+		},
+		{
+			"key": "csp_AppDrama2",
+			"name": "🐯虎虎┃1080P",
+			"type": 3,
+			"quickSearch": 1,
+			"api": "csp_AppDrama",
+			"ext": "dZyf/FE+KyNozU1BJTipIlQwV9Exzgodak8HaPQS3+zONEYCA2iEg3LraoCo2u5+6rn3VmrCG6H/XvFKSMzGrev5JV2DZOVsAQxLXRNRbxFUFKM1SEJpngJgi7Fj/n1DfJU3XaJt/aV+5tEC4C+/K7Bx/k1Kz08b1iyW0f8Ghf/NH5BnTsoFeiXrPUjRIyi1oIQh1RUF0aQHwI/DPqGAMHE+KK9efsb7FTDKW7TXastSWVcfpizheTXfXFdRtX+qjWkii8PMPPizDUAlTR3Ptg=="
+		},
 		{
 			"key": "瓜子",
 			"name": "🍉瓜子┃1080P",
@@ -196,6 +195,7 @@
 			"api": "csp_AppMiTuV2",
 			"ext": "a9csDfOLim9GcihevDa0TAHGR2JcUV147QlTUMW3Ac6gdygxInDxxbgAG+2uryPcXkdRFNDhvXgRMfi1tONqr/0vKNtRFTysNiVb9KGm+j9PRJNlh/C5aHUacPdDpQIl5AX7ZDgyC1NO5MTVZgVMPVIkgSgWfBBBFRe9o8bLvw3egcfRA55Cvv6yNeXJEUibmrYcHiA4Wh9dPSXU3vaptDB57f4FaVvNItnEEujpb4beAiIJi0qi3Cs/UWBoB5yQX5RQdrQG/CmUdxkekRemBQMXgR5P8H8hlfwgELHAmxA="
 		},
+		    
 		{
 			"key": "csp_MiTuApp",
 			"name": "🐰米兔┃1080P",
@@ -224,14 +224,14 @@
 			"ext": "s1/kf8dfHZAgs5H4ledT0gNpK7vQhd67t79FMOlp/3hon97gPN02BO+erk3EBCNXM6SamStX8E1N/eOSW8iHnh/V/WWXQik712AKDkDyClacr4JX917KX00fvnFi+PAJCJmEjfkTIInNogcntp+7cErzTorQY87aZkXQz64jcMNBTxpU+OGhfwZ2WqemvRRoQcF3TRFQdK9yVcAPrcKlPHxNivbPun5GntvfOIbWqYyWQSzU7f8y5TSHoXNt3Ag7WpEtt5DdeFwKFlYQ/RcwUw=="
 		},
 		{
-            "key": "csp_DUODUO",
-            "name": "💨多多┃1080P",
-            "type": 3,
-            "quickSearch": 1,
-            "api": "csp_MiTuApp",
-            "ext": "sHR2rlsfjI4L3t4RXQMkn9Eir6RzAIaQXa7PAZzZhsYO7tEfOCUAO2ipKyX1sxqAYggPt4M4DNHWCnz414Yfuh19nNi3k0dkJGtsOqEQzKCgcf9wGo4XmYWuIzgVworYxXRSYBQb2oLBmTl1W7hxxhfer8LsRYZB6ALfwu2bInzh3EENDkFkaHYb1olDPUR1EqpMaZLpMW0oSOW9zzMF5WIDfKUOvd7q2bKD4uZ8/oc="
-        },
-        
+			"key": "csp_DUODUO",
+			"name": "💨多多┃1080P",
+			"type": 3,
+			"quickSearch": 1,
+			"api": "csp_MiTuApp",
+			"ext": "sHR2rlsfjI4L3t4RXQMkn9Eir6RzAIaQXa7PAZzZhsYO7tEfOCUAO2ipKyX1sxqAYggPt4M4DNHWCnz414Yfuh19nNi3k0dkJGtsOqEQzKCgcf9wGo4XmYWuIzgVworYxXRSYBQb2oLBmTl1W7hxxhfer8LsRYZB6ALfwu2bInzh3EENDkFkaHYb1olDPUR1EqpMaZLpMW0oSOW9zzMF5WIDfKUOvd7q2bKD4uZ8/oc="
+		},
+
 		{
 			"key": "csp_良人",
 			"name": "👨良人┃1080P",
@@ -250,7 +250,7 @@
 			"api": "csp_MiTuApp",
 			"ext": "sHR2rlsfjI4L3t4RXQMkn8ivSF5g8jXfhsjvizFR8ljN3AOVzpH9pr9GtPv0p/pnhxACPxmzklGulcZ5QfkGRCf6Rs7SjJmolZldAYa939+CUP8xvcjHb492E8waghkGxrtWlTiEC9t4dl/TaQf07LDUAJHsnAKfXpKlbKLXQWnAB8CtibGEXY01QAOeG3k4IaLl5w+AZDEEMHPNX5zL4bnOOk1PYBVZKZWV+DzWC9I="
 		},
-		
+
 		{
 			"key": "csp_LaoBaiBook",
 			"name": "📚听书┃BOOK",
