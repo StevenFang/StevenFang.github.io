@@ -143,6 +143,12 @@
 			"type": 3,
 			"playerType": 2
 		},
+		 {
+            "key": "csp_Wetv",
+            "name": "🚗尘落┃1080P",
+            "type": 3,
+            "api": "csp_Wetv"
+        },
 		{
 			"key": "csp_Wwys",
 			"name": "👨农民┃1080P",
