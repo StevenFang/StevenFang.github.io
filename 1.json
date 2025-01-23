@@ -1,5 +1,5 @@
 {
-	"spider": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1737293598878/0119.jar;md5;bcbb8e59d3125612721142763fb8f8d7",
+	"spider": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1737601189965/0123.jar;md5;74f785658e8ab4798fd417dd44ad9809",
 	"logo": "https://p3-pc-sign.douyinpic.com/tos-cn-i-0813c001/oEb9EAiMhR67DA00fZCpIXMigA8LAkAI9enDAD~tplv-dy-aweme-images-v2:3000:3000:q75.webp?biz_tag=aweme_images&from=327834062&s=PackSourceEnum_SEARCH&sc=image&se=false&x-expires=1727452800&x-signature=Q6AiH8FOO86OfzLFvuUZpJbsV4s%3D",
 	"wallpaper": "https://xn--11x805d.xn--4kq62z5rby2qupq9ub.xyz/",
 	"sites": [
@@ -12,7 +12,7 @@
 		},
 		{
 			"key": "配置",
-			"name": "网盘┃配置中心",
+			"name": "⚙️网盘┃配置中心",
 			"type": 3,
 			"changeable": 0,
 			"searchable": 0,
@@ -95,6 +95,7 @@
 			"name": "💌UCUC┃4K弹幕",
 			"type": 3,
 			"searchable": 1,
+			"changeable": 0,
 			"api": "csp_Duopan",
 			"filterable": 1,
 			"ext": {
@@ -127,7 +128,7 @@
 			"type": 3,
 			"api": "https://gitee.com/zj521jj/little-tiger-spot/raw/master/drpy_libs/drpy2.min.js",
 			"searchable": 0,
-			"quickSearch": 1,
+			"quickSearch": 0,
 			"filterable": 1,
 			"order_num": 0,
 			"changeable": 0,
@@ -138,6 +139,7 @@
 			"name": "🍤哔嘀┃1080P",
 			"api": "csp_Xlys",
 			"searchable": 1,
+			"quickSearch": 1,
 			"type": 3,
 			"playerType": 2
 		},
@@ -147,7 +149,8 @@
 			"type": 3,
 			"playerType": 2,
 			"searchable": 1,
-			"changeable": 0,
+			"quickSearch": 1,
+			"changeable": 1,
 			"api": "csp_Wwys",
 			"ext": "https://www.wwgz.cn/"
 		},
@@ -155,7 +158,7 @@
             "key": "csp_AppDrama",
             "name": "👓视觉┃1080P",
             "type": 3,
-            "quickSearch": 0,
+            "quickSearch": 1,
             "api": "csp_AppDrama",
             "ext": "ATzdJTBzsnKvrQ2L6AKDQnBAHhw+jLmU9mdwIkKtWE5l9ZOw779POW3bGR53SGnj6Z9ZqlLYLUWxTlAwGD5P0CQxwMd3/os57BQg2fWEVlKLgIz2jj9ZfGYcdeHa6TNAohp5oS6k6U9ickpr69Y3xYxIrxwADs1UqNZBakDxid+YOx9hzCJYy3/Svo2+4HH4+rh7MMhtJMMUz1+GWl7CYBgk/Qqs280Sjjw2D31D/8U="
         },
@@ -163,7 +166,7 @@
             "key": "csp_AppDrama2",
             "name": "🐯虎虎┃1080P",
             "type": 3,
-            "quickSearch": 0,
+            "quickSearch": 1,
             "api": "csp_AppDrama",
             "ext": "dZyf/FE+KyNozU1BJTipIlQwV9Exzgodak8HaPQS3+zONEYCA2iEg3LraoCo2u5+6rn3VmrCG6H/XvFKSMzGrev5JV2DZOVsAQxLXRNRbxFUFKM1SEJpngJgi7Fj/n1DfJU3XaJt/aV+5tEC4C+/K7Bx/k1Kz08b1iyW0f8Ghf/NH5BnTsoFeiXrPUjRIyi1oIQh1RUF0aQHwI/DPqGAMHE+KK9efsb7FTDKW7TXastSWVcfpizheTXfXFdRtX+qjWkii8PMPPizDUAlTR3Ptg=="
         },
@@ -173,24 +176,19 @@
 			"type": 3,
 			"api": "csp_Gz360",
 			"searchable": 1,
-			"quickSearch": 0,
+			"quickSearch": 1,
 			"filterable": 1,
 			"order_num": 0,
 			"changeable": 0
 		},
 		{
-			"key": "csp_minuo",
-			"name": "🍚米诺┃1080P",
+			"key": "csp_MiTuApp2",
+			"name": "🦑鱿鱼┃1080P",
+			"type": 3,
 			"searchable": 1,
 			"quickSearch": 1,
-			"type": 3,
-			"api": "csp_MiTo",
-			"ext": {
-				"url": "http://mito.minotv.cn/",
-				"dataKey": "aassddwwxxllsx1x",
-				"playKey": "bbssqdbbssll25sx",
-				"version": "2.2.0"
-			}
+			"api": "csp_AppMiTuV2",
+			"ext": "a9csDfOLim9GcihevDa0TAHGR2JcUV147QlTUMW3Ac6gdygxInDxxbgAG+2uryPcXkdRFNDhvXgRMfi1tONqr/0vKNtRFTysNiVb9KGm+j9PRJNlh/C5aHUacPdDpQIl5AX7ZDgyC1NO5MTVZgVMPVIkgSgWfBBBFRe9o8bLvw3egcfRA55Cvv6yNeXJEUibmrYcHiA4Wh9dPSXU3vaptDB57f4FaVvNItnEEujpb4beAiIJi0qi3Cs/UWBoB5yQX5RQdrQG/CmUdxkekRemBQMXgR5P8H8hlfwgELHAmxA="
 		},
 		{
 			"key": "csp_MiTuApp",
@@ -198,7 +196,7 @@
 			"type": 3,
 			"searchable": 1,
 			"quickSearch": 1,
-			"api": "csp_MiTuApp",
+			"api": "csp_AppMiTuV2",
 			"ext": "s1/kf8dfHZAgs5H4ledT0oVFC1n/KhNfQfc0onBTauGjjbKin/VdMFrfJlKKnt/ClccntSyJqzbI1hHzGUUmZg7v02l1fvcdAH0iCUzGlopNgnI3rkeQtAwS54GySfRT0IRokasLwr5Rr6pm8/lTNJXMTEkq+9mzK976Dvv80seU9riYmFeBD+EBp8RzurdP02PNc0S2aZPlMbdm5yTIQfI8QeSRJGz+0AIsFOyBoPr4LDptq0AAc37KMhnWDCXF"
 		},
 		{
@@ -209,15 +207,6 @@
 			"quickSearch": 1,
 			"api": "csp_MiTuApp",
 			"ext": "0YM2rlqPCLd5eMAslwMf/pkq/uUsA1uF3B25joY8JATIek3vhcdq9bMZ2NSRsZoHPWXfN0mYboypozT7qBZNw3dp/7SJL9zC7D6+VYxoNFI9F9KOs5FOj0L8CBPgIi9Q32p+zn/Qy1wkQ4F9bd6OE3+L3q8exNFplavF97PuAt4RjLnFQxxqZvmIssPYfKq0j3OzPUQU8QbeVY9y2gyignbiva/VY6FNyMiMuKlEW2E="
-		},
-		{
-			"key": "csp_xiami",
-			"name": "🦐虾米┃1080P",
-			"type": 3,
-			"searchable": 1,
-			"quickSearch": 1,
-			"api": "csp_MiTuApp",
-			"ext": "0YM2rlqPCLd5eMAslwMf/pkq/uUsA1uF3B25joY8JASvvb2Q0+hMviUWwIZZabWTLl6snUNOQLDmF0UpcL5KcA/VPEbN+BftFTiohAjUPdTV2QeDl0h6Gh7JWsFxT91JomuJsF4EZyaRmCAQROh9kd/N70AbZtF+DuLWti1k1jfQjqi9SJkyVAGqbyosFa1ZuYbyxAKSAateBYOy6J1Ke1syn8R7CP1PY/PT6Ot8KwZX1ayPEJSwp3EaaTCTcl+jdWiKbr6zbK7T1W6NFSyjqQ=="
 		},
 		{
 			"key": "csp_电影",
@@ -232,7 +221,7 @@
             "key": "csp_DUODUO",
             "name": "💨多多┃1080P",
             "type": 3,
-            "quickSearch": 0,
+            "quickSearch": 1,
             "api": "csp_MiTuApp",
             "ext": "sHR2rlsfjI4L3t4RXQMkn9Eir6RzAIaQXa7PAZzZhsYO7tEfOCUAO2ipKyX1sxqAYggPt4M4DNHWCnz414Yfuh19nNi3k0dkJGtsOqEQzKCgcf9wGo4XmYWuIzgVworYxXRSYBQb2oLBmTl1W7hxxhfer8LsRYZB6ALfwu2bInzh3EENDkFkaHYb1olDPUR1EqpMaZLpMW0oSOW9zzMF5WIDfKUOvd7q2bKD4uZ8/oc="
         },
@@ -273,6 +262,7 @@
 			"api": "csp_LaoBaiBook",
 			"playerType": 2,
 			"searchable": 1,
+			"quickSearch": 0,
 			"style": {
 				"type": "rect",
 				"ratio": 1.333
@@ -293,13 +283,11 @@
 				"ratio": 1.333
 			}
 		},
-		
 		{
 			"key": "push_agent",
 			"name": "接口完全免费公益性质 纯互联网搜集 杜绝未成年测试本项目｜请于24小时内删除本测试内容",
 			"type": 3,
 			"api": "csp_Push",
-			"playerType": "1",
 			"searchable": 0
 		}
 	],
@@ -314,67 +302,9 @@
 			"url": "Web"
 		},
 		{
-			"name": "解析1",
-			"type": 1,
-			"url": "https://www.mpanso.com/muou/qilin.php?url=",
-			"ext": {
-				"flag": [
-					"qq",
-					"腾讯",
-					"qiyi",
-					"爱奇艺",
-					"奇艺",
-					"youku",
-					"优酷",
-					"sohu",
-					"搜狐",
-					"letv",
-					"乐视",
-					"mgtv",
-					"芒果",
-					"tnmb",
-					"seven",
-					"bilibili",
-					"1905"
-				],
-				"header": {
-					"User-Agent": "okhttp/4.9.1"
-				}
-			}
-		},
-		{
-			"name": "反弹",
-			"type": 1,
-			"url": "http://110.40.85.39:81/jxxx/api.php?url=",
-			"ext": {
-				"flag": [
-					"qq",
-					"腾讯",
-					"qiyi",
-					"爱奇艺",
-					"奇艺",
-					"youku",
-					"优酷",
-					"sohu",
-					"搜狐",
-					"letv",
-					"乐视",
-					"mgtv",
-					"芒果",
-					"tnmb",
-					"seven",
-					"bilibili",
-					"1905"
-				],
-				"header": {
-					"User-Agent": "User-Agent:Mozilla/5.0 (Windows NT 6.2; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/27.0.1453.94 Safari/537.36"
-				}
-			}
-		},
-		{
 			"name": "1080解析",
 			"type": 1,
-			"url": "https://zy.qiaoji8.com/gouzi.php?url=",
+			"url": "",
 			"ext": {
 				"flag": [
 					"qq",
