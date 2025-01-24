@@ -133,7 +133,18 @@
 			"changeable": 0,
 			"ext": "https://gitee.com/smallmi1007/mimi/raw/master/kanqiu.js"
 		},
-
+        {
+			"key": "追剧",
+			"name": "📺追剧┃1080P",
+			"type": 3,
+			"api": "https://gitee.com/zj521jj/little-tiger-spot/raw/master/drpy_libs/drpy2.min.js",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1,
+			"order_num": 0,
+			"changeable": 0,
+			"ext": "https://gitee.com/smallmi1007/mimi/raw/master/wencai.js"
+		},
 		{
 			"key": "csp_Xlys",
 			"name": "🍤哔嘀┃1080P",
@@ -196,16 +207,6 @@
 			"changeable": 0
 		},
 		{
-			"key": "csp_MiTuApp2",
-			"name": "🦑鱿鱼┃1080P",
-			"type": 3,
-			"searchable": 1,
-			"quickSearch": 1,
-			"api": "csp_AppMiTuV2",
-			"ext": "a9csDfOLim9GcihevDa0TIz+LexHD1urVMkDqq/mTi4ZP1BK+b48LD9PYgZKhYpRP1vyYJmwAXrL7Ms7vzXDWXl4l3bIkA6kUrR9BeEoyJDpGirxEupI/XxANgENHGedN+lgv31FAtol4hv3JifVKlqR+og/Ns02zmSRHlk+8DqEdanugxUsGtzjVsHOdanjTPAGgROASFMcmsahDZe/jL+quS0xSrvalAYyrqWwbE5FEvJnf2X10WIgi7h60sWHGDaCHAkxwCFZKnb/InvhHTTCeEzHIHpjNr3CIN31QJk="
-		},
-
-		{
 			"key": "csp_MiTuApp",
 			"name": "🐰米兔┃1080P",
 			"type": 3,
@@ -240,7 +241,6 @@
 			"api": "csp_MiTuApp",
 			"ext": "sHR2rlsfjI4L3t4RXQMkn9Eir6RzAIaQXa7PAZzZhsYO7tEfOCUAO2ipKyX1sxqAYggPt4M4DNHWCnz414Yfuh19nNi3k0dkJGtsOqEQzKCgcf9wGo4XmYWuIzgVworYxXRSYBQb2oLBmTl1W7hxxhfer8LsRYZB6ALfwu2bInzh3EENDkFkaHYb1olDPUR1EqpMaZLpMW0oSOW9zzMF5WIDfKUOvd7q2bKD4uZ8/oc="
 		},
-
 		{
 			"key": "csp_良人",
 			"name": "👨良人┃1080P",
@@ -259,7 +259,6 @@
 			"api": "csp_MiTuApp",
 			"ext": "sHR2rlsfjI4L3t4RXQMkn8ivSF5g8jXfhsjvizFR8ljN3AOVzpH9pr9GtPv0p/pnhxACPxmzklGulcZ5QfkGRCf6Rs7SjJmolZldAYa939+CUP8xvcjHb492E8waghkGxrtWlTiEC9t4dl/TaQf07LDUAJHsnAKfXpKlbKLXQWnAB8CtibGEXY01QAOeG3k4IaLl5w+AZDEEMHPNX5zL4bnOOk1PYBVZKZWV+DzWC9I="
 		},
-
 		{
 			"key": "csp_LaoBaiBook",
 			"name": "📚听书┃BOOK",
