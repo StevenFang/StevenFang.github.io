@@ -22,14 +22,20 @@
 </head>
 <body>
     <h1>Decoder Example</h1>
+    <input type="text" id="urlInput" placeholder="Enter URL here" style="width: 300px;">
+    <button id="fetchButton">Fetch JSON</button>
     <pre id="output"></pre> <!-- Use <pre> to display JSON -->
     <script>
-        // Example usage
-        getJson('https://example.com/api/data').then(data => {
-            const jsonData = JSON.stringify(data, null, 2); // Pretty print JSON
-            document.getElementById('output').innerText = jsonData;
-        }).catch(error => {
-            console.error(error);
+        document.getElementById('fetchButton').addEventListener('click', async () => {
+            const url = document.getElementById('urlInput').value;
+            try {
+                const data = await getJson(url);
+                const jsonData = JSON.stringify(data, null, 2); // Pretty print JSON
+                document.getElementById('output').innerText = jsonData;
+            } catch (error) {
+                console.error(error);
+                document.getElementById('output').innerText = 'Error fetching data: ' + error.message;
+            }
         });
     </script>
 </body>
