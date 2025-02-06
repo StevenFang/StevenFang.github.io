@@ -11,7 +11,7 @@ class Decoder {
     private static function httpGet($url) {
         $options = [
             "http" => [
-                "header" => "User-Agent: PHP\r\n",
+                "header" => "User-Agent: okhttp/3.12.11\r\n",
                 "method" => "GET"
             ]
         ];
@@ -91,13 +91,15 @@ class Decoder {
     }
 }
 
-// 从用户输入获取 URL
-echo "请输入 URL: ";
-$url = trim(fgets(STDIN));
-
-try {
-    $json = Decoder::getJson($url);
-    echo $json;
-} catch (Exception $e) {
-    echo "Error: " . $e->getMessage();
+// 从 URL 参数获取 URL
+if (isset($_GET['url'])) {
+    $url = trim($_GET['url']);
+    try {
+        $json = Decoder::getJson($url);
+        echo $json;
+    } catch (Exception $e) {
+        echo "Error: " . $e->getMessage();
+    }
+} else {
+    echo "Error: URL parameter is missing.";
 }
