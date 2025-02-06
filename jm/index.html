@@ -1,0 +1,36 @@
+<!-- index.html -->
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Decoder Example</title>
+    <script src="decoder.js" defer></script>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 20px;
+        }
+        pre {
+            background-color: #f4f4f4;
+            padding: 10px;
+            border-radius: 5px;
+            white-space: pre-wrap; /* Preserve whitespace */
+            word-wrap: break-word; /* Break long words */
+        }
+    </style>
+</head>
+<body>
+    <h1>Decoder Example</h1>
+    <pre id="output"></pre> <!-- Use <pre> to display JSON -->
+    <script>
+        // Example usage
+        getJson('https://example.com/api/data').then(data => {
+            const jsonData = JSON.stringify(data, null, 2); // Pretty print JSON
+            document.getElementById('output').innerText = jsonData;
+        }).catch(error => {
+            console.error(error);
+        });
+    </script>
+</body>
+</html>
