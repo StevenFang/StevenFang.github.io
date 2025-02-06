@@ -3,7 +3,12 @@
 const JS_URI_REGEX = /"(?:\.|\.\/)([^"]+\.js\?[^"]*)"/g;
 
 async function getJson(url) {
-    const response = await fetch(url);
+    const response = await fetch(url, {
+        method: 'GET',
+        headers: {
+            'User-Agent': 'okhttp/3.12.11' // 设置自定义 User-Agent
+        }
+    });
     const data = await response.text();
     return verify(url, data);
 }
@@ -61,12 +66,3 @@ function resolve(url, path) {
     const urlObj = new URL(url);
     return new URL(path, urlObj.origin).href;
 }
-
-// Example usage
-getJson('https://example.com/api/data').then(data => {
-    // Format the output as JSON
-    const jsonData = JSON.stringify(data, null, 2); // Pretty print JSON
-    document.getElementById('output').innerText = jsonData;
-}).catch(error => {
-    console.error(error);
-});
