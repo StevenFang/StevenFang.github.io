@@ -92,7 +92,7 @@
 		},
 		{
 			"key": "csp_UC",
-			"name": "💌UCUC┃4K弹幕",
+			"name": "💌MIUC┃4K弹幕",
 			"type": 3,
 			"searchable": 1,
 			"changeable": 0,
@@ -222,15 +222,6 @@
 			"quickSearch": 1,
 			"api": "csp_MiTuApp",
 			"ext": "s1/kf8dfHZAgs5H4ledT0oVFC1n/KhNfQfc0onBTauGjjbKin/VdMFrfJlKKnt/ClccntSyJqzbI1hHzGUUmZg7v02l1fvcdAH0iCUzGlopNgnI3rkeQtAwS54GySfRT0IRokasLwr5Rr6pm8/lTNJXMTEkq+9mzK976Dvv80seU9riYmFeBD+EBp8RzurdP02PNc0S2aZPlMbdm5yTIQfI8QeSRJGz+0AIsFOyBoPr4LDptq0AAc37KMhnWDCXF"
-		},
-		{
-			"key": "csp_yumi",
-			"name": "🌽玉米┃1080P",
-			"type": 3,
-			"searchable": 1,
-			"quickSearch": 1,
-			"api": "csp_MiTuApp",
-			"ext": "s1/kf8dfHZAgs5H4ledT0i6LXx6xdZC0ph9uRVITTKNp23AhIWvyzmvWXVSGAFNw4cyEOCScilMV9nTxuQd8NgE7JgcEh/KZ0BJMCTQ3NWsr7zaQPpHDJf1GLtn+xIRmSB9So8Y08nH6E8sY9yun1dTf0xqR2kGXxnoBoGZMWam+DW343WG42WKm94hzvQb7yDEUDLU2jR9lBy3hMWV7yjLPpu0QFLKd8NNgBWw1p4Q="
 		},
 		{
 			"key": "csp_电影",
