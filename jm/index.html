@@ -1,42 +1,139 @@
-<!-- index.html -->
 <!DOCTYPE html>
-<html lang="en">
+<html lang="zh-CN">
 <head>
     <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Decoder Example</title>
-    <script src="decoder.js" defer></script>
-    <style>
-        body {
-            font-family: Arial, sans-serif;
-            margin: 20px;
+    <title>Decoder Implementation</title>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/crypto-js/4.1.1/crypto-js.min.js"></script>
+    <script>
+        // 正则表达式模式，用于匹配特定的 JavaScript 文件路径
+        const JS_URI = /"(?:\.|\.\/|..\/)([^"]+\.js\?[^"]*)"/g;
+
+        // 从指定 URL 获取 JSON 数据
+        async function getJson(url) {
+            try {
+                const response = await fetch(url, {
+                    headers: {
+                        'User-Agent': 'okhttp/3.12.11'
+                    }
+                });
+                const data = await response.text();
+                return verify(response.url, data);
+            } catch (error) {
+                console.error('Error fetching JSON:', error);
+            }
         }
-        pre {
-            background-color: #f4f4f4;
-            padding: 10px;
-            border-radius: 5px;
-            white-space: pre-wrap; /* Preserve whitespace */
-            word-wrap: break-word; /* Break long words */
+
+        // 验证并处理获取到的数据
+        function verify(url, data) {
+            if (!data) throw new Error('Empty data');
+            if (isValidJson(data)) return fix(url, data);
+            if (data.includes('**')) data = base64Decode(data);
+            if (data.startsWith('2423')) data = aesCbcDecrypt(data);
+            return fix(url, data);
         }
-    </style>
+
+        // 修正数据中的路径
+        function fix(url, data) {
+            data = data.replace(JS_URI, (match, p1) => replace(url, match, p1));
+            data = data.replace(/(\.\.\/|\.\/)/g, (match) => resolveUrl(url, match));
+            data = data.replace(/__JS1__/g, './').replace(/__JS2__/g, '../');
+            return data;
+        }
+
+        // 替换数据中的特定路径
+        function replace(url, match, ext) {
+            let t = match.replace('"./', `"${resolveUrl(url, './')}`);
+            t = t.replace('"../', `"${resolveUrl(url, '../')}`);
+            t = t.replace('./', '__JS1__').replace('../', '__JS2__');
+            return t;
+        }
+
+        // AES-CBC 解密
+        function aesCbcDecrypt(data) {
+            const decode = hexToString(data).toLowerCase();
+            const key = padEnd(decode.substring(decode.indexOf('$#') + 2, decode.indexOf('#$')));
+            const iv = padEnd(decode.slice(-13));
+            const encryptedData = data.substring(data.indexOf('2324') + 4, data.length - 26);
+            const keyBytes = CryptoJS.enc.Utf8.parse(key);
+            const ivBytes = CryptoJS.enc.Utf8.parse(iv);
+            const encryptedHexStr = CryptoJS.enc.Hex.parse(encryptedData);
+            const encryptedBase64Str = CryptoJS.enc.Base64.stringify(encryptedHexStr);
+            const decrypted = CryptoJS.AES.decrypt(encryptedBase64Str, keyBytes, {
+                iv: ivBytes,
+                mode: CryptoJS.mode.CBC,
+                padding: CryptoJS.pad.Pkcs7
+            });
+            return decrypted.toString(CryptoJS.enc.Utf8);
+        }
+
+        // Base64 解码
+        function base64Decode(data) {
+            const extract = extractData(data);
+            if (!extract) return data;
+            return atob(extract);
+        }
+
+        // 从数据中提取特定格式的子字符串
+        function extractData(data) {
+            const match = data.match(/[A-Za-z0-9]{8}\*\*/);
+            return match ? data.substring(data.indexOf(match[0]) + 10) : '';
+        }
+
+        // 填充字符串至指定长度
+        function padEnd(str, targetLength = 16, padString = '0') {
+            return str.padEnd(targetLength, padString);
+        }
+
+        // 将十六进制字符串转换为普通字符串
+        function hexToString(hex) {
+            let str = '';
+            for (let i = 0; i < hex.length; i += 2) {
+                str += String.fromCharCode(parseInt(hex.substr(i, 2), 16));
+            }
+            return str;
+        }
+
+        // 检查字符串是否为有效的 JSON
+        function isValidJson(str) {
+            try {
+                JSON.parse(str);
+                return true;
+            } catch (e) {
+                return false;
+            }
+        }
+
+        // 解析相对路径为绝对路径
+        function resolveUrl(base, relative) {
+            const stack = base.split('/');
+            const parts = relative.split('/');
+            stack.pop(); // 移除当前文件名（或空字符串）
+            for (let i = 0; i < parts.length; i++) {
+                if (parts[i] === '.') continue;
+                if (parts[i] === '..') stack.pop();
+                else stack.push(parts[i]);
+            }
+            return stack.join('/');
+        }
+
+        // 处理表单提交事件
+        async function handleSubmit(event) {
+            event.preventDefault();
+            const urlInput = document.getElementById('urlInput').value;
+            const result = await getJson(urlInput);
+            console.log(result);
+            document.getElementById('result').textContent = result;
+        }
+    </script>
 </head>
 <body>
-    <h1>Decoder Example</h1>
-    <input type="text" id="urlInput" placeholder="Enter URL here" style="width: 300px;">
-    <button id="fetchButton">Fetch JSON</button>
-    <pre id="output"></pre> <!-- Use <pre> to display JSON -->
-    <script>
-        document.getElementById('fetchButton').addEventListener('click', async () => {
-            const url = document.getElementById('urlInput').value;
-            try {
-                const data = await getJson(url);
-                const jsonData = JSON.stringify(data, null, 2); // Pretty print JSON
-                document.getElementById('output').innerText = jsonData;
-            } catch (error) {
-                console.error(error);
-                document.getElementById('output').innerText = 'Error fetching data: ' + error.message;
-            }
-        });
-    </script>
+    <h1>Decoder Implementation</h1>
+    <form id="urlForm" onsubmit="handleSubmit(event)">
+        <label for="urlInput">请输入 URL：</label>
+        <input type="url" id="urlInput" name="urlInput" required>
+        <button type="submit">提交</button>
+    </form>
+    <h2>解码结果：</h2>
+    <pre id="result"></pre>
 </body>
 </html>
