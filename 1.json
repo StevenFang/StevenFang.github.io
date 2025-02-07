@@ -96,7 +96,7 @@
 			"type": 3,
 			"searchable": 1,
 			"changeable": 0,
-			"api": "csp_MiUc",
+			"api": "csp_Duopan",
 			"filterable": 1,
 			"ext": {
 				"site_urls": [
@@ -104,7 +104,7 @@
 					"http://milvdou.fun",
 					"http://mucpan.cc"
 				],
-				"url_key": "MiUc",
+				"url_key": "uc",
 				"token": "",
 				"ucCookie": "",
 				"quarkCookie": "",
@@ -146,6 +146,13 @@
 			"changeable": 0,
 			"ext": "https://gitee.com/smallmi1007/mimi/raw/master/wencai.js"
 		},
+		{
+            "key": "csp_LiteApple",
+            "name": "🍎苹果┃1080P",
+            "type": 3,
+            "api": "csp_LiteApple",
+            "playerType": 2
+        },
 		{
 			"key": "csp_Xlys",
 			"name": "🍤哔嘀┃1080P",
