@@ -1,5 +1,5 @@
 {
-	"spider": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1737710777074/012403.jar;md5;11e7f4b3a83620a0b1c31eb7f609aa10",
+	"spider": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1738899321098/0207-1.jar;md5;a21873a6b978627f12aa58f57b26b9b0",
 	"logo": "https://p3-pc-sign.douyinpic.com/tos-cn-i-0813c001/oEb9EAiMhR67DA00fZCpIXMigA8LAkAI9enDAD~tplv-dy-aweme-images-v2:3000:3000:q75.webp?biz_tag=aweme_images&from=327834062&s=PackSourceEnum_SEARCH&sc=image&se=false&x-expires=1727452800&x-signature=Q6AiH8FOO86OfzLFvuUZpJbsV4s%3D",
 	"wallpaper": "https://xn--11x805d.xn--4kq62z5rby2qupq9ub.xyz/",
 	"sites": [{
@@ -96,7 +96,7 @@
 			"type": 3,
 			"searchable": 1,
 			"changeable": 0,
-			"api": "csp_Duopan",
+			"api": "csp_MiUc",
 			"filterable": 1,
 			"ext": {
 				"site_urls": [
@@ -104,7 +104,7 @@
 					"http://milvdou.fun",
 					"http://mucpan.cc"
 				],
-				"url_key": "UC",
+				"url_key": "MiUc",
 				"token": "",
 				"ucCookie": "",
 				"quarkCookie": "",
@@ -257,7 +257,7 @@
 			"type": 3,
 			"searchable": 1,
 			"quickSearch": 1,
-			"api": "csp_MiTuApp",
+			"api": "csp_YuDi",
 			"ext": "sHR2rlsfjI4L3t4RXQMkn64XzcQ7xvStB8jMisBReTIxM41ceZBHTzUgk3r/HwfaQHDZorN0nnVVuvE2MPKn8MPxE7ylJqasRuICMIOVVttRnHTeArnRbQHtOtv9F+MUHJKlwhy6U0meUqFlwIn7psnaR3hGPEBEsJYJsPp76XBU5Prcv6yXYl+buEHnrog7tDJv0Oruu3XbWiSeYcmXyu0bWlgyI7I+ExxK+yX2Fm4="
 		},
 		{
