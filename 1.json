@@ -1,5 +1,5 @@
 {
-	"spider": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1739331987561/0212.jar;md5;b0cfff328a31396accdf2388d5cc2cb0",
+	"spider": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1739338706051/0112-1.jar;md5;d2dacc8ee7865eb542ade661c9a1f041",
 	"logo": "https://p3-pc-sign.douyinpic.com/tos-cn-i-0813c001/oEb9EAiMhR67DA00fZCpIXMigA8LAkAI9enDAD~tplv-dy-aweme-images-v2:3000:3000:q75.webp?biz_tag=aweme_images&from=327834062&s=PackSourceEnum_SEARCH&sc=image&se=false&x-expires=1727452800&x-signature=Q6AiH8FOO86OfzLFvuUZpJbsV4s%3D",
 	"wallpaper": "https://xn--11x805d.xn--4kq62z5rby2qupq9ub.xyz/",
 	"sites": [{
@@ -60,8 +60,8 @@
 				"ucCookie": "",
 				"quarkCookie": "",
 				"threadinfo": {
-					"chunksize": 450,
-					"threads": 12
+					"chunksize": 256,
+					"threads": 10
 				}
 			}
 		},
