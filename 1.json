@@ -1,5 +1,5 @@
 {
-	"spider": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1738899321098/0207-1.jar;md5;a21873a6b978627f12aa58f57b26b9b0",
+	"spider": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1739331987561/0212.jar;md5;b0cfff328a31396accdf2388d5cc2cb0",
 	"logo": "https://p3-pc-sign.douyinpic.com/tos-cn-i-0813c001/oEb9EAiMhR67DA00fZCpIXMigA8LAkAI9enDAD~tplv-dy-aweme-images-v2:3000:3000:q75.webp?biz_tag=aweme_images&from=327834062&s=PackSourceEnum_SEARCH&sc=image&se=false&x-expires=1727452800&x-signature=Q6AiH8FOO86OfzLFvuUZpJbsV4s%3D",
 	"wallpaper": "https://xn--11x805d.xn--4kq62z5rby2qupq9ub.xyz/",
 	"sites": [{
@@ -17,6 +17,60 @@
 			"searchable": 0,
 			"api": "csp_Config"
 		},
+		{
+			"key": "csp_Netfixtv",
+			"name": "💯至臻┃4K弹幕",
+			"type": 3,
+			"api": "csp_Duopan",
+			"changeable": 0,
+			"searchable": 1,
+			"filterable": 1,
+			"ext": {
+				"site_urls": [
+					"https://mihdr.top",
+					"http://www.miqk.cc",
+					"http://www.xhww.net",
+					"http://xhww.net",
+					"https://xiaomiai.site"
+				],
+				"url_key": "Duopan",
+				"threadinfo": {
+					"chunksize": 450,
+					"threads": 12
+				}
+			}
+		},
+		{
+			"key": "csp_UC",
+			"name": "💌MIUC┃4K弹幕",
+			"type": 3,
+			"searchable": 1,
+			"changeable": 0,
+			"api": "csp_Duopan",
+			"filterable": 1,
+			"ext": {
+				"site_urls": [
+				    "http://mucpan.cc",
+					"https://www.mucpan.cc",
+					"http://54271.fun/",
+					"http://milvdou.fun"
+				],
+				"url_key": "uc",
+				"token": "",
+				"ucCookie": "",
+				"quarkCookie": "",
+				"threadinfo": {
+					"chunksize": 450,
+					"threads": 12
+				}
+			}
+		},
+		{
+            "key": "csp_AppNG",
+            "name": "🎃南瓜┃1080P",
+            "type": 3,
+            "api": "csp_AppNG"
+        },
 		{
 			"key": "csp_SuBaiBai",
 			"name": "☁️白白┃1080P",
@@ -60,60 +114,12 @@
 			}
 		},
 		{
-			"key": "csp_Netfixtv",
-			"name": "💯至臻┃4K弹幕",
-			"type": 3,
-			"api": "csp_Duopan",
-			"changeable": 0,
-			"searchable": 1,
-			"filterable": 1,
-			"ext": {
-				"site_urls": [
-					"https://mihdr.top",
-					"http://www.miqk.cc",
-					"http://www.xhww.net",
-					"http://xhww.net",
-					"https://xiaomiai.site"
-				],
-				"url_key": "Duopan",
-				"threadinfo": {
-					"chunksize": 450,
-					"threads": 12
-				}
-			}
-		},
-		{
 			"key": "小怡",
 			"name": "🔍怡搜┃4K4K",
 			"type": 3,
 			"searchable": 1,
 			"api": "csp_XiaoYi",
 			"changeable": 0
-		},
-		{
-			"key": "csp_UC",
-			"name": "💌MIUC┃4K弹幕",
-			"type": 3,
-			"searchable": 1,
-			"changeable": 0,
-			"api": "csp_Duopan",
-			"filterable": 1,
-			"ext": {
-				"site_urls": [
-				    "http://mucpan.cc",
-					"https://www.mucpan.cc",
-					"http://54271.fun/",
-					"http://milvdou.fun"
-				],
-				"url_key": "uc",
-				"token": "",
-				"ucCookie": "",
-				"quarkCookie": "",
-				"threadinfo": {
-					"chunksize": 450,
-					"threads": 12
-				}
-			}
 		},
 		{
 			"key": "米搜",
@@ -135,24 +141,32 @@
 			"changeable": 0,
 			"ext": "https://gitee.com/smallmi1007/mimi/raw/master/kanqiu.js"
 		},
+		{
+          "key": "csp_AppXY",
+          "name": "✈️上头┃短剧",
+          "type": 3,
+          "api": "csp_AppXY"
+        },
         {
-			"key": "追剧",
-			"name": "📺追剧┃1080P",
-			"type": 3,
-			"api": "https://gitee.com/zj521jj/little-tiger-spot/raw/master/drpy_libs/drpy2.min.js",
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 1,
-			"order_num": 0,
-			"changeable": 0,
-			"ext": "https://gitee.com/smallmi1007/mimi/raw/master/wencai.js"
-		},
+            "key": "小猫",
+            "name": "🐱小猫┃1080P",
+            "type": 3,
+            "quickSearch": 0,
+            "api": "csp_MiTuApp",
+            "ext": "sHR2rlsfjI4L3t4RXQMkn1xFjIix0m8Cj9X8OUrGrK4fl4xu1EDS3cPpLFW/FctyWeOV755l/zvJzsf4Rq5dH82tGLii5o2Wvz3PcDGX7hgkjVxwZEyPqNUMRYFbQpmgyLVzYt4LYN1N1hC91NEscnCu4djQ0sa9TGuk4FO9yXzddgCJ2lWF9cJPVFd9ro6QI83NqCw0yBUcmhyF6YeEF4vM0+Q34Ku2OHQ2EQM2Kuo="
+        },
 		{
             "key": "csp_LiteApple",
             "name": "🍎苹果┃1080P",
             "type": 3,
             "api": "csp_LiteApple",
             "playerType": 2
+        },
+        {
+            "key": "csp_Lkdy",
+            "name": "🏔来看┃1080P",
+            "type": 3,
+            "api": "csp_Lkdy"
         },
 		{
 			"key": "csp_Xlys",
@@ -167,7 +181,7 @@
 			"key": "csp_Wetv",
 			"name": "🚗尘落┃1080P",
 			"type": 3,
-			"api": "csp_Wetv"
+			"api": "csp_Lgyy"
 		},
 		{
 			"key": "csp_Wwys",
