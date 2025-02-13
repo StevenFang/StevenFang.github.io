@@ -34,13 +34,18 @@ jobs:
 
     - name: Modify URLs in yysd-zl.json
       run: |
-        jq 'walk(if type == "object" then with_entries(if .value | test("^https://") then .value |= "https://ghfast.top/" + . else . end) else . end)' current-yysd-zl.json > modified-yysd-zl.json
+        jq 'walk(if type == "object" then with_entries(if .value | test("^https://") then .value |= "https://ghfast.top/" + . else . end) else . end)' current-yysd-zl.json > yysd-dl.json
 
     - name: Commit and push changes
       run: |
         git config --global user.name 'github-actions[bot]'
         git config --global user.email 'github-actions[bot]@users.noreply.github.com'
-        mv modified-yysd-zl.json yysd-zl.json
-        git add yysd-zl.json
-        git commit -m 'Update yysd-zl.json with new URLs'
+        git add yysd-dl.json
+        git commit -m 'Update yysd-dl.json with new URLs'
         git push
+
+    - name: Deploy to GitHub Pages
+      uses: peaceiris/actions-gh-pages@v3
+      with:
+        github_token: ${{ secrets.GITHUB_TOKEN }}
+        publish_dir: . # 发布整个仓库内容
