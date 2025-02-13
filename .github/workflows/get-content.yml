@@ -17,15 +17,20 @@ jobs:
       id: get_content
       run: |
         set -e
-        curl -s --fail -A "okhttp/5.0.0-alpha.14" https://www.mpanso.com/小米/DEMO.json -o 1.json
+        curl -s --fail -A "okhttp/5.0.0-alpha.14" https://www.mpanso.com/小米/DEMO.json -o mi.json
         echo "::set-output name=status_code::$?"
+
+    - name: Update and copy JSON
+      if: steps.get_content.outputs.status_code == '0'
+      run: |
+        jq '.sites |= (.[0:1] + [{"key": "更新应用","name": "更新应用","type": 3,"api": "csp_Market","searchable": 0,"changeable": 0,"ext": "https://xinxinbaobao.tk/yysd-dl.json"}] + .[1:])' mi.json > temp.json && mv temp.json 1.json
 
     - name: Commit and push
       if: steps.get_content.outputs.status_code == '0' && github.repository == github.event.repository.full_name
       run: |
         git config --local user.email "action@github.com"
         git config --local user.name "GitHub Action"
-        git add 1.json
+        git add mi.json 1.json
         if ! git status --porcelain | grep -q '^A\|^M'; then
           echo "No changes to commit"
         else
