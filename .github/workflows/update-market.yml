@@ -1,0 +1,46 @@
+name: Update yysd-zl.json
+
+on:
+  schedule:
+    - cron: '0 * * * *' # 每小时运行一次
+  workflow_dispatch:
+
+jobs:
+  update-json:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@v2
+
+    - name: Get current yysd-zl.json
+      run: |
+        curl -o current-yysd-zl.json https://raw.githubusercontent.com/lystv/fmapp/refs/heads/app/yysd-zl.json
+
+    - name: Check if yysd-zl.json has changed
+      id: check_changes
+      run: |
+        if cmp -s current-yysd-zl.json yysd-zl.json; then
+          echo "No changes detected in yysd-zl.json"
+          echo "::set-output name=changed::false"
+        else
+          echo "Changes detected in yysd-zl.json"
+          echo "::set-output name=changed::true"
+        fi
+
+    - name: Stop if no changes
+      if: steps.check_changes.outputs.changed == 'false'
+      run: exit 0
+
+    - name: Modify URLs in yysd-zl.json
+      run: |
+        jq '.[] |= if .url then .url |= "https://ghfast.top/" + . else . end' current-yysd-zl.json > modified-yysd-zl.json
+
+    - name: Commit and push changes
+      run: |
+        git config --global user.name 'github-actions[bot]'
+        git config --global user.email 'github-actions[bot]@users.noreply.github.com'
+        mv modified-yysd-zl.json yysd-zl.json
+        git add yysd-zl.json
+        git commit -m 'Update yysd-zl.json with new URLs'
+        git push
