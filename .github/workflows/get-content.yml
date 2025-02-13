@@ -16,15 +16,20 @@ jobs:
     - name: Get website content
       id: get_content
       run: |
-        set +e
-        curl --fail -A "okhttp/4.11.0" http://www.mpanso.com/%E5%B0%8F%E7%B1%B3/DEMO.json -o 1.json
-        echo "::set-output name=status_code::$?"
         set -e
+        curl -s --fail -A "okhttp/5.0.0-alpha.14" https://www.mpanso.com/小米/DEMO.json -o 1.json
+        echo "::set-output name=status_code::$?"
 
-    - name: Commit and push if it's not a fork and site is up
+    - name: Commit and push
       if: steps.get_content.outputs.status_code == '0' && github.repository == github.event.repository.full_name
       run: |
         git config --local user.email "action@github.com"
         git config --local user.name "GitHub Action"
         git add 1.json
-        git diff --quiet && git diff --staged --quiet || (echo 'Committing changes...' && git commit -m 'Update website content' && git push)
+        if ! git status --porcelain | grep -q '^A\|^M'; then
+          echo "No changes to commit"
+        else
+          echo 'Committing changes...'
+          git commit -m 'Update website content'
+          git push
+        fi
