@@ -122,7 +122,7 @@
 			"key": "csp_麻花",
 			"name": "🍡麻花┃1080P",
 			"type": 3,
-			"quickSearch": 0,
+			"quickSearch": 1,
 			"api": "csp_MiTuApp",
 			"ext": "sHR2rlsfjI4L3t4RXQMkn64XzcQ7xvStB8jMisBReTIxM41ceZBHTzUgk3r/HwfaQHDZorN0nnVVuvE2MPKn8MPxE7ylJqasRuICMIOVVttRnHTeArnRbQHtOtv9F+MUHJKlwhy6U0meUqFlwIn7psnaR3hGPEBEsJYJsPp76XCOFyL1bvM3tTLekJMN0bE6C8wUUmg83iijAB1Xb6BFY0SFjRkJUBqkeUVtwAx1KA1QQjwUVBpGjtQEZ08jK7hLlREWx4foeg01L1aMK+viow=="
 		},
@@ -165,6 +165,14 @@
 			"quickSearch": 0,
 			"api": "csp_MiTuApp",
 			"ext": "sHR2rlsfjI4L3t4RXQMkn9vBxsiZMC9mEjdFHy1b0JxMI9e9kwLyaPtpomLvf/SELlR2tG4av7VLVOnJfhzo9ctafjyVzyG8mJz6OMXeHP7ApPRdTfqKs9a3vBioIdqaC4SFZmteBwEWgHRwJv8Eecn5qIoxur3gmurN6cdUqIwRj8TAAm0asiETQ4b9bq0OXuO6Att6+aOM406026kk7qswMkcs8TxRXUyvexxaQgk="
+		},
+		{
+			"key": "柠檬",
+			"name": "🍋柠檬┃1080P",
+			"type": 3,
+			"quickSearch": 0,
+			"api": "csp_MiTuApp",
+			"ext": "sHR2rlsfjI4L3t4RXQMkn5Eo+HFlOPgkkP1Zt5BTowFx4HLefygBVmb/tCBRkeEJMRb6VXj/vtn8DIyacZrYcHjfow5xCMa+JPSZy+6wU1SyjHSazG6hNITDz0C7iZ5nI4+kPutZv2w4UsvZuZNDVfsto/egFgfIsVoK0eWollmrZJHXhP047L7giJEydNACb7yadk6cJf1l91EgzDjL3DScMnGUHj2URq9QKKI5//+qy43d0iX/vNdOTn7FeItO"
 		},
 		{
 			"key": "csp_AppRR",
