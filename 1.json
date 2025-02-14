@@ -137,12 +137,14 @@
       "ext": "sHR2rlsfjI4L3t4RXQMkn64XzcQ7xvStB8jMisBReTIxM41ceZBHTzUgk3r/HwfaQHDZorN0nnVVuvE2MPKn8MPxE7ylJqasRuICMIOVVttRnHTeArnRbQHtOtv9F+MUHJKlwhy6U0meUqFlwIn7psnaR3hGPEBEsJYJsPp76XCOFyL1bvM3tTLekJMN0bE6C8wUUmg83iijAB1Xb6BFY0SFjRkJUBqkeUVtwAx1KA1QQjwUVBpGjtQEZ08jK7hLlREWx4foeg01L1aMK+viow=="
     },
     {
-      "key": "csp_眼镜",
-      "name": "👀眼镜┃1080P",
+      "key": "csp_良人",
+      "name": "👨良人┃1080P",
       "type": 3,
-      "quickSearch": 0,
-      "api": "csp_AppDrama",
-      "ext": "dZyf/FE+KyNozU1BJTipIo9iSIwfIqdHlpvuwJw09AVmwEOfCxMwqLVMJhfLimSVcQK/l703QANc8WIkB/uW5sUdZSeZIU9+8Rk+3N6ehNBRUUbdXwHB/6h1j5nm+yHTh+KNx2kJ25BR77lheSHLwTnAU6VXLKSspVz/FQx8qOP8w0hfCMh1ephwsEIF24MCgXWhiAzL92YSEph0y0FlAqwP2rvfW8v3juUbcw47E+M="
+      "searchable": 1,
+      "quickSearch": 1,
+      "api": "csp_MiTuApp",
+      "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1738899321098/0207-1.jar;md5;a21873a6b978627f12aa58f57b26b9b0",
+      "ext": "sHR2rlsfjI4L3t4RXQMkn+pzOh0GsJJgcwHHxDs8FcBDGD81qAZtun78VAJxzshCbStdXIlQiksUvc2b5fXyuxJO9KBNp5LzL/pYLLOs1V3R3WOh90eVpJGxxXWEZtoq+F7Cq4CbQ3J1TTXahpYpeXXeevwPopQutGBNaxYkdBgBL6rCgov0BCUWOXriRXNn0Whw+jpp24kW5u+x7quxXdQzFJek0l4ALR6YAKsw5NVExSVI0Q8wY3mmxjpEiMUL"
     },
     {
       "key": "剧荒",
@@ -175,21 +177,6 @@
       "quickSearch": 0,
       "api": "csp_MiTuApp",
       "ext": "sHR2rlsfjI4L3t4RXQMkn9vBxsiZMC9mEjdFHy1b0JxMI9e9kwLyaPtpomLvf/SELlR2tG4av7VLVOnJfhzo9ctafjyVzyG8mJz6OMXeHP7ApPRdTfqKs9a3vBioIdqaC4SFZmteBwEWgHRwJv8Eecn5qIoxur3gmurN6cdUqIwRj8TAAm0asiETQ4b9bq0OXuO6Att6+aOM406026kk7qswMkcs8TxRXUyvexxaQgk="
-    },
-    {
-      "key": "柠檬",
-      "name": "🍋柠檬┃1080P",
-      "type": 3,
-      "quickSearch": 0,
-      "api": "csp_MiTuApp",
-      "ext": "sHR2rlsfjI4L3t4RXQMkn5Eo+HFlOPgkkP1Zt5BTowFx4HLefygBVmb/tCBRkeEJMRb6VXj/vtn8DIyacZrYcHjfow5xCMa+JPSZy+6wU1SyjHSazG6hNITDz0C7iZ5nI4+kPutZv2w4UsvZuZNDVfsto/egFgfIsVoK0eWollmrZJHXhP047L7giJEydNACb7yadk6cJf1l91EgzDjL3DScMnGUHj2URq9QKKI5//+qy43d0iX/vNdOTn7FeItO"
-    },
-    {
-      "key": "csp_AppRR",
-      "name": "🚶人人┃1080P",
-      "type": 3,
-      "api": "csp_AppRR",
-      "ext": "WsTbUN+IzcfBYxQ6QFfhNbGQHAJ3uDtQrJqsZDQMRZ33dQlQckxRblQPSfNOwdvHZw7dBuy1ysMc7T5CFk8zgHL8O4D6nXhv18hYKphskvH9Ehle3V/b05I+7Vh/8XzIr5sgF9jH2enSkvNdCX+fm56ExGC0i9VATPdNFt0O9HJetzaOareaj4+Bq8VY8S50nW01FRDiGrD8UFqUN3sAIQ=="
     },
     {
       "key": "csp_AppXY",
