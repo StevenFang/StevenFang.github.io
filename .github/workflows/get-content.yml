@@ -17,7 +17,7 @@ jobs:
       id: get_content
       run: |
         set -e
-        curl -s --fail https://jm.xinxinbaobao.tk/?url=https://www.mpanso.com/小米/DEMO.json -o mi.json
+        curl -s --fail https://feiyangdigital.v1.mk/api/jiemi.php?url=https://www.mpanso.com/小米/DEMO.json -o mi.json
         echo "::set-output name=status_code::$?"
 
     - name: Update and copy JSON
