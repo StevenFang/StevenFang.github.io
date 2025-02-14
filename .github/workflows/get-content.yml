@@ -20,10 +20,16 @@ jobs:
         curl -s --fail https://jm.xinxinbaobao.tk/?url=https://www.mpanso.com/小米/DEMO.json -o mi.json
         echo "::set-output name=status_code::$?"
 
+    - name: Debug JSON content
+      run: cat mi.json
+
+    - name: Validate JSON
+      run: jq . mi.json
+
     - name: Update and copy JSON
       if: steps.get_content.outputs.status_code == '0'
       run: |
-        jq '.sites |= (.[0:1] + [{"key": "更新应用","name": "更新应用","type": 3,"api": "csp_Market","searchable": 0,"changeable": 0,"ext": "https://xinxinbaobao.tk/yysd-dl.json"}] + .[1:])' mi.json > temp.json && mv temp.json 1.json
+        q '.sites |= (.[0:1] + [{"key": "更新应用","name": "更新应用","type": 3,"api": "csp_Market","searchable": 0,"changeable": 0,"ext": "https://xinxinbaobao.tk/yysd-dl.json"}] + .[1:])' mi.json > temp.json && mv temp.json 1.json
 
     - name: Commit and push
       if: steps.get_content.outputs.status_code == '0' && github.repository == github.event.repository.full_name
