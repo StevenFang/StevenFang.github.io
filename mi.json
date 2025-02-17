@@ -127,8 +127,8 @@
       "type": 3,
       "searchable": 1,
       "quickSearch": 1,
-      "api": "csp_MiTu",
-      "ext": "sHR2rlsfjI4L3t4RXQMkn+pzOh0GsJJgcwHHxDs8FcBDGD81qAZtun78VAJxzshCbStdXIlQiksUvc2b5fXyuxJO9KBNp5LzL/pYLLOs1V3R3WOh90eVpJGxxXWEZtoq+F7Cq4CbQ3J1TTXahpYpeXXeevwPopQutGBNaxYkdBgBL6rCgov0BCUWOXriRXNn0Whw+jpp24kW5u+x7quxXdQzFJek0l4ALR6YAKsw5NVExSVI0Q8wY3mmxjpEiMUL"
+      "api": "csp_MiTuApp",
+      "ext": "sHR2rlsfjI4L3t4RXQMkn+pzOh0GsJJgcwHHxDs8FcBDGD81qAZtun78VAJxzshCbStdXIlQiksUvc2b5fXyuxJO9KBNp5LzL/pYLLOs1V3R3WOh90eVpJGxxXWEZtoq+F7Cq4CbQ3J1TTXahpYpecvphwmIcDJBAufEtnAznmjxxk6qVoA6w/eypA9oHqhDmy914I15LE2N8YnLptcACiTzTT1iakLVXE0Tyc1UhQT4AJ3fQ31m2DKm0pdhPTyT"
     },
     {
       "key": "csp_兄弟",
@@ -136,7 +136,7 @@
       "type": 3,
       "quickSearch": 1,
       "api": "csp_MiTuApp",
-      "ext": "N/01JeZBCBEQ0wOXNuAI/jeUk7bpi30NvBNgvAW4dT/HHOQROzrjiDRCRItK641e3/kKZGcOce7l7TMU/c5wNJE7mwb3+X/Rn5DH1v2dUQ+x/cBZ6DqUekN861vp2GPOOT2P8AHXVVtTkHRXwCKgbvIwhmfeuvRW/jfyKIO/sbxp6wiZa2ZSeBA235TRBm615UZcnHPpOAGL4rXjqRDbfH06Q+7JJ+hjUBleGGS22uI="
+      "ext": "sHR2rlsfjI4L3t4RXQMkn/5M8HcHgek+Ooq1I/D7QwiKWuFuH+GgIBIVVLdQZft6Mk9Fka1EbHxTztWHQiNgHXHiVvk+ejCBjD0BSR7r/OQwRXL/hnWvB8cCuPH3bAlRsZq1yhTb0zSRe2x+RTMdYfwvn+DcgXmgQUv3onmUYi/m3QjlolWtutbTn4SlOrjxkhOqN1iBdPJ37o3/6zKuYuEx9lEF8Vwgc6SSDnjuQ4O3nhZ4IkkS5Le3RdRoVDwe"
     },
     {
       "key": "电影",
@@ -150,9 +150,9 @@
       "key": "小猫",
       "name": "🐱小猫┃1080P",
       "type": 3,
-      "quickSearch": 0,
+      "quickSearch": 1,
       "api": "csp_MiTuApp",
-      "ext": "sHR2rlsfjI4L3t4RXQMkn1xFjIix0m8Cj9X8OUrGrK4fl4xu1EDS3cPpLFW/FctyWeOV755l/zvJzsf4Rq5dH82tGLii5o2Wvz3PcDGX7hgkjVxwZEyPqNUMRYFbQpmgyLVzYt4LYN1N1hC91NEscnCu4djQ0sa9TGuk4FO9yXzddgCJ2lWF9cJPVFd9ro6QI83NqCw0yBUcmhyF6YeEF4vM0+Q34Ku2OHQ2EQM2Kuo="
+      "ext": "sHR2rlsfjI4L3t4RXQMknw78qBkBcYgKFW8bV5P0nXKEHvdyhOPSQN6diq8oyizigiWY8JRE1k2r2ZS5mhkN6+X3Fkwzu8Mje0zp1RjHEUb3Z9Lup2t8+QJKgcwJcGegqPkXy1wtpXlf3FRRK4PAwelsh/zyQIiJvyUtn4IbVjMhku1ryfjRGyX+jtk0ro125DBKvSDc4Z2q7HOS8NaFh4ia0LWbrYIOFL/SqxTz+N1YuH1H3WxZtc1iX4TX6Pd0"
     },
     {
       "key": "︎酷云",
