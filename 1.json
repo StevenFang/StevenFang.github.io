@@ -30,6 +30,7 @@
       "name": "🧸玩偶┃4K弹幕",
       "type": 3,
       "api": "csp_Wogg",
+      "changeable": "0",
       "filterable": 1,
       "ext": {
         "site_urls": [
@@ -50,6 +51,7 @@
       "key": "csp_Netfixtv",
       "name": "💌至臻┃4K弹幕",
       "type": 3,
+      "changeable": "0",
       "api": "csp_Duopan",
       "filterable": 1,
       "ext": {
@@ -74,6 +76,7 @@
       "key": "csp_UC",
       "name": "🍚小米┃UC4K4K",
       "type": 3,
+      "changeable": "0",
       "api": "csp_Duopan",
       "filterable": 1,
       "ext": {
@@ -123,6 +126,18 @@
       "ext": "https://gitee.com/smallmi1007/mimi/raw/master/kanqiu.js"
     },
     {
+      "key": "吃饱",
+      "name": "🪴吃饱┃1080P",
+      "type": 3,
+      "api": "https://gitee.com/zj521jj/little-tiger-spot/raw/master/drpy_libs/drpy2.min.js",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "order_num": 0,
+      "changeable": 0,
+      "ext": "https://gitee.com/smallmi1007/mimi/raw/master/wencai.js"
+    },
+    {
       "key": "csp_麻花",
       "name": "🍡麻花┃1080P",
       "type": 3,
@@ -161,7 +176,7 @@
       "type": 3,
       "quickSearch": 1,
       "api": "csp_MiTuApp",
-      "ext": "sHR2rlsfjI4L3t4RXQMknw78qBkBcYgKFW8bV5P0nXKEHvdyhOPSQN6diq8oyizigiWY8JRE1k2r2ZS5mhkN6+X3Fkwzu8Mje0zp1RjHEUb3Z9Lup2t8+QJKgcwJcGegqPkXy1wtpXlf3FRRK4PAwelsh/zyQIiJvyUtn4IbVjMhku1ryfjRGyX+jtk0ro125DBKvSDc4Z2q7HOS8NaFh4ia0LWbrYIOFL/SqxTz+N1YuH1H3WxZtc1iX4TX6Pd0"
+      "ext": "sHR2rlsfjI4L3t4RXQMkn35bf/1LEoRwqTXcrC7IQ0LqkJ9uquhjeheQXMJ/1jcyl7dTdYTs2tmJx3JQfbM+sLOHa3gv0n6rwfqf5gycuzU7dkNLItKvRFx3Cc438fy/s56XVJJZXZczLxopwnsmcYwYi1Ry6merfTK6wL78+y09P00Emc+qYY6cbo9/0p3aoyI75hXhhWfgk2fsdhl/CJ63tm0h5nu8u2sR6MVAG9bXBLHLiasPCrBhIBKlseXE"
     },
     {
       "key": "︎酷云",
@@ -239,6 +254,7 @@
       "key": "csp_XiaoYi",
       "name": "🔍易搜┃夸克",
       "type": 3,
+      "changeable": "0",
       "api": "csp_XiaoYi",
       "ext": ""
     },
@@ -246,6 +262,7 @@
       "key": "csp_MiSou",
       "name": "🔍米搜┃夸克",
       "type": 3,
+      "changeable": "0",
       "api": "csp_MiSou",
       "ext": ""
     },
