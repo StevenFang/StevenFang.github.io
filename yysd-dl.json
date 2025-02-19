@@ -4,15 +4,15 @@
     "list": [
       {
         "name": "手機-py32",
-        "url": "https://ghfast.top/https://raw.githubusercontent.com/lystv/fmapp/cb87e7dc511e81d87f426bbdcdf4bfcf1a3fb514/apk/release/mobile-python-armeabi_v7a.apk",
+        "url": "https://ghfast.top/https://raw.githubusercontent.com/lystv/fmapp/846d9cb0e5d0db6bdabca8a3c1472dbc0c81c0dc/apk/release/mobile-python-armeabi_v7a.apk",
         "icon": "https://ghfast.top/https://raw.githubusercontent.com/lystv/fmapp/img/log/okys.jpg",
-        "version": "OK-2.7.5"
+        "version": "OK-2.7.6"
       },
       {
         "name": "電視-py32",
-        "url": "https://ghfast.top/https://raw.githubusercontent.com/lystv/fmapp/cb87e7dc511e81d87f426bbdcdf4bfcf1a3fb514/apk/release/leanback-python-armeabi_v7a.apk",
+        "url": "https://ghfast.top/https://raw.githubusercontent.com/lystv/fmapp/846d9cb0e5d0db6bdabca8a3c1472dbc0c81c0dc/apk/release/leanback-python-armeabi_v7a.apk",
         "icon": "https://ghfast.top/https://raw.githubusercontent.com/lystv/fmapp/img/log/okys.jpg",
-        "version": "OK-2.7.5"
+        "version": "OK-2.7.6"
       },
       {
         "name": "4.x電視",
@@ -51,63 +51,63 @@
     "list": [
       {
         "name": "電視-java32",
-        "url": "https://ghfast.top/https://raw.githubusercontent.com/lystv/fmapp/cb87e7dc511e81d87f426bbdcdf4bfcf1a3fb514/apk/release/leanback-java-armeabi_v7a.apk",
+        "url": "https://ghfast.top/https://raw.githubusercontent.com/lystv/fmapp/846d9cb0e5d0db6bdabca8a3c1472dbc0c81c0dc/apk/release/leanback-java-armeabi_v7a.apk",
         "icon": "https://ghfast.top/https://raw.githubusercontent.com/lystv/fmapp/img/log/okys.jpg",
-        "version": "OK-2.7.5"
+        "version": "OK-2.7.6"
       },
       {
         "name": "電視-java64",
-        "url": "https://ghfast.top/https://raw.githubusercontent.com/lystv/fmapp/cb87e7dc511e81d87f426bbdcdf4bfcf1a3fb514/apk/release/leanback-java-arm64_v8a.apk",
+        "url": "https://ghfast.top/https://raw.githubusercontent.com/lystv/fmapp/846d9cb0e5d0db6bdabca8a3c1472dbc0c81c0dc/apk/release/leanback-java-arm64_v8a.apk",
         "icon": "https://ghfast.top/https://raw.githubusercontent.com/lystv/fmapp/img/log/okys.jpg",
-        "version": "OK-2.7.5"
+        "version": "OK-2.7.6"
       },
       {
         "name": "電視-py32",
-        "url": "https://ghfast.top/https://raw.githubusercontent.com/lystv/fmapp/cb87e7dc511e81d87f426bbdcdf4bfcf1a3fb514/apk/release/leanback-python-armeabi_v7a.apk",
+        "url": "https://ghfast.top/https://raw.githubusercontent.com/lystv/fmapp/846d9cb0e5d0db6bdabca8a3c1472dbc0c81c0dc/apk/release/leanback-python-armeabi_v7a.apk",
         "icon": "https://ghfast.top/https://raw.githubusercontent.com/lystv/fmapp/img/log/okys.jpg",
-        "version": "OK-2.7.5"
+        "version": "OK-2.7.6"
       },
       {
         "name": "電視-py64",
-        "url": "https://ghfast.top/https://raw.githubusercontent.com/lystv/fmapp/cb87e7dc511e81d87f426bbdcdf4bfcf1a3fb514/apk/release/leanback-python-arm64_v8a.apk",
+        "url": "https://ghfast.top/https://raw.githubusercontent.com/lystv/fmapp/846d9cb0e5d0db6bdabca8a3c1472dbc0c81c0dc/apk/release/leanback-python-arm64_v8a.apk",
         "icon": "https://ghfast.top/https://raw.githubusercontent.com/lystv/fmapp/img/log/okys.jpg",
-        "version": "OK-2.7.5"
+        "version": "OK-2.7.6"
       },
       {
         "name": "海信電視专版",
-        "url": "https://ghfast.top/https://raw.githubusercontent.com/lystv/fmapp/cb87e7dc511e81d87f426bbdcdf4bfcf1a3fb514/apk/dev/海信专版.apk",
+        "url": "https://ghfast.top/https://raw.githubusercontent.com/lystv/fmapp/846d9cb0e5d0db6bdabca8a3c1472dbc0c81c0dc/apk/dev/海信专版.apk",
         "icon": "https://ghfast.top/https://raw.githubusercontent.com/lystv/fmapp/img/log/okys.jpg",
-        "version": "OK-2.7.5"
+        "version": "OK-2.7.6"
       },
       {
         "name": "電視x5离线版",
-        "url": "https://ghfast.top/https://raw.githubusercontent.com/lystv/fmapp/cb87e7dc511e81d87f426bbdcdf4bfcf1a3fb514/apk/dev/电视版-X5离线.apk",
+        "url": "https://ghfast.top/https://raw.githubusercontent.com/lystv/fmapp/846d9cb0e5d0db6bdabca8a3c1472dbc0c81c0dc/apk/dev/电视版-X5离线.apk",
         "icon": "https://ghfast.top/https://raw.githubusercontent.com/lystv/fmapp/img/log/okys.jpg",
-        "version": "OK-2.7.5"
+        "version": "OK-2.7.6"
       },
       {
         "name": "手機-java32",
-        "url": "https://ghfast.top/https://raw.githubusercontent.com/lystv/fmapp/cb87e7dc511e81d87f426bbdcdf4bfcf1a3fb514/apk/release/mobile-java-armeabi_v7a.apk",
+        "url": "https://ghfast.top/https://raw.githubusercontent.com/lystv/fmapp/846d9cb0e5d0db6bdabca8a3c1472dbc0c81c0dc/apk/release/mobile-java-armeabi_v7a.apk",
         "icon": "https://ghfast.top/https://raw.githubusercontent.com/lystv/fmapp/img/log/okys.jpg",
-        "version": "OK-2.7.5"
+        "version": "OK-2.7.6"
       },
       {
         "name": "手機-java64",
-        "url": "https://ghfast.top/https://raw.githubusercontent.com/lystv/fmapp/cb87e7dc511e81d87f426bbdcdf4bfcf1a3fb514/apk/release/mobile-java-arm64_v8a.apk",
+        "url": "https://ghfast.top/https://raw.githubusercontent.com/lystv/fmapp/846d9cb0e5d0db6bdabca8a3c1472dbc0c81c0dc/apk/release/mobile-java-arm64_v8a.apk",
         "icon": "https://ghfast.top/https://raw.githubusercontent.com/lystv/fmapp/img/log/okys.jpg",
-        "version": "OK-2.7.5"
+        "version": "OK-2.7.6"
       },
       {
         "name": "手機-py32",
-        "url": "https://ghfast.top/https://raw.githubusercontent.com/lystv/fmapp/cb87e7dc511e81d87f426bbdcdf4bfcf1a3fb514/apk/release/mobile-python-armeabi_v7a.apk",
+        "url": "https://ghfast.top/https://raw.githubusercontent.com/lystv/fmapp/846d9cb0e5d0db6bdabca8a3c1472dbc0c81c0dc/apk/release/mobile-python-armeabi_v7a.apk",
         "icon": "https://ghfast.top/https://raw.githubusercontent.com/lystv/fmapp/img/log/okys.jpg",
-        "version": "OK-2.7.5"
+        "version": "OK-2.7.6"
       },
       {
         "name": "手機-py64",
-        "url": "https://ghfast.top/https://raw.githubusercontent.com/lystv/fmapp/cb87e7dc511e81d87f426bbdcdf4bfcf1a3fb514/apk/release/mobile-python-arm64_v8a.apk",
+        "url": "https://ghfast.top/https://raw.githubusercontent.com/lystv/fmapp/846d9cb0e5d0db6bdabca8a3c1472dbc0c81c0dc/apk/release/mobile-python-arm64_v8a.apk",
         "icon": "https://ghfast.top/https://raw.githubusercontent.com/lystv/fmapp/img/log/okys.jpg",
-        "version": "OK-2.7.5"
+        "version": "OK-2.7.6"
       },
       {
         "name": "手機pro",
