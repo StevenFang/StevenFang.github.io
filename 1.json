@@ -1,5 +1,5 @@
 {
-  "spider": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1739703191057/0126.jar;md5;f3110f8ad96233627b3e6870cfdbd598",
+  "spider": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1740016897131/cs.jar;md5;f30775df2600460567dc599fd044be81",
   "wallpaper": "https://xn--11x805d.xn--4kq62z5rby2qupq9ub.xyz/",
   "sites": [
     {
@@ -126,16 +126,20 @@
       "ext": "https://gitee.com/smallmi1007/mimi/raw/master/kanqiu.js"
     },
     {
-      "key": "吃饱",
-      "name": "🪴吃饱┃1080P",
+      "key": "csp_热播",
+      "name": "🔥热播┃1080P",
       "type": 3,
-      "api": "https://gitee.com/zj521jj/little-tiger-spot/raw/master/drpy_libs/drpy2.min.js",
-      "searchable": 1,
       "quickSearch": 1,
-      "filterable": 1,
-      "order_num": 0,
-      "changeable": 0,
-      "ext": "https://gitee.com/smallmi1007/mimi/raw/master/wencai.js"
+      "api": "csp_AppRJ",
+      "ext": "http://v.rbotv.cn/"
+    },
+    {
+      "key": "csp_天天",
+      "name": "🫒天天┃1080P",
+      "type": 3,
+      "quickSearch": 1,
+      "api": "csp_AppTian",
+      "ext": ""
     },
     {
       "key": "csp_麻花",
@@ -205,24 +209,10 @@
       "api": "csp_Gz360"
     },
     {
-      "key": "csp_AppNG",
-      "name": "🎃南瓜┃1080P",
-      "type": 3,
-      "api": "csp_AppNG"
-    },
-    {
       "key": "csp_Jpys",
       "name": "🥇金牌┃1080P",
       "type": 3,
       "api": "csp_Jpys"
-    },
-    {
-      "key": "csp_SuBaiBai",
-      "name": "☁️白白┃1080P",
-      "type": 3,
-      "api": "csp_SuBaiBai",
-      "playerType": 2,
-      "ext": "https://www.subaibaiys.com"
     },
     {
       "key": "csp_Wwys",
