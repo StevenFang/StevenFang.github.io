@@ -117,6 +117,18 @@
       "ext": "https://gitee.com/smallmi1007/mimi/raw/master/kanqiu.js"
     },
     {
+      "key": "游戏直播",
+      "name": "🎮游戏┃直播",
+      "type": 3,
+      "api": "https://acbox.app/f/kPQOtg/nmlive.py",
+      "searchable": 0,
+      "quickSearch": 0,
+      "filterable": 1,
+      "order_num": 0,
+      "changeable": 0,
+      "ext": ""
+    },
+    {
       "key": "csp_热播",
       "name": "🔥热播┃1080P",
       "type": 3,
