@@ -1,5 +1,5 @@
 {
-  "spider": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1740016897131/cs.jar;md5;f30775df2600460567dc599fd044be81",
+  "spider": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1740365131257/0224.jar;md5;4cfaa3add65e69b8b58cee4f045c0db8",
   "wallpaper": "https://xn--11x805d.xn--4kq62z5rby2qupq9ub.xyz/",
   "sites": [
     {
@@ -129,20 +129,25 @@
       "ext": ""
     },
     {
-      "key": "csp_热播",
-      "name": "🔥热播┃1080P",
+      "key": "天天",
+      "name": "🦢天天┃1080P",
       "type": 3,
-      "quickSearch": 1,
       "api": "csp_AppRJ",
-      "ext": "http://v.rbotv.cn/"
+      "ext": "sHR2rlsfjI4L3t4RXQMknxhunFUlA4159TKiKvIPpfcM1xianxebcSLajBbwFymqC+z9WoGzQYbh7FSvh8KdiC0BKF0CalaPaCEMOZm+ClGEeNzXAaR0FnrV04SiB2NK"
     },
     {
-      "key": "csp_天天",
-      "name": "🫒天天┃1080P",
+      "key": "热热",
+      "name": "🏜热热┃1080P",
       "type": 3,
-      "quickSearch": 1,
-      "api": "csp_AppTian",
-      "ext": ""
+      "api": "csp_AppRJ",
+      "ext": "sHR2rlsfjI4L3t4RXQMkn9mmg6Ofmy66+wcs9waIyn4hKqT9jG9s4kO6qzcu2OSqWS1/T+wfkqe+UwoipekwvcM11PTDrQqKYI8lmMXUc1vBHxp/2uWIw5HUoscBNWEb"
+    },
+    {
+      "key": "追剧",
+      "name": "🏈追剧┃1080P",
+      "type": 3,
+      "api": "csp_AppRJ",
+      "ext": "sHR2rlsfjI4L3t4RXQMkn9NPgTvCXvJVoUvXJHT6PqBNTg88Q5I4mc95m2RizprWhdAIQNMU/HShly4WRNzUsfhvqzHXHhHD57G7QagNV0Cx+WDSBgm0uZMAbZVHmzjM"
     },
     {
       "key": "csp_麻花",
