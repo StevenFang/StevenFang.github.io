@@ -38,7 +38,7 @@ jobs:
 
     - name: Modify URLs in yysd-zl.json and save as yysd-dl.json
       run: |
-        jq 'walk(if type == "object" then with_entries(if (.value | type) == "string" and (.value | test("^https://")) then .value |= "https://ghfast.top/" + . else . end) else . end)' yysd-zl.json > yysd-dl.json
+        jq 'walk(if type == "object" then with_entries(if (.value | type) == "string" and (.value | test("^https://")) then .value |= "https://ghproxy.net/" + . else . end) else . end)' yysd-zl.json > yysd-dl.json
 
     - name: Commit and push changes
       run: |
