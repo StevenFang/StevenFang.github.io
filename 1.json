@@ -125,6 +125,15 @@
       "ext": ""
     },
     {
+      "key": "巧技",
+      "name": "🚗来源┃巧记",
+      "type": 3,
+      "api": "csp_qiao2",
+      "playerType": 2,
+      "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1740559814912/qiaoji2.jar;md5;699723f205e4b8d409ccbbad8d4a7780",
+      "ext": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1740038979341/cksp.txt"
+    },
+    {
       "key": "天天",
       "name": "🦢天天┃1080P",
       "type": 3,
