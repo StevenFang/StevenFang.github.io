@@ -1,17 +1,17 @@
 {
-  "spider": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1740365131257/0224.jar;md5;4cfaa3add65e69b8b58cee4f045c0db8",
+  "spider": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1740553585257/0226.jar;md5;cdc1485ea07ff1acfd9cd630fa11fc36",
   "wallpaper": "https://xn--11x805d.xn--4kq62z5rby2qupq9ub.xyz/",
   "sites": [
     {
       "key": "豆豆",
-      "name": "🌈豆瓣┃新年快乐：接口已移交开源平台 请测试完删除处理",
+      "name": "🌈豆瓣┃接口已移交开源平台 请测试完删除处理",
       "type": 3,
       "api": "csp_Douban",
       "searchable": 0
     },
     {
       "key": "config",
-      "name": "⚙云盘┃配置中心",
+      "name": "⚙云盘┃配置中心 UC扫两次码",
       "type": 3,
       "api": "csp_Config",
       "searchable": 0
