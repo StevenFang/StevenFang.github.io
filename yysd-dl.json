@@ -34,15 +34,15 @@
       },
       {
         "name": "手機-py32",
-        "url": "https://ghproxy.net/https://raw.githubusercontent.com/lystv/fmapp/011f6255e717de8a90c044fcbd31712dd444196d/apk/release/mobile-python-armeabi_v7a.apk",
+        "url": "https://ghproxy.net/https://raw.githubusercontent.com/lystv/fmapp/5edf804a2e069a90cd2eebfb10e14ad595515b55/apk/release/mobile-python-armeabi_v7a.apk",
         "icon": "https://ghproxy.net/https://raw.githubusercontent.com/lystv/fmapp/img/log/ys.jpg",
-        "version": "FM-3.1.6"
+        "version": "FM-3.1.7"
       },
       {
         "name": "電視-py32",
-        "url": "https://ghproxy.net/https://raw.githubusercontent.com/lystv/fmapp/011f6255e717de8a90c044fcbd31712dd444196d/apk/release/leanback-python-armeabi_v7a.apk",
+        "url": "https://ghproxy.net/https://raw.githubusercontent.com/lystv/fmapp/5edf804a2e069a90cd2eebfb10e14ad595515b55/apk/release/leanback-python-armeabi_v7a.apk",
         "icon": "https://ghproxy.net/https://raw.githubusercontent.com/lystv/fmapp/img/log/ys.jpg",
-        "version": "FM-3.1.6"
+        "version": "FM-3.1.7"
       }
     ]
   },
@@ -129,51 +129,51 @@
       },
       {
         "name": "電視-java32",
-        "url": "https://ghproxy.net/https://raw.githubusercontent.com/lystv/fmapp/011f6255e717de8a90c044fcbd31712dd444196d/apk/release/leanback-java-armeabi_v7a.apk",
+        "url": "https://ghproxy.net/https://raw.githubusercontent.com/lystv/fmapp/5edf804a2e069a90cd2eebfb10e14ad595515b55/apk/release/leanback-java-armeabi_v7a.apk",
         "icon": "https://ghproxy.net/https://raw.githubusercontent.com/lystv/fmapp/img/log/ys.jpg",
-        "version": "FM-3.1.6"
+        "version": "FM-3.1.7"
       },
       {
         "name": "電視-java64",
-        "url": "https://ghproxy.net/https://raw.githubusercontent.com/lystv/fmapp/011f6255e717de8a90c044fcbd31712dd444196d/apk/release/leanback-java-arm64_v8a.apk",
+        "url": "https://ghproxy.net/https://raw.githubusercontent.com/lystv/fmapp/5edf804a2e069a90cd2eebfb10e14ad595515b55/apk/release/leanback-java-arm64_v8a.apk",
         "icon": "https://ghproxy.net/https://raw.githubusercontent.com/lystv/fmapp/img/log/ys.jpg",
-        "version": "FM-3.1.6"
+        "version": "FM-3.1.7"
       },
       {
         "name": "電視-py32",
-        "url": "https://ghproxy.net/https://raw.githubusercontent.com/lystv/fmapp/011f6255e717de8a90c044fcbd31712dd444196d/apk/release/leanback-python-armeabi_v7a.apk",
+        "url": "https://ghproxy.net/https://raw.githubusercontent.com/lystv/fmapp/5edf804a2e069a90cd2eebfb10e14ad595515b55/apk/release/leanback-python-armeabi_v7a.apk",
         "icon": "https://ghproxy.net/https://raw.githubusercontent.com/lystv/fmapp/img/log/ys.jpg",
-        "version": "FM-3.1.6"
+        "version": "FM-3.1.7"
       },
       {
         "name": "電視-py64",
-        "url": "https://ghproxy.net/https://raw.githubusercontent.com/lystv/fmapp/011f6255e717de8a90c044fcbd31712dd444196d/apk/release/leanback-python-arm64_v8a.apk",
+        "url": "https://ghproxy.net/https://raw.githubusercontent.com/lystv/fmapp/5edf804a2e069a90cd2eebfb10e14ad595515b55/apk/release/leanback-python-arm64_v8a.apk",
         "icon": "https://ghproxy.net/https://raw.githubusercontent.com/lystv/fmapp/img/log/ys.jpg",
-        "version": "FM-3.1.6"
+        "version": "FM-3.1.7"
       },
       {
         "name": "手機-java32",
-        "url": "https://ghproxy.net/https://raw.githubusercontent.com/lystv/fmapp/011f6255e717de8a90c044fcbd31712dd444196d/apk/release/mobile-java-armeabi_v7a.apk",
+        "url": "https://ghproxy.net/https://raw.githubusercontent.com/lystv/fmapp/5edf804a2e069a90cd2eebfb10e14ad595515b55/apk/release/mobile-java-armeabi_v7a.apk",
         "icon": "https://ghproxy.net/https://raw.githubusercontent.com/lystv/fmapp/img/log/ys.jpg",
-        "version": "FM-3.1.6"
+        "version": "FM-3.1.7"
       },
       {
         "name": "手機-java64",
-        "url": "https://ghproxy.net/https://raw.githubusercontent.com/lystv/fmapp/011f6255e717de8a90c044fcbd31712dd444196d/apk/release/mobile-java-arm64_v8a.apk",
+        "url": "https://ghproxy.net/https://raw.githubusercontent.com/lystv/fmapp/5edf804a2e069a90cd2eebfb10e14ad595515b55/apk/release/mobile-java-arm64_v8a.apk",
         "icon": "https://ghproxy.net/https://raw.githubusercontent.com/lystv/fmapp/img/log/ys.jpg",
-        "version": "FM-3.1.6"
+        "version": "FM-3.1.7"
       },
       {
         "name": "手機-py32",
-        "url": "https://ghproxy.net/https://raw.githubusercontent.com/lystv/fmapp/011f6255e717de8a90c044fcbd31712dd444196d/apk/release/mobile-python-armeabi_v7a.apk",
+        "url": "https://ghproxy.net/https://raw.githubusercontent.com/lystv/fmapp/5edf804a2e069a90cd2eebfb10e14ad595515b55/apk/release/mobile-python-armeabi_v7a.apk",
         "icon": "https://ghproxy.net/https://raw.githubusercontent.com/lystv/fmapp/img/log/ys.jpg",
-        "version": "FM-3.1.6"
+        "version": "FM-3.1.7"
       },
       {
         "name": "手機-py64",
-        "url": "https://ghproxy.net/https://raw.githubusercontent.com/lystv/fmapp/011f6255e717de8a90c044fcbd31712dd444196d/apk/release/mobile-python-arm64_v8a.apk",
+        "url": "https://ghproxy.net/https://raw.githubusercontent.com/lystv/fmapp/5edf804a2e069a90cd2eebfb10e14ad595515b55/apk/release/mobile-python-arm64_v8a.apk",
         "icon": "https://ghproxy.net/https://raw.githubusercontent.com/lystv/fmapp/img/log/ys.jpg",
-        "version": "FM-3.1.6"
+        "version": "FM-3.1.7"
       }
     ]
   },
