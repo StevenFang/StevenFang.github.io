@@ -13,7 +13,7 @@
       "key": "更新应用",
       "name": "更新应用",
       "type": 3,
-      "api": "csp_Market",
+      "api": "csp_MarketGuard",
       "searchable": 0,
       "changeable": 0,
       "ext": "https://xinxinbaobao.tk/yysd-dl.json"
