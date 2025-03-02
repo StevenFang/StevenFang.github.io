@@ -4,15 +4,15 @@
         "list": [
             {
                 "name": "手機-py32",
-                "url": "https://raw.githubusercontent.com/lystv/fmapp/846d9cb0e5d0db6bdabca8a3c1472dbc0c81c0dc/apk/release/mobile-python-armeabi_v7a.apk",
+                "url": "https://raw.githubusercontent.com/lystv/fmapp/cbb7e7ce74da18a3640471a53dc90a265cd5ff7a/apk/release/mobile-python-armeabi_v7a.apk",
                 "icon": "https://raw.githubusercontent.com/lystv/fmapp/img/log/okys.jpg",
-                "version": "OK-2.7.6"
+                "version": "OK-2.7.8"
             },
             {
                 "name": "電視-py32",
-                "url": "https://raw.githubusercontent.com/lystv/fmapp/846d9cb0e5d0db6bdabca8a3c1472dbc0c81c0dc/apk/release/leanback-python-armeabi_v7a.apk",
+                "url": "https://raw.githubusercontent.com/lystv/fmapp/cbb7e7ce74da18a3640471a53dc90a265cd5ff7a/apk/release/leanback-python-armeabi_v7a.apk",
                 "icon": "https://raw.githubusercontent.com/lystv/fmapp/img/log/okys.jpg",
-                "version": "OK-2.7.6"
+                "version": "OK-2.7.8"
             },
             {
                 "name": "4.x電視",
@@ -34,15 +34,15 @@
             },
             {
                 "name": "手機-py32",
-                "url": "https://raw.githubusercontent.com/lystv/fmapp/61bbff9db01f77823285f9def3a4f4beca618152/apk/release/mobile-python-armeabi_v7a.apk",
+                "url": "https://raw.githubusercontent.com/lystv/fmapp/e46d407ff2ae904e3ea2e453c28372617be30220/apk/release/mobile-python-armeabi_v7a.apk",
                 "icon": "https://raw.githubusercontent.com/lystv/fmapp/img/log/ys.jpg",
-                "version": "FM-3.2.1"
+                "version": "FM-3.2.2"
             },
             {
                 "name": "電視-py32",
-                "url": "https://raw.githubusercontent.com/lystv/fmapp/61bbff9db01f77823285f9def3a4f4beca618152/apk/release/leanback-python-armeabi_v7a.apk",
+                "url": "https://raw.githubusercontent.com/lystv/fmapp/e46d407ff2ae904e3ea2e453c28372617be30220/apk/release/leanback-python-armeabi_v7a.apk",
                 "icon": "https://raw.githubusercontent.com/lystv/fmapp/img/log/ys.jpg",
-                "version": "FM-3.2.1"
+                "version": "FM-3.2.2"
             }
         ]
     },
@@ -51,63 +51,63 @@
         "list": [
             {
                 "name": "電視-java32",
-                "url": "https://raw.githubusercontent.com/lystv/fmapp/846d9cb0e5d0db6bdabca8a3c1472dbc0c81c0dc/apk/release/leanback-java-armeabi_v7a.apk",
+                "url": "https://raw.githubusercontent.com/lystv/fmapp/cbb7e7ce74da18a3640471a53dc90a265cd5ff7a/apk/release/leanback-java-armeabi_v7a.apk",
                 "icon": "https://raw.githubusercontent.com/lystv/fmapp/img/log/okys.jpg",
-                "version": "OK-2.7.6"
+                "version": "OK-2.7.8"
             },
             {
                 "name": "電視-java64",
-                "url": "https://raw.githubusercontent.com/lystv/fmapp/846d9cb0e5d0db6bdabca8a3c1472dbc0c81c0dc/apk/release/leanback-java-arm64_v8a.apk",
+                "url": "https://raw.githubusercontent.com/lystv/fmapp/cbb7e7ce74da18a3640471a53dc90a265cd5ff7a/apk/release/leanback-java-arm64_v8a.apk",
                 "icon": "https://raw.githubusercontent.com/lystv/fmapp/img/log/okys.jpg",
-                "version": "OK-2.7.6"
+                "version": "OK-2.7.8"
             },
             {
                 "name": "電視-py32",
-                "url": "https://raw.githubusercontent.com/lystv/fmapp/846d9cb0e5d0db6bdabca8a3c1472dbc0c81c0dc/apk/release/leanback-python-armeabi_v7a.apk",
+                "url": "https://raw.githubusercontent.com/lystv/fmapp/cbb7e7ce74da18a3640471a53dc90a265cd5ff7a/apk/release/leanback-python-armeabi_v7a.apk",
                 "icon": "https://raw.githubusercontent.com/lystv/fmapp/img/log/okys.jpg",
-                "version": "OK-2.7.6"
+                "version": "OK-2.7.8"
             },
             {
                 "name": "電視-py64",
-                "url": "https://raw.githubusercontent.com/lystv/fmapp/846d9cb0e5d0db6bdabca8a3c1472dbc0c81c0dc/apk/release/leanback-python-arm64_v8a.apk",
+                "url": "https://raw.githubusercontent.com/lystv/fmapp/cbb7e7ce74da18a3640471a53dc90a265cd5ff7a/apk/release/leanback-python-arm64_v8a.apk",
                 "icon": "https://raw.githubusercontent.com/lystv/fmapp/img/log/okys.jpg",
-                "version": "OK-2.7.6"
+                "version": "OK-2.7.8"
             },
             {
                 "name": "海信電視专版",
-                "url": "https://raw.githubusercontent.com/lystv/fmapp/846d9cb0e5d0db6bdabca8a3c1472dbc0c81c0dc/apk/dev/海信专版.apk",
+                "url": "https://raw.githubusercontent.com/lystv/fmapp/cbb7e7ce74da18a3640471a53dc90a265cd5ff7a/apk/dev/海信专版.apk",
                 "icon": "https://raw.githubusercontent.com/lystv/fmapp/img/log/okys.jpg",
-                "version": "OK-2.7.6"
+                "version": "OK-2.7.8"
             },
             {
                 "name": "電視x5离线版",
-                "url": "https://raw.githubusercontent.com/lystv/fmapp/846d9cb0e5d0db6bdabca8a3c1472dbc0c81c0dc/apk/dev/电视版-X5离线.apk",
+                "url": "https://raw.githubusercontent.com/lystv/fmapp/cbb7e7ce74da18a3640471a53dc90a265cd5ff7a/apk/dev/电视版-X5离线.apk",
                 "icon": "https://raw.githubusercontent.com/lystv/fmapp/img/log/okys.jpg",
-                "version": "OK-2.7.6"
+                "version": "OK-2.7.8"
             },
             {
                 "name": "手機-java32",
-                "url": "https://raw.githubusercontent.com/lystv/fmapp/846d9cb0e5d0db6bdabca8a3c1472dbc0c81c0dc/apk/release/mobile-java-armeabi_v7a.apk",
+                "url": "https://raw.githubusercontent.com/lystv/fmapp/cbb7e7ce74da18a3640471a53dc90a265cd5ff7a/apk/release/mobile-java-armeabi_v7a.apk",
                 "icon": "https://raw.githubusercontent.com/lystv/fmapp/img/log/okys.jpg",
-                "version": "OK-2.7.6"
+                "version": "OK-2.7.8"
             },
             {
                 "name": "手機-java64",
-                "url": "https://raw.githubusercontent.com/lystv/fmapp/846d9cb0e5d0db6bdabca8a3c1472dbc0c81c0dc/apk/release/mobile-java-arm64_v8a.apk",
+                "url": "https://raw.githubusercontent.com/lystv/fmapp/cbb7e7ce74da18a3640471a53dc90a265cd5ff7a/apk/release/mobile-java-arm64_v8a.apk",
                 "icon": "https://raw.githubusercontent.com/lystv/fmapp/img/log/okys.jpg",
-                "version": "OK-2.7.6"
+                "version": "OK-2.7.8"
             },
             {
                 "name": "手機-py32",
-                "url": "https://raw.githubusercontent.com/lystv/fmapp/846d9cb0e5d0db6bdabca8a3c1472dbc0c81c0dc/apk/release/mobile-python-armeabi_v7a.apk",
+                "url": "https://raw.githubusercontent.com/lystv/fmapp/cbb7e7ce74da18a3640471a53dc90a265cd5ff7a/apk/release/mobile-python-armeabi_v7a.apk",
                 "icon": "https://raw.githubusercontent.com/lystv/fmapp/img/log/okys.jpg",
-                "version": "OK-2.7.6"
+                "version": "OK-2.7.8"
             },
             {
                 "name": "手機-py64",
-                "url": "https://raw.githubusercontent.com/lystv/fmapp/846d9cb0e5d0db6bdabca8a3c1472dbc0c81c0dc/apk/release/mobile-python-arm64_v8a.apk",
+                "url": "https://raw.githubusercontent.com/lystv/fmapp/cbb7e7ce74da18a3640471a53dc90a265cd5ff7a/apk/release/mobile-python-arm64_v8a.apk",
                 "icon": "https://raw.githubusercontent.com/lystv/fmapp/img/log/okys.jpg",
-                "version": "OK-2.7.6"
+                "version": "OK-2.7.8"
             },
             {
                 "name": "手機pro",
@@ -129,51 +129,51 @@
             },
             {
                 "name": "電視-java32",
-                "url": "https://raw.githubusercontent.com/lystv/fmapp/61bbff9db01f77823285f9def3a4f4beca618152/apk/release/leanback-java-armeabi_v7a.apk",
+                "url": "https://raw.githubusercontent.com/lystv/fmapp/e46d407ff2ae904e3ea2e453c28372617be30220/apk/release/leanback-java-armeabi_v7a.apk",
                 "icon": "https://raw.githubusercontent.com/lystv/fmapp/img/log/ys.jpg",
-                "version": "FM-3.2.1"
+                "version": "FM-3.2.2"
             },
             {
                 "name": "電視-java64",
-                "url": "https://raw.githubusercontent.com/lystv/fmapp/61bbff9db01f77823285f9def3a4f4beca618152/apk/release/leanback-java-arm64_v8a.apk",
+                "url": "https://raw.githubusercontent.com/lystv/fmapp/e46d407ff2ae904e3ea2e453c28372617be30220/apk/release/leanback-java-arm64_v8a.apk",
                 "icon": "https://raw.githubusercontent.com/lystv/fmapp/img/log/ys.jpg",
-                "version": "FM-3.2.1"
+                "version": "FM-3.2.2"
             },
             {
                 "name": "電視-py32",
-                "url": "https://raw.githubusercontent.com/lystv/fmapp/61bbff9db01f77823285f9def3a4f4beca618152/apk/release/leanback-python-armeabi_v7a.apk",
+                "url": "https://raw.githubusercontent.com/lystv/fmapp/e46d407ff2ae904e3ea2e453c28372617be30220/apk/release/leanback-python-armeabi_v7a.apk",
                 "icon": "https://raw.githubusercontent.com/lystv/fmapp/img/log/ys.jpg",
-                "version": "FM-3.2.1"
+                "version": "FM-3.2.2"
             },
             {
                 "name": "電視-py64",
-                "url": "https://raw.githubusercontent.com/lystv/fmapp/61bbff9db01f77823285f9def3a4f4beca618152/apk/release/leanback-python-arm64_v8a.apk",
+                "url": "https://raw.githubusercontent.com/lystv/fmapp/e46d407ff2ae904e3ea2e453c28372617be30220/apk/release/leanback-python-arm64_v8a.apk",
                 "icon": "https://raw.githubusercontent.com/lystv/fmapp/img/log/ys.jpg",
-                "version": "FM-3.2.1"
+                "version": "FM-3.2.2"
             },
             {
                 "name": "手機-java32",
-                "url": "https://raw.githubusercontent.com/lystv/fmapp/61bbff9db01f77823285f9def3a4f4beca618152/apk/release/mobile-java-armeabi_v7a.apk",
+                "url": "https://raw.githubusercontent.com/lystv/fmapp/e46d407ff2ae904e3ea2e453c28372617be30220/apk/release/mobile-java-armeabi_v7a.apk",
                 "icon": "https://raw.githubusercontent.com/lystv/fmapp/img/log/ys.jpg",
-                "version": "FM-3.2.1"
+                "version": "FM-3.2.2"
             },
             {
                 "name": "手機-java64",
-                "url": "https://raw.githubusercontent.com/lystv/fmapp/61bbff9db01f77823285f9def3a4f4beca618152/apk/release/mobile-java-arm64_v8a.apk",
+                "url": "https://raw.githubusercontent.com/lystv/fmapp/e46d407ff2ae904e3ea2e453c28372617be30220/apk/release/mobile-java-arm64_v8a.apk",
                 "icon": "https://raw.githubusercontent.com/lystv/fmapp/img/log/ys.jpg",
-                "version": "FM-3.2.1"
+                "version": "FM-3.2.2"
             },
             {
                 "name": "手機-py32",
-                "url": "https://raw.githubusercontent.com/lystv/fmapp/61bbff9db01f77823285f9def3a4f4beca618152/apk/release/mobile-python-armeabi_v7a.apk",
+                "url": "https://raw.githubusercontent.com/lystv/fmapp/e46d407ff2ae904e3ea2e453c28372617be30220/apk/release/mobile-python-armeabi_v7a.apk",
                 "icon": "https://raw.githubusercontent.com/lystv/fmapp/img/log/ys.jpg",
-                "version": "FM-3.2.1"
+                "version": "FM-3.2.2"
             },
             {
                 "name": "手機-py64",
-                "url": "https://raw.githubusercontent.com/lystv/fmapp/61bbff9db01f77823285f9def3a4f4beca618152/apk/release/mobile-python-arm64_v8a.apk",
+                "url": "https://raw.githubusercontent.com/lystv/fmapp/e46d407ff2ae904e3ea2e453c28372617be30220/apk/release/mobile-python-arm64_v8a.apk",
                 "icon": "https://raw.githubusercontent.com/lystv/fmapp/img/log/ys.jpg",
-                "version": "FM-3.2.1"
+                "version": "FM-3.2.2"
             }
         ]
     },
