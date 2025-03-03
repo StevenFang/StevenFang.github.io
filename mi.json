@@ -1,5 +1,5 @@
 {
-  "spider": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1740714715317/0228JG1.jar;md5;3431e066d826898204cff7bc35683fed",
+  "spider": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1740965943760/03031.jar;md5;d9c9d5c04a38cc756d5035527039013c",
   "wallpaper": "https://xn--11x805d.xn--4kq62z5rby2qupq9ub.xyz/",
   "sites": [
     {
@@ -95,13 +95,12 @@
       "key": "88看球",
       "name": "🏀看球┃直播",
       "type": 3,
-      "api": "https://gitee.com/zj521jj/little-tiger-spot/raw/master/drpy_libs/drpy2.min.js",
+      "api": "csp_KanQiuGuard",
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 1,
       "order_num": 0,
-      "changeable": 0,
-      "ext": "https://gitee.com/smallmi1007/mimi/raw/master/kanqiu.js"
+      "changeable": 0
     },
     {
       "key": "游戏直播",
@@ -116,12 +115,22 @@
       "ext": ""
     },
     {
+      "key": "悠悠",
+      "name": "🏊悠悠┃1080P",
+      "type": 3,
+      "api": "csp_Muou",
+      "playerType": 2,
+      "quickSearch": 1,
+      "ext": "caHR0cDovL3UzYS50dHhnenMuY2585LyY5LyY5YWUfDQuMS44",
+      "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1740965279595/0303.jar;md5;ec975f203099b42d6286751914e27fc9"
+    },
+    {
       "key": "巧技",
-      "name": "🚗来源┃巧记",
+      "name": "🚗巧记┃1080P",
       "type": 3,
       "api": "csp_qiao2",
       "playerType": 2,
-      "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1740559814912/qiaoji2.jar;md5;699723f205e4b8d409ccbbad8d4a7780",
+      "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1740965279595/0303.jar;md5;ec975f203099b42d6286751914e27fc9",
       "ext": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1740038979341/cksp.txt"
     },
     {
@@ -146,6 +155,13 @@
       "ext": "sHR2rlsfjI4L3t4RXQMkn9NPgTvCXvJVoUvXJHT6PqBNTg88Q5I4mc95m2RizprWhdAIQNMU/HShly4WRNzUsfhvqzHXHhHD57G7QagNV0Cx+WDSBgm0uZMAbZVHmzjM"
     },
     {
+      "key": "光速",
+      "name": "🌟光速┃1080P",
+      "type": 3,
+      "api": "csp_AppGetV2Guard",
+      "ext": "sHR2rlsfjI4L3t4RXQMkn97hxHYaEbu5lFfPUXOxEzpAZL11z+ayZEbLSb3vs/v8ZS0i6U3Oh/aCVpUdIeZzRgc5TQyB2k7aC0UwqxoW281lBnRyLoSPb+ejqJ92E4RYuH9BABywIr8NA9Bn0Ndnl5c+AJCGNVdUwDUcd6fmGzQoQ+VuzRpX5xfgCbnpjcTp56dL50nhDb7IIe7CtKv7pA=="
+    },
+    {
       "key": "csp_麻花",
       "name": "🍡麻花┃1080P",
       "type": 3,
@@ -163,28 +179,12 @@
       "ext": "sHR2rlsfjI4L3t4RXQMkn0xaBCNcSQUCvczzn7zWpJd7PJ5uE10QNLrWWS17wAYgh1d6T+lyAGWYDDt/yJr/VNQuyK2VSIuevNakK2GvE1EQejlklHv7etmkohoSdYeXfClYcFjVBjQD/3ueLIRu5mRtC17xwZEKgga5OKghvkNOKFHeBC8zljBC+o7LY640uwI3xUCS6H6I1Xn+MXnhLIdXvzJq3jAPBvKIxWrDUVfkCH94kY9cJ8WJisUFWHbs"
     },
     {
-      "key": "csp_兄弟",
-      "name": "👬兄弟┃1080P",
-      "type": 3,
-      "quickSearch": 1,
-      "api": "csp_AppGetV2Guard",
-      "ext": "sHR2rlsfjI4L3t4RXQMkn/5M8HcHgek+Ooq1I/D7QwiKWuFuH+GgIBIVVLdQZft6Mk9Fka1EbHxTztWHQiNgHXHiVvk+ejCBjD0BSR7r/OQwRXL/hnWvB8cCuPH3bAlRsZq1yhTb0zSRe2x+RTMdYfwvn+DcgXmgQUv3onmUYi/m3QjlolWtutbTn4SlOrjxkhOqN1iBdPJ37o3/6zKuYuEx9lEF8Vwgc6SSDnjuQ4O3nhZ4IkkS5Le3RdRoVDwe"
-    },
-    {
       "key": "电影",
       "name": "🎬电影┃1080P",
       "type": 3,
       "quickSearch": 0,
       "api": "csp_AppGetV2Guard",
       "ext": "sHR2rlsfjI4L3t4RXQMkn9pXqDDJVVS6pwdk2S4nTvU6TUFngKGexyvHMXSXO57AN6M4LsBHwZ1tcHnPZ2gPH1m7qu7r1zc7CkawgqunMPxZznGnqtbiv5NVOliQUr2NK4Pee7PFE2+BCvbGUPd3IR9Hiub1wBkbrfqjptJFLEpVXeR1pgeGp6pPUjADtyQPuXHj4azaFzDrobUCcdcn7KM6ZC4rjkupd5HlbdqhOJTRBv917h5RUlXs1sgRU1+EWkMXuNopX+18VjWwSrFYPw=="
-    },
-    {
-      "key": "小猫",
-      "name": "🐱小猫┃1080P",
-      "type": 3,
-      "quickSearch": 1,
-      "api": "csp_AppGetV2Guard",
-      "ext": "sHR2rlsfjI4L3t4RXQMkn35bf/1LEoRwqTXcrC7IQ0LqkJ9uquhjeheQXMJ/1jcyl7dTdYTs2tmJx3JQfbM+sLOHa3gv0n6rwfqf5gycuzU7dkNLItKvRFx3Cc438fy/s56XVJJZXZczLxopwnsmcYwYi1Ry6merfTK6wL78+y09P00Emc+qYY6cbo9/0p3aoyI75hXhhWfgk2fsdhl/CJ63tm0h5nu8u2sR6MVAG9bXBLHLiasPCrBhIBKlseXE"
     },
     {
       "key": "︎酷云",
@@ -243,6 +243,14 @@
       "api": "csp_XlysGuard",
       "type": 3,
       "playerType": 2
+    },
+    {
+      "key": "csp_XiaoYi",
+      "name": "🔍小怡┃夸克",
+      "type": 3,
+      "changeable": "0",
+      "api": "csp_XiaoYiGuard",
+      "ext": ""
     },
     {
       "key": "csp_MiSou",
