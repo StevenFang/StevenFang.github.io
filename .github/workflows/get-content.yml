@@ -18,6 +18,7 @@ jobs:
       run: |
         set -e
         curl -s --fail https://jm.xinxinbaobao.tk/?url=https://www.mpanso.com/小米/DEMO.json -o mi.json
+        sleep 1
         curl -s --fail https://jm.xinxinbaobao.tk/?url=https://www.饭太硬.com/tv -o fan.json
         echo "::set-output name=status_code::$?"
         
