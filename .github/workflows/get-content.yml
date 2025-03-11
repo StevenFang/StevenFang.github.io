@@ -18,8 +18,6 @@ jobs:
       run: |
         set -e
         curl -s --fail https://jm.xinxinbaobao.tk/?url=https://www.mpanso.com/小米/DEMO.json -o mi.json
-        sleep 1
-        curl -s --fail http://jm.stevenfang.serv00.net/decoder.php?url=https://www.xn--sss604efuw.com/tv -o fan.json
         echo "::set-output name=status_code::$?"
         
     - name: Validate JSON
@@ -35,7 +33,7 @@ jobs:
       run: |
         git config --local user.email "action@github.com"
         git config --local user.name "GitHub Action"
-        git add mi.json 1.json fan.json
+        git add mi.json 1.json
         if ! git status --porcelain | grep -q '^A\|^M'; then
           echo "No changes to commit"
         else
