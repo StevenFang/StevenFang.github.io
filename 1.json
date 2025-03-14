@@ -1,5 +1,5 @@
 {
-  "spider": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1741238526359/0306.jar;md5;b995874e3ea08d628ac5189f3f3044ea",
+  "spider": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1741939517828/0314.jar;md5;3cd52899a2d7be9a2699ad88ba7e05f5",
   "wallpaper": "https://xn--11x805d.xn--4kq62z5rby2qupq9ub.xyz/",
   "sites": [
     {
@@ -134,16 +134,6 @@
       "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1740965279595/0303.jar;md5;ec975f203099b42d6286751914e27fc9"
     },
     {
-      "key": "追忆",
-      "name": "🦔追忆┃1080P",
-      "type": 3,
-      "api": "csp_Muou",
-      "playerType": 2,
-      "quickSearch": 1,
-      "ext": "caHR0cHM6Ly9tdW91Lmxpbmd1dHYuY2586L+95Ymn5b2x6ZmifDQuMS44",
-      "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1740965279595/0303.jar;md5;ec975f203099b42d6286751914e27fc9"
-    },
-    {
       "key": "巧技",
       "name": "🚗巧记┃1080P",
       "type": 3,
@@ -179,15 +169,6 @@
       "type": 3,
       "api": "csp_AppGetGuard",
       "ext": "sHR2rlsfjI4L3t4RXQMkn97hxHYaEbu5lFfPUXOxEzpAZL11z+ayZEbLSb3vs/v8ZS0i6U3Oh/aCVpUdIeZzRgc5TQyB2k7aC0UwqxoW281lBnRyLoSPb+ejqJ92E4RYuH9BABywIr8NA9Bn0Ndnl5c+AJCGNVdUwDUcd6fmGzQoQ+VuzRpX5xfgCbnpjcTp56dL50nhDb7IIe7CtKv7pA=="
-    },
-    {
-      "key": "csp_良人",
-      "name": "⚽️良人┃1080P",
-      "type": 3,
-      "searchable": 1,
-      "quickSearch": 1,
-      "api": "csp_AppGetGuard",
-      "ext": "sHR2rlsfjI4L3t4RXQMkn0xaBCNcSQUCvczzn7zWpJd7PJ5uE10QNLrWWS17wAYgh1d6T+lyAGWYDDt/yJr/VNQuyK2VSIuevNakK2GvE1EQejlklHv7etmkohoSdYeXfClYcFjVBjQD/3ueLIRu5mRtC17xwZEKgga5OKghvkNOKFHeBC8zljBC+o7LY640uwI3xUCS6H6I1Xn+MXnhLIdXvzJq3jAPBvKIxWrDUVfkCH94kY9cJ8WJisUFWHbs"
     },
     {
       "key": "电影",
@@ -249,21 +230,6 @@
       "api": "csp_LkdyGuard"
     },
     {
-      "key": "csp_Xlys",
-      "name": "🍤哔嘀┃1080P",
-      "api": "csp_XlysGuard",
-      "type": 3,
-      "playerType": 2
-    },
-    {
-      "key": "csp_XiaoYi",
-      "name": "🔍小怡┃夸克",
-      "type": 3,
-      "changeable": "0",
-      "api": "csp_XiaoYiGuard",
-      "ext": ""
-    },
-    {
       "key": "csp_MiSou",
       "name": "🔍米搜┃夸克",
       "type": 3,
@@ -280,17 +246,6 @@
       "style": {
         "type": "rect",
         "ratio": 3.8
-      }
-    },
-    {
-      "key": "csp_LaoBaiBook",
-      "name": "📚老白┃听书",
-      "type": 3,
-      "api": "csp_LaoBaiBookGuard",
-      "searchable": 1,
-      "style": {
-        "type": "rect",
-        "ratio": 1.333
       }
     },
     {
