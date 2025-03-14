@@ -1,5 +1,5 @@
 {
-  "spider": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1741943575993/03141.jar;md5;457c4557e86f839cab4fe03c3d42b679",
+  "spider": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1741945467175/0316.jar;md5;51dc2342c1e48011abea02232666681a",
   "wallpaper": "https://xn--11x805d.xn--4kq62z5rby2qupq9ub.xyz/",
   "sites": [
     {
@@ -15,24 +15,6 @@
       "type": 3,
       "api": "csp_ConfigGuard",
       "searchable": 0
-    },
-    {
-      "key": "csp_Wogg",
-      "name": "🧸玩偶┃4K弹幕",
-      "type": 3,
-      "api": "csp_WoggGuard",
-      "changeable": "0",
-      "filterable": 1,
-      "ext": "Yu2Y3Q8tqDTqZ+GCqfQZz8i/vsP/tl9O+/0ZjpgnBg9L+drzR5a6bo7DML9hTEHvIuMN0JxvcbUflFgvOz4etZ9cUsZ0b7NskUhkBZr0Id9PbDIgsZ9ekl9fNeS9q4Xipo9oU6Q5Q6atElwpmoHUGKG7Vsl4t5dOKwL7zEwqKeKC+hOwoqQ0Ccjk/w0d7AxNitxqpuXuwUKEFEp0Y2iAV9kOnPhy0tVHA/iAWPBbW+3qpX+mjT4olDqSTCNwM4jlKSEh7T+9Kzd/c6ODYsOOElZCPkbPU2wMODtMy2eLwzObRLWezUVwTsB+yqoAwknHj2ZHwVNpoDaMDXzelDwflfqX4z8lGYdMdy2cpdl4mf5PVsDuHct1NjAG09cwhzYaB+5iavBavMH1msIipo7esn9YDgsgvxPsIO4LoZpHHW4="
-    },
-    {
-      "key": "csp_erxiao",
-      "name": "🦔小二┃4K弹幕",
-      "type": 3,
-      "api": "csp_LaoerGuard",
-      "changeable": "0",
-      "filterable": 1,
-      "ext": "Yu2Y3Q8tqDTqZ+GCqfQZz8i/vsP/tl9O+/0ZjpgnBg8HRLDJRyMSnpYFvc3YcUKU7vtA8mtXyVDjnV9pt/m9F+Dy9vcsYhE5I3gPSHX/Z4UhpGqxG0uco9soay9jugu36r59f6MIJBttWnObP2fF98lUKF8D16Dj8Ad8ecPvLAaul0+DuYjuLYYsyVPXP5oPMeZFc80SDDtrf1IVvlL4zhKXVd6jUlX4glAhU2a5buzkfT7btT2Yl63A4fcneACYgICJKmGRSpqxxDZUh2TmUpBDQtpwZyB1PawBjycHdvyS1CgNB09cwXXF8Dfl0PE+JfkKJLTN96xQgqxa1RQie0ytMeJXxADP2SLb2W65WZmhuiGNSH2M3d9EsYgo6P1/YD/9QulK1XKoBt3oBb532suo8xaBshspOloFJXoOuuI="
     },
     {
       "key": "csp_Netfixtv",
@@ -58,6 +40,15 @@
           "threads": 12
         }
       }
+    },
+    {
+      "key": "csp_Wogg",
+      "name": "🧸玩偶┃4K弹幕",
+      "type": 3,
+      "api": "csp_WoggGuard",
+      "changeable": "0",
+      "filterable": 1,
+      "ext": "Yu2Y3Q8tqDTqZ+GCqfQZz8i/vsP/tl9O+/0ZjpgnBg9L+drzR5a6bo7DML9hTEHvIuMN0JxvcbUflFgvOz4etZ9cUsZ0b7NskUhkBZr0Id9PbDIgsZ9ekl9fNeS9q4Xipo9oU6Q5Q6atElwpmoHUGKG7Vsl4t5dOKwL7zEwqKeKC+hOwoqQ0Ccjk/w0d7AxNitxqpuXuwUKEFEp0Y2iAV9kOnPhy0tVHA/iAWPBbW+3qpX+mjT4olDqSTCNwM4jlKSEh7T+9Kzd/c6ODYsOOElZCPkbPU2wMODtMy2eLwzObRLWezUVwTsB+yqoAwknHj2ZHwVNpoDaMDXzelDwflfqX4z8lGYdMdy2cpdl4mf5PVsDuHct1NjAG09cwhzYaB+5iavBavMH1msIipo7esn9YDgsgvxPsIO4LoZpHHW4="
     },
     {
       "key": "csp_UC",
@@ -306,11 +297,10 @@
       "logo": "https://live.fanmingming.com/tv/{name}.png"
     },
     {
-      "name": "4GTV",
+      "name": "V4聚合（卡顿请按左┃右键换线）",
       "type": 0,
-      "url": "https://tvv.wqwqwq.sbs/iptv.m3u",
-      "playerType": 1,
-      "logo": "https://live.fanmingming.com/tv/{name}.png"
+      "url": "https://github.moeyy.xyz/https://raw.githubusercontent.com/wwb521/live/main/tv.m3u",
+      "playerType": 1
     },
     {
       "name": "IPV6",
