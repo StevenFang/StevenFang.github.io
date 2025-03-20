@@ -22,9 +22,9 @@
             },
             {
                 "name": "手機pro",
-                "url": "https://raw.githubusercontent.com/lystv/fmapp/10a058350cd7290463e92367cafa1d3614930749/apk/pro/mobile-pro.apk",
+                "url": "https://raw.githubusercontent.com/lystv/fmapp//apk/pro/mobile-pro.apk",
                 "icon": "https://raw.githubusercontent.com/lystv/fmapp/img/log/okys.jpg",
-                "version": "OK-3.1.7-pro"
+                "version": "OK-"
             },
             {
                 "name": "電視pro",
@@ -111,9 +111,9 @@
             },
             {
                 "name": "手機pro",
-                "url": "https://raw.githubusercontent.com/lystv/fmapp/10a058350cd7290463e92367cafa1d3614930749/apk/pro/mobile-pro.apk",
+                "url": "https://raw.githubusercontent.com/lystv/fmapp//apk/pro/mobile-pro.apk",
                 "icon": "https://raw.githubusercontent.com/lystv/fmapp/img/log/okys.jpg",
-                "version": "OK-3.1.7-pro"
+                "version": "OK-"
             },
             {
                 "name": "手機pro-emu",
