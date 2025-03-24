@@ -20,7 +20,7 @@
     },
     {
       "key": "config",
-      "name": "⚙云盘┃配置中心 UC扫两次码",
+      "name": "⚙云盘┃配置中心 0324 新增123盘",
       "type": 3,
       "api": "csp_ConfigGuard",
       "searchable": 0
@@ -183,6 +183,13 @@
       "type": 3,
       "api": "csp_AppGetGuard",
       "ext": "sHR2rlsfjI4L3t4RXQMkn97hxHYaEbu5lFfPUXOxEzpAZL11z+ayZEbLSb3vs/v8ZS0i6U3Oh/aCVpUdIeZzRgc5TQyB2k7aC0UwqxoW281lBnRyLoSPb+ejqJ92E4RYuH9BABywIr8NA9Bn0Ndnl5c+AJCGNVdUwDUcd6fmGzQoQ+VuzRpX5xfgCbnpjcTp56dL50nhDb7IIe7CtKv7pA=="
+    },
+    {
+      "key": "咕咕",
+      "name": "🛹番剧┃1080P",
+      "type": 3,
+      "api": "csp_AppGetGuard",
+      "ext": "sHR2rlsfjI4L3t4RXQMknxpaIJpWVf3QzJplZjkP8PMRCMAhDX6EuvKn3nmHvaAsNUZGiKejIkSYz7ryONX2fTpbNlJxpW1MZZY7Zt3lbwTJw/1s2QIhPpqxOmR/0EWAwYNShA0Asl0C1lkcmCbV6PsNna5kYEh7as/WabRCm9KrPTGJu6URWhPGeAaWchMgMYJlwNXFIeA2neoQGplg4A=="
     },
     {
       "key": "电影",
