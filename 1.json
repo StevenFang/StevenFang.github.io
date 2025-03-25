@@ -101,6 +101,20 @@
       }
     },
     {
+      "key": "米偌",
+      "name": "🌽米偌┃APP",
+      "type": 3,
+      "api": "csp_AppMiToGuard",
+      "ext": "or8dey6pioFw+XxkF2wS/ROvkTgbBREH0Xrajzn6qmj+yQUg/WgQKcpbRzKFmuga6KFqTeFicZRR0FRlaLVx3aJYnOfQ/fXiBDdd9sBAYLxoR462Xk3BWzx78Et0Sk6MPcTbmDxsfbXP2HHwfO1erro/SQ7tD1Xxxuem1x/e3ys="
+    },
+    {
+      "key": "鲨鱼",
+      "name": "🦈鲨鱼┃番剧",
+      "type": 3,
+      "api": "csp_AppMiToGuard",
+      "ext": "or8dey6pioFw+XxkF2wS/ajCafYnC7LQ0hx/ENNI7W8VURBxtEBpC/SNu2qbUwv/X4Nu8H4umsPaR1Uhk4gXIb8Krla5IYjKVjXjsvEOFI2TtKTBIZIlnNwSY7QJoAlt11FjyLvUGyG73qU+IKO0A37vYiGqx520IC0a0OlMFBM="
+    },
+    {
       "key": "88看球",
       "name": "🏀看球┃直播",
       "type": 3,
