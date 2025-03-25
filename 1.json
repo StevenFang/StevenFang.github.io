@@ -1,5 +1,5 @@
 {
-  "spider": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1742654868540/0322.jar;md5;235af496bb20fc11d179634f910dd46c",
+  "spider": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1742864900934/xm0325.txt;md5;e1ec04551ab516a8dc63b1bf79247212",
   "wallpaper": "https://xn--11x805d.xn--4kq62z5rby2qupq9ub.xyz/",
   "sites": [
     {
@@ -101,20 +101,6 @@
       }
     },
     {
-      "key": "米偌",
-      "name": "🌽米偌┃APP",
-      "type": 3,
-      "api": "csp_AppMiToGuard",
-      "ext": "or8dey6pioFw+XxkF2wS/ROvkTgbBREH0Xrajzn6qmj+yQUg/WgQKcpbRzKFmuga6KFqTeFicZRR0FRlaLVx3aJYnOfQ/fXiBDdd9sBAYLxoR462Xk3BWzx78Et0Sk6MPcTbmDxsfbXP2HHwfO1erro/SQ7tD1Xxxuem1x/e3ys="
-    },
-    {
-      "key": "鲨鱼",
-      "name": "🦈鲨鱼┃番剧",
-      "type": 3,
-      "api": "csp_AppMiToGuard",
-      "ext": "or8dey6pioFw+XxkF2wS/ajCafYnC7LQ0hx/ENNI7W8VURBxtEBpC/SNu2qbUwv/X4Nu8H4umsPaR1Uhk4gXIb8Krla5IYjKVjXjsvEOFI2TtKTBIZIlnNwSY7QJoAlt11FjyLvUGyG73qU+IKO0A37vYiGqx520IC0a0OlMFBM="
-    },
-    {
       "key": "88看球",
       "name": "🏀看球┃直播",
       "type": 3,
@@ -138,25 +124,6 @@
       "ext": ""
     },
     {
-      "key": "悠悠",
-      "name": "🏊悠悠┃1080P",
-      "type": 3,
-      "api": "csp_Muou",
-      "playerType": 2,
-      "quickSearch": 1,
-      "ext": "caHR0cDovL2FwcC53dWlxLmNufOS8mOS8mOWFlHw0LjEuOA==",
-      "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1740965279595/0303.jar;md5;ec975f203099b42d6286751914e27fc9"
-    },
-    {
-      "key": "巧技",
-      "name": "🚗巧记┃1080P",
-      "type": 3,
-      "api": "csp_qiao2",
-      "playerType": 2,
-      "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1740965279595/0303.jar;md5;ec975f203099b42d6286751914e27fc9",
-      "ext": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1740038979341/cksp.txt"
-    },
-    {
       "key": "天天",
       "name": "🦢天天┃1080P",
       "type": 3,
@@ -164,18 +131,24 @@
       "ext": "sHR2rlsfjI4L3t4RXQMknxhunFUlA4159TKiKvIPpfcM1xianxebcSLajBbwFymqC+z9WoGzQYbh7FSvh8KdiC0BKF0CalaPaCEMOZm+ClGEeNzXAaR0FnrV04SiB2NK"
     },
     {
-      "key": "热热",
-      "name": "🏜热热┃1080P",
+      "key": "悠悠",
+      "name": "🏆悠悠┃1080P",
       "type": 3,
-      "api": "csp_AppRJGuard",
-      "ext": "sHR2rlsfjI4L3t4RXQMkn9mmg6Ofmy66+wcs9waIyn4hKqT9jG9s4kO6qzcu2OSqWS1/T+wfkqe+UwoipekwvcM11PTDrQqKYI8lmMXUc1vBHxp/2uWIw5HUoscBNWEb"
+      "api": "csp_AppYoYoGuard",
+      "ext": "sHR2rlsfjI4L3t4RXQMkn/SuTAP3sPRQGBWuLvcmqKzYseYYi0XppjT3PqIoGpRRJx2sAoWJyjHWCcqf9isoP8aiL8M2UosZyd+iyY9yzqi8hck/Irnt5dVfJ2Tqvgkxj0QLfzdKgsJPOtJLikeRUAw5X2GBxMAu5gKeiJfzcdfSljHqc2ZknSRJGT0REV7D/1aSEatzYLpHbpJgxDEv/ExW7rl0ZR7bG1hFwBAa49P86unuKBPIXp3mTO3p1did8MhIk3hWJ1cLdMG6dYbwAfC4L3jUEFsAyQsCH6uYRYg="
     },
     {
-      "key": "追剧",
-      "name": "🏈追剧┃1080P",
+      "key": "csp_Wwys",
+      "name": "👨农民┃1080P",
       "type": 3,
-      "api": "csp_AppRJGuard",
-      "ext": "sHR2rlsfjI4L3t4RXQMkn9NPgTvCXvJVoUvXJHT6PqBNTg88Q5I4mc95m2RizprWhdAIQNMU/HShly4WRNzUsfhvqzHXHhHD57G7QagNV0Cx+WDSBgm0uZMAbZVHmzjM"
+      "api": "csp_WwysGuard",
+      "ext": "https://www.wwgz.cn"
+    },
+    {
+      "key": "csp_Lgyy",
+      "name": "⏳️️流光┃1080P",
+      "type": 3,
+      "api": "csp_FreeOkGuard"
     },
     {
       "key": "莉莉",
@@ -214,12 +187,19 @@
       "ext": "sHR2rlsfjI4L3t4RXQMkn9pXqDDJVVS6pwdk2S4nTvU6TUFngKGexyvHMXSXO57AN6M4LsBHwZ1tcHnPZ2gPH1m7qu7r1zc7CkawgqunMPxZznGnqtbiv5NVOliQUr2NK4Pee7PFE2+BCvbGUPd3IR9Hiub1wBkbrfqjptJFLEpVXeR1pgeGp6pPUjADtyQPuXHj4azaFzDrobUCcdcn7KM6ZC4rjkupd5HlbdqhOJTRBv917h5RUlXs1sgRU1+EWkMXuNopX+18VjWwSrFYPw=="
     },
     {
-      "key": "︎酷云",
-      "name": "🐰米兔┃1080P",
+      "key": "奇妙",
+      "name": "♟奇妙┃1080P",
       "type": 3,
       "quickSearch": 0,
       "api": "csp_AppGetGuard",
-      "ext": "sHR2rlsfjI4L3t4RXQMkn4/zRHG7KueeJHsenaeUMOWp1EzObBSdbU9et5QXxSbLZNx3dMChdqtSieuV5wZj006LehfFeCmj8B095j2lIKIF0YoQe+MZcPjGy7gtOViYZ6wvyGkzWk6oD1mJmauAyZhYFgIf28dxzY5kbxJVtI2PjlO6xlD2NRNjVM5uVtSkhN2Pf9gmJ5qaWk40c4YC+w=="
+      "ext": "sHR2rlsfjI4L3t4RXQMknxpI3MBzuaDrH2PsBQxC38op5hYp0OZbDn4iJ615slmjVd+iI7Tl5Ue0Vm2GojmSTYMGSFh2aRBmEOKQ0locA9dvNXmz6vCgBlpFeFm/CQ3n1ep2SM+/awX6EoPD8V5c70mEnJDaI5kqnSlhF/wZJ/r0iCysTPux83KtOhToHnBg/VshjW3X7hDXcrKCadFsFw=="
+    },
+    {
+      "key": "米偌",
+      "name": "🌽米偌┃1080P",
+      "type": 3,
+      "api": "csp_AppMiToGuard",
+      "ext": "or8dey6pioFw+XxkF2wS/ROvkTgbBREH0Xrajzn6qmj+yQUg/WgQKcpbRzKFmuga6KFqTeFicZRR0FRlaLVx3aJYnOfQ/fXiBDdd9sBAYLxoR462Xk3BWzx78Et0Sk6MPcTbmDxsfbXP2HHwfO1erro/SQ7tD1Xxxuem1x/e3ys="
     },
     {
       "key": "csp_AppXY",
@@ -238,7 +218,7 @@
       "name": "🦵白白┃1080P",
       "type": 3,
       "api": "csp_SuBaiBaiGuard",
-      "ext": "https://www.subaibai.com/"
+      "ext": "https://www.subaibai.com"
     },
     {
       "key": "csp_LiteApple",
@@ -259,23 +239,19 @@
       "api": "csp_JpysGuard"
     },
     {
-      "key": "csp_Wwys",
-      "name": "👨农民┃1080P",
-      "type": 3,
-      "api": "csp_WwysGuard",
-      "ext": "https://www.wwgz.cn"
-    },
-    {
-      "key": "csp_Lgyy",
-      "name": "⏳️️流光┃1080P",
-      "type": 3,
-      "api": "csp_FreeOkGuard"
-    },
-    {
       "key": "csp_Lkdy",
       "name": "💐来看┃1080P",
       "type": 3,
       "api": "csp_LkdyGuard"
+    },
+    {
+      "key": "巧技",
+      "name": "🚗巧记┃1080P",
+      "type": 3,
+      "api": "csp_qiao2",
+      "playerType": 2,
+      "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1740965279595/0303.jar;md5;ec975f203099b42d6286751914e27fc9",
+      "ext": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1740038979341/cksp.txt"
     },
     {
       "key": "csp_MiSou",
@@ -363,7 +339,7 @@
     {
       "name": "IPV6",
       "type": 0,
-      "url": "https://gh-proxy.com/raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/m3u/ipv6.m3u",
+      "url": "https://live.fanmingming.com/tv/m3u/ipv6.m3u",
       "playerType": 1,
       "logo": "https://live.fanmingming.com/tv/{name}.png"
     },
