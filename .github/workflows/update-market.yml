@@ -47,9 +47,3 @@ jobs:
         git add yysd-zl.json yysd-dl.json
         git diff-index --quiet HEAD || git commit -m 'Update yysd-zl.json and yysd-dl.json with new URLs'
         git push
-
-    - name: Deploy to GitHub Pages
-      uses: peaceiris/actions-gh-pages@v3
-      with:
-        github_token: ${{ secrets.GITHUB_TOKEN }}
-        publish_dir: . # 发布整个仓库内容
