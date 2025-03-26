@@ -27,6 +27,7 @@ jobs:
           echo "Changes detected in yysd-zl.json"
           echo "::set-output name=changed::true"
         fi
+        echo "Changed output: ${{ steps.check_changes.outputs.changed }}"
 
     - name: Stop if no changes
       if: steps.check_changes.outputs.changed == 'false'
