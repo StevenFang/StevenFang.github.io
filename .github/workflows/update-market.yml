@@ -22,15 +22,15 @@ jobs:
       run: |
         if cmp -s current-yysd-zl.json yysd-zl.json; then
           echo "No changes detected in yysd-zl.json"
-          echo "::set-output name=changed::false"
+          echo "changed=false" >> $GITHUB_ENV
         else
           echo "Changes detected in yysd-zl.json"
-          echo "::set-output name=changed::true"
+          echo "changed=true" >> $GITHUB_ENV
         fi
-        echo "Changed output: ${{ steps.check_changes.outputs.changed }}"
+      continue-on-error: true
 
     - name: Stop if no changes
-      if: steps.check_changes.outputs.changed == 'false'
+      if: env.changed == 'false'
       run: exit 0
 
     - name: Update yysd-zl.json
