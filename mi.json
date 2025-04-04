@@ -1,5 +1,5 @@
 {
-	"spider": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1743563721956/0402.jar;md5;bb5b6235948920d74911e12f70b947cd",
+	"spider": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1743783729422/0405.jar;md5;0de2c57f282d4204b236d3432348fee6",
 	"wallpaper": "https://xn--11x805d.xn--4kq62z5rby2qupq9ub.xyz/",
 	"sites": [{
 			"key": "豆豆",
@@ -26,8 +26,9 @@
 			"ext": {
 				"site_urls": [
 					"https://mihdr.top",
+					"https://www.mihdr.top",
 					"http://www.miqk.cc",
-					"https://xiaomiai.site"
+					"https://www.zhizhenpan.fun/"
 				],
 				"url_key": "Netfixtv",
 				"token": "",
@@ -47,7 +48,7 @@
 			"changeable": "0",
 			"quickSearch": 1,
 			"filterable": 1,
-			"ext": "Yu2Y3Q8tqDTqZ+GCqfQZz8i/vsP/tl9O+/0ZjpgnBg9L+drzR5a6bo7DML9hTEHvIuMN0JxvcbUflFgvOz4etZ9cUsZ0b7NskUhkBZr0Id9PbDIgsZ9ekl9fNeS9q4Xipo9oU6Q5Q6atElwpmoHUGKG7Vsl4t5dOKwL7zEwqKeKC+hOwoqQ0Ccjk/w0d7AxNitxqpuXuwUKEFEp0Y2iAV9kOnPhy0tVHA/iAWPBbW+3qpX+mjT4olDqSTCNwM4jlKSEh7T+9Kzd/c6ODYsOOElZCPkbPU2wMODtMy2eLwzObRLWezUVwTsB+yqoAwknHj2ZHwVNpoDaMDXzelDwflfqX4z8lGYdMdy2cpdl4mf5PVsDuHct1NjAG09cwhzYaB+5iavBavMH1msIipo7esn9YDgsgvxPsIO4LoZpHHW4="
+			"ext": "Yu2Y3Q8tqDTqZ+GCqfQZz8i/vsP/tl9O+/0ZjpgnBg9L+drzR5a6bo7DML9hTEHvIuMN0JxvcbUflFgvOz4etZ9cUsZ0b7NskUhkBZr0Id8jSF6uh2VLWSCg2CtmH5o1TtTNh7M3/ltwQq//Spr2kX7vyJVyHNYbVu/LbyQCphXA69Yz8WjqVrK0GsjL+Ik3h6CQSeUSxVsmsygbTWfjFq5Wq6CYigSEVi1MJIiKNCS5cp8Ghq15UINDOnFKRERcz89eu5dSsR9aQX6BVNMdZLwSzxdX+4hT32MaBORYsrm3FFWArSTQdgO0XpnwCxoXyrlOZZA6ewEqkwuIgoDjFOeQEB0B1XkA9COGXhBBN/U253mGVMtzwHTCzpHTSk5MFVpkfjoyaDWZG1SEKMnp7afikfGkM3rn+Vw7Rp3VaPow/4r9kBYdtOiANxRr3/xPWxJdwx8M3BYw8xIlENODkJxzIlYel5FzLMKsR7ZrsZA="
 		},
 		{
 			"key": "csp_UC",
@@ -129,14 +130,6 @@
 			"ext": "sHR2rlsfjI4L3t4RXQMkn9mmg6Ofmy66+wcs9waIyn4hKqT9jG9s4kO6qzcu2OSqWS1/T+wfkqe+UwoipekwvcM11PTDrQqKYI8lmMXUc1vBHxp/2uWIw5HUoscBNWEb"
 		},
 		{
-            "key": "悠悠",
-            "name": "🏆悠悠┃1080P",
-            "type": 3,
-            "quickSearch": 1,
-            "api": "csp_AppYoYoGuard",
-            "ext": "sHR2rlsfjI4L3t4RXQMkn/SuTAP3sPRQGBWuLvcmqKyJw41aUl2TMF+qakB/2SvSF1SywokogMA+eafsTjEwpMnjioYuZ3uAodRzi6b9JRGt/qZkfVS+3YsQmfAQuHaJtqS2wzVicWNabggtAUtATM1uW8wyQOAJwp8YQlLp1CaU1IoFu/lvb6RN6pbaZ82+7ujInKS9UYz01vd68K3JRCGtQvW8dpfu4Grd0IGxl6oo5YUOaKClXJr6NG4MizWXxk4T8TuH7P49u1clps+VY9FQhdsAb3iNo0TGTIdbGaU="
-        },
-		{
 			"key": "csp_Wwys",
 			"name": "👨农民┃1080P",
 			"type": 3,
@@ -151,21 +144,12 @@
 			"quickSearch": 1,
 			"api": "csp_FreeOkGuard"
 		},
-		{
-            "key": "莉莉",
-            "name": "🌰莉莉┃1080P",
-            "type": 3,
-            "quickSearch": 1,
-            "api": "csp_AppGetGuard",
-            "ext": "KsP46vke46cPylpEP8h9kV3zmT6SjdmDzDvTmcpyr8LRfEa9Qx8QS89hxtKQa8cCgFJoMQoWv9b+B8vt0ygfPT/mNGPiZRmiGAyVxAku2+j3eSSpgYb08qs+AMCDe9flsqxxEuN/Dvv0S1Ha/hoZDUoOCF1b38iWz39HWLhDvAC36LjucDxUHrsiJKGzbDtJJ3/9anuoxW5q6dcsMnS49Q=="
-        },
         {
-            "key": "优秀",
-            "name": "🎮优秀┃1080P",
+            "key": "二三",
+            "name": "🐕二三┃1080P",
             "type": 3,
-            "quickSearch": 1,
-            "api": "csp_AppGetGuard",
-            "ext": "rpb8IjZTuzYSqZNn/sGvG+nmDP6c5rlJM5DTXdn6d/OdwIl8hAgvoCnQmL7YkzCXHe+hpViArom3TFB7ORHGx8Gsyk/NiHE7VuNzVMP/C+/r78ogd9EF54Pi+n6PkOaxl7jEppsqJjozMoCPS929dwPWfx4NGsZnpVFvANeZUOzlo4RKfmAaN35kAo+7amKcqawPF/jPPsCEXambLeH+PqICmlcdkCN+3k+Dft4Z8iA="
+            "api": "csp_AppMuouGuard",
+            "ext": "sHR2rlsfjI4L3t4RXQMkn0a7cyj8hTgLGQDyWjFZkT61hGmE5R18ZhLMJJlIIHRp5ExOKgi452hnp8FuUY7LSxZQx7OJfbrcekZ9lorJy3crZXSce0hF8VSymV7+1QsLatyYXT/qCdOJ+V/ONvC8Qp4D3mMHMGs8t9j29y+1Zu2WCQDG7MkiImMiWgydsFhy"
         },
 		{
             "key": "光速",
@@ -182,6 +166,13 @@
             "quickSearch": 1,
             "api": "csp_AppGetGuard",
             "ext": "sHR2rlsfjI4L3t4RXQMknxpaIJpWVf3QzJplZjkP8PMRCMAhDX6EuvKn3nmHvaAsNUZGiKejIkSYz7ryONX2fTpbNlJxpW1MZZY7Zt3lbwTJw/1s2QIhPpqxOmR/0EWAwYNShA0Asl0C1lkcmCbV6PsNna5kYEh7as/WabRCm9KrPTGJu6URWhPGeAaWchMgMYJlwNXFIeA2neoQGplg4A=="
+        },
+           {
+            "key": "人人",
+            "name": "⛄️人人┃1080P",
+            "type": 3,
+            "api": "csp_AppGetGuard",
+            "ext": "sHR2rlsfjI4L3t4RXQMkn5lWAFk63MKp99BaRaCwGwVoPMXpUrRhJupGqVQN8zzRhc0PCuL4mVzuh+KN84Fro7WINX8x2KJlpNKTLBLPlTuVfsg1mblMWUa4ZqZVqz8bk6MbJPrt3r0jg7nCMVsUaeYm/CFBu4z4N5c4sNExHQ44DdF44W2s6KWUWZpSkfRb2WJdy5v0GcpIoQuxWUsh9EnK9D3N3m64NCPyEyiwAVg="
         },
 		{
 			"key": "电影",
@@ -200,20 +191,19 @@
 			"ext": "sHR2rlsfjI4L3t4RXQMknxpI3MBzuaDrH2PsBQxC38op5hYp0OZbDn4iJ615slmjVd+iI7Tl5Ue0Vm2GojmSTYMGSFh2aRBmEOKQ0locA9dvNXmz6vCgBlpFeFm/CQ3n1ep2SM+/awX6EoPD8V5c70mEnJDaI5kqnSlhF/wZJ/r0iCysTPux83KtOhToHnBg/VshjW3X7hDXcrKCadFsFw=="
 		},
 		{
-            "key": "米偌",
-            "name": "🌽米偌┃1080P",
-            "type": 3,
-            "quickSearch": 1,
-            "api": "csp_AppMiToGuard",
-            "ext": "or8dey6pioFw+XxkF2wS/ROvkTgbBREH0Xrajzn6qmj+yQUg/WgQKcpbRzKFmuga6KFqTeFicZRR0FRlaLVx3aJYnOfQ/fXiBDdd9sBAYLxoR462Xk3BWzx78Et0Sk6MPcTbmDxsfbXP2HHwfO1erro/SQ7tD1Xxxuem1x/e3ys="
-        },
-		{
 			"key": "csp_AppXY",
 			"name": "🐸上头┃短剧",
 			"type": 3,
 			"quickSearch": 1,
 			"api": "csp_AppXYGuard"
 		},
+		{
+            "key": "csp_FourK",
+            "name": "👒FourK┃1080P",
+            "type": 3,
+            "api": "csp_FourKGuard",
+            "ext": "https://www.4kvm.tv"
+        },
 		{
 			"key": "csp_SAOHUO",
 			"name": "🔥火火┃1080P",
