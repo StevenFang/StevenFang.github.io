@@ -43,8 +43,8 @@ jobs:
               },
               {
                 "name": "TV-v7a",
-                "url": "https://raw.githubusercontent.com/FongMi/Release/refs/heads/fongmi/apk/release/leanback-armeabi_v7a.apk",
-                "icon": "https://raw.githubusercontent.com/lystv/fmapp/img/log/ys.jpg",
+                "url": "https://github.moeyy.xyz/https://raw.githubusercontent.com/FongMi/Release/refs/heads/fongmi/apk/release/leanback-armeabi_v7a.apk",
+                "icon": "https://github.moeyy.xyz/https://raw.githubusercontent.com/lystv/fmapp/img/log/ys.jpg",
                 "version": "${{ env.LEANBACK_VER }}"
               }
             ]
