@@ -1,0 +1,48 @@
+[
+  {
+    "name": "推荐",
+    "list": [
+      {
+        "name": "mobile-v8a",
+        "url": "https://raw.githubusercontent.com/FongMi/Release/refs/heads/fongmi/apk/release/mobile-armv8a_v8a.apk",
+        "icon": "https://raw.githubusercontent.com/lystv/fmapp/img/log/ys.jpg",
+        "version": "3.4.8"
+      },
+      {
+        "name": "leanback-v7a",
+        "url": "https://raw.githubusercontent.com/FongMi/Release/refs/heads/fongmi/apk/release/leanback-armeabi_v7a.apk",
+        "icon": "https://raw.githubusercontent.com/lystv/fmapp/img/log/ys.jpg",
+        "version": "3.4.8"
+      }
+    ]
+  },
+  {
+    "name": "正式版",
+    "list": [
+      {
+        "name": "leanback-v7a",
+        "url": "https://github.moeyy.xyz/https://raw.githubusercontent.com/FongMi/Release/refs/heads/fongmi/apk/release/leanback-armeabi_v7a.apk",
+        "icon": "https://github.moeyy.xyz/https://raw.githubusercontent.com/lystv/fmapp/img/log/ys.jpg",
+        "version": "3.4.8"
+      },
+      {
+        "name": "leanback-v8a",
+        "url": "https://github.moeyy.xyz/https://raw.githubusercontent.com/FongMi/Release/refs/heads/fongmi/apk/release/leanback-arm64_v8a.apk",
+        "icon": "https://github.moeyy.xyz/https://raw.githubusercontent.com/lystv/fmapp/img/log/ys.jpg",
+        "version": "3.4.8"
+      },
+      {
+        "name": "mobile-v7a",
+        "url": "https://github.moeyy.xyz/https://raw.githubusercontent.com/FongMi/Release/refs/heads/fongmi/apk/release/mobile-armeabi_v7a.apk",
+        "icon": "https://github.moeyy.xyz/https://raw.githubusercontent.com/lystv/fmapp/img/log/ys.jpg",
+        "version": "3.4.8"
+      },
+      {
+        "name": "mobile-v8a",
+        "url": "https://github.moeyy.xyz/https://raw.githubusercontent.com/FongMi/Release/refs/heads/fongmi/apk/release/mobile-arm64_v8a.apk",
+        "icon": "https://github.moeyy.xyz/https://raw.githubusercontent.com/lystv/fmapp/img/log/ys.jpg",
+        "version": "3.4.8"
+      }
+    ]
+  }
+]
