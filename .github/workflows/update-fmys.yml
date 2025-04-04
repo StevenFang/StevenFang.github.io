@@ -1,0 +1,92 @@
+name: update fmys
+
+on:
+  schedule:
+    - cron: '0 * * * *'  # 每小时检查更新
+  workflow_dispatch:     # 手动触发
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@v4
+
+    - name: Download JSON files
+      run: |
+        curl -o mobile.json -L https://raw.githubusercontent.com/FongMi/Release/refs/heads/fongmi/apk/release/mobile.json
+        curl -o leanback.json -L https://raw.githubusercontent.com/FongMi/Release/refs/heads/fongmi/apk/release/leanback.json
+      shell: bash
+
+    - name: Extract versions
+      id: versions
+      run: |
+        MOBILE_VER=$(jq -r '.name' mobile.json)
+        LEANBACK_VER=$(jq -r '.name' leanback.json)
+        echo "MOBILE_VER=$MOBILE_VER" >> $GITHUB_ENV
+        echo "LEANBACK_VER=$LEANBACK_VER" >> $GITHUB_ENV
+      shell: bash
+
+    - name: Generate fmys.json
+      run: |
+        cat <<EOF > fmys.json
+        [
+          {
+            "name": "推荐",
+            "list": [
+              {
+                "name": "mobile-v8a",
+                "url": "https://raw.githubusercontent.com/FongMi/Release/refs/heads/fongmi/apk/release/mobile-armv8a_v8a.apk",
+                "icon": "https://raw.githubusercontent.com/lystv/fmapp/img/log/ys.jpg",
+                "version": "${{ env.MOBILE_VER }}"
+              },
+              {
+                "name": "leanback-v7a",
+                "url": "https://raw.githubusercontent.com/FongMi/Release/refs/heads/fongmi/apk/release/leanback-armeabi_v7a.apk",
+                "icon": "https://raw.githubusercontent.com/lystv/fmapp/img/log/ys.jpg",
+                "version": "${{ env.LEANBACK_VER }}"
+              }
+            ]
+          },
+          {
+            "name": "正式版",
+            "list": [
+              {
+                "name": "leanback-v7a",
+                "url": "https://github.moeyy.xyz/https://raw.githubusercontent.com/FongMi/Release/refs/heads/fongmi/apk/release/leanback-armeabi_v7a.apk",
+                "icon": "https://github.moeyy.xyz/https://raw.githubusercontent.com/lystv/fmapp/img/log/ys.jpg",
+                "version": "${{ env.LEANBACK_VER }}"
+              },
+              {
+                "name": "leanback-v8a",
+                "url": "https://github.moeyy.xyz/https://raw.githubusercontent.com/FongMi/Release/refs/heads/fongmi/apk/release/leanback-arm64_v8a.apk",
+                "icon": "https://github.moeyy.xyz/https://raw.githubusercontent.com/lystv/fmapp/img/log/ys.jpg",
+                "version": "${{ env.LEANBACK_VER }}"
+              },
+              {
+                "name": "mobile-v7a",
+                "url": "https://github.moeyy.xyz/https://raw.githubusercontent.com/FongMi/Release/refs/heads/fongmi/apk/release/mobile-armeabi_v7a.apk",
+                "icon": "https://github.moeyy.xyz/https://raw.githubusercontent.com/lystv/fmapp/img/log/ys.jpg",
+                "version": "${{ env.MOBILE_VER }}"
+              },
+              {
+                "name": "mobile-v8a",
+                "url": "https://github.moeyy.xyz/https://raw.githubusercontent.com/FongMi/Release/refs/heads/fongmi/apk/release/mobile-arm64_v8a.apk",
+                "icon": "https://github.moeyy.xyz/https://raw.githubusercontent.com/lystv/fmapp/img/log/ys.jpg",
+                "version": "${{ env.MOBILE_VER }}"
+              }
+            ]
+          }
+        ]
+        EOF
+      shell: bash
+
+    - name: Commit changes
+      run: |
+        git config --global user.name "github-actions"
+        git config --global user.email "actions@github.com"
+        git add fmys.json
+        git commit -m "Update fmys.json versions" || echo "No changes to commit"
+        git push
+      shell: bash
