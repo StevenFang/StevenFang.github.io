@@ -101,18 +101,12 @@
 			"order_num": 0,
 			"changeable": 0
 		},
-		{
-			"key": "游戏直播",
-			"name": "🎮游戏┃直播",
-			"type": 3,
-			"api": "csp_LivingGuard",
-			"searchable": 0,
-			"quickSearch": 0,
-			"filterable": 1,
-			"order_num": 0,
-			"changeable": 0,
-			"ext": ""
-		},
+		 {
+            "key": "csp_LivingGuard",
+            "name": "⛹️‍♀️平台┃娱乐",
+            "type": 3,
+            "api": "csp_LivingGuard"
+        },
 		{
 			"key": "天天",
 			"name": "🦢天天┃1080P",
