@@ -198,13 +198,6 @@
 			"api": "csp_AppXYGuard"
 		},
 		{
-            "key": "csp_FourK",
-            "name": "👒FourK┃1080P",
-            "type": 3,
-            "api": "csp_FourKGuard",
-            "ext": "https://www.4kvm.tv"
-        },
-		{
 			"key": "csp_SAOHUO",
 			"name": "🔥火火┃1080P",
 			"type": 3,
