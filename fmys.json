@@ -6,13 +6,13 @@
         "name": "mobile-v8a",
         "url": "https://github.moeyy.xyz/https://raw.githubusercontent.com/FongMi/Release/refs/heads/fongmi/apk/release/mobile-arm64_v8a.apk",
         "icon": "https://github.moeyy.xyz/https://raw.githubusercontent.com/lystv/fmapp/img/log/ys.jpg",
-        "version": "3.5.3"
+        "version": "3.5.4"
       },
       {
         "name": "TV-v7a",
         "url": "https://github.moeyy.xyz/https://raw.githubusercontent.com/FongMi/Release/refs/heads/fongmi/apk/release/leanback-armeabi_v7a.apk",
         "icon": "https://github.moeyy.xyz/https://raw.githubusercontent.com/lystv/fmapp/img/log/ys.jpg",
-        "version": "3.5.3"
+        "version": "3.5.4"
       }
     ]
   },
@@ -23,25 +23,25 @@
         "name": "TV-v7a",
         "url": "https://github.moeyy.xyz/https://raw.githubusercontent.com/FongMi/Release/refs/heads/fongmi/apk/release/leanback-armeabi_v7a.apk",
         "icon": "https://github.moeyy.xyz/https://raw.githubusercontent.com/lystv/fmapp/img/log/ys.jpg",
-        "version": "3.5.3"
+        "version": "3.5.4"
       },
       {
         "name": "TV-v8a",
         "url": "https://github.moeyy.xyz/https://raw.githubusercontent.com/FongMi/Release/refs/heads/fongmi/apk/release/leanback-arm64_v8a.apk",
         "icon": "https://github.moeyy.xyz/https://raw.githubusercontent.com/lystv/fmapp/img/log/ys.jpg",
-        "version": "3.5.3"
+        "version": "3.5.4"
       },
       {
         "name": "mobile-v7a",
         "url": "https://github.moeyy.xyz/https://raw.githubusercontent.com/FongMi/Release/refs/heads/fongmi/apk/release/mobile-armeabi_v7a.apk",
         "icon": "https://github.moeyy.xyz/https://raw.githubusercontent.com/lystv/fmapp/img/log/ys.jpg",
-        "version": "3.5.3"
+        "version": "3.5.4"
       },
       {
         "name": "mobile-v8a",
         "url": "https://github.moeyy.xyz/https://raw.githubusercontent.com/FongMi/Release/refs/heads/fongmi/apk/release/mobile-arm64_v8a.apk",
         "icon": "https://github.moeyy.xyz/https://raw.githubusercontent.com/lystv/fmapp/img/log/ys.jpg",
-        "version": "3.5.3"
+        "version": "3.5.4"
       }
     ]
   }
