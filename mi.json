@@ -234,6 +234,7 @@
 			"quickSearch": 1,
 			"api": "csp_Gz360Guard"
 		},
+		{"key":"步步","name":"👟步步┃1080P","type":3,"api":"https://weixine.net/js/lib/drpy2.min.js","ext":"https://gitee.com/smallmi1007/mimi/raw/master/ceshi.js"},
 		{
 			"key": "csp_Jpys",
 			"name": "🥇金牌┃1080P",
