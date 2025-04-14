@@ -1,16 +1,16 @@
 {
-	"spider": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1744092366140/0408.jar;md5;a088e2c45008c883c90894ad94f01356",
+	"spider": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1744611574574/0414.jar;md5;b884bae49e8f06aec417d6a8778d9994",
 	"wallpaper": "https://xn--11x805d.xn--4kq62z5rby2qupq9ub.xyz/",
 	"sites": [{
 			"key": "豆豆",
-			"name": "🌈豆瓣┃请测试完删除处理 夸克app打开加入夸克资源群ID：594986235",
+			"name": "🌈豆瓣┃请测试完删除处理 由于公益资金压力米UC已经合并至至臻",
 			"type": 3,
 			"api": "csp_DoubanGuard",
 			"searchable": 0
 		},
 		{
 			"key": "config", 
-			"name": "⚙云盘┃配置中心 0326 修复U C无需要配置UT 直接上车",
+			"name": "⚙云盘┃配置中心 0414修复UC 存在起播慢的问题 ",
 			"type": 3,
 			"api": "csp_ConfigGuard",
 			"searchable": 0
@@ -51,38 +51,13 @@
 			"ext": "Yu2Y3Q8tqDTqZ+GCqfQZz8i/vsP/tl9O+/0ZjpgnBg9L+drzR5a6bo7DML9hTEHvIuMN0JxvcbUflFgvOz4etZ9cUsZ0b7NskUhkBZr0Id8jSF6uh2VLWSCg2CtmH5o1TtTNh7M3/ltwQq//Spr2kX7vyJVyHNYbVu/LbyQCphXA69Yz8WjqVrK0GsjL+Ik3h6CQSeUSxVsmsygbTWfjFq5Wq6CYigSEVi1MJIiKNCS5cp8Ghq15UINDOnFKRERcz89eu5dSsR9aQX6BVNMdZLwSzxdX+4hT32MaBORYsrm3FFWArSTQdgO0XpnwCxoXyrlOZZA6ewEqkwuIgoDjFOeQEB0B1XkA9COGXhBBN/U253mGVMtzwHTCzpHTSk5MFVpkfjoyaDWZG1SEKMnp7afikfGkM3rn+Vw7Rp3VaPow/4r9kBYdtOiANxRr3/xPWxJdwx8M3BYw8xIlENODkJxzIlYel5FzLMKsR7ZrsZA="
 		},
 		{
-			"key": "csp_UC",
-			"name": "🍚小米┃UC123",
-			"type": 3,
-			"changeable": "0",
-			"quickSearch": 1,
-			"api": "csp_DuopanGuard",
-			"filterable": 1,
-			"ext": {
-				"site_urls": [
-					"https://www.54271.fun/",
-					"https://54271.fun/",
-					"https://www.mucpan.cc/",
-					"https://mucpan.cc/"
-				],
-				"url_key": "UC",
-				"token": "",
-				"ucCookie": "",
-				"quarkCookie": "",
-				"threadinfo": {
-					"chunksize": 400,
-					"threads": 12
-				}
-			}
-		},
-		{
 			"key": "csp_Bili",
 			"name": "💯哔哩┃哔哩",
 			"type": 3,
 			"api": "csp_BiliGuard",
 			"searchable": 1,
 			"ext": {
-				"json": "https://drive.almondcloud.cn/f/odVjUB/bili.json",
+				"json": "https://ai-search-static.dangbei.net/db-ai-search/2025/04/14/1911670191528480768/1744612665263_bili.json",
 				"cookie": ""
 			},
 			"style": {
@@ -261,7 +236,7 @@
 		},
 		{
 			"key": "csp_MiSou",
-			"name": "🔍米搜┃夸克",
+			"name": "🔍米搜┃盘聚",
 			"type": 3,
 			"quickSearch": 1,
 			"changeable": "0",
