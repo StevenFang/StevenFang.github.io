@@ -127,6 +127,13 @@
             "api": "csp_AppMuouGuard",
             "ext": "sHR2rlsfjI4L3t4RXQMkn0a7cyj8hTgLGQDyWjFZkT61hGmE5R18ZhLMJJlIIHRp5ExOKgi452hnp8FuUY7LSxZQx7OJfbrcekZ9lorJy3crZXSce0hF8VSymV7+1QsLatyYXT/qCdOJ+V/ONvC8Qp4D3mMHMGs8t9j29y+1Zu2WCQDG7MkiImMiWgydsFhy"
         },
+        	{
+            "key": "csp_LivinAPPysv2",
+            "name": "😡下饭┃解析",
+            "type": 3,
+            "api": "csp_AppYsv2Guard",
+            "ext":"http://172.83.156.150:1010/api/app/"
+        },
 		{
             "key": "光速",
             "name": "🌟云端┃1080P",
@@ -282,10 +289,25 @@
 			"url": "影视"
 		},
 		{
-			"name": "自用",
-			"type": 1,
-			"url": ""
-		},
+      "name": "巧技三",
+      "type": 1,
+      "url": "https://zy.qiaoji8.com/xiafan.php?url=",
+      "ext": {
+        "flag": [
+          "QD4K",
+          "iyf",
+          "duanju",
+          "gzcj",
+          "GTV",
+          "GZYS",
+          "weggz",
+          "Ace"
+        ],
+        "header": {
+          "User-Agent": "okhttp/4.9.1"
+        }
+      }
+    },
 		{
 			"name": "8090g",
 			"type": 0,
