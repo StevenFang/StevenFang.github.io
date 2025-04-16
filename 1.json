@@ -1,6 +1,6 @@
 {
-  "spider": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1744611574574/0414.jar;md5;b884bae49e8f06aec417d6a8778d9994",
-  "wallpaper": "https://xn--11x805d.xn--4kq62z5rby2qupq9ub.xyz/",
+  "spider": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1744784286098/0416.jar;md5;6196a9c0520892a7561f263c45d7591e",
+  "wallpaper": "https://t.alcy.cc/fj",
   "sites": [
     {
       "key": "豆豆",
@@ -256,7 +256,7 @@
       "type": 3,
       "quickSearch": 1,
       "changeable": "0",
-      "api": "csp_MiSouGuard",
+      "api": "csp_XiaoYiGuard",
       "ext": ""
     },
     {
