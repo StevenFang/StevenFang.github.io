@@ -1,16 +1,16 @@
 {
-	"spider": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1744784286098/0416.jar;md5;6196a9c0520892a7561f263c45d7591e",
+	"spider": "https://ai-search-static.dangbei.net/db-ai-search/2025/04/19/1913511524954148864/1745051673762_0419.txt;md5;e4ba03a28b7695a22d1d70ca2e7092eb",
 	"wallpaper": "https://t.alcy.cc/fj",
 	"sites": [{
 			"key": "豆豆",
-			"name": "🌈豆瓣┃请测试完删除处理 由于公益资金压力米UC已经合并至至臻",
+			"name": "🌈豆瓣┃请测试完删除处理",
 			"type": 3,
 			"api": "csp_DoubanGuard",
 			"searchable": 0
 		},
 		{
 			"key": "config", 
-			"name": "⚙云盘┃配置中心 0414修复UC 存在起播慢的问题 ",
+			"name": "⚙云盘┃配置中心 0419大幅度优化 ",
 			"type": 3,
 			"api": "csp_ConfigGuard",
 			"searchable": 0
@@ -28,15 +28,15 @@
 					"https://mihdr.top",
 					"https://www.mihdr.top",
 					"http://www.miqk.cc",
-					"https://www.zhizhenpan.fun/"
+					"https://www.zhizhenpan.fun"
 				],
 				"url_key": "Netfixtv",
 				"token": "",
 				"ucCookie": "",
 				"quarkCookie": "",
 				"threadinfo": {
-					"chunksize": 400,
-					"threads": 12
+					"chunksize": 512,
+					"threads": 16
 				}
 			}
 		},
@@ -48,7 +48,7 @@
 			"changeable": "0",
 			"quickSearch": 1,
 			"filterable": 1,
-			"ext": "Yu2Y3Q8tqDTqZ+GCqfQZz8i/vsP/tl9O+/0ZjpgnBg9L+drzR5a6bo7DML9hTEHvIuMN0JxvcbUflFgvOz4etZ9cUsZ0b7NskUhkBZr0Id8jSF6uh2VLWSCg2CtmH5o1TtTNh7M3/ltwQq//Spr2kX7vyJVyHNYbVu/LbyQCphXA69Yz8WjqVrK0GsjL+Ik3h6CQSeUSxVsmsygbTWfjFq5Wq6CYigSEVi1MJIiKNCS5cp8Ghq15UINDOnFKRERcz89eu5dSsR9aQX6BVNMdZLwSzxdX+4hT32MaBORYsrm3FFWArSTQdgO0XpnwCxoXyrlOZZA6ewEqkwuIgoDjFOeQEB0B1XkA9COGXhBBN/U253mGVMtzwHTCzpHTSk5MFVpkfjoyaDWZG1SEKMnp7afikfGkM3rn+Vw7Rp3VaPow/4r9kBYdtOiANxRr3/xPWxJdwx8M3BYw8xIlENODkJxzIlYel5FzLMKsR7ZrsZA="
+			"ext": "Yu2Y3Q8tqDTqZ+GCqfQZz8i/vsP/tl9O+/0ZjpgnBg9L+drzR5a6bo7DML9hTEHvIuMN0JxvcbUflFgvOz4etZ9cUsZ0b7NskUhkBZr0Id9PbDIgsZ9ekl9fNeS9q4Xipo9oU6Q5Q6atElwpmoHUGKPqBr5XvHEJiNqliypf3Ch+p8IfjaEUxnG3XYlNxjw3ciN36BLBmKbludBzyfsiGmglc5Hdmw/3KJo9M6OCUspScOAuOhnQIPCiP6a6PFuOOxS+7z5Z/FV0k3Ee9fQIVuwE7nNgRUFWRinsDSuhPjKBd/SrLfu0rxSNOfsukdYXkcvGadhMos8qXcpGJVZVLXOfgqfJkyrlbFa8XJWQ9m9bDjfSOZbHqtC5kNkxfArWP9v2MC2jUcC4cEXk8ANYyYBMcAfo/zIpXdTsEBNC3nyXfAz+PVcPD00bRb2eSgBaNi7EShnmcFJ07jecOaWoCcXiVUOJ6GEJa9G11HhGW4g="
 		},
 		{
 			"key": "csp_Bili",
@@ -240,8 +240,7 @@
 			"type": 3,
 			"quickSearch": 1,
 			"changeable": "0",
-			"api": "csp_XiaoYiGuard",
-			"ext": ""
+			"api": "csp_MiSouGuard"
 		},
 		{
 			"key": "听书",
