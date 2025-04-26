@@ -1,5 +1,5 @@
 {
-	"spider": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1745207317358/0421.jar;md5;1c80e3fd1d023a3882a164c5f5fbca20",
+	"spider": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1745650876757/0426.jar;md5;469b6d2c3b78d1cfa899704f650a916b",
 	"wallpaper": "https://t.alcy.cc/fj",
 	"sites": [{
 			"key": "豆豆",
@@ -10,7 +10,7 @@
 		},
 		{
 			"key": "config", 
-			"name": "⚙云盘┃配置中心 0419大幅度优化 ",
+			"name": "⚙云盘┃配置中心 0426大幅度优化 弹幕 夸克飞VIP5G以下可直飞",
 			"type": 3,
 			"api": "csp_ConfigGuard",
 			"searchable": 0
