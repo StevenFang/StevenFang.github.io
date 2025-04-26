@@ -9,7 +9,7 @@
 			"searchable": 0
 		},
 		{
-			"key": "config", 
+			"key": "config",
 			"name": "⚙云盘┃配置中心 0426大幅度优化 弹幕 夸克飞VIP5G以下可直飞",
 			"type": 3,
 			"api": "csp_ConfigGuard",
@@ -76,12 +76,12 @@
 			"order_num": 0,
 			"changeable": 0
 		},
-		 {
-            "key": "csp_LivingGuard",
-            "name": "⛹️‍♀️平台┃娱乐",
-            "type": 3,
-            "api": "csp_LivingGuard"
-        },
+		{
+			"key": "csp_LivingGuard",
+			"name": "⛹️‍♀️平台┃娱乐",
+			"type": 3,
+			"api": "csp_LivingGuard"
+		},
 		{
 			"key": "天天",
 			"name": "🦢天天┃1080P",
@@ -107,12 +107,12 @@
 			"ext": "https://www.wwgz.cn"
 		},
 		{
-            "key": "悠悠",
-            "name": "🏆悠悠┃1080P",
-            "type": 3,
-            "api": "csp_AppGetGuard",
-            "ext": "sHR2rlsfjI4L3t4RXQMkn/SuTAP3sPRQGBWuLvcmqKyisRVD3dX3O6Gp6eI50QK/b1ljvOYBDl+JqRwVQfcUQSM8vrh+mlBcTrvwF+gVaAWsvNW8jQQZf0K3/I/qJXQPUWmGE4fM0JKlDhFBVtEDYzfWMzOu40lTr/+guo8bJ6smivOCC7uQ2MArjDOj/vOScvoWqmIM2eesFSyClC/Qp9bCMZd4OOyCoe9MTI3RaBZE/IObZ0dMZZ6JgS5S5yal"
-        },
+			"key": "悠悠",
+			"name": "🏆悠悠┃1080P",
+			"type": 3,
+			"api": "csp_AppGetGuard",
+			"ext": "sHR2rlsfjI4L3t4RXQMkn/SuTAP3sPRQGBWuLvcmqKyisRVD3dX3O6Gp6eI50QK/b1ljvOYBDl+JqRwVQfcUQSM8vrh+mlBcTrvwF+gVaAWsvNW8jQQZf0K3/I/qJXQPUWmGE4fM0JKlDhFBVtEDYzfWMzOu40lTr/+guo8bJ6smivOCC7uQ2MArjDOj/vOScvoWqmIM2eesFSyClC/Qp9bCMZd4OOyCoe9MTI3RaBZE/IObZ0dMZZ6JgS5S5yal"
+		},
 		{
 			"key": "csp_Lgyy",
 			"name": "⏳️️流光┃1080P",
@@ -120,30 +120,36 @@
 			"quickSearch": 1,
 			"api": "csp_FreeOkGuard"
 		},
-        {"key":"牛牛","name":"🐂牛牛┃1080P","type":3,"api":"https://13826.kstore.space/mito.py","ext":"http://172.83.156.150:1010"},
 		{
-            "key": "光速",
-            "name": "🌟云端┃1080P",
-            "type": 3,
-            "quickSearch": 1,
-            "api": "csp_AppGetGuard",
-            "ext": "sHR2rlsfjI4L3t4RXQMknxNA7c6hcC3VanmE12u0Xu3CTtFtxRELPpvYrBPoXSST9rM4/zqxtg1ZlYdAfbBcu8j2ixF3Zl35t0r1NRL4FKDRtJIzUE6I7MVJAA2Q7brwZK+MVlV3Ya12XCFMmiAzIuP0q31Q3cWJWeBlJ/HkevUD3YrCzVx/d7ctov8ddn/OUS1xjTCIpJ+asEfpCWB+DTxkjbl8kfze+MSaichpJzQDMK2bWUphsOPryk49lVX7Gnm5A77V9sipi2ia5fPcYACDcbL9VXi31e2BvqNcvmE="
-        },
-        {
-            "key": "咕咕",
-            "name": "🛹番剧┃1080P",
-            "type": 3,
-            "quickSearch": 1,
-            "api": "csp_AppGetGuard",
-            "ext": "sHR2rlsfjI4L3t4RXQMknxpaIJpWVf3QzJplZjkP8PMRCMAhDX6EuvKn3nmHvaAsNUZGiKejIkSYz7ryONX2fTpbNlJxpW1MZZY7Zt3lbwTJw/1s2QIhPpqxOmR/0EWAwYNShA0Asl0C1lkcmCbV6PsNna5kYEh7as/WabRCm9KrPTGJu6URWhPGeAaWchMgMYJlwNXFIeA2neoQGplg4A=="
-        },
-           {
-            "key": "人人",
-            "name": "⛄️人人┃1080P",
-            "type": 3,
-            "api": "csp_AppGetGuard",
-            "ext": "sHR2rlsfjI4L3t4RXQMkn5lWAFk63MKp99BaRaCwGwVoPMXpUrRhJupGqVQN8zzRhc0PCuL4mVzuh+KN84Fro7WINX8x2KJlpNKTLBLPlTuVfsg1mblMWUa4ZqZVqz8bk6MbJPrt3r0jg7nCMVsUaeYm/CFBu4z4N5c4sNExHQ44DdF44W2s6KWUWZpSkfRb2WJdy5v0GcpIoQuxWUsh9EnK9D3N3m64NCPyEyiwAVg="
-        },
+			"key": "牛牛",
+			"name": "🐂牛牛┃1080P",
+			"type": 3,
+			"api": "https://13826.kstore.space/mito.py",
+			"ext": "http://172.83.156.150:1010"
+		},
+		{
+			"key": "光速",
+			"name": "🌟云端┃1080P",
+			"type": 3,
+			"quickSearch": 1,
+			"api": "csp_AppGetGuard",
+			"ext": "sHR2rlsfjI4L3t4RXQMknxNA7c6hcC3VanmE12u0Xu3CTtFtxRELPpvYrBPoXSST9rM4/zqxtg1ZlYdAfbBcu8j2ixF3Zl35t0r1NRL4FKDRtJIzUE6I7MVJAA2Q7brwZK+MVlV3Ya12XCFMmiAzIuP0q31Q3cWJWeBlJ/HkevUD3YrCzVx/d7ctov8ddn/OUS1xjTCIpJ+asEfpCWB+DTxkjbl8kfze+MSaichpJzQDMK2bWUphsOPryk49lVX7Gnm5A77V9sipi2ia5fPcYACDcbL9VXi31e2BvqNcvmE="
+		},
+		{
+			"key": "咕咕",
+			"name": "🛹番剧┃1080P",
+			"type": 3,
+			"quickSearch": 1,
+			"api": "csp_AppGetGuard",
+			"ext": "sHR2rlsfjI4L3t4RXQMknxpaIJpWVf3QzJplZjkP8PMRCMAhDX6EuvKn3nmHvaAsNUZGiKejIkSYz7ryONX2fTpbNlJxpW1MZZY7Zt3lbwTJw/1s2QIhPpqxOmR/0EWAwYNShA0Asl0C1lkcmCbV6PsNna5kYEh7as/WabRCm9KrPTGJu6URWhPGeAaWchMgMYJlwNXFIeA2neoQGplg4A=="
+		},
+		{
+			"key": "人人",
+			"name": "⛄️人人┃1080P",
+			"type": 3,
+			"api": "csp_AppGetGuard",
+			"ext": "sHR2rlsfjI4L3t4RXQMkn5lWAFk63MKp99BaRaCwGwVoPMXpUrRhJupGqVQN8zzRhc0PCuL4mVzuh+KN84Fro7WINX8x2KJlpNKTLBLPlTuVfsg1mblMWUa4ZqZVqz8bk6MbJPrt3r0jg7nCMVsUaeYm/CFBu4z4N5c4sNExHQ44DdF44W2s6KWUWZpSkfRb2WJdy5v0GcpIoQuxWUsh9EnK9D3N3m64NCPyEyiwAVg="
+		},
 		{
 			"key": "电影",
 			"name": "🎬电影┃1080P",
@@ -161,12 +167,12 @@
 			"ext": "sHR2rlsfjI4L3t4RXQMknxpI3MBzuaDrH2PsBQxC38op5hYp0OZbDn4iJ615slmjVd+iI7Tl5Ue0Vm2GojmSTYMGSFh2aRBmEOKQ0locA9dvNXmz6vCgBlpFeFm/CQ3n1ep2SM+/awX6EoPD8V5c70mEnJDaI5kqnSlhF/wZJ/r0iCysTPux83KtOhToHnBg/VshjW3X7hDXcrKCadFsFw=="
 		},
 		{
-            "key": "享趣",
-            "name": "🔎享趣┃1080P",
-            "type": 3,
-            "api": "csp_AppGetGuard",
-            "ext": "sHR2rlsfjI4L3t4RXQMknzdNfEmX+jzXPZb/mKHyGEy2TNjdEVXKnEaZcfRUBxi7/nuHzmnprt8K+u6bJZhSGnE60tMgmxrHuYgcW7vPq9rk2vuaIUDPSHUm/i4T6w079JPylMWG75rjEhWmZO6BNHpX+SyayDRv9fun7Lu6t0sxMhXSR3ErwCmwbxtmx0SI"
-        },
+			"key": "享趣",
+			"name": "🔎享趣┃1080P",
+			"type": 3,
+			"api": "csp_AppGetGuard",
+			"ext": "sHR2rlsfjI4L3t4RXQMknzdNfEmX+jzXPZb/mKHyGEy2TNjdEVXKnEaZcfRUBxi7/nuHzmnprt8K+u6bJZhSGnE60tMgmxrHuYgcW7vPq9rk2vuaIUDPSHUm/i4T6w079JPylMWG75rjEhWmZO6BNHpX+SyayDRv9fun7Lu6t0sxMhXSR3ErwCmwbxtmx0SI"
+		},
 		{
 			"key": "csp_AppXY",
 			"name": "🐸上头┃短剧",
@@ -187,7 +193,7 @@
 			"type": 3,
 			"quickSearch": 1,
 			"api": "csp_SuBaiBaiGuard",
-			"ext":"https://www.subaibai.com"
+			"ext": "https://www.subaibai.com"
 		},
 		{
 			"key": "csp_LiteApple",
@@ -203,7 +209,13 @@
 			"quickSearch": 1,
 			"api": "csp_Gz360Guard"
 		},
-		{"key":"步步","name":"👟步步┃1080P","type":3,"api":"https://weixine.net/js/lib/drpy2.min.js","ext":"https://gitee.com/smallmi1007/mimi/raw/master/ceshi.js"},
+		{
+			"key": "步步",
+			"name": "👟步步┃1080P",
+			"type": 3,
+			"api": "https://weixine.net/js/lib/drpy2.min.js",
+			"ext": "https://gitee.com/smallmi1007/mimi/raw/master/ceshi.js"
+		},
 		{
 			"key": "csp_Jpys",
 			"name": "🥇金牌┃1080P",
@@ -217,6 +229,14 @@
 			"type": 3,
 			"quickSearch": 1,
 			"api": "csp_LkdyGuard"
+		},
+		{
+			"key": "追忆",
+			"name": "✴星光┃1080P",
+			"type": 3,
+			"quickSearch": 0,
+			"api": "csp_AppMiToGuard",
+			"ext": "or8dey6pioFw+XxkF2wS/RAzk3DzRGdI670hdzQc+Mikgjqjk9TLUbAA9F0iudN1/EXY443m7GHk8GjSrx5HqSIJwhkFw/xSNAD7EWUrLDF6HohBg/KuqjTeaDuMIXz7cBXwt1KPJLptozlzoIMYeWIXu6G0zPvUHi/rxqkaq6IWp1t9tTKX7JnqKU/XhyNt"
 		},
 		{
 			"key": "巧技",
@@ -242,7 +262,7 @@
 			"type": 3,
 			"api": "csp_TingBookGuard",
 			"searchable": 1,
-			"ext":"http://www.6yueting.com"
+			"ext": "http://www.6yueting.com"
 		},
 		{
 			"key": "Aid",
@@ -275,25 +295,25 @@
 			"url": "影视"
 		},
 		{
-      "name": "巧技三",
-      "type": 1,
-      "url": "https://zy.qiaoji8.com/xiafan.php?url=",
-      "ext": {
-        "flag": [
-          "QD4K",
-          "iyf",
-          "duanju",
-          "gzcj",
-          "GTV",
-          "GZYS",
-          "weggz",
-          "Ace"
-        ],
-        "header": {
-          "User-Agent": "okhttp/4.9.1"
-        }
-      }
-    },
+			"name": "巧技三",
+			"type": 1,
+			"url": "https://zy.qiaoji8.com/xiafan.php?url=",
+			"ext": {
+				"flag": [
+					"QD4K",
+					"iyf",
+					"duanju",
+					"gzcj",
+					"GTV",
+					"GZYS",
+					"weggz",
+					"Ace"
+				],
+				"header": {
+					"User-Agent": "okhttp/4.9.1"
+				}
+			}
+		},
 		{
 			"name": "8090g",
 			"type": 0,
@@ -318,7 +338,12 @@
 			"playerType": 1,
 			"logo": "https://live.fanmingming.com/tv/{name}.png"
 		},
-	{"name":"V4聚合（卡顿请按左┃右键换线）","type":0,"url":"https://github.moeyy.xyz/https://raw.githubusercontent.com/wwb521/live/main/tv.m3u","playerType":1},
+		{
+			"name": "V4聚合（卡顿请按左┃右键换线）",
+			"type": 0,
+			"url": "https://github.moeyy.xyz/https://raw.githubusercontent.com/wwb521/live/main/tv.m3u",
+			"playerType": 1
+		},
 		{
 			"name": "IPV6",
 			"type": 0,
