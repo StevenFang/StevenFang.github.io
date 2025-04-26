@@ -131,11 +131,11 @@
       "api": "csp_FreeOkGuard"
     },
     {
-      "key": "二三",
-      "name": "🐕二三┃1080P",
+      "key": "牛牛",
+      "name": "🐂牛牛┃1080P",
       "type": 3,
       "api": "https://13826.kstore.space/mito.py",
-      "ext": ""
+      "ext": "http://172.83.156.150:1010"
     },
     {
       "key": "光速",
