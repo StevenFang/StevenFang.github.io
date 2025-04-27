@@ -124,6 +124,20 @@
       "ext": "sHR2rlsfjI4L3t4RXQMkn/SuTAP3sPRQGBWuLvcmqKyisRVD3dX3O6Gp6eI50QK/b1ljvOYBDl+JqRwVQfcUQSM8vrh+mlBcTrvwF+gVaAWsvNW8jQQZf0K3/I/qJXQPUWmGE4fM0JKlDhFBVtEDYzfWMzOu40lTr/+guo8bJ6smivOCC7uQ2MArjDOj/vOScvoWqmIM2eesFSyClC/Qp9bCMZd4OOyCoe9MTI3RaBZE/IObZ0dMZZ6JgS5S5yal"
     },
     {
+      "key": "彼岸",
+      "name": "🏖比岸┃1080P",
+      "type": 3,
+      "api": "csp_AppGetGuard",
+      "ext": "sHR2rlsfjI4L3t4RXQMkn0ZmfVTKTXBPRcz0emJNw7ofdKrXcYSsYxd+Wx33O1guTCJnhWT9y6xEgCyBMIw94CLlNGtq6BJEkOVCq9ttOaO9qtIDqVoKWaP64OiREdtupLxA0J7QhaW/aVzqLTYtiBkkFECFOVZMtS4js16Zy5VuzNx7tiA9XJkfVM7fTrZdcY2aXPM6zXmgejmIvi3mUw=="
+    },
+    {
+      "key": "再看",
+      "name": "🔭再看┃1080P",
+      "type": 3,
+      "api": "csp_AppGetGuard",
+      "ext": "sHR2rlsfjI4L3t4RXQMknz+i4ffRorIRZjjcJiBr38z7bvJQDA/gj8tVTCLdlHvgssqNDyUkkSbMM+DLFI84xCpUE24hJxHHQxh/6e5bg7jQ0uWTdELk4IH4xxKtfyyKWbccPYruj7hX+lPSpaWNjk1ibLuC4+KKQSKp68VHdSOka6yGYqgO2DLVooXxfsgtQ79Hg5Uc8KtD5/Oa6cAfcQ=="
+    },
+    {
       "key": "csp_Lgyy",
       "name": "⏳️️流光┃1080P",
       "type": 3,
@@ -134,8 +148,8 @@
       "key": "牛牛",
       "name": "🐂牛牛┃1080P",
       "type": 3,
-      "api": "https://13826.kstore.space/mito.py",
-      "ext": "http://172.83.156.150:1010"
+      "api": "https://13826.kstore.space/mioaying.py",
+      "ext": ""
     },
     {
       "key": "光速",
