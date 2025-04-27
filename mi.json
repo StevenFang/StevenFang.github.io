@@ -41,6 +41,31 @@
 			}
 		},
 		{
+			"key": "csp_Netfixtv2",
+			"name": "🐂二小┃4K弹幕",
+			"type": 3,
+			"changeable": "0",
+			"quickSearch": 1,
+			"api": "csp_DuopanGuard",
+			"filterable": 1,
+			"ext": {
+				"site_urls": [
+					"https://www.erixaopan.fun",
+					"http://erixaopan.fun/",
+					"https://erxiaofn.click/",
+					"https://www.xhww.net/"
+				],
+				"url_key": "Netfixtv",
+				"token": "",
+				"ucCookie": "",
+				"quarkCookie": "",
+				"threadinfo": {
+					"chunksize": 512,
+					"threads": 16
+				}
+			}
+		},
+		{
 			"key": "csp_Wogg",
 			"name": "🧸玩偶┃4K弹幕",
 			"type": 3,
@@ -243,16 +268,6 @@
 			"quickSearch": 0,
 			"api": "csp_AppMiToGuard",
 			"ext": "or8dey6pioFw+XxkF2wS/RAzk3DzRGdI670hdzQc+Mikgjqjk9TLUbAA9F0iudN1/EXY443m7GHk8GjSrx5HqSIJwhkFw/xSNAD7EWUrLDF6HohBg/KuqjTeaDuMIXz7cBXwt1KPJLptozlzoIMYeWIXu6G0zPvUHi/rxqkaq6IWp1t9tTKX7JnqKU/XhyNt"
-		},
-		{
-			"key": "巧技",
-			"name": "🚗搜索┃1080P",
-			"type": 3,
-			"api": "csp_qiao2",
-			"quickSearch": 1,
-			"playerType": 2,
-			"jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1740965279595/0303.jar;md5;ec975f203099b42d6286751914e27fc9",
-			"ext": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1743396867051/cksp.txt"
 		},
 		{
 			"key": "csp_MiSou",
