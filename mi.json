@@ -105,7 +105,8 @@
 			"key": "csp_LivingGuard",
 			"name": "⛹️‍♀️平台┃娱乐",
 			"type": 3,
-			"api": "csp_LivingGuard"
+			"api": "csp_LivingGuard",
+			"ext":"https://lemonlive25.pages.dev/"
 		},
 		{
 			"key": "天天",
