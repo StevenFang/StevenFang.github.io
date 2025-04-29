@@ -6,7 +6,7 @@
         "name": "手机版",
         "url": "https://github.moeyy.xyz/https://raw.githubusercontent.com/FongMi/Release/refs/heads/fongmi/apk/release/mobile-arm64_v8a.apk",
         "icon": "https://github.moeyy.xyz/https://raw.githubusercontent.com/lystv/fmapp/img/log/ys.jpg",
-        "version": "3.8.0"
+        "version": ""
       },
       {
         "name": "电视版",
@@ -29,13 +29,13 @@
         "name": "手机版",
         "url": "https://github.moeyy.xyz/https://raw.githubusercontent.com/FongMi/Release/refs/heads/fongmi/apk/release/mobile-arm64_v8a.apk",
         "icon": "https://github.moeyy.xyz/https://raw.githubusercontent.com/lystv/fmapp/img/log/ys.jpg",
-        "version": "3.8.0"
+        "version": ""
       },
       {
         "name": "旧手机",
         "url": "https://github.moeyy.xyz/https://raw.githubusercontent.com/FongMi/Release/refs/heads/fongmi/apk/release/mobile-armeabi_v7a.apk",
         "icon": "https://github.moeyy.xyz/https://raw.githubusercontent.com/lystv/fmapp/img/log/ys.jpg",
-        "version": "3.8.0"
+        "version": ""
       }
     ]
   }
