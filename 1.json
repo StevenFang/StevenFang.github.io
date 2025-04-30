@@ -136,6 +136,13 @@
       "ext": "https://www.wwgz.cn"
     },
     {
+      "key": "晴天",
+      "name": "☀️晴天┃1080P",
+      "type": 3,
+      "api": "csp_AppGetGuard",
+      "ext": "sHR2rlsfjI4L3t4RXQMknxZ67tu9z+phb0aSTvZQgyA6q0xr5CADU+Ci4NlKxGdylKHER46Cs4iIIIx6DdbWw0Sng/Z0F+jfaucg9epO4FUb/E7RG8NezsS+R4Dvsb4o50UjQG9bvlSBY9p/s5XD9KtJNMrH5tj1EbC6eEwZ4KOT7oCjM7uBxZRVhTmijQCvcoza/h46Fz6BrnGO68PxIg=="
+    },
+    {
       "key": "悠悠",
       "name": "🏆悠悠┃1080P",
       "type": 3,
