@@ -19,6 +19,12 @@
       "ext": "https://xinxinbaobao.tk/fmys.json"
     },
     {
+      "key": "CliCli",
+      "name": "CliCli",
+      "type": 3,
+      "api": "https://github.moeyy.xyz/https://raw.githubusercontent.com/JJBJJ/PyramidStore/main/plugin/app/CliCli动漫APP.py"
+    },
+    {
       "key": "config",
       "name": "⚙云盘┃配置中心 0426大幅度优化 弹幕 夸克飞VIP5G以下可直飞",
       "type": 3,
