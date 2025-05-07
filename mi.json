@@ -42,7 +42,7 @@
 		},
 		{
 			"key": "csp_Netfixtv2",
-			"name": "🐂二小┃4K弹幕",
+			"name": "✈️二小┃4K弹幕",
 			"type": 3,
 			"changeable": "0",
 			"quickSearch": 1,
@@ -169,7 +169,7 @@
 		},
 		{
 			"key": "光速",
-			"name": "🌟云端┃1080P",
+			"name": "☁️云端┃1080P",
 			"type": 3,
 			"quickSearch": 1,
 			"api": "csp_AppGetGuard",
