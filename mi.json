@@ -287,6 +287,15 @@
 			"ext": "http://www.6yueting.com"
 		},
 		{
+			"key": "巧技",
+			"name": "🚗聚搜┃1080P",
+			"type": 3,
+			"api": "csp_qiao2",
+			"playerType": 2,
+			"jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1740965279595/0303.jar;md5;ec975f203099b42d6286751914e27fc9",
+			"ext": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1745208060258/cksp.txt"
+		},
+		{
 			"key": "Aid",
 			"name": "🚑有来┃急救",
 			"type": 3,
