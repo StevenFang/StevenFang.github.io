@@ -154,7 +154,7 @@
       "name": "🏆悠悠┃1080P",
       "type": 3,
       "api": "csp_AppGet",
-      "ext": "sHR2rlsfjI4L3t4RXQMkn/SuTAP3sPRQGBWuLvcmqKyisRVD3dX3O6Gp6eI50QK/b1ljvOYBDl+JqRwVQfcUQSM8vrh+mlBcTrvwF+gVaAWsvNW8jQQZf0K3/I/qJXQPUWmGE4fM0JKlDhFBVtEDYzfWMzOu40lTr/+guo8bJ6smivOCC7uQ2MArjDOj/vOScvoWqmIM2eesFSyClC/Qp9bCMZd4OOyCoe9MTI3RaBZE/IObZ0dMZZ6JgS5S5yal"
+      "ext": "sHR2rlsfjI4L3t4RXQMkn/SuTAP3sPRQGBWuLvcmqKzB0VDXHCXpl1Ugjr+FDbThLkOlJw+enu5rX6Gi5Eay7fQsWqXd6BDxJiUQhlgoJK8e5xxCJ9nwrwj6kMUp/6p1VRAifgbuhWRNt3QvwDcQuVprQOm1sPpNIA5/4ETbh6NqiJMytm2GvLOT5q1V4JL0o8yS7Wi/DzRESarcZqtQFezwR4OOFRPb87F1DN64FdniYrg/3iFRnSnv+xlFM0WM"
     },
     {
       "key": "彼岸",
@@ -274,27 +274,12 @@
       "api": "csp_Jpys"
     },
     {
-      "key": "csp_Lkdy",
-      "name": "💐来看┃1080P",
-      "type": 3,
-      "quickSearch": 1,
-      "api": "csp_Lkdy"
-    },
-    {
-      "key": "追忆",
-      "name": "✴星光┃1080P",
+      "key": "海马",
+      "name": "🐎海马┃1080P",
       "type": 3,
       "quickSearch": 0,
-      "api": "csp_AppMiTo",
-      "ext": "or8dey6pioFw+XxkF2wS/RAzk3DzRGdI670hdzQc+Mikgjqjk9TLUbAA9F0iudN1/EXY443m7GHk8GjSrx5HqSIJwhkFw/xSNAD7EWUrLDF6HohBg/KuqjTeaDuMIXz7cBXwt1KPJLptozlzoIMYeWIXu6G0zPvUHi/rxqkaq6IWp1t9tTKX7JnqKU/XhyNt"
-    },
-    {
-      "key": "测试",
-      "name": "✴测试┃1080P",
-      "type": 3,
-      "quickSearch": 0,
-      "api": "csp_AppMiTo",
-      "ext": "or8dey6pioFw+XxkF2wS/Z/HeK6wD4UWjEg6uvbPys6NwoMs8Ro+sHmmHM9w8E/8YAV1nGu/IqimfvtaPRisEIYKAjgRIW1p3HXxMCakpXHcLsSTsgLy/rmDC9/+M1KnXHLiA4MugCWmoSgu1BwTCBre1JPRJZWAgpsQD4Y1tCMmopMZRFkUiAeXtEjFv9zU"
+      "api": "https://13826.kstore.space/haima.py",
+      "ext": ""
     },
     {
       "key": "csp_MiSou",
