@@ -11,7 +11,7 @@
     },
     {
       "key": "config",
-      "name": "⚙云盘┃配置中心 0513解决断流 大幅度优化 弹幕 夸克飞VIP5G以下可直飞",
+      "name": "⚙云盘┃配置中心 请升级最新软件推荐OK影视 峰蜜影视否则部分源无法使用",
       "type": 3,
       "api": "csp_Config",
       "searchable": 0
@@ -92,6 +92,13 @@
       }
     },
     {
+      "key": "娱乐",
+      "name": "🎮游戏┃娱乐",
+      "type": 3,
+      "api": "https://cnb.cool/zhyadc/PyramidStore/-/git/raw/main/plugin/html/LIVES.py",
+      "ext": ""
+    },
+    {
       "key": "88看球",
       "name": "🏀看球┃直播",
       "type": 3,
@@ -147,6 +154,14 @@
       "type": 3,
       "api": "csp_AppGet",
       "ext": "sHR2rlsfjI4L3t4RXQMkn0ZmfVTKTXBPRcz0emJNw7pive6/WM9lust5Mt+RF4YRlDNEqLNoLHMx2qn+8fd0eeM4V2kMkA0AtjiEOHJ8KkF1wXdkUnKYxfPeZzUR9DPL4ibrDZHcqEiciYyRtFbBPJ6wn4UwyK3sRMYvcp88bKXb1kZFtpPzbXRluHIQ+0V8YcKK00L4/rQRn30RHCf5UA=="
+    },
+     {
+      "key": "仓鼠",
+      "name": "🐀仓鼠┃1080P",
+      "type": 3,
+      "quickSearch": 1,
+      "api": "csp_AppGet",
+      "ext": "sHR2rlsfjI4L3t4RXQMkn97DqO5wP33F1y10iaPo6JFu7Gir00j3R0d6YiQaenvx6EGiBJ/LlFQxikHgxre5aUQs2IWp/rVBIYH9Z5N2lw6Wr6XNDhBuprneT4IeVDEibuFC81JN91ioyOFhZ0Eay51Y9BbamMP6wCWeW6UKiIOLLKTzVCa8r7ptIZGmX6oDimujZatCIppyCf81QNmW2g=="
     },
     {
       "key": "再看",
