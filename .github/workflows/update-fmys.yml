@@ -15,8 +15,8 @@ jobs:
 
     - name: Download JSON files
       run: |
-        curl -o mobile.json -L https://raw.githubusercontent.com/FongMi/Release/refs/heads/fongmi/apk/release/mobile.json
-        curl -o leanback.json -L https://raw.githubusercontent.com/FongMi/Release/refs/heads/fongmi/apk/release/leanback.json
+        curl -o --retry 5 mobile.json -L https://raw.githubusercontent.com/FongMi/Release/refs/heads/fongmi/apk/release/mobile.json
+        curl -o --retry 5 leanback.json -L https://raw.githubusercontent.com/FongMi/Release/refs/heads/fongmi/apk/release/leanback.json
       shell: bash
 
     - name: Extract versions
