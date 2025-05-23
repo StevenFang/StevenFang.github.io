@@ -160,18 +160,18 @@
       "ext": "https://www.wwgz.cn"
     },
     {
-      "key": "大梦",
+      "key": "悠悠",
       "name": "🏆悠悠┃1080P",
       "type": 3,
       "api": "csp_AppGet",
-      "ext": "sHR2rlsfjI4L3t4RXQMkn9QhUgBx3GxtTiVGKW2EUdoznFA44qgk+2UMgFRBsVPTy5Vuu99xqFetKxAP1cesStoS652zBvk45bfssFJss98/ortS2qhr2lA1mE/gUFVzB1F/NCkbvR04HM6/elu1JXMu1pzEwvZMFtqUQNyun+OtDwbiiVo1zTHngiWb/vgE"
+      "ext": "sHR2rlsfjI4L3t4RXQMkn/SuTAP3sPRQGBWuLvcmqKzB0VDXHCXpl1Ugjr+FDbThLkOlJw+enu5rX6Gi5Eay7fQsWqXd6BDxJiUQhlgoJK8e5xxCJ9nwrwj6kMUp/6p1VRAifgbuhWRNt3QvwDcQuVprQOm1sPpNIA5/4ETbh6NqiJMytm2GvLOT5q1V4JL0o8yS7Wi/DzRESarcZqtQFezwR4OOFRPb87F1DN64FdniYrg/3iFRnSnv+xlFM0WM"
     },
     {
       "key": "彼岸",
       "name": "🏖比岸┃1080P",
       "type": 3,
       "api": "csp_AppGet",
-      "ext": "sHR2rlsfjI4L3t4RXQMkn0ZmfVTKTXBPRcz0emJNw7pive6/WM9lust5Mt+RF4YRlDNEqLNoLHMx2qn+8fd0eeM4V2kMkA0AtjiEOHJ8KkF1wXdkUnKYxfPeZzUR9DPL4ibrDZHcqEiciYyRtFbBPJ6wn4UwyK3sRMYvcp88bKXb1kZFtpPzbXRluHIQ+0V8YcKK00L4/rQRn30RHCf5UA=="
+      "ext": "sHR2rlsfjI4L3t4RXQMkn7aCdbmEEJemIAMIZKUtqGgsGGu8pwXvr2LeRsZcUw470sPHEcVGwL+S1KXewVMXjiKIO8pyAb+D92wSofXabJ9D/vp1BrWcRY0oqseMr0zdjuUttXvKLF3XIAMohb0gy17AJwWfADv8Wx1ra5IL24b2nxG2mlHFKyBU+JPeaCC+MC0C5XKErmQDfukUrod2vFfOf3hBQOgF1s4YCnVypCrZ/kuEv9GBLPI+6ikvXEkQ8L//Ka1SL++vi3Do4Ub+DA=="
     },
     {
       "key": "仓鼠",
@@ -195,6 +195,13 @@
       "type": 3,
       "quickSearch": 1,
       "api": "csp_FreeOk"
+    },
+    {
+      "key": "csp_JUBB",
+      "name": "📒妙笔┃1080P",
+      "type": 3,
+      "quickSearch": 1,
+      "api": "https://13826.kstore.space/jubaba.py"
     },
     {
       "key": "牛牛",
@@ -314,15 +321,6 @@
       "api": "csp_TingBook",
       "searchable": 1,
       "ext": "http://www.6yueting.com"
-    },
-    {
-      "key": "巧技",
-      "name": "🚗聚搜┃1080P",
-      "type": 3,
-      "api": "csp_qiao2",
-      "playerType": 2,
-      "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1740965279595/0303.jar;md5;ec975f203099b42d6286751914e27fc9",
-      "ext": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1745208060258/cksp.txt"
     },
     {
       "key": "Aid",
