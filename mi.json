@@ -181,19 +181,12 @@
       "quickSearch": 1,
       "api": "csp_FreeOk"
     },
-    {
-      "key": "csp_JUBB",
-      "name": "📒妙笔┃1080P",
-      "type": 3,
-      "quickSearch": 1,
-      "api": "https://13826.kstore.space/jubaba.py"
-    },
+   
     {
       "key": "牛牛",
       "name": "🐂牛牛┃1080P",
       "type": 3,
-      "api": "https://13826.kstore.space/mioaying.py",
-      "ext": ""
+      "api": "https://13826.kstore.space/mioaying.py"
     },
     {
       "key": "光速",
