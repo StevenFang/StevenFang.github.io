@@ -147,7 +147,7 @@
     },
     {
       "key": "QD4K",
-      "name": "🐷猪猪┃QD4K",
+      "name": "🐷猪猪┃单线4K",
       "type": 3,
       "api": "csp_AppYsV2",
       "playerType": 2,
@@ -166,7 +166,7 @@
       "name": "🏆悠悠┃1080P",
       "type": 3,
       "api": "csp_AppGet",
-      "ext": "sHR2rlsfjI4L3t4RXQMkn/SuTAP3sPRQGBWuLvcmqKzB0VDXHCXpl1Ugjr+FDbThLkOlJw+enu5rX6Gi5Eay7fQsWqXd6BDxJiUQhlgoJK8e5xxCJ9nwrwj6kMUp/6p1VRAifgbuhWRNt3QvwDcQuVprQOm1sPpNIA5/4ETbh6NqiJMytm2GvLOT5q1V4JL0o8yS7Wi/DzRESarcZqtQFezwR4OOFRPb87F1DN64FdniYrg/3iFRnSnv+xlFM0WM"
+      "ext": "sHR2rlsfjI4L3t4RXQMkn79xB3JdCtvHn5YENUym6LyErzV6pLGVtifqGcc9Sy43MR8tVRppqG7EldVGDzg4DYFriUwhmAtX9IMMJV6enkR2BPZKdfRENYUR+2ul82lNN/JYLk4c2LicrYG8kYvBuWxKWOs6tilF1YG86e0wjH1KhRVseD1JKpM96FaPPw6I74qMxH6Ifd+L4pQ84rLzs9WKT1q8lGsTzIZ5+R7XYsbN2Jz+bJOJTAVWPbV3dDD1"
     },
     {
       "key": "彼岸",
@@ -177,7 +177,7 @@
     },
     {
       "key": "巧技",
-      "name": "🚗聚搜┃1080P",
+      "name": "🚗聚搜┃单线4K",
       "type": 3,
       "api": "csp_qiao2",
       "playerType": 2,
@@ -209,15 +209,8 @@
       "ext": "sHR2rlsfjI4L3t4RXQMknz+i4ffRorIRZjjcJiBr38wb5nwBciO6ms6RNqBIVi1QB7PRspm4f6MrvIOTd++7FMqkk2yG1eGTUUzyqIbYT58chQYyOMy+COm7unddRux9fFr5h0OEYTptHw9PnRiTV+JAXmIsIgUDKAamVsoOxAyhlMsA0WCzqY0OMMVhCnjjZNeioODGEF/HaKVwMC7i7GkxX/1SkEhN54oZYjGADVp/JQD55mycg7C8p5BmUHb0"
     },
     {
-      "key": "csp_Lgyy",
-      "name": "⏳️️流光┃1080P",
-      "type": 3,
-      "quickSearch": 1,
-      "api": "csp_FreeOk"
-    },
-    {
       "key": "牛牛",
-      "name": "🐂牛牛┃1080P",
+      "name": "🐂牛牛┃单线4K",
       "type": 3,
       "api": "https://13826.kstore.space/mioaying.py"
     },
@@ -250,7 +243,7 @@
       "type": 3,
       "quickSearch": 1,
       "api": "csp_AppGet",
-      "ext": "4p3/+lDKV/eEh0vE+tKktBvWc9mX/aSJKmAZmUZ86dHhsGt96OhTOLd1D3oiyHxmStlMPqle/7fCykCWA1M2Apn+XNxbu4aoyJ++EBsV9g0OiJxb6ir8q3AUJfU4R2F3xr25cak+1dwXR1YtR8F4sETLMN0hx0PD/XiM5dWpQ5Q7Pl9GAYYMvrkVyVIp7vWw"
+      "ext": "sHR2rlsfjI4L3t4RXQMknwVOqdD9gPzfYgo/IDVldfFlUVRxMhFa2sMsM3jbFDHf0JeBOxGU/o2kx5CXvQT/L2bX6V7O1a4e1OUxpnYI11YpBWQjTFE4gjUC579JwV+7XsWgMJ35bTzURfWg+DYOBr8Qaiyjp0ceuD6TwFyfcNku38N3wEf629K9W7TYaAEe"
     },
     {
       "key": "享趣",
