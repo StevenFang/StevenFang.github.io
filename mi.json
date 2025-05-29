@@ -178,6 +178,14 @@
       "ext": ""
     },
     {
+      "key": "水滴",
+      "name": "💧水滴┃1080P",
+      "type": 3,
+      "quickSearch": 1,
+      "api": "https://13826.kstore.space/SHUIDI.py",
+      "ext": ""
+    },
+    {
       "key": "再看",
       "name": "🔭再看┃1080P",
       "type": 3,
