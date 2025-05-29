@@ -318,6 +318,14 @@
       "ext": ""
     },
     {
+      "key": "测试",
+      "name": "🐓剧霸┃1080P",
+      "type": 3,
+      "quickSearch": 0,
+      "api": "https://13826.kstore.space/jubaba.py",
+      "ext": ""
+    },
+    {
       "key": "csp_MiSou",
       "name": "🔍米搜┃盘聚",
       "type": 3,
