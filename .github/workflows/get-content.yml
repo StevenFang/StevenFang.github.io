@@ -17,7 +17,7 @@ jobs:
       id: get_content
       run: |
         set -e
-        curl -s --fail https://www.mpanso.com/小米/DEMO.json -o mi.json
+        curl -s --fail http://miqk.cc/小米/DEMO.json -o mi.json
         echo "::set-output name=status_code::$?"
         
     - name: Validate JSON
