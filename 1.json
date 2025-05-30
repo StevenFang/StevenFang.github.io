@@ -1,5 +1,5 @@
 {
-  "spider": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1747143206034/0513-1.txt;md5;bcb27d2740df8d21bfc49c507432663a",
+  "spider": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1748584216508/0530-1.jar;md5;e95605abf174b6c0fc155c7247aa0bdb",
   "wallpaper": "https://api.btstu.cn/sjbz/api.php",
   "sites": [
     {
@@ -66,7 +66,6 @@
       "filterable": 1,
       "ext": {
         "site_urls": [
-          "https://www.erixaopan.fun",
           "https://erixaopan.fun/",
           "https://2xiaopan.fun/",
           "https://www.2xiaopan.fun/",
@@ -92,6 +91,28 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "Yu2Y3Q8tqDTqZ+GCqfQZz8i/vsP/tl9O+/0ZjpgnBg+2RfEareoNuL/Pl5M72Qa7kLxIiSX9vw43FPihBY2n/maEHOEs7WGA2T/7NojmydALUIhhnc3jYOnh2KHHfokMo6IosAN/HGNN8Je7i0Q/rCJt+qvuglBYeJM+3KOvqRoAjFEtGWMIO4HmbteO16itktROL+xInERNUR0+M+8v3YhuLM3LsniomLauA0b+XyNqqjoTS9lBZFYqI3Pi8Gvi/QeEKbT8gJfKPIrDFcmkRYA3Otk80eCyEibHw3hYvexl7bB9NLbGbhaNkBprzdTykwjP/eLv1ewrxm8G9Z/CR10iCP2H0jNgk66cr9pJcmBlI8E111c+8rO5tj/CneVAB47YuwlWLYTe7hGNJq9ImoLPakTrArhHE3tO1kGvUNSSuBpsHgyWKM9yLo6mMxSdRCql805ssvng9k6Ts+uxXTYGsF5ChBMoPo9piGtr5n1uWfLx7NH6OmBdJKKxHEq1TugmFEnVBAGHHEL2SqRt+g=="
+    },
+    {
+      "key": "csp_Duopan",
+      "name": "🖍蜡笔┃4K弹幕",
+      "type": 3,
+      "api": "csp_Duopan",
+      "filterable": 1,
+      "ext": {
+        "site_urls": [
+          "https://feimao666.fun",
+          "http://feimao888.fun",
+          "http://feimaoai.site",
+          "http://www.labi88.sbs",
+          "http://fmao.site",
+          "https://fmao.shop"
+        ],
+        "threadinfo": {
+          "chunksize": 512,
+          "threads": 16
+        },
+        "url_key": "Duopan4"
+      }
     },
     {
       "key": "csp_Bili",
@@ -129,6 +150,16 @@
       "filterable": 1,
       "order_num": 0,
       "changeable": 0
+    },
+    {
+      "key": "csp_臻彩",
+      "name": "🥽臻彩┃4K4K",
+      "type": 3,
+      "api": "csp_AppYsV2",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "http://cms.lygdyy.cn/api.php/app/"
     },
     {
       "key": "天天",
@@ -189,24 +220,16 @@
       "name": "🐀仓鼠┃1080P",
       "type": 3,
       "quickSearch": 1,
-      "api": "https://13826.kstore.space/cangshu.py",
-      "ext": ""
+      "api": "csp_AppGet2",
+      "ext": "sHR2rlsfjI4L3t4RXQMkn85YdqME5ZFXdHXyEUNrexXmXuKOZHlPhQJvT6ZKEMODJQuGTLg+gpKS+XoOxUH8DdjcutGqV/lfrY9l/Ww/J/LYA0AH34KTXsOeg1p5p+KSYaG5at+IT/dqPugeQjLLpkECHqWJpIs4B2evdM7dDIOBuPmMrT5lbU1yNZHMNkr8tConVxhS1qlq57WIByuNTQ=="
     },
     {
       "key": "水滴",
       "name": "💧水滴┃1080P",
       "type": 3,
       "quickSearch": 1,
-      "api": "https://13826.kstore.space/SHUIDI.py",
-      "ext": ""
-    },
-    {
-      "key": "再看",
-      "name": "🔭再看┃1080P",
-      "type": 3,
-      "quickSearch": 1,
-      "api": "https://13826.kstore.space/zaikan.py",
-      "ext": ""
+      "api": "csp_AppGet2",
+      "ext": "sHR2rlsfjI4L3t4RXQMkn9964m8oyAP5Q1pq67Vyh7V8ESTgG/jVLrcHt3eKCMbyNGbDyZFu9n7Zd6zMxZJXTkhGtT9DNgJA5YOi9roHwbrmlgGw3de3X42kvYAYCcSnIqa9zR24cDQyq4GwTX7H3QnCkd4xZNrHiLxgPc6nD8L96MLxkLnsYlMQbDTPCOQW"
     },
     {
       "key": "牛牛",
