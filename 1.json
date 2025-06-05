@@ -44,6 +44,8 @@
           "https://mihdr.top",
           "https://www.mihdr.top",
           "http://www.miqk.cc",
+          "http://xiaomiai.site",
+          "https://xiaomi666.fun",
           "https://www.zhizhenpan.fun"
         ],
         "url_key": "Netfixtv",
@@ -66,10 +68,10 @@
       "filterable": 1,
       "ext": {
         "site_urls": [
-          "https://erixaopan.fun/",
-          "https://2xiaopan.fun/",
           "https://www.2xiaopan.fun/",
+          "https://2xiaopan.fun/",
           "https://erxiaofn.click/",
+          "https://erixaopan.fun/",
           "https://www.xhww.net/"
         ],
         "url_key": "UC",
@@ -182,15 +184,7 @@
       "type": 3,
       "api": "csp_AppYsV2",
       "playerType": 2,
-      "ext": "http://172.83.156.150:1010/api.php/app/"
-    },
-    {
-      "key": "csp_Wwys",
-      "name": "👨农民┃1080P",
-      "type": 3,
-      "quickSearch": 1,
-      "api": "https://13826.kstore.space/wwys.py",
-      "ext": ""
+      "ext": "http://jxfmax.juxiafan.com/icciu_api.php/v1.vod"
     },
     {
       "key": "悠悠",
@@ -277,13 +271,6 @@
       "ext": "sHR2rlsfjI4L3t4RXQMknwVOqdD9gPzfYgo/IDVldfFlUVRxMhFa2sMsM3jbFDHf0JeBOxGU/o2kx5CXvQT/L2bX6V7O1a4e1OUxpnYI11YpBWQjTFE4gjUC579JwV+7XsWgMJ35bTzURfWg+DYOBr8Qaiyjp0ceuD6TwFyfcNku38N3wEf629K9W7TYaAEe"
     },
     {
-      "key": "享趣",
-      "name": "🔎享趣┃1080P",
-      "type": 3,
-      "api": "csp_AppGet",
-      "ext": "sHR2rlsfjI4L3t4RXQMkn0eYZTuILswGwxMlX75frrEL8QJjjQDTq1hGIbLmL7k8+QY3d6Nh+B6yvptgD1Wj1c4gikVOerYCKY8jbrFo1M1dpW4vCAPm3gz2utYgdUV6PiwSu4Dg4Vdz4W9lHK0ThV3A8bE9P58UtGOkVHrc+I6/lskCKXkPbgijKyCSyG8YSe9IDiOOCl7qn6z/Q93cKg=="
-    },
-    {
       "key": "csp_AppXY",
       "name": "🐸上头┃短剧",
       "type": 3,
@@ -332,14 +319,6 @@
       "type": 3,
       "quickSearch": 1,
       "api": "csp_Jpys"
-    },
-    {
-      "key": "海马",
-      "name": "🐎海马┃1080P",
-      "type": 3,
-      "quickSearch": 0,
-      "api": "https://13826.kstore.space/haima.py",
-      "ext": ""
     },
     {
       "key": "测试",
