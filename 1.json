@@ -1,5 +1,5 @@
 {
-  "spider": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1749036552788/labixiaoxin.jpg;md5;29ee410002b5d90fb5008059ef6bfe2e",
+  "spider": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1749178719932/0606.jpg;md5;030aedcefa484689d551195c939cd052",
   "wallpaper": "https://api.btstu.cn/sjbz/api.php",
   "sites": [
     {
@@ -172,11 +172,22 @@
       "ext": "sHR2rlsfjI4L3t4RXQMknxhunFUlA4159TKiKvIPpfcM1xianxebcSLajBbwFymqC+z9WoGzQYbh7FSvh8KdiC0BKF0CalaPaCEMOZm+ClGEeNzXAaR0FnrV04SiB2NK"
     },
     {
+      "key": "csp_nongmin",
+      "name": "👨农民┃1080P",
+      "type": 3,
+      "api": "csp_Wwys",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://m.wwgz.cn/"
+    },
+    {
       "key": "热热",
       "name": "🔥热热┃1080P",
       "type": 3,
       "quickSearch": 1,
-      "api": "https://13826.kstore.space/rebo.py"
+      "api": "csp_AppRJ2",
+      "ext": "sHR2rlsfjI4L3t4RXQMkn9mmg6Ofmy66+wcs9waIyn4hKqT9jG9s4kO6qzcu2OSqWS1/T+wfkqe+UwoipekwvcM11PTDrQqKYI8lmMXUc1vBHxp/2uWIw5HUoscBNWEb"
     },
     {
       "key": "QD4K",
