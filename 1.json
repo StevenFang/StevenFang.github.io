@@ -179,7 +179,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://m.wwgz.cn/"
+      "ext": "https://wwgz.cn/"
     },
     {
       "key": "热热",
@@ -196,13 +196,6 @@
       "api": "csp_AppYsV2",
       "playerType": 2,
       "ext": "https://cnb.cool/xiaomideyun/xiaomideyun/-/git/raw/main/cs.txt"
-    },
-    {
-      "key": "悠悠",
-      "name": "🏆悠悠┃1080P",
-      "type": 3,
-      "api": "csp_AppGet",
-      "ext": "sHR2rlsfjI4L3t4RXQMkn79xB3JdCtvHn5YENUym6LyErzV6pLGVtifqGcc9Sy43MR8tVRppqG7EldVGDzg4DYFriUwhmAtX9IMMJV6enkR2BPZKdfRENYUR+2ul82lNN/JYLk4c2LicrYG8kYvBuWxKWOs6tilF1YG86e0wjH1KhRVseD1JKpM96FaPPw6I74qMxH6Ifd+L4pQ84rLzs9WKT1q8lGsTzIZ5+R7XYsbN2Jz+bJOJTAVWPbV3dDD1"
     },
     {
       "key": "彼岸",
