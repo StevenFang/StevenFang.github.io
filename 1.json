@@ -154,16 +154,6 @@
       "changeable": 0
     },
     {
-      "key": "csp_臻彩",
-      "name": "🥽臻彩┃4K4K",
-      "type": 3,
-      "api": "csp_AppYsV2",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://cnb.cool/xiaomideyun/xiaomideyun/-/git/raw/main/kan.txt"
-    },
-    {
       "key": "天天",
       "name": "🦢天天┃1080P",
       "type": 3,
@@ -198,11 +188,11 @@
       "ext": "https://cnb.cool/xiaomideyun/xiaomideyun/-/git/raw/main/cs.txt"
     },
     {
-      "key": "彼岸",
-      "name": "🏖比岸┃1080P",
+      "key": "海豚",
+      "name": "🐬海豚┃1080P",
       "type": 3,
       "api": "csp_AppGet",
-      "ext": "sHR2rlsfjI4L3t4RXQMkn7aCdbmEEJemIAMIZKUtqGgsGGu8pwXvr2LeRsZcUw470sPHEcVGwL+S1KXewVMXjiKIO8pyAb+D92wSofXabJ9D/vp1BrWcRY0oqseMr0zdjuUttXvKLF3XIAMohb0gy17AJwWfADv8Wx1ra5IL24b2nxG2mlHFKyBU+JPeaCC+MC0C5XKErmQDfukUrod2vFfOf3hBQOgF1s4YCnVypCrZ/kuEv9GBLPI+6ikvXEkQ8L//Ka1SL++vi3Do4Ub+DA=="
+      "ext": "sHR2rlsfjI4L3t4RXQMknx77uAkBngyVCOo9nRhjtYEYVZhfCVy1trqBss1N9z/rDj66qnYWTA57CvnxJsOMbb1R0y0vBLYBpNMTyfbz36dsqgawYeyyXpTwdiQYs9rb4CFK1aW6bX+LcZiFVV4uzNbizESdy9tdeYkjDnNiCbfRD1K5N84R+TKB+U4Im7pOR8gnvFFwwx6KSDahektkXrxVKpbBw/neJaeyX3K+BkxPEzxo40Ecg3vBNUzl7RZs"
     },
     {
       "key": "巧技",
@@ -210,7 +200,7 @@
       "type": 3,
       "api": "csp_qiao2",
       "playerType": 2,
-      "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1749181726843/kenna.png;md5;bea0e94d4bbefc6dfc5f7de2620192ce",
+      "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1749917387873/qj.jpg;md5;8b5d1e450bd4e4a3716dceb6312d5b19",
       "ext": "7lj763gg402i79425739i7jghj118797l4hj840gi18633331l4708g2h7145403549g44l8ii56i187681hkjj3hhgh1ih3l32j250lk1k786lj20j468hk3hli4l46gig4i3g7g2722328j0136h01i7g5183k22k7gg3i72hk81gl8k9839kl7i0707"
     },
     {
@@ -235,7 +225,7 @@
       "type": 3,
       "quickSearch": 1,
       "api": "csp_AppGet2",
-      "ext": "N/01JeZBCBEQ0wOXNuAI/q97iGf3Y/QaLBH0kIoVdrnchbMLbbfPL19q8ovW5h2m+h6Vc2ZfvuHR8URxTWX9fgAm0kDDPtgJttitzPQi4xPbaH/BOVSMXdJGDbrzM3VAoJEcX+yxPdaXkrxvaZdq0lCjldlb9yAWC8ZiHssSH+9EKI//ESHDquz0m1V5Bhe/W7UmkE2CRveFiiN2uJABZy1DE1fmdV0B+V+gwiUMKelPBhYA29qkB/0/MY0gVsENky2zTdTFCl4qaFGUz8+G6j6ze5mYO4KfuQ9soedmY0yeXNzPeMZ6rquyAGtngEkw"
+      "ext": "N/01JeZBCBEQ0wOXNuAI/q97iGf3Y/QaLBH0kIoVdrmTkhIhx+6EMtUU6wfrlju+ZxXSyJn/FN/hpLdsd/c2ESvGuQ3Dw6KA0PoUde3AxHUz9JJ45NMGhPruzWD27mXR9Ckvng/kZVhCX/NVV1Xvyl403XU1Q4Otj+l6ZjV4ZpFP61Y/NsqGZ7cqX4O80alrwvUDYMyKpvOfdS39/YLCJnjDaLurbyQkuf7JyOIvnrCN1bPVCsos5q9+k0wxhlwSlVPdEK/j2ZVn1m7OMIT5FBPXznyRN62STbeil0RvRpZU3cqXg3n1FnofolzJAFdf"
     },
     {
       "key": "牛牛",
