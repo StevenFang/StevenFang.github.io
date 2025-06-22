@@ -13,16 +13,10 @@
       "key": "更新应用",
       "name": "更新应用",
       "type": 3,
-      "api": "csp_MarketGuard",
+      "api": "csp_Market",
       "searchable": 0,
       "changeable": 0,
       "ext": "https://www.xinxinbaobao.tk/fmys.json"
-    },
-    {
-      "key": "CliCli",
-      "name": "CliCli",
-      "type": 3,
-      "api": "https://github.moeyy.xyz/https://raw.githubusercontent.com/JJBJJ/PyramidStore/main/plugin/app/CliCli动漫APP.py"
     },
     {
       "key": "config",
