@@ -233,14 +233,6 @@
       "ext": "sHR2rlsfjI4L3t4RXQMkn85YdqME5ZFXdHXyEUNrexXmXuKOZHlPhQJvT6ZKEMODJQuGTLg+gpKS+XoOxUH8DdjcutGqV/lfrY9l/Ww/J/LYA0AH34KTXsOeg1p5p+KSYaG5at+IT/dqPugeQjLLpkECHqWJpIs4B2evdM7dDIOBuPmMrT5lbU1yNZHMNkr8tConVxhS1qlq57WIByuNTQ=="
     },
     {
-      "key": "水滴",
-      "name": "💧水滴┃1080P",
-      "type": 3,
-      "quickSearch": 1,
-      "api": "csp_AppGet2",
-      "ext": "sHR2rlsfjI4L3t4RXQMkn9964m8oyAP5Q1pq67Vyh7V8ESTgG/jVLrcHt3eKCMbyNGbDyZFu9n7Zd6zMxZJXTkhGtT9DNgJA5YOi9roHwbrmlgGw3de3X42kvYAYCcSnIqa9zR24cDQyq4GwTX7H3QnCkd4xZNrHiLxgPc6nD8L96MLxkLnsYlMQbDTPCOQW"
-    },
-    {
       "key": "咖啡",
       "name": "☕️咖啡┃1080P",
       "type": 3,
@@ -283,7 +275,7 @@
       "type": 3,
       "quickSearch": 1,
       "api": "csp_AppGet",
-      "ext": "0YM2rlqPCLd5eMAslwMf/mBbJX8M/CJVJCQyX2zM7tGdJikFHnx0KfXl4Mi9ORXxU3BxW+JS6MfS0whs911q3EwpaHe1R3A52b2fgxNOgvG5WXvTuLPxtCV9bQCcdRk/XVIoWdYLfkopEVDcAB5LPdzjO7/5FuJbIsGxUWtLsNdGr0PMMzIxq80pHqFeiqAk1uiMRyrtr+YjnEpwFqNZxDCdrdw7WXIAnI0cXjOQOV5WmFUb/3kvXMnEetzMn9tC"
+      "ext": "sHR2rlsfjI4L3t4RXQMknwLb+pplEIC+wdpO7p1FXlVxu/4/lgFTBTqK2PELmPAwfVSnMzsviWAL5eVFeiQ0JSGBExirA/KcXHk4dMKuYsempv7Rf+ybRNg2nVTlfYeOPdPjSLhUQ+6w4z9Rc/oR3krCOo37zalPV36PNBD9rWDQVeaVRQTovbLpuTLS0Aspeatl+bvo/hCXG6m7QW/yww=="
     },
     {
       "key": "csp_AppXY",
@@ -291,13 +283,6 @@
       "type": 3,
       "quickSearch": 1,
       "api": "csp_AppXY"
-    },
-    {
-      "key": "csp_SAOHUO",
-      "name": "🔥火火┃1080P",
-      "type": 3,
-      "quickSearch": 1,
-      "api": "csp_SaoHuo"
     },
     {
       "key": "csp_baibai",
