@@ -181,6 +181,14 @@
       "ext": "sHR2rlsfjI4L3t4RXQMkn9mmg6Ofmy66+wcs9waIyn4hKqT9jG9s4kO6qzcu2OSqWS1/T+wfkqe+UwoipekwvcM11PTDrQqKYI8lmMXUc1vBHxp/2uWIw5HUoscBNWEb"
     },
     {
+      "key": "云速",
+      "name": "☁️云速",
+      "type": 3,
+      "quickSearch": 1,
+      "api": "csp_AppGet",
+      "ext": "0evJofTC3SDpNrfOmmIChloowwLlacEkTpPXHQGvnuCpyCfTv9+5Hw5j0SotfVBcEq8fDKoU6OPigTkxuxrtKQW49bxv497xKTtkiqnzuYtFR20r0/AERsnnPXGiHNlAl7LsuYnvTFyIam1RXbHBPyoihFRMLrOuCIEjkigiDACt5Ab3Mljmzanr/arLhmiidNNE2nwe4WXh866ANBt6BpgAajtWgtcj7v6tywA72VqJepkhwiqJEwFD3ZI07QvYoSu93TELWKv8sIpK86TiWw=="
+    },
+    {
       "key": "QD4K",
       "name": "🐷猪猪",
       "type": 3,
@@ -246,7 +254,7 @@
       "type": 3,
       "quickSearch": 1,
       "api": "csp_AppGet",
-      "ext": "PLH0w+Cq/phXTJSR/HWxXPTfL3elaiIS/a7GT9+wR84Xw53p9SQ0zQ2F/0nZ/vo/MVhzqa9drfV0ZQdescoYI41Ju6VnattvaT4bm8y4ydtNLnk7i9T1Sjj9t51R8MsRf0FtfVzEOThC9T2YEbYHwEpMoM6i4+9Ng8hnxVL4mJunUbFBBeyzZb3OYxXve1/3/pzsGmJHAOcTXzsK14ig4GcHNAI04ykaxb6Ug5QfP6bEmp4acG4NB4AI3hBXkDhnH2S2ukSDWS1JyFwL0kl+zaUWeVF2VC7/8NfpyufWxKPGHm5mJ8zBn1lPqbR+tFDL"
+      "ext": "hN4H3ccT+y6iapwG7kunJ4SmldFmZ1hfH8vlRYDhyV5lfJpsQugjNIfE7uQfJXIgaAIWglsN2NfMYlZPot87Gre40WQdwciyfLKJ5Gg3XlHFpl7nLgatKdxJj3+4Jz2D77KnIzS2wHbydsXI1Bmc6NfBz1dN17CNgrwCehKFKGLFi556QQL4FFKyk7EDk3IdoABCDBSrssej/v08+FKRU/W1TJr5vaRY7V69vIrentbM69VlqA2KI4qXqc8H3VDSjekl5AY3Fakh9JGwniItdw=="
     },
     {
       "key": "咖啡",
