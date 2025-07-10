@@ -199,7 +199,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "api": "csp_AppGet",
-      "ext": "XRksEN3W20hd3bSb1cdiKl6rrJZOM0otP1Ett1yknmjVA9fGeMUewl1QKCASY0WqO7ZP5egWNcwYI9Lu7YKJGxgbj0vsL/E+PlbKB7+mf8PyyFncR0WQp7wN0qj394aa"
+      "ext": "XRksEN3W20hd3bSb1cdiKgyQTbBO6aM0THhjKXE4Nl7W0aOx624xuIFTAGd0lwLd+GTB05zPlJYlZO1OgsJ6tfUd3LU926poUPnJ/jPh+h8GMdpo75H2pTl+Wb4waE5COjhN/OQGW7RRuI3cdPEtNw=="
     },
     {
       "key": "QD4K",
@@ -218,7 +218,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "api": "csp_AppGet",
-      "ext": "ncGO9IfuyMjbysvCamdzFokZEAwmwSptuElWkrNclaJraoEHFYkTWsdzkxcUKm4GSAvVz62pqT/WGUt01SzxLX7PwKwKIRwYjjymMhE7o7UpFgclIJOQN+MLXQ9aO5XuqCUYgwrMvYiLtWBb4LFmoQ=="
+      "ext": "XRksEN3W20hd3bSb1cdiKs8RUIegfh9/V/YlhVyjCL0eqxZYfImI5sC9kLAqQXjv66FYClFaEI40zh/NzOUPsBYCLt4NsSH1V+UpZf/dKjEDsI0tm9aILcvqHG2qxVoV8AVi+Ij/7n9IRf3pTN1BxQ=="
     },
     {
       "key": "巧技",
@@ -280,20 +280,6 @@
       "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1749917849270/0615qj.jpg;md5;410ad21caad9e6f6d40c1ae5ca2be662",
       "playerType": 2,
       "ext": "7lj763gg402i7942463ji4qiaojijjh456889il6k6i35kj995h4j18li7kl2870klhg8hi647j5707k4ki7ig6953kj"
-    },
-    {
-      "key": "开心",
-      "name": "😊开心┃影视",
-      "type": 3,
-      "quickSearch": 1,
-      "searchable": 1,
-      "api": "https://13826.kstore.space/get3.py",
-      "ext": {
-        "host": "http://getapp.hiapp.com.cn",
-        "api": "/api.php/getappapi",
-        "datakey": "2268331221bobobo",
-        "dataiv": "2268331221bobobo"
-      }
     },
     {
       "key": "咖啡",
@@ -461,7 +447,7 @@
       "url": ""
     }
   ],
-  "logo": "https://i.meee.com.tw/OszAHJm.jpg",
+  "logo": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1752137757797/ab67656300005f1f66fff1b2f972193c3d6433eb.jpg",
   "lives": [
     {
       "name": "平台直播",
