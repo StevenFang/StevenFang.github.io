@@ -278,8 +278,13 @@
       "type": 3,
       "quickSearch": 1,
       "searchable": 1,
-      "api": "https://13826.kstore.space/%E5%92%96%E5%95%A1.py",
-      "ext": ""
+      "api": "https://13826.kstore.space/get3.py",
+      "ext":  {
+        "host": "https://cdn-tupic-duofun-neimenggu.56uxi.com/2.txt",
+        "api": "/api.php/qijiappapi",
+        "datakey": "qwertyuiopqwertt",
+        "dataiv": "qwertyuiopqwertt"
+    }
     },
     {
       "key": "牛牛",
