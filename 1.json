@@ -282,6 +282,20 @@
       "ext": "7lj763gg402i7942463ji4qiaojijjh456889il6k6i35kj995h4j18li7kl2870klhg8hi647j5707k4ki7ig6953kj"
     },
     {
+      "key": "咖啡2",
+      "name": "☕咖啡┃2影视",
+      "type": 3,
+      "quickSearch": 1,
+      "searchable": 1,
+      "api": "https://13826.kstore.space/get4.py",
+      "ext": {
+        "host": "http://149.88.64.161/",
+        "api": "/api.php/getappapi",
+        "datakey": "123456789ABCDEFG",
+        "dataiv": "123456789ABCDEFG"
+      }
+    },
+    {
       "key": "咖啡",
       "name": "☕咖啡┃影视",
       "type": 3,
