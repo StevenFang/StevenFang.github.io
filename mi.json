@@ -1,5 +1,5 @@
 {
-  "spider": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1752146542140/0710.png;md5;5114070d143df490139e62a87207010f",
+  "spider": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1752223235214/0711.gif;md5;05d526179fb3b9f8bb597e632b3a2273",
   "wallpaper": "https://xn--4kq62z5rby2qupqba63sb41h.999888987.xyz/",
   "sites": [
     {
@@ -53,10 +53,10 @@
       "filterable": 1,
       "ext": {
         "site_urls": [
-          "http://www.2xiaopan.fun/",
+          "https://www.2xiaopan.fun/",
           "https://2xiaopan.fun/",
-          "https://erxiaofn.click/",
-          "https://erixaopan.fun/",
+          "https://www.2xiaoyun.fun/",
+          "https://www.2xiaoyun.fun/",
           "https://www.xhww.net/"
         ],
         "url_key": "UC",
@@ -190,7 +190,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "api": "csp_AppGet",
-      "ext": "XRksEN3W20hd3bSb1cdiKgyQTbBO6aM0THhjKXE4Nl7W0aOx624xuIFTAGd0lwLd+GTB05zPlJYlZO1OgsJ6tfUd3LU926poUPnJ/jPh+h8GMdpo75H2pTl+Wb4waE5COjhN/OQGW7RRuI3cdPEtNw=="
+      "ext": "rP+4azM8YFgp3eAhyeALtUUEFpbkqmzGj2V5VZryxRbpkSjlsHbarRCZPOInvId4s3WK9rZ2YJsDy8NvMqQKQXowVmh33j+qD55VxmvMzzfiJ2fHkCRZg4+8NFWs+b1X"
     },
     {
       "key": "QD4K",
@@ -203,13 +203,22 @@
       "ext": "https://cnb.cool/xiaomideyun/xiaomideyun/-/git/raw/main/cs.txt"
     },
     {
+      "key": "咖啡",
+      "name": "☕咖啡┃影视",
+      "type": 3,
+      "quickSearch": 1,
+      "searchable": 1,
+      "api": "csp_AppGet",
+      "ext": "Koog6uPyOjHNZh8eY8CgUL+XGp1zR8d/K2NE9Ls6xomS8zNeZA6OEFwcZ27Zy0ZH9i0JczXR1zmcv9qIihz837BdnQrvJfE8QEyUmS3qKxs="
+    },
+    {
       "key": "海豚",
       "name": "🍁海豚┃影视",
       "type": 3,
       "searchable": 1,
       "quickSearch": 1,
       "api": "csp_AppGet",
-      "ext": "XRksEN3W20hd3bSb1cdiKs8RUIegfh9/V/YlhVyjCL0eqxZYfImI5sC9kLAqQXjv66FYClFaEI40zh/NzOUPsBYCLt4NsSH1V+UpZf/dKjEDsI0tm9aILcvqHG2qxVoV8AVi+Ij/7n9IRf3pTN1BxQ=="
+      "ext": "QxNFQL63IQgXoB/O+Q12SpWJNcSeybsKVx0uAk9+pBwLEYRybmr89ubfoMpO9ZMnmJwYP5eKIrLK/w5t9S+6+F2ZlfWUyUoDUP2rV9QVabZh8nM+rBV7F/sxe+7GgsdL"
     },
     {
       "key": "巧技",
@@ -271,20 +280,6 @@
       "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1749917849270/0615qj.jpg;md5;410ad21caad9e6f6d40c1ae5ca2be662",
       "playerType": 2,
       "ext": "7lj763gg402i7942463ji4qiaojijjh456889il6k6i35kj995h4j18li7kl2870klhg8hi647j5707k4ki7ig6953kj"
-    },
-    {
-      "key": "咖啡",
-      "name": "☕咖啡┃影视",
-      "type": 3,
-      "quickSearch": 1,
-      "searchable": 1,
-      "api": "https://13826.kstore.space/get3.py",
-      "ext":  {
-        "host": "https://cdn-tupic-duofun-neimenggu.56uxi.com/2.txt",
-        "api": "/api.php/qijiappapi",
-        "datakey": "qwertyuiopqwertt",
-        "dataiv": "qwertyuiopqwertt"
-    }
     },
     {
       "key": "牛牛",
