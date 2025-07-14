@@ -202,6 +202,15 @@
       "ext": "rP+4azM8YFgp3eAhyeALtUUEFpbkqmzGj2V5VZryxRbpkSjlsHbarRCZPOInvId4s3WK9rZ2YJsDy8NvMqQKQXowVmh33j+qD55VxmvMzzfiJ2fHkCRZg4+8NFWs+b1X"
     },
     {
+      "key": "麻花",
+      "name": "🌸麻花┃影视",
+      "type": 3,
+      "quickSearch": 1,
+      "searchable": 1,
+      "api": "csp_AppGet",
+      "ext": "ALuKLnutJ05qjASk0Chn7a1ibR0W0XHqemfuZwhL7IuMdagHkHIMn3C5V/5JLCsoeZGsBV/Lw0xVXwTkIlgq0Q=="
+    },
+    {
       "key": "QD4K",
       "name": "🐷猪猪┃影视",
       "type": 3,
@@ -218,7 +227,7 @@
       "quickSearch": 1,
       "searchable": 1,
       "api": "csp_AppGet",
-      "ext": "Koog6uPyOjHNZh8eY8CgUL+XGp1zR8d/K2NE9Ls6xomS8zNeZA6OEFwcZ27Zy0ZH9i0JczXR1zmcv9qIihz837BdnQrvJfE8QEyUmS3qKxs="
+      "ext": "uOx4WoHPKe5LbDsNX+u7yPZ/33148sHvWON6kZmflkJm9N9mwXRjT6S/UJau4nVckbCH+h6lvztfl/Ag6BM8Ng=="
     },
     {
       "key": "海豚",
@@ -272,6 +281,14 @@
       "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1749917849270/0615qj.jpg;md5;410ad21caad9e6f6d40c1ae5ca2be662",
       "playerType": 2,
       "ext": "7lj763gg402i7942463ji4qiaojijjh456889il6k6i35kj995h4j18li7kl2870klhg8hi647j5707k4ki7ig6953kj"
+    },
+    {
+      "key": "DAY",
+      "name": "🧵UPUP┃影视",
+      "type": 3,
+      "quickSearch": 1,
+      "searchable": 1,
+      "api": "https://13826.kstore.space/tt.py"
     },
     {
       "key": "牛牛",
