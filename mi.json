@@ -166,7 +166,7 @@
     },
     {
       "key": "csp_nongmin",
-      "name": "💯农民┃影视",
+      "name": "💯农民┃明天修",
       "type": 3,
       "api": "csp_Wwys",
       "searchable": 1,
@@ -199,7 +199,7 @@
       "quickSearch": 1,
       "searchable": 1,
       "api": "csp_AppGet",
-      "ext": "ALuKLnutJ05qjASk0Chn7a1ibR0W0XHqemfuZwhL7IuMdagHkHIMn3C5V/5JLCsoeZGsBV/Lw0xVXwTkIlgq0Q=="
+      "ext": "rP+4azM8YFgp3eAhyeALtUUEFpbkqmzGj2V5VZryxRbpkSjlsHbarRCZPOInvId4s3WK9rZ2YJsDy8NvMqQKQXowVmh33j+qD55VxmvMzzesNDM87sUul1Ii8NbP2XB5"
     },
     {
       "key": "QD4K",
@@ -219,6 +219,24 @@
       "searchable": 1,
       "api": "csp_AppGet",
       "ext": "uOx4WoHPKe5LbDsNX+u7yPZ/33148sHvWON6kZmflkJm9N9mwXRjT6S/UJau4nVckbCH+h6lvztfl/Ag6BM8Ng=="
+    },
+    {
+      "key": "顾我",
+      "name": "🎫顾我┃影视",
+      "type": 3,
+      "quickSearch": 1,
+      "searchable": 1,
+      "api": "csp_AppGet",
+      "ext": "anMxhJnIDc1c2tyG/e37xUzar6eMUg8rOlemrnxifa3xApTYq401x7vVwbCRPlgADD7zoKQvVffdAwprrKeNlQ=="
+    },
+    {
+      "key": "大豆",
+      "name": "✅大豆┃影视",
+      "type": 3,
+      "quickSearch": 1,
+      "searchable": 1,
+      "api": "csp_AppGet",
+      "ext": "Qrf5S6Si5oF7dQyuv+Srh3uh0lT3z1Y7u59ip9hRVeUKFHSUUbLyGMREENFjE1N9FXjZ6Z7tiLWs6P15Ol/g5Po80zDNWJPEEoj/nv3Yelo="
     },
     {
       "key": "海豚",
