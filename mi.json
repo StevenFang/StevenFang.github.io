@@ -282,6 +282,15 @@
       "api": "https://13826.kstore.space/tt.py"
     },
     {
+      "key": "步步",
+      "name": "👟步步┃影视",
+      "type": 3,
+      "searchable": 1,
+      "quickSearch": 1,
+      "api": "https://weixine.net/js/lib/drpy2.min.js",
+      "ext": "http://miqk.cc/%E5%B0%8F%E7%B1%B3/%E6%B5%8B%E8%AF%95.js"
+    },
+    {
       "key": "牛牛",
       "name": "🍁牛牛┃影视",
       "type": 3,
