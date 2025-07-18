@@ -227,7 +227,7 @@
       "quickSearch": 1,
       "searchable": 1,
       "api": "csp_AppGet",
-      "ext": "uOx4WoHPKe5LbDsNX+u7yPZ/33148sHvWON6kZmflkJm9N9mwXRjT6S/UJau4nVckbCH+h6lvztfl/Ag6BM8Ng=="
+      "ext": "kzWGWFofGVJ3C/RF+lgwJ2duecy3bVUlIwiw6yr3vD1a1VenykG71Lx0iDGhqS6msfs2NS2llsxT5Z93XTR5ow=="
     },
     {
       "key": "顾我",
@@ -331,7 +331,8 @@
       "type": 3,
       "searchable": 1,
       "quickSearch": 1,
-      "api": "csp_AppXY"
+      "api": "csp_AppXY",
+      "ext": "https://xvapp.xingya.com.cn"
     },
     {
       "key": "csp_baibai",
