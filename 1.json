@@ -1,5 +1,5 @@
 {
-  "spider": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1752223235214/0711.gif;md5;05d526179fb3b9f8bb597e632b3a2273",
+  "spider": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1753168489129/0722.png;md5;349a237778a3ce50218e6c8d3b3e474d",
   "wallpaper": "https://xn--4kq62z5rby2qupqba63sb41h.999888987.xyz/",
   "sites": [
     {
@@ -177,7 +177,7 @@
     },
     {
       "key": "csp_nongmin",
-      "name": "💯农民┃明天修",
+      "name": "💯农民┃极速",
       "type": 3,
       "api": "csp_Wwys",
       "searchable": 1,
@@ -202,6 +202,20 @@
       "quickSearch": 1,
       "api": "csp_AppGet",
       "ext": "rP+4azM8YFgp3eAhyeALtUUEFpbkqmzGj2V5VZryxRbpkSjlsHbarRCZPOInvId4s3WK9rZ2YJsDy8NvMqQKQXowVmh33j+qD55VxmvMzzfiJ2fHkCRZg4+8NFWs+b1X"
+    },
+    {
+      "key": "幕启",
+      "name": "🌉幕启┃影视",
+      "type": 3,
+      "api": "csp_AppSy",
+      "ext": "iUYplHbim/qVptUBrzCuqk72erYn+xHvZVGawkGUOqtLGtiWlDcWpUagYzdfPYeECbG+IjVf7Mhz2ZqZ70k6X72tkUhQDNEpIN/XScTGlUE="
+    },
+    {
+      "key": "追忆",
+      "name": "🍯追忆┃影视",
+      "type": 3,
+      "api": "csp_AppSy",
+      "ext": "9rfWRaAx60J+W5F+j6agt6AHU3NkRl7m8WqfWIBU/MebSZgzY2wnsXwmAIMEYVqMzsnqr46bOn1q4JV/UJAKUVF6NUo2Xg8qcHgXrA63RWM="
     },
     {
       "key": "麻花",
@@ -409,10 +423,11 @@
     },
     {
       "key": "push_agent",
-      "name": "⚠️接口开源免费，仅供测试，请测试完删除!",
+      "name": "🛴推送┃播放接口免费，请测试完删除处理",
       "type": 3,
       "api": "csp_Push",
-      "searchable": 0,
+      "searchable": 1,
+      "quickSearch": 1,
       "ext": ""
     }
   ],
