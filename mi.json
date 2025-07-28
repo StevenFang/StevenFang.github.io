@@ -417,7 +417,7 @@
 			"type": 3,
 			"api": "csp_Push",
 			"searchable": 1,
-			"quickSearch": 1,
+			"quickSearch": 0,
 			"ext": ""
 		}
 	],
