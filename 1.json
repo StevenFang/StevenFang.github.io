@@ -30,7 +30,7 @@
       "name": "💌至臻┃4K网盘",
       "type": 3,
       "changeable": "0",
-      "quickSearch": 1,
+      "quickSearch": 0,
       "api": "csp_Duopan",
       "filterable": 1,
       "ext": {
@@ -57,7 +57,7 @@
       "name": "🎥二小┃4K网盘",
       "type": 3,
       "changeable": "0",
-      "quickSearch": 1,
+      "quickSearch": 0,
       "api": "csp_Duopan",
       "filterable": 1,
       "ext": {
@@ -86,7 +86,7 @@
       "type": 3,
       "api": "csp_Wogg",
       "changeable": "0",
-      "quickSearch": 1,
+      "quickSearch": 0,
       "filterable": 1,
       "ext": "Yu2Y3Q8tqDTqZ+GCqfQZz8i/vsP/tl9O+/0ZjpgnBg8rYFx7ctv7/EwYIQ8UriiQKDIJuqIvlQQje6dXLxWHRiSlxkxqMyYKI0d1JGw46AuOAoB1VAvOCaqYqiTezjHHt8wMymbT/vDdiFXkMbc44kNGdjpzSyL2/kBZIAQaYMPgSkEYlv4faMeCi3MaCLYaT3C7qaUzLc56RYGLF2rmtIoYgMFOG9eSpyjO66jU/3v2f1yXnqTEEKd1/+/m8DBi8KudUm92Pa/NN8zRcY5nClAo1Eqn9bGzuO/+M4V5KG/RhdFdHyzxIpxfgoBRhn4j7GEzWBxrg4JiW2kP8Vo0iQm0S8aJUTOf1ROVp2sKW36D2Q/IgMvEqazefGXZSyNSTsjbNbVc2cHMxKrbUQIPqhD5y93kdVqr5glHjuqjrDC8Pa54/l2nFeWMZIRN7ZxMpY9O1WSazlqA1GI2A6UtmKIx6r2dX7seMOOENI+Tjl2ojAYQscbGgYpzVNL9VNf/w7xQaHqjtWLUcAOmJYweA0mZb6cGoAd8Gjcwz7iper0s53AViof2QbBffDKJxF820BsiCZAMp+Nq1Y7wrFqnnEN7HiE+YHPDxNfvBXnEgubPXu6DeZGa6edzqVbRwO52"
     },
@@ -170,7 +170,7 @@
       "key": "天天",
       "name": "💯天天┃影视",
       "type": 3,
-      "quickSearch": 1,
+      "quickSearch": 0,
       "searchable": 1,
       "api": "csp_AppRJ",
       "ext": "vxw35/hHSj07Q+maxQzOVMq1rjRCOTXpUCx8iKu5jIg="
@@ -181,7 +181,7 @@
       "type": 3,
       "api": "csp_Wwys",
       "searchable": 1,
-      "quickSearch": 1,
+      "quickSearch": 0,
       "filterable": 1,
       "ext": "https://www.wwgz.cn"
     },
@@ -191,6 +191,7 @@
       "type": 3,
       "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/714c5f6aa89af46f/071.png;md5;9cf0a6c1f62ad83e9dccc2b7dd683a10",
       "api": "csp_NanGua",
+      "quickSearch": 0,
       "playerType": 2,
       "ext": "7lj763gg0939795i017ii486k512jkihhilg9g0h96j865740113"
     },
@@ -199,7 +200,7 @@
       "name": "🔥热热┃影视",
       "type": 3,
       "searchable": 1,
-      "quickSearch": 1,
+      "quickSearch": 0,
       "api": "csp_AppRJ",
       "ext": "jsSMEuhTZIAHjnUoLBzKdlRu5exzno6M4efF8LzwjWM="
     },
@@ -208,7 +209,7 @@
       "name": "☁️云速┃影视",
       "type": 3,
       "searchable": 1,
-      "quickSearch": 1,
+      "quickSearch": 0,
       "api": "csp_AppGet",
       "ext": "rP+4azM8YFgp3eAhyeALtUUEFpbkqmzGj2V5VZryxRbpkSjlsHbarRCZPOInvId4s3WK9rZ2YJsDy8NvMqQKQXowVmh33j+qD55VxmvMzzfiJ2fHkCRZg4+8NFWs+b1X"
     },
@@ -217,6 +218,7 @@
       "name": "🌉幕启┃影视",
       "type": 3,
       "api": "csp_AppSy",
+      "quickSearch": 0,
       "ext": "iUYplHbim/qVptUBrzCuqk72erYn+xHvZVGawkGUOqtLGtiWlDcWpUagYzdfPYeECbG+IjVf7Mhz2ZqZ70k6X72tkUhQDNEpIN/XScTGlUE="
     },
     {
@@ -224,13 +226,14 @@
       "name": "🍯追忆┃影视",
       "type": 3,
       "api": "csp_AppSy",
+      "quickSearch": 0,
       "ext": "9rfWRaAx60J+W5F+j6agt6AHU3NkRl7m8WqfWIBU/MebSZgzY2wnsXwmAIMEYVqMzsnqr46bOn1q4JV/UJAKUVF6NUo2Xg8qcHgXrA63RWM="
     },
     {
       "key": "麻花",
       "name": "🌸麻花┃影视",
       "type": 3,
-      "quickSearch": 1,
+      "quickSearch": 0,
       "searchable": 1,
       "api": "csp_AppGet",
       "ext": "rP+4azM8YFgp3eAhyeALtUUEFpbkqmzGj2V5VZryxRbpkSjlsHbarRCZPOInvId4s3WK9rZ2YJsDy8NvMqQKQXowVmh33j+qD55VxmvMzzesNDM87sUul1Ii8NbP2XB5"
@@ -239,7 +242,7 @@
       "key": "QD4K",
       "name": "🐷猪猪┃影视",
       "type": 3,
-      "searchable": 1,
+      "searchable": 0,
       "quickSearch": 1,
       "api": "https://d.feiliupan.com/t/109056264444579840/AppV2.py",
       "playerType": 2,
@@ -253,7 +256,7 @@
       "key": "咖啡",
       "name": "☕咖啡┃影视",
       "type": 3,
-      "quickSearch": 1,
+      "quickSearch": 0,
       "searchable": 1,
       "api": "csp_AppGet",
       "ext": "qoNcYCY4SGJFWERC5ewNdoRMWRiiOH3dKBG5+Zte38B0REfz5STn0coM8gQ4pJtU"
@@ -262,7 +265,7 @@
       "key": "大豆",
       "name": "✅大豆┃影视",
       "type": 3,
-      "quickSearch": 1,
+      "quickSearch": 0,
       "searchable": 1,
       "api": "csp_AppGet",
       "ext": "Qrf5S6Si5oF7dQyuv+Srh3uh0lT3z1Y7u59ip9hRVeUKFHSUUbLyGMREENFjE1N9FXjZ6Z7tiLWs6P15Ol/g5Po80zDNWJPEEoj/nv3Yelo="
@@ -272,7 +275,7 @@
       "name": "🚗聚搜┃影视",
       "type": 3,
       "searchable": 1,
-      "quickSearch": 1,
+      "quickSearch": 0,
       "api": "csp_qiao2",
       "playerType": 2,
       "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/714c5f6aa89af46f/071.png;md5;9cf0a6c1f62ad83e9dccc2b7dd683a10",
@@ -283,7 +286,7 @@
       "name": "🎬️火猫┃影视",
       "type": 3,
       "searchable": 1,
-      "quickSearch": 1,
+      "quickSearch": 0,
       "api": "csp_Muou",
       "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/714c5f6aa89af46f/071.png;md5;9cf0a6c1f62ad83e9dccc2b7dd683a10",
       "playerType": 2,
@@ -294,7 +297,7 @@
       "name": "🎬️爆炸┃影视",
       "type": 3,
       "searchable": 1,
-      "quickSearch": 1,
+      "quickSearch": 0,
       "api": "csp_Muou",
       "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/714c5f6aa89af46f/071.png;md5;9cf0a6c1f62ad83e9dccc2b7dd683a10",
       "playerType": 2,
@@ -305,7 +308,7 @@
       "name": "🎬️公共┃影视",
       "type": 3,
       "searchable": 1,
-      "quickSearch": 1,
+      "quickSearch": 0,
       "api": "csp_Muou",
       "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/714c5f6aa89af46f/071.png;md5;9cf0a6c1f62ad83e9dccc2b7dd683a10",
       "playerType": 2,
@@ -315,7 +318,7 @@
       "key": "DAY",
       "name": "🧵UPUP┃影视",
       "type": 3,
-      "quickSearch": 1,
+      "quickSearch": 0,
       "searchable": 1,
       "api": "https://13826.kstore.space/tt.py"
     },
@@ -324,7 +327,7 @@
       "name": "👟步步┃影视",
       "type": 3,
       "searchable": 1,
-      "quickSearch": 1,
+      "quickSearch": 0,
       "api": "https://weixine.net/js/lib/drpy2.min.js",
       "ext": "http://miqk.cc/%E5%B0%8F%E7%B1%B3/%E6%B5%8B%E8%AF%95.js"
     },
@@ -332,7 +335,7 @@
       "key": "牛牛",
       "name": "🍁牛牛┃影视",
       "type": 3,
-      "quickSearch": 1,
+      "quickSearch": 0,
       "searchable": 1,
       "api": "https://13826.kstore.space/mioaying.py"
     },
@@ -341,7 +344,7 @@
       "name": "🐸短剧┃影视",
       "type": 3,
       "searchable": 1,
-      "quickSearch": 1,
+      "quickSearch": 0,
       "api": "csp_AppXY",
       "ext": "https://xvapp.xingya.com.cn"
     },
@@ -350,7 +353,7 @@
       "name": "💯白白┃影视",
       "type": 3,
       "searchable": 1,
-      "quickSearch": 1,
+      "quickSearch": 0,
       "api": "csp_SuBaiBai",
       "ext": "https://www.subaibai.com"
     },
@@ -359,7 +362,7 @@
       "name": "🍎苹果┃影视",
       "type": 3,
       "searchable": 1,
-      "quickSearch": 1,
+      "quickSearch": 0,
       "api": "csp_LiteApple"
     },
     {
@@ -367,7 +370,7 @@
       "name": "🍉瓜子┃影视",
       "type": 3,
       "searchable": 1,
-      "quickSearch": 1,
+      "quickSearch": 0,
       "api": "csp_Gz360"
     },
     {
@@ -375,7 +378,7 @@
       "name": "🥇金牌┃影视",
       "type": 3,
       "searchable": 1,
-      "quickSearch": 1,
+      "quickSearch": 0,
       "api": "csp_Jpys"
     },
     {
@@ -383,7 +386,7 @@
       "name": "🐓剧霸┃影视",
       "type": 3,
       "searchable": 1,
-      "quickSearch": 1,
+      "quickSearch": 0,
       "api": "https://13826.kstore.space/jubaba.py",
       "ext": ""
     },
@@ -392,7 +395,7 @@
       "name": "🔍米搜┃盘搜",
       "type": 3,
       "searchable": 1,
-      "quickSearch": 1,
+      "quickSearch": 0,
       "api": "csp_MiSou"
     },
     {
@@ -400,6 +403,7 @@
       "name": "📕有声┃听书",
       "api": "csp_BookTing",
       "type": 3,
+      "quickSearch": 0,
       "ext": "https://m.i275.com"
     },
     {
@@ -407,8 +411,8 @@
       "name": "🚑急救┃知识",
       "type": 3,
       "api": "csp_FirstAid",
-      "searchable": 1,
-      "quickSearch": 1,
+      "searchable": 0,
+      "quickSearch": 0,
       "style": {
         "type": "rect",
         "ratio": 3.8
@@ -420,7 +424,7 @@
       "type": 3,
       "api": "csp_Push",
       "searchable": 1,
-      "quickSearch": 0,
+      "quickSearch": 1,
       "ext": ""
     }
   ],
