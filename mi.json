@@ -15,6 +15,7 @@
 			"api": "csp_Config",
 			"searchable": 0
 		},
+		
 		{
 			"key": "csp_Netfixtv",
 			"name": "💌至臻┃4K网盘",
@@ -176,6 +177,15 @@
 			"ext": "https://www.wwgz.cn"
 		},
 		{
+            "key": "斗量",
+            "name": "🎃南瓜┃APP",
+            "type": 3,
+            "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/714c5f6aa89af46f/071.png;md5;9cf0a6c1f62ad83e9dccc2b7dd683a10",
+            "api": "csp_NanGua",
+            "playerType": 2,
+            "ext": "7lj763gg0939795i017ii486k512jkihhilg9g0h96j865740113"
+        },
+		{
 			"key": "热热",
 			"name": "🔥热热┃影视",
 			"type": 3,
@@ -240,15 +250,6 @@
 			"ext": "qoNcYCY4SGJFWERC5ewNdoRMWRiiOH3dKBG5+Zte38B0REfz5STn0coM8gQ4pJtU"
 		},
 		{
-			"key": "顾我",
-			"name": "🎫顾我┃影视",
-			"type": 3,
-			"quickSearch": 1,
-			"searchable": 1,
-			"api": "csp_AppGet",
-			"ext": "anMxhJnIDc1c2tyG/e37xUzar6eMUg8rOlemrnxifa3xApTYq401x7vVwbCRPlgADD7zoKQvVffdAwprrKeNlQ=="
-		},
-		{
 			"key": "大豆",
 			"name": "✅大豆┃影视",
 			"type": 3,
@@ -258,15 +259,6 @@
 			"ext": "Qrf5S6Si5oF7dQyuv+Srh3uh0lT3z1Y7u59ip9hRVeUKFHSUUbLyGMREENFjE1N9FXjZ6Z7tiLWs6P15Ol/g5Po80zDNWJPEEoj/nv3Yelo="
 		},
 		{
-			"key": "海豚",
-			"name": "🍁海豚┃影视",
-			"type": 3,
-			"searchable": 1,
-			"quickSearch": 1,
-			"api": "csp_AppGet",
-			"ext": "QxNFQL63IQgXoB/O+Q12SpWJNcSeybsKVx0uAk9+pBwLEYRybmr89ubfoMpO9ZMnmJwYP5eKIrLK/w5t9S+6+F2ZlfWUyUoDUP2rV9QVabZh8nM+rBV7F/sxe+7GgsdL"
-		},
-		{
 			"key": "巧技",
 			"name": "🚗聚搜┃影视",
 			"type": 3,
@@ -274,7 +266,7 @@
 			"quickSearch": 1,
 			"api": "csp_qiao2",
 			"playerType": 2,
-			"jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1749917849270/0615qj.jpg;md5;410ad21caad9e6f6d40c1ae5ca2be662",
+			"jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/714c5f6aa89af46f/071.png;md5;9cf0a6c1f62ad83e9dccc2b7dd683a10",
 			"ext": "7lj763gg402i79425739i7jghj118797l4hj840gi18633331l4708g2h7145403549g44l8ii56i187681hkjj3hhgh1ih3l32j250lk1k786lj20j468hk3hli4l46gig4i3g7g2722328j0136h01i7g5183k22k7gg3i72hk81gl8k9839kl7i0707"
 		},
 		{
@@ -284,7 +276,7 @@
 			"searchable": 1,
 			"quickSearch": 1,
 			"api": "csp_Muou",
-			"jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1749917849270/0615qj.jpg;md5;410ad21caad9e6f6d40c1ae5ca2be662",
+			"jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/714c5f6aa89af46f/071.png;md5;9cf0a6c1f62ad83e9dccc2b7dd683a10",
 			"playerType": 2,
 			"ext": "7lj763gg0939790i413gi484k8058896highi4414h68l7g6hk8qiaojig9k2k289l9ik807i213k5j602"
 		},
@@ -295,7 +287,7 @@
 			"searchable": 1,
 			"quickSearch": 1,
 			"api": "csp_Muou",
-			"jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1749917849270/0615qj.jpg;md5;410ad21caad9e6f6d40c1ae5ca2be662",
+			"jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/714c5f6aa89af46f/071.png;md5;9cf0a6c1f62ad83e9dccc2b7dd683a10",
 			"playerType": 2,
 			"ext": "7lj763gg402i79425i3l85i6h848i295l5hiji5l828g3l3jjhg6kg7410lhjkqiaojij3ig1lg475178k7h0il4ig3h753h7hi516758699jh2g5h433li30gk11g73l90312h4g7"
 		},
@@ -306,7 +298,7 @@
 			"searchable": 1,
 			"quickSearch": 1,
 			"api": "csp_Muou",
-			"jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1749917849270/0615qj.jpg;md5;410ad21caad9e6f6d40c1ae5ca2be662",
+			"jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/714c5f6aa89af46f/071.png;md5;9cf0a6c1f62ad83e9dccc2b7dd683a10",
 			"playerType": 2,
 			"ext": "7lj763gg402i7942463ji4qiaojijjh456889il6k6i35kj995h4j18li7kl2870klhg8hi647j5707k4ki7ig6953kj"
 		},
@@ -378,7 +370,7 @@
 			"api": "csp_Jpys"
 		},
 		{
-			"key": "测试",
+			"key": "聚吧",
 			"name": "🐓剧霸┃影视",
 			"type": 3,
 			"searchable": 1,
@@ -395,14 +387,12 @@
 			"api": "csp_MiSou"
 		},
 		{
-			"key": "听书",
-			"name": "📚听书┃听书",
-			"type": 3,
-			"api": "csp_TingBook",
-			"searchable": 1,
-			"quickSearch": 1,
-			"ext": "http://www.6yueting.com"
-		},
+            "key": "csp_BookTing",
+            "name": "📕有声┃听书",
+            "api": "csp_BookTing",
+            "type": 3,
+            "ext": "https://m.i275.com"
+        },
 		{
 			"key": "Aid",
 			"name": "🚑急救┃知识",
