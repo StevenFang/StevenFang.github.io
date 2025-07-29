@@ -232,9 +232,13 @@
       "type": 3,
       "searchable": 1,
       "quickSearch": 1,
-      "api": "csp_AppYsV2",
+      "api": "https://d.feiliupan.com/t/109056264444579840/AppV2.py",
       "playerType": 2,
-      "ext": "https://cnb.cool/xiaomideyun/xiaomideyun/-/git/raw/main/cs.txt"
+      "ext": {
+        "api": "http://dmmax.juxiafan.com/icciu_api.php/v1.vod",
+        "datasignkey": "6QQNUsP3PkD2ajJCPCY8",
+        "apisignkey": "lvdoutv-1.0.0"
+      }
     },
     {
       "key": "咖啡",
@@ -243,7 +247,7 @@
       "quickSearch": 1,
       "searchable": 1,
       "api": "csp_AppGet",
-      "ext": "kzWGWFofGVJ3C/RF+lgwJ225/vdiYNl/bMUZBlrk0nrC8OB1JmokCpa08vXuGowW"
+      "ext": "qoNcYCY4SGJFWERC5ewNdoRMWRiiOH3dKBG5+Zte38B0REfz5STn0coM8gQ4pJtU"
     },
     {
       "key": "顾我",
