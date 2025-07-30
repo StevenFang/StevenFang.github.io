@@ -233,8 +233,8 @@
 			"key": "QD4K",
 			"name": "🐷猪猪┃影视",
 			"type": 3,
-			"searchable": 0,
-			"quickSearch": 1,
+			"searchable": 1,
+			"quickSearch": 0,
 			"api": "https://d.feiliupan.com/t/109056264444579840/AppV2.py",
 			"playerType": 2,
 			"ext": {
