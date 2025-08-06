@@ -352,11 +352,22 @@
       "api": "csp_Jpys"
     },
     {
-      "key": "csp_Jqqzx",
-      "name": "⭕剧圈┃影视",
+      "key": "测试2",
+      "name": "🫓厂长┃影视",
       "type": 3,
-      "quickSearch": 0,
-      "api": "csp_Jqqzx"
+      "searchable": 1,
+      "quickSearch": 1,
+      "api": "https://13826.kstore.space/%E5%8E%82%E9%95%BF%E8%B5%84%E6%BA%90.py",
+      "ext": ""
+    },
+    {
+      "key": "测试",
+      "name": "🐓剧霸┃影视",
+      "type": 3,
+      "searchable": 1,
+      "quickSearch": 1,
+      "api": "https://13826.kstore.space/jubaba.py",
+      "ext": ""
     },
     {
       "key": "csp_MiSou",
