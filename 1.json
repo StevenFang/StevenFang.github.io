@@ -217,14 +217,6 @@
       "ext": "rP+4azM8YFgp3eAhyeALtUUEFpbkqmzGj2V5VZryxRbpkSjlsHbarRCZPOInvId4s3WK9rZ2YJsDy8NvMqQKQXowVmh33j+qD55VxmvMzzfiJ2fHkCRZg4+8NFWs+b1X"
     },
     {
-      "key": "幕启",
-      "name": "🌉幕启┃影视",
-      "type": 3,
-      "api": "csp_AppSy",
-      "quickSearch": 0,
-      "ext": "J7WBJTWvt49Rro0WaKnCpcwiAwtiA57atMnVBDAP3YRNynoyyCyLIvc6/nXpdo/2nerMlKFDJbIGRKuy0qJdB6Qkf23z5CWmuH7UTrHERqI="
-    },
-    {
       "key": "麻花",
       "name": "🌸麻花┃影视",
       "type": 3,
@@ -310,23 +302,6 @@
       "ext": "7lj763gg402i7942463ji4qiaojijjh456889il6k6i35kj995h4j18li7kl2870klhg8hi647j5707k4ki7ig6953kj"
     },
     {
-      "key": "DAY",
-      "name": "🧵UPUP┃影视",
-      "type": 3,
-      "quickSearch": 0,
-      "searchable": 1,
-      "api": "https://13826.kstore.space/tt.py"
-    },
-    {
-      "key": "步步",
-      "name": "👟步步┃影视",
-      "type": 3,
-      "searchable": 1,
-      "quickSearch": 0,
-      "api": "https://weixine.net/js/lib/drpy2.min.js",
-      "ext": "http://miqk.cc/%E5%B0%8F%E7%B1%B3/%E6%B5%8B%E8%AF%95.js"
-    },
-    {
       "key": "牛牛",
       "name": "🍁牛牛┃影视",
       "type": 3,
@@ -377,13 +352,11 @@
       "api": "csp_Jpys"
     },
     {
-      "key": "聚吧",
-      "name": "🐓剧霸┃影视",
+      "key": "csp_Jqqzx",
+      "name": "⭕剧圈┃影视",
       "type": 3,
-      "searchable": 1,
       "quickSearch": 0,
-      "api": "https://13826.kstore.space/jubaba.py",
-      "ext": ""
+      "api": "csp_Jqqzx"
     },
     {
       "key": "csp_MiSou",
