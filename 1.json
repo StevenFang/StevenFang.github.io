@@ -1,5 +1,5 @@
 {
-  "spider": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1753168489129/0722.png;md5;349a237778a3ce50218e6c8d3b3e474d",
+  "spider": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/e441755f2c44ae9d/0806.jpg;md5;1d1c6d2fcf3b22dc69a0ca30134bd184",
   "wallpaper": "https://xn--4kq62z5rby2qupqba63sb41h.999888987.xyz/",
   "sites": [
     {
@@ -192,11 +192,18 @@
       "key": "斗量",
       "name": "🎃南瓜┃APP",
       "type": 3,
-      "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/714c5f6aa89af46f/071.png;md5;9cf0a6c1f62ad83e9dccc2b7dd683a10",
       "api": "csp_NanGua",
       "quickSearch": 0,
       "playerType": 2,
-      "ext": "7lj763gg0939795i017ii486k512jkihhilg9g0h96j865740113"
+      "ext": ""
+    },
+    {
+      "key": "追忆",
+      "name": "🐖追忆┃APP",
+      "type": 3,
+      "api": "csp_AppSy",
+      "quickSearch": 0,
+      "ext": "AUQ6gwosItxIVIl5lW4mhEtvhUCPptryd1HJ1YWlyhMUjanBk/MQ/w1C7FSy6t+ixWAXOVu69YmFiPrBGvM6iAGDIL6ietolI05Xt9wOc/k="
     },
     {
       "key": "热热",
@@ -246,7 +253,7 @@
       "quickSearch": 0,
       "searchable": 1,
       "api": "csp_AppGet",
-      "ext": "/gX5OFmAD2ilw4e9hdCDHWY43M85ApN9TVuFibQAIiwfF6Z4kN93prb5cBiQMwYjG42EbId2Fq/AxX8MV52mkA=="
+      "ext": "iCAfNu0lnzDbPNyRZNPADkQjEsRXYXbhzP+dNzKN1SEfbPPIOKvEKGUJbNHH/Enk8UofJl+f8LL+N/h69EZDaFMMPeCDLq9N1TV0aTDfIY89NkrX+nhIaX9d//xiiVns"
     },
     {
       "key": "大豆",
