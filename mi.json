@@ -6,8 +6,8 @@
 			"name": "🌈热播┃推荐（长按图片也可以聚合搜索）",
 			"type": 3,
 			"quickSearch": 0,
-            "filterable": 0,
-            "changeable": 0,
+			"filterable": 0,
+			"changeable": 0,
 			"api": "csp_Douban",
 			"searchable": 0
 		},
@@ -18,7 +18,7 @@
 			"api": "csp_Config",
 			"searchable": 0
 		},
-		
+
 		{
 			"key": "csp_Netfixtv",
 			"name": "💌至臻┃4K网盘",
@@ -180,22 +180,22 @@
 			"ext": "https://www.wwgz.cn"
 		},
 		{
-            "key": "斗量",
-            "name": "🎃南瓜┃APP",
-            "type": 3,
-            "api": "csp_NanGua",
-            "quickSearch": 0,
-            "playerType": 2,
-            "ext": ""
-        },
-        {
-            "key":"追忆",
-            "name": "🐖追忆┃APP",
-            "type":3,
-            "api":"csp_AppSy",
-            "quickSearch": 0,
-            "ext":"AUQ6gwosItxIVIl5lW4mhEtvhUCPptryd1HJ1YWlyhMUjanBk/MQ/w1C7FSy6t+ixWAXOVu69YmFiPrBGvM6iAGDIL6ietolI05Xt9wOc/k="
-        },
+			"key": "斗量",
+			"name": "🎃南瓜┃APP",
+			"type": 3,
+			"api": "csp_NanGua",
+			"quickSearch": 0,
+			"playerType": 2,
+			"ext": ""
+		},
+		{
+			"key": "追忆",
+			"name": "🐖追忆┃APP",
+			"type": 3,
+			"api": "csp_AppSy",
+			"quickSearch": 0,
+			"ext": "AUQ6gwosItxIVIl5lW4mhEtvhUCPptryd1HJ1YWlyhMUjanBk/MQ/w1C7FSy6t+ixWAXOVu69YmFiPrBGvM6iAGDIL6ietolI05Xt9wOc/k="
+		},
 		{
 			"key": "热热",
 			"name": "🔥热热┃影视",
@@ -232,10 +232,10 @@
 			"api": "https://d.feiliupan.com/t/109056264444579840/AppV2.py",
 			"playerType": 2,
 			"ext": {
-            "api": "http://dmmax.juxiafan.com/icciu_api.php/v1.vod",
-            "datasignkey": "6QQNUsP3PkD2ajJCPCY8",
-            "apisignkey": "lvdoutv-1.0.0"
-    }
+				"api": "http://dmmax.juxiafan.com/icciu_api.php/v1.vod",
+				"datasignkey": "6QQNUsP3PkD2ajJCPCY8",
+				"apisignkey": "lvdoutv-1.0.0"
+			}
 		},
 		{
 			"key": "咖啡",
@@ -276,6 +276,17 @@
 			"jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/714c5f6aa89af46f/071.png;md5;9cf0a6c1f62ad83e9dccc2b7dd683a10",
 			"playerType": 2,
 			"ext": "7lj763gg0939790i413gi484k8058896highi4414h68l7g6hk8qiaojig9k2k289l9ik807i213k5j602"
+		},
+		{
+			"key": "酒客",
+			"name": "🍺️酒猫┃影视",
+			"type": 3,
+			"searchable": 1,
+			"quickSearch": 0,
+			"api": "csp_Muou",
+			"jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/714c5f6aa89af46f/071.png;md5;9cf0a6c1f62ad83e9dccc2b7dd683a10",
+			"playerType": 2,
+			"ext": "7lj763gg402i7942593ki4jkhl458k99highi4qiaoji41456iikg49i839k2k289l9ik807i213k6j60h"
 		},
 		{
 			"key": "金牌app",
@@ -350,23 +361,23 @@
 			"api": "csp_Jpys"
 		},
 		{
-      "key": "测试2",
-      "name": "🫓厂长┃影视",
-      "type": 3,
-      "searchable": 1,
-      "quickSearch": 1,
-      "api": "https://13826.kstore.space/%E5%8E%82%E9%95%BF%E8%B5%84%E6%BA%90.py",
-      "ext": ""
-    },
-	    {
-      "key": "测试",
-      "name": "🐓剧霸┃影视",
-      "type": 3,
-      "searchable": 1,
-      "quickSearch": 1,
-      "api": "https://13826.kstore.space/jubaba.py",
-      "ext": ""
-    },
+			"key": "测试2",
+			"name": "🫓厂长┃影视",
+			"type": 3,
+			"searchable": 1,
+			"quickSearch": 1,
+			"api": "https://13826.kstore.space/%E5%8E%82%E9%95%BF%E8%B5%84%E6%BA%90.py",
+			"ext": ""
+		},
+		{
+			"key": "测试",
+			"name": "🐓剧霸┃影视",
+			"type": 3,
+			"searchable": 1,
+			"quickSearch": 1,
+			"api": "https://13826.kstore.space/jubaba.py",
+			"ext": ""
+		},
 		{
 			"key": "csp_MiSou",
 			"name": "🔍米搜┃盘搜",
@@ -376,13 +387,13 @@
 			"api": "csp_MiSou"
 		},
 		{
-            "key": "csp_BookTing",
-            "name": "📕有声┃听书",
-            "api": "csp_BookTing",
-            "type": 3,
-            "quickSearch": 0,
-            "ext": "https://m.i275.com"
-        },
+			"key": "csp_BookTing",
+			"name": "📕有声┃听书",
+			"api": "csp_BookTing",
+			"type": 3,
+			"quickSearch": 0,
+			"ext": "https://m.i275.com"
+		},
 		{
 			"key": "Aid",
 			"name": "🚑急救┃知识",
@@ -399,8 +410,8 @@
 			"key": "push_agent",
 			"name": "🛴推送┃播放接口免费，请测试完删除处理",
 			"type": 3,
-            "filterable": 0,
-            "changeable": 0,
+			"filterable": 0,
+			"changeable": 0,
 			"api": "csp_Push",
 			"searchable": 1,
 			"quickSearch": 1,
