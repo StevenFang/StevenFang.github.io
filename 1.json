@@ -1,5 +1,5 @@
 {
-  "spider": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/e441755f2c44ae9d/0806.jpg;md5;1d1c6d2fcf3b22dc69a0ca30134bd184",
+  "spider": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/325cb848c3e5ca23/808.jpg;md5;b6bb648994faac668f2d10dc19e524ef",
   "wallpaper": "https://xn--4kq62z5rby2qupqba63sb41h.999888987.xyz/",
   "sites": [
     {
@@ -370,19 +370,18 @@
       "api": "csp_Jpys"
     },
     {
-      "key": "测试2",
-      "name": "🫓厂长┃影视",
+      "key": "厂长",
+      "name": "🏭厂长┃影视",
       "type": 3,
-      "searchable": 1,
-      "quickSearch": 1,
-      "api": "https://13826.kstore.space/%E5%8E%82%E9%95%BF%E8%B5%84%E6%BA%90.py",
-      "ext": ""
+      "quickSearch": 0,
+      "api": "csp_Czsapp",
+      "ext": "https://www.czzymovie.com"
     },
     {
       "key": "测试",
       "name": "🐓剧霸┃影视",
       "type": 3,
-      "searchable": 1,
+      "searchable": 0,
       "quickSearch": 1,
       "api": "https://13826.kstore.space/jubaba.py",
       "ext": ""
