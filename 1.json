@@ -1,5 +1,5 @@
 {
-  "spider": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/325cb848c3e5ca23/808.jpg;md5;b6bb648994faac668f2d10dc19e524ef",
+  "spider": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/bb2e3bb2e6c3c230/0815.png;md5;66623623fe5ae34dad253ae2e0802416",
   "wallpaper": "https://xn--4kq62z5rby2qupqba63sb41h.999888987.xyz/",
   "sites": [
     {
@@ -189,6 +189,13 @@
       "ext": "https://www.wwgz.cn"
     },
     {
+      "key": "csp_FreeOk",
+      "name": "👌️Frek┃影视",
+      "type": 3,
+      "quickSearch": 0,
+      "api": "csp_FreeOk"
+    },
+    {
       "key": "斗量",
       "name": "🎃南瓜┃APP",
       "type": 3,
@@ -203,7 +210,7 @@
       "type": 3,
       "api": "csp_AppSy",
       "quickSearch": 0,
-      "ext": "AUQ6gwosItxIVIl5lW4mhEtvhUCPptryd1HJ1YWlyhMUjanBk/MQ/w1C7FSy6t+ixWAXOVu69YmFiPrBGvM6iAGDIL6ietolI05Xt9wOc/k="
+      "ext": "Qrf5S6Si5oF7dQyuv+Srh3uh0lT3z1Y7u59ip9hRVeWtPAwa8PAzOjbdregJfgecQjmbgYlvm+1rK87EwCqgaovlgh315Qrh90D+nl+f08o="
     },
     {
       "key": "热热",
@@ -247,22 +254,40 @@
       }
     },
     {
-      "key": "咖啡",
-      "name": "☕咖啡┃影视",
-      "type": 3,
-      "quickSearch": 0,
-      "searchable": 1,
-      "api": "csp_AppGet",
-      "ext": "iCAfNu0lnzDbPNyRZNPADkQjEsRXYXbhzP+dNzKN1SEfbPPIOKvEKGUJbNHH/Enk8UofJl+f8LL+N/h69EZDaFMMPeCDLq9N1TV0aTDfIY89NkrX+nhIaX9d//xiiVns"
-    },
-    {
       "key": "菲菲",
       "name": "🐱加菲┃影视",
       "type": 3,
       "quickSearch": 0,
       "searchable": 1,
-      "api": "csp_AppGet",
+      "api": "csp_AppQi",
       "ext": "BciM/oLDYQqSU++RAsI5xz2Dmz98Blyw0pp0T+0QPiq/bSU1IhcLmPsn25NijfG6B3fLoAmVGEL0/tWb+o0nZYn1u5i3pWNxWaYYmNV1x0c="
+    },
+    {
+      "key": "比迪",
+      "name": "🐕比迪┃影视",
+      "type": 3,
+      "quickSearch": 0,
+      "playerType": 1,
+      "searchable": 1,
+      "api": "csp_AppQi",
+      "ext": "HM+RJliOAzVbMKoUegXt5SVTp6lV507+wK0S5QCxiEEA9zs/swmgAb3z+F5RUY21tC1US86Wo/2RunTWZsPUxuLk0B4X5G0RneEJEfEV4CWzDmIx8mdFYBlSJiwJcoNYioDEVsg76bXpsGDfXTT4Mb092SQ1oS22g2A1GUtEcn8="
+    },
+    {
+      "key": "咖啡",
+      "name": "☕咖啡┃影视",
+      "type": 3,
+      "quickSearch": 0,
+      "searchable": 1,
+      "api": "csp_AppQi",
+      "ext": "iCAfNu0lnzDbPNyRZNPADkQjEsRXYXbhzP+dNzKN1SEfbPPIOKvEKGUJbNHH/Enk8UofJl+f8LL+N/h69EZDaFMMPeCDLq9N1TV0aTDfIY89NkrX+nhIaX9d//xiiVns"
+    },
+    {
+      "key": "鲸鱼影视",
+      "name": "🐟鲸鱼┃APP",
+      "type": 3,
+      "api": "csp_AppQi",
+      "quickSearch": 0,
+      "ext": "rP+4azM8YFgp3eAhyeALtUUEFpbkqmzGj2V5VZryxRbpkSjlsHbarRCZPOInvId4s3WK9rZ2YJsDy8NvMqQKQd58LGascWuvwraVoz2iK+s="
     },
     {
       "key": "大豆",
@@ -285,37 +310,12 @@
       "ext": "7lj763gg402i79425739i7jghj118797l4hj840gi18633331l4708g2h7145403549g44l8ii56i187681hkjj3hhgh1ih3l32j250lk1k786lj20j468hk3hli4l46gig4i3g7g2722328j0136h01i7g5183k22k7gg3i72hk81gl8k9839kl7i0707"
     },
     {
-      "key": "huomaoys",
-      "name": "🎬️火猫┃影视",
-      "type": 3,
-      "searchable": 1,
+      "key": "金牌APP",
+      "name": "💣爆炸┃影视",
       "quickSearch": 0,
-      "api": "csp_Muou",
-      "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/714c5f6aa89af46f/071.png;md5;9cf0a6c1f62ad83e9dccc2b7dd683a10",
-      "playerType": 2,
-      "ext": "7lj763gg0939790i413gi484k8058896highi4414h68l7g6hk8qiaojig9k2k289l9ik807i213k5j602"
-    },
-    {
-      "key": "酒客",
-      "name": "🍺️酒猫┃影视",
       "type": 3,
-      "searchable": 1,
-      "quickSearch": 0,
-      "api": "csp_Muou",
-      "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/714c5f6aa89af46f/071.png;md5;9cf0a6c1f62ad83e9dccc2b7dd683a10",
-      "playerType": 2,
-      "ext": "7lj763gg402i7942593ki4jkhl458k99highi4qiaoji41456iikg49i839k2k289l9ik807i213k6j60h"
-    },
-    {
-      "key": "金牌app",
-      "name": "🎬️爆炸┃影视",
-      "type": 3,
-      "searchable": 1,
-      "quickSearch": 0,
-      "api": "csp_Muou",
-      "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/714c5f6aa89af46f/071.png;md5;9cf0a6c1f62ad83e9dccc2b7dd683a10",
-      "playerType": 2,
-      "ext": "7lj763gg402i79425i3l85i6h848i295l5hiji5l828g3l3jjhg6kg7410lhjkqiaojij3ig1lg475178k7h0il4ig3h753h7hi516758699jh2g5h433li30gk11g73l90312h4g7"
+      "api": "csp_AppMuou",
+      "ext": "ewogICJTaXRlVXJsIjogImh0dHBzOi8vbXVvdS53bGJicS54eXoiLAogICJFeHQiOiAiaXA5K1dadnQ5ODNzUzAwOGtyTktobno4Q2Fzb2d3QjlLYkp2U0FmNGJRZEg5aUlGVHE4Y0tGM3Y4RFBicnphUiIsCiAgIkluZm8iOiAiaHR0cHM6Ly9tdW91aHQuZ2d0dmIuY2MiCn0="
     },
     {
       "key": "公公",
@@ -387,15 +387,6 @@
       "ext": "https://www.czzymovie.com"
     },
     {
-      "key": "测试",
-      "name": "🐓剧霸┃影视",
-      "type": 3,
-      "searchable": 0,
-      "quickSearch": 1,
-      "api": "https://13826.kstore.space/jubaba.py",
-      "ext": ""
-    },
-    {
       "key": "csp_MiSou",
       "name": "🔍米搜┃盘搜",
       "type": 3,
@@ -430,7 +421,7 @@
       "filterable": 0,
       "changeable": 0,
       "api": "csp_Push",
-      "searchable": 1,
+      "searchable": 0,
       "quickSearch": 1,
       "ext": ""
     }
