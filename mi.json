@@ -247,6 +247,15 @@
 			"ext": "iCAfNu0lnzDbPNyRZNPADkQjEsRXYXbhzP+dNzKN1SEfbPPIOKvEKGUJbNHH/Enk8UofJl+f8LL+N/h69EZDaFMMPeCDLq9N1TV0aTDfIY89NkrX+nhIaX9d//xiiVns"
 		},
 		{
+			"key": "菲菲",
+			"name": "🐱加菲┃影视",
+			"type": 3,
+			"quickSearch": 0,
+			"searchable": 1,
+			"api": "csp_AppGet",
+			"ext": "BciM/oLDYQqSU++RAsI5xz2Dmz98Blyw0pp0T+0QPiq/bSU1IhcLmPsn25NijfG6B3fLoAmVGEL0/tWb+o0nZYn1u5i3pWNxWaYYmNV1x0c="
+		},
+		{
 			"key": "大豆",
 			"name": "✅大豆┃影视",
 			"type": 3,
