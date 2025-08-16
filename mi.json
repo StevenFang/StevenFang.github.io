@@ -411,7 +411,7 @@
 			"filterable": 0,
 			"changeable": 0,
 			"api": "csp_Push",
-			"searchable": 0,
+			"searchable": 1,
 			"quickSearch": 1,
 			"ext": ""
 		}
