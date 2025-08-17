@@ -196,15 +196,6 @@
       "api": "csp_FreeOk"
     },
     {
-      "key": "斗量",
-      "name": "🎃南瓜┃APP",
-      "type": 3,
-      "api": "csp_NanGua",
-      "quickSearch": 0,
-      "playerType": 2,
-      "ext": ""
-    },
-    {
       "key": "追忆",
       "name": "🐖追忆┃APP",
       "type": 3,
@@ -296,7 +287,7 @@
       "quickSearch": 0,
       "searchable": 1,
       "api": "csp_AppGet",
-      "ext": "Qrf5S6Si5oF7dQyuv+Srh3uh0lT3z1Y7u59ip9hRVeUKFHSUUbLyGMREENFjE1N9FXjZ6Z7tiLWs6P15Ol/g5Po80zDNWJPEEoj/nv3Yelo="
+      "ext": "7PKaTzLgpGLqYV7cUF+dCEw/YtRQnWFqGURdQoZnM3s5khy5fqX3yGD7gACetGMWTQJv81SoDNcZI5UkNNLGqA=="
     },
     {
       "key": "巧技",
