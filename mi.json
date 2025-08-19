@@ -136,6 +136,20 @@
 			"ext": ""
 		},
 		{
+			"key": "测试",
+			"name": "🎮测试┃测试",
+			"quickSearch": 0,
+			"searchable": 1,
+			"type": 3,
+			"api": "https://13826.kstore.vip/getapp3.4.2.py",
+			
+    "ext": {
+        "host": "https://jingyu4k-1312635929.cos.ap-nanjing.myqcloud.com/1.json",
+        "datakey": "AAdgrdghjfgswerA",
+        "api": 2
+    }
+		},
+		{
 			"key": "娱乐",
 			"name": "🎮游戏┃娱乐",
 			"quickSearch": 0,
