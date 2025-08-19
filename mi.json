@@ -246,7 +246,7 @@
 			"quickSearch": 0,
 			"searchable": 1,
 			"api": "csp_AppGet",
-			"ext": "rP+4azM8YFgp3eAhyeALtUUEFpbkqmzGj2V5VZryxRbpkSjlsHbarRCZPOInvId4s3WK9rZ2YJsDy8NvMqQKQXowVmh33j+qD55VxmvMzzesNDM87sUul1Ii8NbP2XB5"
+			"ext": "8DBhgTHlwsdde1V+XNnHWDUo96bisLPlXXWowe/BjAkFTByXVW8rl6nRNIr6DTC0"
 		},
 		{
 			"key": "QD4K",
@@ -262,15 +262,7 @@
 				"apisignkey": "lvdoutv-1.0.0"
 			}
 		},
-		{
-			"key": "菲菲",
-			"name": "🐱加菲┃影视",
-			"type": 3,
-			"quickSearch": 0,
-			"searchable": 1,
-			"api": "csp_AppQi",
-			"ext": "BciM/oLDYQqSU++RAsI5xz2Dmz98Blyw0pp0T+0QPiq/bSU1IhcLmPsn25NijfG6B3fLoAmVGEL0/tWb+o0nZYn1u5i3pWNxWaYYmNV1x0c="
-		},
+		
 		{
 			"key": "比迪",
 			"name": "🐕比迪┃影视",
@@ -294,9 +286,9 @@
 			"key": "鲸鱼影视",
 			"name": "🐟鲸鱼┃APP",
 			"type": 3,
-			"api": "csp_AppQi",
+			"api": "csp_AppGet",
 			"quickSearch": 0,
-			"ext": "rP+4azM8YFgp3eAhyeALtUUEFpbkqmzGj2V5VZryxRbpkSjlsHbarRCZPOInvId4s3WK9rZ2YJsDy8NvMqQKQd58LGascWuvwraVoz2iK+s="
+			"ext": "4+puQ2fxsNJWd5UauYRtFWna9fnlt5dkKL3x9lhE4fvCfvUo8e8W9xdW1SgtEluDq2x7Lwe3quIjIBtAOG2UJw=="
 		},
 		{
 			"key": "大豆",
