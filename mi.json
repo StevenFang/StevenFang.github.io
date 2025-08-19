@@ -136,8 +136,8 @@
 			"ext": ""
 		},
 		{
-			"key": "测试",
-			"name": "🎮测试┃测试",
+			"key": "鲸鱼",
+			"name": "🐋鲸鱼┃测试",
 			"quickSearch": 0,
 			"searchable": 1,
 			"type": 3,
@@ -150,12 +150,26 @@
     }
 		},
 		{
+			"key": "爱影视",
+			"name": "🎴爱盈┃测试",
+			"quickSearch": 0,
+			"searchable": 1,
+			"type": 3,
+			"api": "https://13826.kstore.vip/getapp3.4.2.py",
+			
+    "ext": {
+        "host": "https://aysappto.oss-cn-chengdu.aliyuncs.com/qj1.txt",
+        "datakey": "dksvndkaAjekakcE",
+        "api": 2
+    }
+		},
+		{
 			"key": "娱乐",
 			"name": "🎮游戏┃娱乐",
 			"quickSearch": 0,
 			"searchable": 1,
 			"type": 3,
-			"api": "https://cnb.cool/zhyadc/PyramidStore/-/git/raw/main/plugin/html/LIVES.py",
+			"api": "https://13826.kstore.vip/zb.py",
 			"style": {
 				"type": "rect",
 				"ratio": 1.333
