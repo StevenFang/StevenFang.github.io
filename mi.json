@@ -1,5 +1,5 @@
 {
-	"spider": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/bb2e3bb2e6c3c230/0815.png;md5;66623623fe5ae34dad253ae2e0802416",
+	"spider": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/4357f97d9d107807/0826.png;md5;5f3445d2b4cd2c0c66c73a0c701b8d3e",
 	"wallpaper": "https://xn--4kq62z5rby2qupqba63sb41h.999888987.xyz/",
 	"sites": [{
 			"key": "豆豆",
@@ -136,33 +136,25 @@
 			"ext": "https://ka1dfj.slsw6.com"
 		},
 		{
-			"key": "鲸鱼",
-			"name": "🐋鲸鱼┃测试",
-			"quickSearch": 0,
-			"searchable": 1,
+			"key": "AppQi1",
+			"name": "🎴爱盈┃小米",
 			"type": 3,
-			"api": "https://13826.kstore.vip/getapp3.4.2.py",
-			
-    "ext": {
-        "host": "https://jingyu4k-1312635929.cos.ap-nanjing.myqcloud.com/1.json",
-        "datakey": "AAdgrdghjfgswerA",
-        "api": 2
-    }
+			"api": "csp_AppQi",
+			"changeable": "0",
+			"quickSearch": 0,
+			"filterable": 1,
+			"ext": "BciM/oLDYQqSU++RAsI5xz2Dmz98Blyw0pp0T+0QPiq/bSU1IhcLmPsn25NijfG6B3fLoAmVGEL0/tWb+o0nZYn1u5i3pWNxWaYYmNV1x0c="
 		},
 		{
-			"key": "爱影视",
-			"name": "🎴爱盈┃测试",
+			"key": "鲸鱼",
+			"name": "🐋鲸鱼┃小米",
 			"quickSearch": 0,
 			"searchable": 1,
 			"type": 3,
-			"api": "https://13826.kstore.vip/getapp3.4.2.py",
-			
-    "ext": {
-        "host": "https://aysappto.oss-cn-chengdu.aliyuncs.com/qj1.txt",
-        "datakey": "dksvndkaAjekakcE",
-        "api": 2
-    }
+			"api": "csp_AppQi",
+			"ext": "rP+4azM8YFgp3eAhyeALtUUEFpbkqmzGj2V5VZryxRbpkSjlsHbarRCZPOInvId4s3WK9rZ2YJsDy8NvMqQKQXowVmh33j+qD55VxmvMzzffqLi7UXvCKdy6PzbDhzFq"
 		},
+		
 		{
 			"key": "娱乐",
 			"name": "🎮游戏┃娱乐",
@@ -236,8 +228,8 @@
 			"type": 3,
 			"searchable": 1,
 			"quickSearch": 0,
-			"api": "csp_AppGet",
-			"ext": "rP+4azM8YFgp3eAhyeALtUUEFpbkqmzGj2V5VZryxRbpkSjlsHbarRCZPOInvId4s3WK9rZ2YJsDy8NvMqQKQXowVmh33j+qD55VxmvMzzfiJ2fHkCRZg4+8NFWs+b1X"
+			"api": "csp_AppQi",
+			"ext": "9ee0oa0Y30GapSvZ2C2RVE2HwH08KKvP0VhAZCVWpnluXpZNLRZrNCMeKyCWw1JOj3jlA6tSdRPHvvTyBCuIMzwlKeODvXst4zEi0DFYqmEXOu+cG8rF7/kIckBMVYvn"
 		},
 		{
 			"key": "麻花",
@@ -245,8 +237,8 @@
 			"type": 3,
 			"quickSearch": 0,
 			"searchable": 1,
-			"api": "csp_AppGet",
-			"ext": "8DBhgTHlwsdde1V+XNnHWDUo96bisLPlXXWowe/BjAkFTByXVW8rl6nRNIr6DTC0"
+			"api": "csp_AppQi",
+			"ext": "lo54N2bJ4DtrhxC9P676hHekMnvMvX1mNNhVKf3kE5Wgy3H/b30VkkDKAYauTqZsDdvpB5GqFDm8YyeyiKclJTSLQ/tOARL2p/dbX8OIae9/PHnAUKONnpKuoD52E5AT"
 		},
 		{
 			"key": "QD4K",
@@ -261,34 +253,6 @@
 				"datasignkey": "6QQNUsP3PkD2ajJCPCY8",
 				"apisignkey": "lvdoutv-1.0.0"
 			}
-		},
-		
-		{
-			"key": "比迪",
-			"name": "🐕比迪┃影视",
-			"type": 3,
-			"quickSearch": 0,
-			"playerType": 1,
-			"searchable": 1,
-			"api": "csp_AppQi",
-			"ext": "HM+RJliOAzVbMKoUegXt5SVTp6lV507+wK0S5QCxiEEA9zs/swmgAb3z+F5RUY21tC1US86Wo/2RunTWZsPUxuLk0B4X5G0RneEJEfEV4CWzDmIx8mdFYBlSJiwJcoNYioDEVsg76bXpsGDfXTT4Mb092SQ1oS22g2A1GUtEcn8="
-		},
-		{
-			"key": "咖啡",
-			"name": "☕咖啡┃影视",
-			"type": 3,
-			"quickSearch": 0,
-			"searchable": 1,
-			"api": "csp_AppQi",
-			"ext": "iCAfNu0lnzDbPNyRZNPADkQjEsRXYXbhzP+dNzKN1SEfbPPIOKvEKGUJbNHH/Enk8UofJl+f8LL+N/h69EZDaFMMPeCDLq9N1TV0aTDfIY89NkrX+nhIaX9d//xiiVns"
-		},
-		{
-			"key": "鲸鱼影视",
-			"name": "🐟鲸鱼┃APP",
-			"type": 3,
-			"api": "csp_AppGet",
-			"quickSearch": 0,
-			"ext": "4+puQ2fxsNJWd5UauYRtFWna9fnlt5dkKL3x9lhE4fvCfvUo8e8W9xdW1SgtEluDq2x7Lwe3quIjIBtAOG2UJw=="
 		},
 		{
 			"key": "大豆",
@@ -317,17 +281,6 @@
 			"type": 3,
 			"api": "csp_AppMuou",
 			"ext": "ewogICJTaXRlVXJsIjogImh0dHBzOi8vbXVvdS53bGJicS54eXoiLAogICJFeHQiOiAiaXA5K1dadnQ5ODNzUzAwOGtyTktobno4Q2Fzb2d3QjlLYkp2U0FmNGJRZEg5aUlGVHE4Y0tGM3Y4RFBicnphUiIsCiAgIkluZm8iOiAiaHR0cHM6Ly9tdW91aHQuZ2d0dmIuY2MiCn0="
-		},
-		{
-			"key": "公公",
-			"name": "🎬️公共┃影视",
-			"type": 3,
-			"searchable": 1,
-			"quickSearch": 0,
-			"api": "csp_Muou",
-			"jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/714c5f6aa89af46f/071.png;md5;9cf0a6c1f62ad83e9dccc2b7dd683a10",
-			"playerType": 2,
-			"ext": "7lj763gg402i7942463ji4qiaojijjh456889il6k6i35kj995h4j18li7kl2870klhg8hi647j5707k4ki7ig6953kj"
 		},
 		{
 			"key": "牛牛",
