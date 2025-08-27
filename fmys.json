@@ -4,14 +4,14 @@
     "list": [
       {
         "name": "手机版",
-        "url": "https://gh.qninq.cnp/https://raw.githubusercontent.com/FongMi/Release/refs/heads/fongmi/apk/release/mobile-arm64_v8a.apk",
-        "icon": "https://gh.qninq.cnp/https://raw.githubusercontent.com/lystv/fmapp/img/log/ys.jpg",
+        "url": "https://gh.catmak.name/https://raw.githubusercontent.com/FongMi/Release/refs/heads/fongmi/apk/release/mobile-arm64_v8a.apk",
+        "icon": "https://gh.catmak.name/https://raw.githubusercontent.com/lystv/fmapp/img/log/ys.jpg",
         "version": "4.1.1"
       },
       {
         "name": "电视版",
-        "url": "https://gh.qninq.cnp/https://raw.githubusercontent.com/FongMi/Release/refs/heads/fongmi/apk/release/leanback-armeabi_v7a.apk",
-        "icon": "https://gh.qninq.cnp/https://raw.githubusercontent.com/lystv/fmapp/img/log/ys.jpg",
+        "url": "https://gh.catmak.name/https://raw.githubusercontent.com/FongMi/Release/refs/heads/fongmi/apk/release/leanback-armeabi_v7a.apk",
+        "icon": "https://gh.catmak.name/https://raw.githubusercontent.com/lystv/fmapp/img/log/ys.jpg",
         "version": "4.1.1"
       }
     ]
@@ -21,20 +21,20 @@
     "list": [
       {
         "name": "电视版",
-        "url": "https://gh.qninq.cnp/https://raw.githubusercontent.com/FongMi/Release/refs/heads/fongmi/apk/release/leanback-armeabi_v7a.apk",
-        "icon": "https://gh.qninq.cnp/https://raw.githubusercontent.com/lystv/fmapp/img/log/ys.jpg",
+        "url": "https://gh.catmak.name/https://raw.githubusercontent.com/FongMi/Release/refs/heads/fongmi/apk/release/leanback-armeabi_v7a.apk",
+        "icon": "https://gh.catmak.name/https://raw.githubusercontent.com/lystv/fmapp/img/log/ys.jpg",
         "version": "4.1.1"
       },
       {
         "name": "手机版",
-        "url": "https://gh.qninq.cnp/https://raw.githubusercontent.com/FongMi/Release/refs/heads/fongmi/apk/release/mobile-arm64_v8a.apk",
-        "icon": "https://gh.qninq.cnp/https://raw.githubusercontent.com/lystv/fmapp/img/log/ys.jpg",
+        "url": "https://gh.catmak.name/https://raw.githubusercontent.com/FongMi/Release/refs/heads/fongmi/apk/release/mobile-arm64_v8a.apk",
+        "icon": "https://gh.catmak.name/https://raw.githubusercontent.com/lystv/fmapp/img/log/ys.jpg",
         "version": "4.1.1"
       },
       {
         "name": "旧手机",
-        "url": "https://gh.qninq.cnp/https://raw.githubusercontent.com/FongMi/Release/refs/heads/fongmi/apk/release/mobile-armeabi_v7a.apk",
-        "icon": "https://gh.qninq.cnp/https://raw.githubusercontent.com/lystv/fmapp/img/log/ys.jpg",
+        "url": "https://gh.catmak.name/https://raw.githubusercontent.com/FongMi/Release/refs/heads/fongmi/apk/release/mobile-armeabi_v7a.apk",
+        "icon": "https://gh.catmak.name/https://raw.githubusercontent.com/lystv/fmapp/img/log/ys.jpg",
         "version": "4.1.1"
       }
     ]
