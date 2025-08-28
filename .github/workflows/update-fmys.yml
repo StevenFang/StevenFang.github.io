@@ -2,7 +2,7 @@ name: update fmys
 
 on:
   schedule:
-    - cron: '0 */6 * * *'  # 每小时检查更新
+    - cron: '0 */6 * * *'  # 每6小时检查更新
   workflow_dispatch:     # 手动触发
 
 jobs:
@@ -30,6 +30,7 @@ jobs:
 
     - name: Generate fmys.json
       run: |
+        GHURL="https://gh.catmak.name/"
         cat <<EOF > fmys.json
         [
           {
@@ -37,14 +38,14 @@ jobs:
             "list": [
               {
                 "name": "手机版",
-                "url": "https://gh.catmak.name/https://raw.githubusercontent.com/FongMi/Release/refs/heads/fongmi/apk/release/mobile-arm64_v8a.apk",
-                "icon": "https://gh.catmak.name/https://raw.githubusercontent.com/lystv/fmapp/img/log/ys.jpg",
+                "url": "${GHURL}https://raw.githubusercontent.com/FongMi/Release/refs/heads/fongmi/apk/release/mobile-arm64_v8a.apk",
+                "icon": "${GHURL}https://raw.githubusercontent.com/lystv/fmapp/img/log/ys.jpg",
                 "version": "${{ env.MOBILE_VER }}"
               },
               {
                 "name": "电视版",
-                "url": "https://gh.catmak.name/https://raw.githubusercontent.com/FongMi/Release/refs/heads/fongmi/apk/release/leanback-armeabi_v7a.apk",
-                "icon": "https://gh.catmak.name/https://raw.githubusercontent.com/lystv/fmapp/img/log/ys.jpg",
+                "url": "${GHURL}https://raw.githubusercontent.com/FongMi/Release/refs/heads/fongmi/apk/release/leanback-armeabi_v7a.apk",
+                "icon": "${GHURL}https://raw.githubusercontent.com/lystv/fmapp/img/log/ys.jpg",
                 "version": "${{ env.LEANBACK_VER }}"
               }
             ]
@@ -54,20 +55,20 @@ jobs:
             "list": [
               {
                 "name": "电视版",
-                "url": "https://gh.catmak.name/https://raw.githubusercontent.com/FongMi/Release/refs/heads/fongmi/apk/release/leanback-armeabi_v7a.apk",
-                "icon": "https://gh.catmak.name/https://raw.githubusercontent.com/lystv/fmapp/img/log/ys.jpg",
+                "url": "${GHURL}https://raw.githubusercontent.com/FongMi/Release/refs/heads/fongmi/apk/release/leanback-armeabi_v7a.apk",
+                "icon": "${GHURL}https://raw.githubusercontent.com/lystv/fmapp/img/log/ys.jpg",
                 "version": "${{ env.LEANBACK_VER }}"
               },
               {
                 "name": "手机版",
-                "url": "https://gh.catmak.name/https://raw.githubusercontent.com/FongMi/Release/refs/heads/fongmi/apk/release/mobile-arm64_v8a.apk",
-                "icon": "https://gh.catmak.name/https://raw.githubusercontent.com/lystv/fmapp/img/log/ys.jpg",
+                "url": "${GHURL}https://raw.githubusercontent.com/FongMi/Release/refs/heads/fongmi/apk/release/mobile-arm64_v8a.apk",
+                "icon": "${GHURL}https://raw.githubusercontent.com/lystv/fmapp/img/log/ys.jpg",
                 "version": "${{ env.MOBILE_VER }}"
               },
               {
                 "name": "旧手机",
-                "url": "https://gh.catmak.name/https://raw.githubusercontent.com/FongMi/Release/refs/heads/fongmi/apk/release/mobile-armeabi_v7a.apk",
-                "icon": "https://gh.catmak.name/https://raw.githubusercontent.com/lystv/fmapp/img/log/ys.jpg",
+                "url": "${GHURL}https://raw.githubusercontent.com/FongMi/Release/refs/heads/fongmi/apk/release/mobile-armeabi_v7a.apk",
+                "icon": "${GHURL}https://raw.githubusercontent.com/lystv/fmapp/img/log/ys.jpg",
                 "version": "${{ env.MOBILE_VER }}"
               }
             ]
