@@ -30,7 +30,7 @@ jobs:
 
     - name: Generate fmys.json
       run: |
-        GHURL="https://gh.catmak.name/"
+        GHURL="https://ghfast.top/"
         cat <<EOF > fmys.json
         [
           {
