@@ -165,6 +165,15 @@
       "ext": "rP+4azM8YFgp3eAhyeALtUUEFpbkqmzGj2V5VZryxRbpkSjlsHbarRCZPOInvId4s3WK9rZ2YJsDy8NvMqQKQXowVmh33j+qD55VxmvMzzffqLi7UXvCKdy6PzbDhzFq"
     },
     {
+      "key": "猪猪",
+      "name": "🐷小猪┃影视",
+      "quickSearch": 0,
+      "searchable": 1,
+      "type": 3,
+      "api": "csp_AppGet",
+      "ext": "I7L3u12iTGax7pIKDBrd0Czr1qZntIntytqeFyDzetDIICoeNSd3afmMXMhm296uAkb3qZ7kxihetfT8V6h4kw=="
+    },
+    {
       "key": "娱乐",
       "name": "🎮游戏┃娱乐",
       "quickSearch": 0,
@@ -220,7 +229,7 @@
       "type": 3,
       "api": "csp_AppSy",
       "quickSearch": 0,
-      "ext": "Qrf5S6Si5oF7dQyuv+Srh3uh0lT3z1Y7u59ip9hRVeWtPAwa8PAzOjbdregJfgecQjmbgYlvm+1rK87EwCqgaovlgh315Qrh90D+nl+f08o="
+      "ext": "oJGDh+VBrPcwnx19VbSGqy9EkivA/Gc+cSt3uSBzyPzDTmKYyoi6Wr4VgqU2u0Sh7AAuGc4/a7UWVU6BEmFetA=="
     },
     {
       "key": "热热",
@@ -247,7 +256,7 @@
       "quickSearch": 0,
       "searchable": 1,
       "api": "csp_AppQi",
-      "ext": "lo54N2bJ4DtrhxC9P676hHekMnvMvX1mNNhVKf3kE5Wgy3H/b30VkkDKAYauTqZsDdvpB5GqFDm8YyeyiKclJTSLQ/tOARL2p/dbX8OIae9/PHnAUKONnpKuoD52E5AT"
+      "ext": "Koog6uPyOjHNZh8eY8CgUL+XGp1zR8d/K2NE9Ls6xomFfTe7rh08ey2nhTjFqhzZpFCRgo6Ts5zctBTL20Q0GTg9Ltmxj+3Mtu3MmCSyMrA="
     },
     {
       "key": "QD4K",
@@ -258,7 +267,7 @@
       "api": "https://d.feiliupan.com/t/109056264444579840/AppV2.py",
       "playerType": 2,
       "ext": {
-        "api": "http://dmmax.juxiafan.com/icciu_api.php/v1.vod",
+        "api": "http://dmmax.kuailezhuiju2.com/icciu_api.php/v1.vod",
         "datasignkey": "6QQNUsP3PkD2ajJCPCY8",
         "apisignkey": "lvdoutv-1.0.0"
       }
@@ -290,14 +299,6 @@
       "type": 3,
       "api": "csp_AppMuou",
       "ext": "ewogICJTaXRlVXJsIjogImh0dHBzOi8vbXVvdS53bGJicS54eXoiLAogICJFeHQiOiAiaXA5K1dadnQ5ODNzUzAwOGtyTktobno4Q2Fzb2d3QjlLYkp2U0FmNGJRZEg5aUlGVHE4Y0tGM3Y4RFBicnphUiIsCiAgIkluZm8iOiAiaHR0cHM6Ly9tdW91aHQuZ2d0dmIuY2MiCn0="
-    },
-    {
-      "key": "牛牛",
-      "name": "🍁牛牛┃影视",
-      "type": 3,
-      "quickSearch": 0,
-      "searchable": 1,
-      "api": "https://13826.kstore.space/mioaying.py"
     },
     {
       "key": "csp_AppXY",
