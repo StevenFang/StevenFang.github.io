@@ -17,16 +17,8 @@ jobs:
       id: get_content
       run: |
         set -e
-        url="https://jm.xinxinbaobao.tk/?url=https://cnb.cool/xiaomideyun/xiaomideyun/-/git/raw/main/mi.json"
-        echo "Testing URL: $url"
-        response=$(curl -s -w "%{http_code}" "$url" -o mi.json)
-        code=$(tail -c 3 <<< "$response")
-        echo "HTTP status: $code"
-        cat mi.json || true
-        if [[ "$code" != "200" ]]; then
-          echo "Download failed, HTTP code: $code"
-          exit 1
-        fi
+        curl -s --fail http://miqk.cc/小米/DEMO.json -o mi.json
+        echo "::set-output name=status_code::$?"
         
     - name: Validate JSON
       run: jq . mi.json
