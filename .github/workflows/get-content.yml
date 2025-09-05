@@ -16,9 +16,21 @@ jobs:
     - name: Get website content
       id: get_content
       run: |
-        set -e
-        curl -s --fail http://miqk.cc/小米/DEMO.json -o mi.json
-        echo "::set-output name=status_code::$?"
+        python -c "
+        import sys
+        import urllib.request
+        url = 'http://miqk.cc/小米/DEMO.json -o mi.json'
+        try:
+          with urllib.request.urlopen(url) as response:
+              content = response.read()
+          with open('mi.json', 'wb') as f:
+              f.write(content)
+          print('::set-output name=status_code::0')
+        except Exception as e:
+          print(e)
+          print('::set-output name=status_code::1')
+          sys.exit(1)
+        "
         
     - name: Validate JSON
       run: jq . mi.json
