@@ -1,5 +1,5 @@
 {
-  "spider": "https://www.lequxiang.com.cn/down.php/d4be9b4c1fc2a46911fb45726b8f109a.png;md5;d4be9b4c1fc2a46911fb45726b8f109a",
+  "spider": "https://13826.kstore.vip/logo.png;md5;d4be9b4c1fc2a46911fb45726b8f109a",
   "wallpaper": "https://xn--4kq62z5rby2qupqba63sb41h.999888987.xyz/",
   "sites": [
     {
@@ -156,6 +156,15 @@
       "ext": "rP+4azM8YFgp3eAhyeALtUUEFpbkqmzGj2V5VZryxRbpkSjlsHbarRCZPOInvId4s3WK9rZ2YJsDy8NvMqQKQXowVmh33j+qD55VxmvMzzffqLi7UXvCKdy6PzbDhzFq"
     },
     {
+      "key": "仓鼠2",
+      "name": "🐨仓鼠┃小米",
+      "quickSearch": 0,
+      "searchable": 1,
+      "type": 3,
+      "api": "csp_AppQi",
+      "ext": "lo54N2bJ4DtrhxC9P676hHekMnvMvX1mNNhVKf3kE5Wgy3H/b30VkkDKAYauTqZsEMYaTrPKBtx3YUMTA+XHh7FPLmLfqp6gWseDzGVsgesALIba2gHVzuE75Sx1II8A"
+    },
+    {
       "key": "猪猪",
       "name": "🐷小猪┃影视",
       "quickSearch": 0,
@@ -163,6 +172,15 @@
       "type": 3,
       "api": "csp_AppGet",
       "ext": "I7L3u12iTGax7pIKDBrd0Czr1qZntIntytqeFyDzetDIICoeNSd3afmMXMhm296uAkb3qZ7kxihetfT8V6h4kw=="
+    },
+    {
+      "key": "布蕾",
+      "name": "💯布蕾┃影视",
+      "quickSearch": 0,
+      "searchable": 1,
+      "type": 3,
+      "api": "csp_AppGet",
+      "ext": "KgJbeb5sUfDKrPR2kL+eSnS2/p1vUzgiO9/kBzkhPIPRpqLXPCDc4tA9MXMdokFN"
     },
     {
       "key": "娱乐",
@@ -433,7 +451,7 @@
     {
       "name": "平台直播",
       "type": 0,
-      "url": "https://tv.iill.top/m3u/Live",
+      "url": "https://sub.ottiptv.cc/iptv.m3u",
       "ua": "okhttp/3.15",
       "playerType": 2
     }
