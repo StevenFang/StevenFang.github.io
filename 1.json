@@ -225,16 +225,6 @@
       "ext": "vxw35/hHSj07Q+maxQzOVMq1rjRCOTXpUCx8iKu5jIg="
     },
     {
-      "key": "csp_nongmin",
-      "name": "💯农民┃极速",
-      "type": 3,
-      "api": "csp_Wwys",
-      "searchable": 1,
-      "quickSearch": 0,
-      "filterable": 1,
-      "ext": "https://www.wwgz.cn"
-    },
-    {
       "key": "csp_FreeOk",
       "name": "👌️Frek┃影视",
       "type": 3,
@@ -256,7 +246,7 @@
       "searchable": 1,
       "quickSearch": 0,
       "api": "csp_AppRJ",
-      "ext": "jsSMEuhTZIAHjnUoLBzKdlRu5exzno6M4efF8LzwjWM="
+      "ext": "Z2MNziRBwjQxqaBuUxNkDRyvTntIkN1cOXhjyWgjCTc="
     },
     {
       "key": "云速",
