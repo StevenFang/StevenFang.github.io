@@ -272,13 +272,25 @@
       }
     },
     {
+      "key": "csp_SaoHuo",
+      "name": "🔥火火┃影视",
+      "type": 3,
+      "api": "csp_SaoHuo"
+    },
+    {
+      "key": "csp_Qiyou",
+      "name": "🥝奇优┃影视",
+      "type": 3,
+      "api": "csp_Qiyou"
+    },
+    {
       "key": "大豆",
       "name": "✅大豆┃影视",
       "type": 3,
       "quickSearch": 0,
       "searchable": 1,
-      "api": "csp_AppGet",
-      "ext": "7PKaTzLgpGLqYV7cUF+dCEw/YtRQnWFqGURdQoZnM3s5khy5fqX3yGD7gACetGMWTQJv81SoDNcZI5UkNNLGqA=="
+      "api": "csp_AppQi",
+      "ext": "Ruh/okyt5lxEpcdQOao0NkSkj8M9vdB0soaZbGJldzA3817rfAzlvyWHCewZEFD4+BBCXxVVHkmAtv6gi+JRQlKwhK1WjuT8blTygReol77ICMmtZZPsmzfgjOtOXiEJ"
     },
     {
       "key": "巧技",
@@ -307,15 +319,6 @@
       "quickSearch": 0,
       "api": "csp_AppXY",
       "ext": "https://xvapp.xingya.com.cn"
-    },
-    {
-      "key": "csp_baibai",
-      "name": "💯白白┃影视",
-      "type": 3,
-      "searchable": 1,
-      "quickSearch": 0,
-      "api": "csp_SuBaiBai",
-      "ext": "https://www.subaibai.com"
     },
     {
       "key": "csp_LiteApple",
