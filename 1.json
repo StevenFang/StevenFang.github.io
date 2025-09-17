@@ -1,5 +1,5 @@
 {
-  "spider": "https://13826.kstore.vip/logo.png;md5;d4be9b4c1fc2a46911fb45726b8f109a",
+  "spider": "https://13826.kstore.vip/0917logo.png;md5;082895dc8e847c12719f6a0cc7591285",
   "wallpaper": "https://xn--4kq62z5rby2qupqba63sb41h.999888987.xyz/",
   "sites": [
     {
@@ -176,15 +176,6 @@
       "ext": "lo54N2bJ4DtrhxC9P676hHekMnvMvX1mNNhVKf3kE5Wgy3H/b30VkkDKAYauTqZsEMYaTrPKBtx3YUMTA+XHh7FPLmLfqp6gWseDzGVsgesALIba2gHVzuE75Sx1II8A"
     },
     {
-      "key": "猪猪",
-      "name": "🐷小猪┃影视",
-      "quickSearch": 0,
-      "searchable": 1,
-      "type": 3,
-      "api": "csp_AppGet",
-      "ext": "I7L3u12iTGax7pIKDBrd0Czr1qZntIntytqeFyDzetDIICoeNSd3afmMXMhm296uAkb3qZ7kxihetfT8V6h4kw=="
-    },
-    {
       "key": "布蕾",
       "name": "💯布蕾┃影视",
       "quickSearch": 0,
@@ -257,7 +248,7 @@
       "searchable": 1,
       "quickSearch": 0,
       "api": "csp_AppQi",
-      "ext": "9ee0oa0Y30GapSvZ2C2RVE2HwH08KKvP0VhAZCVWpnluXpZNLRZrNCMeKyCWw1JOj3jlA6tSdRPHvvTyBCuIMzwlKeODvXst4zEi0DFYqmEXOu+cG8rF7/kIckBMVYvn"
+      "ext": "9ee0oa0Y30GapSvZ2C2RVE2HwH08KKvP0VhAZCVWpnluXpZNLRZrNCMeKyCWw1JOnmBt4WntUB96Gzw7GkroAUK4RePU806mDtHSmD09164W8EWpaWaU/Gg8nPkgUt5F"
     },
     {
       "key": "麻花",
