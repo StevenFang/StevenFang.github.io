@@ -96,12 +96,13 @@
       "filterable": 1,
       "ext": {
         "site_urls": [
+          "http://xiaocge.fun",
+          "http://feimo.fun",
           "https://feimao666.fun",
           "http://feimao888.fun",
-          "http://feimaoai.site",
           "http://www.labi88.sbs",
           "http://fmao.site",
-          "https://fmao.shop"
+          "http://fmao.shop"
         ],
         "threadinfo": {
           "chunksize": 512,
