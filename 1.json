@@ -321,8 +321,8 @@
       "type": 3,
       "searchable": 1,
       "quickSearch": 0,
-      "api": "csp_AppXY",
-      "ext": "https://xvapp.xingya.com.cn"
+      "api": "csp_DuanJu",
+      "ext": ""
     },
     {
       "key": "csp_LiteApple",
