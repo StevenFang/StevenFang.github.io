@@ -1,11 +1,11 @@
 {
-  "spider": "https://fly.qingyuji.cn/f/OwBPC3/logo.png;md5;673e105f447b397553abc81447497f6f",
+  "spider": "https://pan.qingyuji.cn/f/LQmBUo/1009.png;md5;4e23b24316cee180ef4ad8346527906d",
   "warningText": "拒绝内置接口 内置接口会崩溃 纯开源 纯自用",
   "wallpaper": "https://xn--4kq62z5rby2qupqba63sb41h.999888987.xyz/",
   "sites": [
     {
       "key": "豆豆",
-      "name": "🌈热播┃推荐（长按图片也可以聚合搜索）",
+      "name": "🌈热播┃推荐（非开源软件内置会崩溃基本适配主流软件）",
       "type": 3,
       "quickSearch": 0,
       "filterable": 0,
