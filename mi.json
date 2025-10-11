@@ -151,6 +151,16 @@
       "ext": "BciM/oLDYQqSU++RAsI5xz2Dmz98Blyw0pp0T+0QPiqzXAOG2XsUSh62armSJmz6+8BN455Lbt5tpPqGfXnKgoQ1N+ZOhu3N/KDZ+r/7HZc="
     },
     {
+      "key": "AppQi3",
+      "name": "💣爆炸┃小米",
+      "type": 3,
+      "api": "csp_AppQi",
+      "changeable": "0",
+      "quickSearch": 0,
+      "filterable": 1,
+      "ext": "XSJiCWoJEGFoOdKZQ3W3pG4QYj6kuTSnLRDxFYNZWjIPLTHHAeib23CrNf2Ymrxa8iTANsHrwj35FQ3ORCXCuw=="
+    },
+    {
       "key": "鲸鱼",
       "name": "🐋鲸鱼┃小米",
       "quickSearch": 0,
@@ -253,6 +263,15 @@
       "ext": "L5CUOokkdA53FISUojI6hPrPTI97cTkdA/ji0bBBqAxKRl2ZBcdyMIPZYXkkVxwyvG4rB4PEPXKIt7+cirUe3BI+KdfWiEtEO4bT/XoF0PYU0GWsBFU3ARUcHsGqNpNy"
     },
     {
+      "key": "开心2",
+      "name": "☺开心┃影视",
+      "type": 3,
+      "quickSearch": 0,
+      "searchable": 1,
+      "api": "csp_AppGet",
+      "ext": "30BhtNlX27UHv6onKAsecL3lBbS3ydXaHHaZSPZgb2P/agbe5qq7IlI5ipcxuDj8"
+    },
+    {
       "key": "QD4K",
       "name": "🐷猪猪┃影视",
       "type": 3,
@@ -299,14 +318,6 @@
       "ext": "7lj763gg402i79425739i7jghj118797l4hj840gi18633331l4708g2h7145403549g44l8ii56i187681hkjj3hhgh1ih3l32j250lk1k786lj20j468hk3hli4l46gig4i3g7g2722328j0136h01i7g5183k22k7gg3i72hk81gl8k9839kl7i0707"
     },
     {
-      "key": "金牌APP",
-      "name": "💣爆炸┃影视",
-      "quickSearch": 0,
-      "type": 3,
-      "api": "csp_AppMuou",
-      "ext": "ewogICJTaXRlVXJsIjogImh0dHBzOi8vbXVvdS53bGJicS54eXoiLAogICJFeHQiOiAiaXA5K1dadnQ5ODNzUzAwOGtyTktobno4Q2Fzb2d3QjlLYkp2U0FmNGJRZEg5aUlGVHE4Y0tGM3Y4RFBicnphUiIsCiAgIkluZm8iOiAiaHR0cHM6Ly9tdW91aHQuZ2d0dmIuY2MiCn0="
-    },
-    {
       "key": "csp_AppXY",
       "name": "🐸短剧┃影视",
       "type": 3,
@@ -345,7 +356,7 @@
       "type": 3,
       "quickSearch": 0,
       "api": "csp_Czsapp",
-      "ext": "https://www.czzymovie.com"
+      "ext": "https://www.cz233.com"
     },
     {
       "key": "csp_MiSou",
