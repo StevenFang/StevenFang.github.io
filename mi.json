@@ -1,6 +1,6 @@
 {
-  "spider": "https://pan.qingyuji.cn/f/d/OA9Pu3/1023.jpg;md5;e42ffade41561af9389469704bd21c99",
-  "warningText": "拒绝内置接口 内置接口会崩溃 纯开源 纯自用",
+  "spider": "https://pan.qingyuji.cn/f/Pm3yi4/1028logo.jpg;md5;75bacca331fe28d08794e08c8b8b3dd5",
+  "warningText": "拒绝内置接口内置接口会崩溃纯开源纯自用",
   "wallpaper": "https://xn--4kq62z5rby2qupqba63sb41h.999888987.xyz/",
   "sites": [
     {
@@ -15,7 +15,7 @@
     },
     {
       "key": "config",
-      "name": "⚙网盘┃配置 项目链接：https://link3.cc/lovemm",
+      "name": "⚙网盘┃配置项目链接：https://link3.cc/lovemm",
       "type": 3,
       "api": "csp_Config",
       "searchable": 0
@@ -52,7 +52,7 @@
       "name": "🎥二小┃4K网盘",
       "type": 3,
       "changeable": "1",
-      "quickSearch": 0,
+      "quickSearch": 1,
       "api": "csp_Duopan",
       "filterable": 1,
       "ext": {
@@ -126,6 +126,17 @@
       "quickSearch": 0,
       "searchable": 0,
       "ext": "http://www.qeecc.com"
+    },
+    {
+      "key": "88看球",
+      "name": "🏀看球┃直播",
+      "type": 3,
+      "api": "csp_Kanqiu",
+      "searchable": 0,
+      "quickSearch": 0,
+      "filterable": 1,
+      "order_num": 0,
+      "changeable": 0
     },
     {
       "key": "csp_Bili",
@@ -204,17 +215,6 @@
       "ext": "KgJbeb5sUfDKrPR2kL+eSnS2/p1vUzgiO9/kBzkhPIPRpqLXPCDc4tA9MXMdokFN"
     },
     {
-      "key": "88看球",
-      "name": "🏀看球┃直播",
-      "type": 3,
-      "api": "csp_Kanqiu",
-      "searchable": 0,
-      "quickSearch": 0,
-      "filterable": 1,
-      "order_num": 0,
-      "changeable": 0
-    },
-    {
       "key": "天天",
       "name": "💯天天┃影视",
       "type": 3,
@@ -229,14 +229,6 @@
       "type": 3,
       "quickSearch": 0,
       "api": "csp_FreeOk"
-    },
-    {
-      "key": "csp_WwYS",
-      "name": "👨农民┃影视",
-      "type": 3,
-      "quickSearch": 1,
-      "api": "csp_Wwys",
-      "ext": "https://vip.wwgz.cn:5200/"
     },
     {
       "key": "追忆",
@@ -272,15 +264,6 @@
       "quickSearch": 0,
       "api": "csp_AppQi",
       "ext": "llmvPPU1h/vqmWtANHI55wjkhfSXUVRucMnPpIfDe+l3hpqpWlt3meXji00/Qg7Yb84SQ3EzXzZZ0jeFYWPcvEHOBaptd0aJSFS2ac8gZBJ6TodggbUva1hHidOGZOWx"
-    },
-    {
-      "key": "麻花",
-      "name": "🌸麻花┃影视",
-      "type": 3,
-      "quickSearch": 0,
-      "searchable": 1,
-      "api": "csp_AppGet",
-      "ext": "L5CUOokkdA53FISUojI6hPrPTI97cTkdA/ji0bBBqAxKRl2ZBcdyMIPZYXkkVxwyvG4rB4PEPXKIt7+cirUe3BI+KdfWiEtEO4bT/XoF0PYU0GWsBFU3ARUcHsGqNpNy"
     },
     {
       "key": "开心2",
@@ -338,6 +321,14 @@
       "ext": "7lj763gg402i79425739i7jghj118797l4hj840gi18633331l4708g2h7145403549g44l8ii56i187681hkjj3hhgh1ih3l32j250lk1k786lj20j468hk3hli4l46gig4i3g7g2722328j0136h01i7g5183k22k7gg3i72hk81gl8k9839kl7i0707"
     },
     {
+      "key": "csp_WwYS",
+      "name": "👨农民┃影视",
+      "type": 3,
+      "quickSearch": 1,
+      "api": "csp_Wwys",
+      "ext": "https://vip.wwgz.cn:5200/"
+    },
+    {
       "key": "csp_AppXY",
       "name": "🐸短剧┃影视",
       "type": 3,
@@ -369,14 +360,6 @@
       "searchable": 1,
       "quickSearch": 0,
       "api": "csp_Jpys"
-    },
-    {
-      "key": "厂长",
-      "name": "🏭厂长┃影视",
-      "type": 3,
-      "quickSearch": 0,
-      "api": "csp_Czsapp",
-      "ext": "https://www.cz233.com"
     },
     {
       "key": "csp_MiSou",
@@ -605,9 +588,9 @@
         "magnet"
       ],
       "regex": [
-        "最 新",
-        "直 播",
-        "更 新"
+        "最新",
+        "直播",
+        "更新"
       ]
     },
     {
@@ -618,7 +601,7 @@
         "dadagui"
       ],
       "script": [
-        "document.querySelector(\"#playleft iframe\").contentWindow.document.querySelector(\"#start\").click();"
+        "document.querySelector(\"#playleftiframe\").contentWindow.document.querySelector(\"#start\").click();"
       ]
     },
     {
@@ -627,7 +610,7 @@
         "www.maolvys.com"
       ],
       "script": [
-        "document.getElementsByClassName('swal-button swal-button--confirm')[0].click()"
+        "document.getElementsByClassName('swal-buttonswal-button--confirm')[0].click()"
       ]
     }
   ]
