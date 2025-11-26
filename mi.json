@@ -175,6 +175,16 @@
       "ext": "BciM/oLDYQqSU++RAsI5xz2Dmz98Blyw0pp0T+0QPirf6Vdve9+he2trz5wUFyGCAvVzxSDvmI757t+V5ttwollSfRzsReOERBBsIGN+x9g="
     },
     {
+      "key": "顾我",
+      "name": "🎴顾我┃小米",
+      "type": 3,
+      "api": "csp_AppQi",
+      "changeable": "1",
+      "quickSearch": 0,
+      "filterable": 1,
+      "ext": "Ruh/okyt5lxEpcdQOao0NkSkj8M9vdB0soaZbGJldzA3817rfAzlvyWHCewZEFD4QM0qe2RsdUi4EV2ahfsS3A/es1YdDklLhx2rV41bMRA1+i9FBFm7jabuulzVlSRY"
+    },
+    {
       "key": "AppQi3",
       "name": "💣爆炸┃小米",
       "type": 3,
@@ -201,6 +211,32 @@
       "type": 3,
       "api": "csp_AppQi",
       "ext": "lo54N2bJ4DtrhxC9P676hHekMnvMvX1mNNhVKf3kE5Wgy3H/b30VkkDKAYauTqZsEMYaTrPKBtx3YUMTA+XHh7FPLmLfqp6gWseDzGVsgesALIba2gHVzuE75Sx1II8A"
+    },
+    {
+      "key": "聚搜",
+      "name": "🚗聚搜┃影视",
+      "type": 3,
+      "api": "https://13826.kstore.vip/AppToV5.py",
+      "ext": "http://101.35.85.16:5555"
+    },
+    {
+      "key": "屁屁",
+      "name": "🦐屁屁┃小米",
+      "type": 3,
+      "api": "https://13826.kstore.vip/AppToV5.py",
+      "ext": "http://38.55.237.41:8762"
+    },
+    {
+      "key": "剧下饭",
+      "name": "🍚下饭┃小米",
+      "type": 3,
+      "changeable": 0,
+      "api": "https://13826.kstore.vip/AppV2.py",
+      "ext": {
+        "api": "http://yjer.jumianfei.com/api.php/v1.vod",
+        "datasignkey": "6QQNUsP3PkD2ajJCPCY8",
+        "apisignkey": "lvdoutv-1.0.0"
+      }
     },
     {
       "key": "布蕾",
@@ -281,6 +317,13 @@
       "api": "csp_Qiyou"
     },
     {
+      "key": "csp_Qiyou111",
+      "name": "🥝奇优┃11影视",
+      "type": 3,
+      "api": "csp_AppGet",
+      "ext": "bQMwmJI2YbM89Ve6ZJRmB5gHHDe0N0YOoiJA4ebZX6ERWt0H3wL2Y/kjiynBo5FQ"
+    },
+    {
       "key": "大豆",
       "name": "✅大豆┃影视",
       "type": 3,
@@ -288,17 +331,6 @@
       "searchable": 1,
       "api": "csp_AppQi",
       "ext": "Ruh/okyt5lxEpcdQOao0NkSkj8M9vdB0soaZbGJldzA3817rfAzlvyWHCewZEFD4+BBCXxVVHkmAtv6gi+JRQlKwhK1WjuT8blTygReol77ICMmtZZPsmzfgjOtOXiEJ"
-    },
-    {
-      "key": "巧技",
-      "name": "🚗聚搜┃影视",
-      "type": 3,
-      "searchable": 1,
-      "quickSearch": 1,
-      "api": "csp_qiao2",
-      "playerType": 2,
-      "jar": "https://pan.vma.cc/pan/down.php/9cf0a6c1f62ad83e9dccc2b7dd683a10.png;md5;9cf0a6c1f62ad83e9dccc2b7dd683a10",
-      "ext": "7lj763gg402i79425739i7jghj118797l4hj840gi18633331l4708g2h7145403549g44l8ii56i187681hkjj3hhgh1ih3l32j250lk1k786lj20j468hk3hli4l46gig4i3g7g2722328j0136h01i7g5183k22k7gg3i72hk81gl8k9839kl7i0707"
     },
     {
       "key": "csp_AppXY",
