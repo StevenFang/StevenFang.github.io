@@ -1,5 +1,5 @@
 {
-  "spider": "https://v0-i47p.5588888.xyz/api/v3/file/get/42041/1124.jpg?sign=0SvSffAf0Tdch9ADej2gOjkRT-LvYAD-9fsP8PJKVmQ%3D%3A0;md5;2fde557237e457248fa7a42dec924d05",
+  "spider": "https://v0-i47p.5588888.xyz/api/v3/file/get/42092/1127.jpg?sign=oI93mx5ILT-Ri0JvLSRhxffxAROAzIgVtdNIseX58kg%3D%3A0;md5;977a7ec67260a223a5763ee50c685f8f",
   "warningText": "拒绝内置接口内置接口会崩溃纯开源纯自用",
   "wallpaper": "https://api.fw1028.top/scenery.php?return=img",
   "sites": [
@@ -56,6 +56,15 @@
           "threads": 16
         }
       }
+    },
+    {
+      "key": "csp_LIVING",
+      "name": "🎮游戏┃直播",
+      "type": 3,
+      "api": "csp_Living",
+      "quickSearch": 0,
+      "searchable": 1,
+      "ext": "https://f1.qilin8.com"
     },
     {
       "key": "csp_Netfixtv2",
@@ -120,15 +129,6 @@
       }
     },
     {
-      "key": "csp_LIVING",
-      "name": "🎮游戏┃直播",
-      "type": 3,
-      "api": "csp_Living",
-      "quickSearch": 0,
-      "searchable": 1,
-      "ext": "https://api.muxia.fun"
-    },
-    {
       "key": "csp_Music",
       "name": "🎵音乐┃直播",
       "type": 3,
@@ -165,6 +165,13 @@
       }
     },
     {
+      "key": "爱看fox",
+      "name": "👀爱看┃影视",
+      "type": 3,
+      "api": "csp_Appfox",
+      "ext": "https://snys2.xyz"
+    },
+    {
       "key": "热热",
       "name": "🔥热热┃影视",
       "type": 3,
@@ -181,7 +188,7 @@
       "changeable": "1",
       "quickSearch": 0,
       "filterable": 1,
-      "ext": "BciM/oLDYQqSU++RAsI5xz2Dmz98Blyw0pp0T+0QPirf6Vdve9+he2trz5wUFyGCAvVzxSDvmI757t+V5ttwollSfRzsReOERBBsIGN+x9g="
+      "ext": "https://aysappto.oss-cn-chengdu.aliyuncs.com/qj3.txt|sda1231sasddad21|qiji| "
     },
     {
       "key": "顾我",
@@ -191,7 +198,7 @@
       "changeable": "1",
       "quickSearch": 0,
       "filterable": 1,
-      "ext": "Ruh/okyt5lxEpcdQOao0NkSkj8M9vdB0soaZbGJldzA3817rfAzlvyWHCewZEFD4QM0qe2RsdUi4EV2ahfsS3A/es1YdDklLhx2rV41bMRA1+i9FBFm7jabuulzVlSRY"
+      "ext": "https://guwozj-1319364746.cos.ap-guangzhou.myqcloud.com/guwo.txt|ca94b06ca3c7d80e|qiji| "
     },
     {
       "key": "AppQi3",
@@ -201,7 +208,7 @@
       "changeable": "1",
       "quickSearch": 0,
       "filterable": 1,
-      "ext": "XSJiCWoJEGFoOdKZQ3W3pG4QYj6kuTSnLRDxFYNZWjIPLTHHAeib23CrNf2Ymrxa8iTANsHrwj35FQ3ORCXCuw=="
+      "ext": "https://dtqj1.gg1080.com/dtjp.txt|kecbio48dsq131ed|qiji| "
     },
     {
       "key": "鲸鱼",
@@ -210,7 +217,7 @@
       "searchable": 1,
       "type": 3,
       "api": "csp_AppQi",
-      "ext": "rP+4azM8YFgp3eAhyeALtUUEFpbkqmzGj2V5VZryxRbpkSjlsHbarRCZPOInvId4s3WK9rZ2YJsDy8NvMqQKQXowVmh33j+qD55VxmvMzzffqLi7UXvCKdy6PzbDhzFq"
+      "ext": "https://jingyu4k-1312635929.cos.ap-nanjing.myqcloud.com/1.json|AAdgrdghjfgswerA|qiji| "
     },
     {
       "key": "仓鼠2",
@@ -219,7 +226,7 @@
       "searchable": 1,
       "type": 3,
       "api": "csp_AppQi",
-      "ext": "lo54N2bJ4DtrhxC9P676hHekMnvMvX1mNNhVKf3kE5Wgy3H/b30VkkDKAYauTqZsEMYaTrPKBtx3YUMTA+XHh7FPLmLfqp6gWseDzGVsgesALIba2gHVzuE75Sx1II8A"
+      "ext": "https://ceshi307386.oss-cn-beijing.aliyuncs.com/ceshi421.txt|da61247f5b662597|qiji| "
     },
     {
       "key": "聚搜",
@@ -227,13 +234,6 @@
       "type": 3,
       "api": "https://13826.kstore.vip/AppToV5.py",
       "ext": "http://101.35.85.16:5555"
-    },
-    {
-      "key": "屁屁",
-      "name": "🦐屁屁┃小米",
-      "type": 3,
-      "api": "https://13826.kstore.vip/AppToV5.py",
-      "ext": "http://38.55.237.41:8762"
     },
     {
       "key": "剧下饭",
@@ -254,7 +254,7 @@
       "searchable": 1,
       "type": 3,
       "api": "csp_AppQi",
-      "ext": "lo54N2bJ4DtrhxC9P676hHekMnvMvX1mNNhVKf3kE5Wgy3H/b30VkkDKAYauTqZs2oYEHsmeJ7qO916dp7EwGSHrLa99AaS96nuzx3wbRg9O4Syz4DgXRB/Lb2vvIW/H"
+      "ext": "https://ceshi307386.oss-cn-beijing.aliyuncs.com/blurl.txt|5f2b7ed203a3a581|qiji| "
     },
     {
       "key": "荐片",
@@ -293,7 +293,7 @@
       "searchable": 1,
       "quickSearch": 0,
       "api": "csp_AppQi",
-      "ext": "9ee0oa0Y30GapSvZ2C2RVE2HwH08KKvP0VhAZCVWpnluXpZNLRZrNCMeKyCWw1JOnmBt4WntUB96Gzw7GkroAUK4RePU806mDtHSmD09164W8EWpaWaU/Gg8nPkgUt5F"
+      "ext": "https://staraugust123456.oss-cn-hangzhou.aliyuncs.com/2.txt|staraugust123456|qiji| "
     },
     {
       "key": "花猪",
@@ -302,7 +302,7 @@
       "searchable": 1,
       "quickSearch": 0,
       "api": "csp_AppQi",
-      "ext": "llmvPPU1h/vqmWtANHI55wjkhfSXUVRucMnPpIfDe+l3hpqpWlt3meXji00/Qg7Yb84SQ3EzXzZZ0jeFYWPcvEHOBaptd0aJSFS2ac8gZBJ6TodggbUva1hHidOGZOWx"
+      "ext": "https://tiantangyoulu.oss-cn-beijing.aliyuncs.com/tengxunyun.txt|seb5tq9mykp2w9ry|qiji| "
     },
     {
       "key": "开心2",
@@ -311,7 +311,7 @@
       "quickSearch": 0,
       "searchable": 1,
       "api": "csp_AppQi",
-      "ext": "9ee0oa0Y30GapSvZ2C2RVE2HwH08KKvP0VhAZCVWpnluXpZNLRZrNCMeKyCWw1JOnmBt4WntUB96Gzw7GkroAUK4RePU806mDtHSmD09164W8EWpaWaU/Gg8nPkgUt5F"
+      "ext": "https://staraugust123456.oss-cn-hangzhou.aliyuncs.com/2.txt|staraugust123456|qiji| "
     },
     {
       "key": "csp_SaoHuo",
@@ -324,22 +324,6 @@
       "name": "🥝奇优┃影视",
       "type": 3,
       "api": "csp_Qiyou"
-    },
-    {
-      "key": "csp_Qiyou111",
-      "name": "🥝奇优┃11影视",
-      "type": 3,
-      "api": "csp_AppGet",
-      "ext": "bQMwmJI2YbM89Ve6ZJRmB5gHHDe0N0YOoiJA4ebZX6ERWt0H3wL2Y/kjiynBo5FQ"
-    },
-    {
-      "key": "大豆",
-      "name": "✅大豆┃影视",
-      "type": 3,
-      "quickSearch": 0,
-      "searchable": 1,
-      "api": "csp_AppQi",
-      "ext": "Ruh/okyt5lxEpcdQOao0NkSkj8M9vdB0soaZbGJldzA3817rfAzlvyWHCewZEFD4+BBCXxVVHkmAtv6gi+JRQlKwhK1WjuT8blTygReol77ICMmtZZPsmzfgjOtOXiEJ"
     },
     {
       "key": "csp_AppXY",
