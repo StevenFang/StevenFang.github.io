@@ -1,5 +1,5 @@
 {
-  "spider": "https://v0-i47p.5588888.xyz/api/v3/file/get/42092/1127.jpg?sign=oI93mx5ILT-Ri0JvLSRhxffxAROAzIgVtdNIseX58kg%3D%3A0;md5;977a7ec67260a223a5763ee50c685f8f",
+  "spider": "https://img2.gelonghui.com/library/13bd3-7518cfc8-98dd-4e8f-afc1-5f697fbf01fb.png;md5;13bd3e6c4c887d3f139a347625a08bee",
   "warningText": "拒绝内置接口内置接口会崩溃纯开源纯自用",
   "wallpaper": "https://api.fw1028.top/scenery.php?return=img",
   "sites": [
@@ -165,11 +165,18 @@
       }
     },
     {
+      "key": "追番达人",
+      "name": "🐂达人┃影视",
+      "type": 3,
+      "api": "csp_Appfox",
+      "ext": "https://fox.ystva.com"
+    },
+    {
       "key": "爱看fox",
       "name": "👀爱看┃影视",
       "type": 3,
       "api": "csp_Appfox",
-      "ext": "http://snys2.xyz"
+      "ext": "https://aikan-1319209748.cos.ap-shanghai.myqcloud.com/aikan.json"
     },
     {
       "key": "热热",
@@ -378,12 +385,10 @@
       "api": "csp_MiSou"
     },
     {
-      "key": "csp_BookTing",
+      "key": "csp_TingBook",
       "name": "📕有声┃听书",
-      "api": "csp_BookTing",
       "type": 3,
-      "quickSearch": 0,
-      "ext": "https://m.i275.com"
+      "api": "csp_TingBook"
     },
     {
       "key": "Aid",
