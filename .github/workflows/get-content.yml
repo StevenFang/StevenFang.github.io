@@ -19,7 +19,7 @@ jobs:
         python -c "
         import sys
         import urllib.request
-        url = 'https://jm.xinxinbaobao.tk/?url=http://miqk.cc/%E5%B0%8F%E7%B1%B3/DEMO.json'
+        url = 'https://jm.xinxinbaobao.tk/?url=https://mitvbox.xyz/小米/DEMO.json'
         try:
           with urllib.request.urlopen(url) as response:
               content = response.read()
