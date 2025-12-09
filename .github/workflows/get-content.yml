@@ -23,8 +23,15 @@ jobs:
         try:
           with urllib.request.urlopen(url) as response:
               content = response.read()
+              cleaned_lines = []
+              for line in content.splitlines():
+              idx = line.find('//')
+              if idx != -1:
+              line = line[:idx]
+              cleaned_lines.append(line.rstrip())
+              cleaned = '\n'.join(cleaned_lines).encode('utf-8')
           with open('mi.json', 'wb') as f:
-              f.write(content)
+              f.write(cleaned)
           print('::set-output name=status_code::0')
         except Exception as e:
           print(e)
