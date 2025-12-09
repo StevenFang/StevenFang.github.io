@@ -19,7 +19,7 @@ jobs:
         python -c "
         import sys
         import urllib.request
-        url = 'https://jm.xinxinbaobao.tk/?url=https://cnb.cool/xiaomideyun/xiaomideyun/-/git/raw/main/mi.json'
+        url = 'https://www.xn--sss604efuw.com/jm/jiemi.php?url=https://cnb.cool/xiaomideyun/xiaomideyun/-/git/raw/main/mi.json'
         try:
           with urllib.request.urlopen(url) as response:
               content = response.read()
