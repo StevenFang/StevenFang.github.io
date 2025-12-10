@@ -16,21 +16,13 @@ jobs:
     - name: Get website content
       id: get_content
       run: |
-        python -c "
-        import sys
-        import urllib.request
-        url = 'https://jm.xinxinbaobao.tk/?url=http://miqk.cc/小米/DEMO.json'
-        try:
-          with urllib.request.urlopen(url) as response:
-              content = response.read()
-          with open('mi.json', 'wb') as f:
-              f.write(content)
-          print('::set-output name=status_code::0')
-        except Exception as e:
-          print(e)
-          print('::set-output name=status_code::1')
-          sys.exit(1)
-        "
+        url = "https://jm.xinxinbaobao.tk/?url=http://miqk.cc/小米/DEMO.json"
+        if curl --fail --silent --show-error --location "$url" -o mi.json; then
+          echo "status_code=0" >> "$GITHUB_OUTPUT"
+        else
+          echo "status_code=1" >> "$GITHUB_OUTPUT"
+          exit 1
+        fi
         
     - name: Validate JSON
       run: jq . mi.json
