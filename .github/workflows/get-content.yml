@@ -17,7 +17,7 @@ jobs:
       id: get_content
       run: |
         url = "https://jm.xinxinbaobao.tk/?url=http://miqk.cc/小米/DEMO.json"
-        if curl --fail --silent --show-error --location "$url" -o mi.json; then
+        if wget -qO mi.json "$url"; then
           echo "status_code=0" >> "$GITHUB_OUTPUT"
         else
           echo "status_code=1" >> "$GITHUB_OUTPUT"
