@@ -2,7 +2,7 @@ name: 定时更新
 
 on:
   schedule:
-    - cron: '0 */8 * * *'
+    - cron: "0 */8 * * *"
   workflow_dispatch:
 
 jobs:
@@ -10,41 +10,39 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-    - name: Checkout
-      uses: actions/checkout@v2
+      - name: Checkout
+        uses: actions/checkout@v2
 
-    - name: Get website content
-      id: get_content
-      shell: bash
-      run: |
-        url = "https://jm.xinxinbaobao.tk/?url=http://miqk.cc/小米/DEMO.json"
-        if wget -qO mi.json "$url"; then
-          echo "status_code=0" >> "$GITHUB_OUTPUT"
-        else
-          echo "status_code=1" >> "$GITHUB_OUTPUT"
-          exit 1
-        fi
+      - name: Get website content
+        id: get_content
+        shell: bash
+        run: |
+          url = "https://jm.xinxinbaobao.tk/?url=http://miqk.cc/小米/DEMO.json"
+          if wget -qO mi.json "$url"; then
+            echo "status_code=0" >> "$GITHUB_OUTPUT"
+          else
+            echo "status_code=1" >> "$GITHUB_OUTPUT"
+            exit 1
+          fi
 
-    
-        
-    - name: Validate JSON
-      run: jq . mi.json
+      - name: Validate JSON
+        run: jq . mi.json
 
-    - name: Update and copy JSON
-      if: steps.get_content.outputs.status_code == '0'
-      run: |
-        jq '.sites |= (.[0:1] + [{"key": "更新应用","name": "更新应用","type": 3,"api": "csp_Market","searchable": 0,"changeable": 0,"ext": "https://www.xinxinbaobao.tk/fmys.json"}] + .[1:])' mi.json > temp.json && mv temp.json 1.json
+      - name: Update and copy JSON
+        if: steps.get_content.outputs.status_code == '0'
+        run: |
+          jq '.sites |= (.[0:1] + [{"key": "更新应用","name": "更新应用","type": 3,"api": "csp_Market","searchable": 0,"changeable": 0,"ext": "https://www.xinxinbaobao.tk/fmys.json"}] + .[1:])' mi.json > temp.json && mv temp.json 1.json
 
-    - name: Commit and push
-      if: steps.get_content.outputs.status_code == '0' && github.repository == github.event.repository.full_name
-      run: |
-        git config --local user.email "action@github.com"
-        git config --local user.name "GitHub Action"
-        git add mi.json 1.json
-        if ! git status --porcelain | grep -q '^A\|^M'; then
-          echo "No changes to commit"
-        else
-          echo 'Committing changes...'
-          git commit -m 'Update website content'
-          git push
-        fi
+      - name: Commit and push
+        if: steps.get_content.outputs.status_code == '0' && github.repository == github.event.repository.full_name
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git add mi.json 1.json
+          if ! git status --porcelain | grep -q '^A\|^M'; then
+            echo "No changes to commit"
+          else
+            echo 'Committing changes...'
+            git commit -m 'Update website content'
+            git push
+          fi
