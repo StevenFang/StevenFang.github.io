@@ -15,6 +15,7 @@ jobs:
 
     - name: Get website content
       id: get_content
+      shell: bash
       run: |
         url = "https://jm.xinxinbaobao.tk/?url=http://miqk.cc/小米/DEMO.json"
         if wget -qO mi.json "$url"; then
@@ -23,6 +24,8 @@ jobs:
           echo "status_code=1" >> "$GITHUB_OUTPUT"
           exit 1
         fi
+
+    
         
     - name: Validate JSON
       run: jq . mi.json
