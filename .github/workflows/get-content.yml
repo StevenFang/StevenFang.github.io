@@ -33,12 +33,12 @@ jobs:
       run: jq . mi.json
 
     - name: Update and copy JSON
-      if: steps.get_content.outputs.status_code == '0'
+      if: steps.get_content.outputs.status_code == '200'
       run: |
         jq '.sites |= (.[0:1] + [{"key": "更新应用","name": "更新应用","type": 3,"api": "csp_MarketGuard","searchable": 0,"changeable": 0,"ext": "https://xinxinbaobao.tk/fmys.json"}] + .[1:])' mi.json > temp.json && mv temp.json 1.json
 
     - name: Commit and push
-      if: steps.get_content.outputs.status_code == '0'
+      if: steps.get_content.outputs.status_code == '200'
       run: |
         git config --local user.email "action@github.com"
         git config --local user.name "GitHub Action"
