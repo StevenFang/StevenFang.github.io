@@ -2,7 +2,7 @@ name: 定时更新
 
 on:
   schedule:
-    - cron: '0 */1 * * *'
+    - cron: '0 */12 * * *'
   workflow_dispatch:
 
 jobs:
@@ -17,8 +17,15 @@ jobs:
       id: get_content
       run: |
         set -e
-        curl -s --fail https://jm.xinxinbaobao.tk/?url=http://miqk.cc/小米/DEMO.json -o mi.json
-        echo "::set-output name=status_code::$?"
+        URL="https://${VERCEL_DOMAIN}/decode"
+        PAYLOAD='{"url":"https://cnb.cool/xiaomideyun/xiaomideyun/-/git/raw/main/mi.json","timeout":15}'
+        HTTP_STATUS=$(curl -s -o mi.json -w "%{http_code}" -X POST "$URL" -H "Content-Type: application/json" -d "$PAYLOAD")
+        echo "HTTP status: $HTTP_STATUS"
+        echo "status_code=$HTTP_STATUS" >> $GITHUB_OUTPUT
+        if [ "$HTTP_STATUS" -ne 200 ]; then
+          cat mi.json
+          exit 1
+        fi
         
     - name: Validate JSON
       run: jq . mi.json
