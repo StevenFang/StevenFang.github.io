@@ -1,7 +1,7 @@
 {
-  "spider": "https://img2.gelonghui.com/library/13bd3-7518cfc8-98dd-4e8f-afc1-5f697fbf01fb.png;md5;13bd3e6c4c887d3f139a347625a08bee",
+  "spider": "https://img2.gelonghui.com/library/44349-0cfd4fad-ee8d-4628-b11a-08f6a5e5e508.png;md5;4434934a25184813d1891b8ab99a89df",
   "warningText": "拒绝内置接口内置接口会崩溃纯开源纯自用",
-  "wallpaper": "https://api.fw1028.top/scenery.php?return=img",
+  "wallpaper": "https://www.wexwp.cc/bizhi.php",
   "sites": [
     {
       "key": "豆豆",
@@ -17,10 +17,10 @@
       "key": "更新应用",
       "name": "更新应用",
       "type": 3,
-      "api": "csp_Market",
+      "api": "csp_MarketGuard",
       "searchable": 0,
       "changeable": 0,
-      "ext": "https://www.xinxinbaobao.tk/fmys.json"
+      "ext": "https://xinxinbaobao.tk/fmys.json"
     },
     {
       "key": "config",
@@ -129,15 +129,6 @@
       "ext": ""
     },
     {
-      "key": "csp_LIVING",
-      "name": "🎮游戏┃直播",
-      "type": 3,
-      "api": "csp_Living",
-      "quickSearch": 0,
-      "searchable": 1,
-      "ext": "https://f1.qilin8.com"
-    },
-    {
       "key": "88看球",
       "name": "🏀看球┃直播",
       "type": 3,
@@ -169,7 +160,7 @@
       "name": "🐂达人┃影视",
       "type": 3,
       "api": "csp_Appfox",
-      "ext": "https://fox.ystva.com"
+      "ext": "http://fox.tvmao.top"
     },
     {
       "key": "爱看fox",
@@ -196,6 +187,16 @@
       "quickSearch": 0,
       "filterable": 1,
       "ext": "https://aysappto.oss-cn-chengdu.aliyuncs.com/qj3.txt|sda1231sasddad21|okhttp/3.10.0"
+    },
+    {
+      "key": "若曦",
+      "name": "💣若曦┃小米",
+      "type": 3,
+      "api": "csp_AppQi",
+      "changeable": "1",
+      "quickSearch": 0,
+      "filterable": 1,
+      "ext": "https://rxysyyds.oss-cn-chengdu.aliyuncs.com/qiji.txt|sjvlwnhk6h9znl61|okhttp/3.10.0"
     },
     {
       "key": "顾我",
@@ -321,7 +322,7 @@
       "ext": "https://staraugust123456.oss-cn-hangzhou.aliyuncs.com/2.txt|staraugust123456|okhttp/3.10.0"
     },
     {
-      "key": "巧技",
+      "key": "巧技1",
       "name": "🔍搜搜┃影视",
       "type": 3,
       "searchable": 1,
@@ -329,7 +330,18 @@
       "api": "csp_qiao2",
       "playerType": 2,
       "jar": "https://pan.vma.cc/pan/down.php/9cf0a6c1f62ad83e9dccc2b7dd683a10.png;md5;9cf0a6c1f62ad83e9dccc2b7dd683a10",
-      "ext": "7lj763gg402i79425739i7jghj118797l4hj840gi18633331l4708g2h7145403549g44l8ii56i187681hkjj3hhgh1ih3l32j250lk1k786lj20j468hk3hli4l46gig4i3g7g2722328j0136h01i7g5183k22k7gg3i72hk81gl8k9839kl7i0707"
+      "ext": "7lj763gg402i7942412h849jg1558j9jl8g19213il86316k465719lik158491h179312hk935886ig2l05g9"
+    },
+    {
+      "key": "巧技2",
+      "name": "🔍搜艘┃影视",
+      "type": 3,
+      "searchable": 1,
+      "quickSearch": 1,
+      "api": "csp_qiao2",
+      "playerType": 2,
+      "jar": "https://pan.vma.cc/pan/down.php/9cf0a6c1f62ad83e9dccc2b7dd683a10.png;md5;9cf0a6c1f62ad83e9dccc2b7dd683a10",
+      "ext": "7lj763gg402i7942412h849jg1558j9jl8g19213il86316k465719lik158491h179312h4934183ig2l05g9"
     },
     {
       "key": "csp_SaoHuo",
@@ -461,7 +473,7 @@
       "url": ""
     }
   ],
-  "logo": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1752137757797/ab67656300005f1f66fff1b2f972193c3d6433eb.jpg",
+  "logo": "https://wkphoto.bj.bcebos.com/bba1cd11728b47106798119ad3cec3fdfc032335.jpg",
   "lives": [
     {
       "name": "平台直播",
