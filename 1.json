@@ -4,7 +4,7 @@
   "sites": [
     {
       "key": "豆豆",
-      "name": "🌈热播┃推荐项目链接：https://link3.cc/lovemm",
+      "name": "🌈热播┃推荐项目链接>：https://link3.cc/lovemm",
       "type": 3,
       "quickSearch": 0,
       "filterable": 0,
@@ -109,7 +109,8 @@
           "http://feimao888.fun",
           "http://www.labi88.sbs",
           "http://fmao.site",
-          "http://fmao.shop"
+          "http://fmao.shop",
+          "http://xiaocgege.shop"
         ],
         "threadinfo": {
           "chunksize": 512,
@@ -159,7 +160,7 @@
       "name": "🐂达人┃影视",
       "type": 3,
       "api": "https://pan.vma.cc/pan/down.php/5ee3676775064c1a83199653817a8104.py",
-      "ext": "http://fox.tvmao.top"
+      "ext": "http://www.yezitv.top/"
     },
     {
       "key": "快快",
@@ -201,6 +202,17 @@
       "ext": "http://117.50.204.35:520|ca94b06ca3c7d80e|okhttp/3.10.0"
     },
     {
+      "key": "AppGET",
+      "name": "🪞MOFANG┃小米",
+      "type": 3,
+      "api": "csp_AppGet",
+      "timeout": 25,
+      "changeable": "1",
+      "quickSearch": 0,
+      "filterable": 1,
+      "ext": "https://www.mfsp4k.top|1234567887654321|okhttp/3.10.0"
+    },
+    {
       "key": "AppQi3",
       "name": "💣爆炸┃小米",
       "type": 3,
@@ -219,7 +231,7 @@
       "searchable": 1,
       "type": 3,
       "api": "csp_AppQi",
-      "ext": "http://110.42.110.224:1133|AAdgrdghjfgswerA|okhttp/3.10.0"
+      "ext": "http://110.42.110.224:1133|AAdgrdghjfgswerA| "
     },
     {
       "key": "仓鼠2",
@@ -318,7 +330,7 @@
       "quickSearch": 1,
       "api": "csp_qiao2",
       "playerType": 2,
-      "jar": "https://pan.vma.cc/pan/down.php/9cf0a6c1f62ad83e9dccc2b7dd683a10.png;md5;9cf0a6c1f62ad83e9dccc2b7dd683a10",
+      "jar": "https://cik07-cos.7moor-fs2.com/im/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/6a1bc5995387e053/qij.png;md5;eb1ed5578b0a9ac5f3e6c6ee04b813e6",
       "ext": "7lj763gg402i7942412h849jg1558j9jl8g19213il86316k465719lik158491h179312hk935886ig2l05g9"
     },
     {
@@ -329,7 +341,7 @@
       "quickSearch": 1,
       "api": "csp_qiao2",
       "playerType": 2,
-      "jar": "https://pan.vma.cc/pan/down.php/9cf0a6c1f62ad83e9dccc2b7dd683a10.png;md5;9cf0a6c1f62ad83e9dccc2b7dd683a10",
+      "jar": "https://cik07-cos.7moor-fs2.com/im/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/6a1bc5995387e053/qij.png;md5;eb1ed5578b0a9ac5f3e6c6ee04b813e6",
       "ext": "7lj763gg402i7942412h849jg1558j9jl8g19213il86316k465719lik158491h179312h4934183ig2l05g9"
     },
     {
