@@ -23,14 +23,14 @@
     },
     {
       "key": "config",
-      "name": "⚙4K网盘┃配置中心",
+      "name": "🧰网盘┃配置💯",
       "type": 3,
       "api": "csp_Config",
       "searchable": 0
     },
     {
       "key": "csp_Netfixtv",
-      "name": "💌至臻┃4K网盘",
+      "name": "💌至臻┃网盘💯",
       "type": 3,
       "changeable": "0",
       "quickSearch": 0,
@@ -58,7 +58,7 @@
     },
     {
       "key": "csp_Netfixtv2",
-      "name": "🎥二小┃4K网盘",
+      "name": "📟二小┃网盘💯",
       "type": 3,
       "changeable": "1",
       "quickSearch": 1,
@@ -85,7 +85,7 @@
     },
     {
       "key": "csp_Wogg",
-      "name": "🧸玩偶┃4K网盘",
+      "name": "🧸玩偶┃网盘💯",
       "type": 3,
       "api": "csp_Wogg",
       "changeable": "0",
@@ -95,7 +95,7 @@
     },
     {
       "key": "csp_Duopan",
-      "name": "🖍蜡笔┃4K网盘",
+      "name": "🖍蜡笔┃网盘💯",
       "type": 3,
       "quickSearch": 0,
       "changeable": "0",
@@ -121,7 +121,7 @@
     },
     {
       "key": "csp_Music",
-      "name": "🎵音乐┃直播",
+      "name": "🎵MUSIC┃听歌",
       "type": 3,
       "api": "csp_Music",
       "quickSearch": 0,
@@ -156,22 +156,19 @@
       }
     },
     {
-      "key": "追番达人",
-      "name": "🐂达人┃影视",
+      "key": "巧技2",
+      "name": "💢优质┃影视",
       "type": 3,
-      "api": "https://pan.vma.cc/pan/down.php/5ee3676775064c1a83199653817a8104.py",
-      "ext": "http://www.yezitv.top/"
-    },
-    {
-      "key": "快快",
-      "name": "🚤快快┃影视",
-      "type": 3,
-      "api": "https://pan.vma.cc/pan/down.php/5ee3676775064c1a83199653817a8104.py",
-      "ext": "https://www.kuaiying.xyz"
+      "searchable": 1,
+      "quickSearch": 1,
+      "api": "csp_qiao2",
+      "playerType": 2,
+      "jar": "https://cik07-cos.7moor-fs2.com/im/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/6a1bc5995387e053/qij.png;md5;eb1ed5578b0a9ac5f3e6c6ee04b813e6",
+      "ext": "7lj763gg402i7942412h849jg1558j9jl8g19213il86316k465719lik158491h179312h4934183ig2l05g9"
     },
     {
       "key": "AppQi1",
-      "name": "🍊橘子┃小米",
+      "name": "🍊JUZI┃影视",
       "type": 3,
       "api": "csp_AppQi",
       "changeable": "1",
@@ -181,18 +178,8 @@
       "ext": "https://juziapp.tpmbt.cn|K3h6YvSU8BTUfEcb|okhttp/3.10.0"
     },
     {
-      "key": "热热",
-      "name": "🔥热热┃影视",
-      "type": 3,
-      "searchable": 1,
-      "timeout": 25,
-      "quickSearch": 0,
-      "api": "csp_AppRJ",
-      "ext": "Z2MNziRBwjQxqaBuUxNkDRyvTntIkN1cOXhjyWgjCTc="
-    },
-    {
       "key": "顾我",
-      "name": "🎴顾我┃小米",
+      "name": "🎴GUWO┃影视",
       "type": 3,
       "api": "csp_AppQi",
       "timeout": 25,
@@ -203,7 +190,7 @@
     },
     {
       "key": "AppGET",
-      "name": "🪞MOFANG┃小米",
+      "name": "🪞MOFANG┃影视",
       "type": 3,
       "api": "csp_AppGet",
       "timeout": 25,
@@ -213,8 +200,30 @@
       "ext": "https://www.mfsp4k.top|1234567887654321|okhttp/3.10.0"
     },
     {
+      "key": "AppGET2",
+      "name": "🚕XINXIN┃影视",
+      "type": 3,
+      "api": "csp_AppGet",
+      "timeout": 25,
+      "changeable": "1",
+      "quickSearch": 0,
+      "filterable": 1,
+      "ext": "http://110.81.153.7:1963/get.txt|k7L9mQ2xR4pW8n88|okhttp/3.14.9"
+    },
+    {
+      "key": "AppGET3",
+      "name": "🌟YALI┃动漫",
+      "type": 3,
+      "api": "csp_AppQi",
+      "timeout": 25,
+      "changeable": "1",
+      "quickSearch": 0,
+      "filterable": 1,
+      "ext": "https://taobao.yalifun.com/xindm.json|88858c3b8560e348|okhttp/3.14.9"
+    },
+    {
       "key": "AppQi3",
-      "name": "💣爆炸┃小米",
+      "name": "💣BAOZHA┃影视",
       "type": 3,
       "api": "csp_AppQi",
       "timeout": 25,
@@ -225,7 +234,7 @@
     },
     {
       "key": "鲸鱼",
-      "name": "🐋鲸鱼┃小米",
+      "name": "🐋JINGYU┃影视",
       "quickSearch": 0,
       "timeout": 25,
       "searchable": 1,
@@ -235,7 +244,7 @@
     },
     {
       "key": "仓鼠2",
-      "name": "🐨仓鼠┃小米",
+      "name": "🐨CANGSHU┃影视",
       "quickSearch": 1,
       "timeout": 25,
       "searchable": 1,
@@ -245,14 +254,14 @@
     },
     {
       "key": "聚搜",
-      "name": "🚗聚搜┃影视",
+      "name": "🚗JUSOU┃影视",
       "type": 3,
       "api": "https://13826.kstore.vip/AppToV5.py",
       "ext": "http://101.35.85.16:5555"
     },
     {
       "key": "剧下饭",
-      "name": "🍚下饭┃小米",
+      "name": "🍚XIAFNA┃影视",
       "type": 3,
       "changeable": 0,
       "api": "https://13826.kstore.vip/AppV2.py",
@@ -263,18 +272,8 @@
       }
     },
     {
-      "key": "布蕾",
-      "name": "💯布蕾┃影视",
-      "quickSearch": 1,
-      "searchable": 1,
-      "type": 3,
-      "timeout": 25,
-      "api": "csp_AppQi",
-      "ext": "https://qjappcms.bl4k.cc|5f2b7ed203a3a581|okhttp/3.10.0"
-    },
-    {
       "key": "荐片",
-      "name": "➖荐片┃磁力",
+      "name": "🧲JIANPIAN┃磁力",
       "quickSearch": 0,
       "changeable": "0",
       "searchable": 1,
@@ -288,7 +287,7 @@
     },
     {
       "key": "天天",
-      "name": "💯天天┃影视",
+      "name": "💯秒播┃影视💯",
       "type": 3,
       "quickSearch": 1,
       "searchable": 1,
@@ -297,14 +296,14 @@
     },
     {
       "key": "csp_FreeOk",
-      "name": "👌️Frek┃影视",
+      "name": "👌FREE┃影视",
       "type": 3,
       "quickSearch": 0,
       "api": "csp_FreeOk"
     },
     {
       "key": "花猪",
-      "name": "🐖花猪┃影视",
+      "name": "🐖HUAZHU┃影视",
       "type": 3,
       "searchable": 1,
       "quickSearch": 0,
@@ -314,7 +313,7 @@
     },
     {
       "key": "开心2",
-      "name": "☺开心┃影视",
+      "name": "☺KAIIXN┃影视",
       "type": 3,
       "quickSearch": 0,
       "searchable": 1,
@@ -324,7 +323,7 @@
     },
     {
       "key": "巧技1",
-      "name": "🔍搜搜┃影视",
+      "name": "🔍SOUSOU┃影视",
       "type": 3,
       "searchable": 1,
       "quickSearch": 1,
@@ -334,25 +333,14 @@
       "ext": "7lj763gg402i7942412h849jg1558j9jl8g19213il86316k465719lik158491h179312hk935886ig2l05g9"
     },
     {
-      "key": "巧技2",
-      "name": "🔍搜艘┃影视",
-      "type": 3,
-      "searchable": 1,
-      "quickSearch": 1,
-      "api": "csp_qiao2",
-      "playerType": 2,
-      "jar": "https://cik07-cos.7moor-fs2.com/im/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/6a1bc5995387e053/qij.png;md5;eb1ed5578b0a9ac5f3e6c6ee04b813e6",
-      "ext": "7lj763gg402i7942412h849jg1558j9jl8g19213il86316k465719lik158491h179312h4934183ig2l05g9"
-    },
-    {
       "key": "csp_SaoHuo",
-      "name": "🔥火火┃影视",
+      "name": "🔥HUOHUO┃影视",
       "type": 3,
       "api": "csp_SaoHuo"
     },
     {
       "key": "csp_Qiyou",
-      "name": "🥝奇优┃影视",
+      "name": "🥝QIYOU┃影视",
       "type": 3,
       "api": "csp_Qiyou"
     },
@@ -367,7 +355,7 @@
     },
     {
       "key": "csp_LiteApple",
-      "name": "🍎苹果┃影视",
+      "name": "🍎APPLE┃影视💯",
       "type": 3,
       "searchable": 1,
       "quickSearch": 0,
@@ -375,7 +363,7 @@
     },
     {
       "key": "csp_Gz360",
-      "name": "🍉瓜子┃影视",
+      "name": "🍉GUAZI┃影视",
       "type": 3,
       "searchable": 1,
       "quickSearch": 0,
@@ -383,7 +371,7 @@
     },
     {
       "key": "csp_Jpys",
-      "name": "🥇金牌┃影视",
+      "name": "🥇JINPAI┃影视",
       "type": 3,
       "searchable": 1,
       "quickSearch": 0,
@@ -391,7 +379,7 @@
     },
     {
       "key": "csp_MiSou",
-      "name": "🔍米搜┃盘搜",
+      "name": "🔍MISOU┃盘搜",
       "type": 3,
       "searchable": 1,
       "quickSearch": 0,
