@@ -127,7 +127,7 @@
       "quickSearch": 1,
       "filterable": 1,
       "changeable": 1,
-      "api": "https://cnb.cool/xiaomideyun/xiaomideyun/-/git/raw/main/mi.json/./fox.js",
+      "api": "https://13826.kstore.vip/fox.js",
       "ext": {
         "host": "http://103.109.20.117:550/"
       }
@@ -167,6 +167,26 @@
         "type": "rect",
         "ratio": 1.333
       }
+    },
+    {
+      "key": "老丫",
+      "name": "🍞老雅┃影视",
+      "type": 3,
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "changeable": 1,
+      "api": "https://13826.kstore.vip/fox.js",
+      "ext": {
+        "host": "https://app2512.ystva.com"
+      }
+    },
+    {
+      "key": "聚搜2",
+      "name": "🚗JUSOU┃影视",
+      "type": 3,
+      "api": "https://13826.kstore.vip/AppToV5.py",
+      "ext": "http://118.89.203.120:8365/"
     },
     {
       "key": "巧技2",
@@ -352,6 +372,16 @@
       "searchable": 1,
       "quickSearch": 0,
       "api": "csp_MiSou"
+    },
+    {
+      "key": "剧和短剧",
+      "name": "🪗聚合┃短剧",
+      "type": 3,
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "changeable": 1,
+      "api": "https://13826.kstore.vip/%E8%81%9A%E5%90%88%E7%9F%AD%E5%89%A7.js"
     },
     {
       "key": "csp_TingBook",
