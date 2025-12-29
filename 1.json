@@ -38,7 +38,6 @@
       "filterable": 1,
       "ext": {
         "site_urls": [
-          "https://zhizhen1.top",
           "https://mihdr.top",
           "https://www.mihdr.top",
           "https://www.miqk.cc",
@@ -71,7 +70,8 @@
           "https://www.2xiaopan.fun/",
           "https://2xiaopan.fun/",
           "https://www.2xiaoyun.fun/",
-          "https://www.xhww.net/"
+          "https://www.xhww.net/",
+          "https://zhizhen1.top"
         ],
         "url_key": "UC",
         "token": "",
@@ -231,6 +231,17 @@
       "quickSearch": 0,
       "filterable": 1,
       "ext": "FNc7O3Sq/hxz7uCzbccPTwmKS9QhqbhDC5J/tBK99TXBAOG5IeeHo7xSXryC0vBoO5B1l2XmjJKdkeCZu5v1UxCZcIXe/1cmcBYcHAk746JE1FosonleIPqUFKByjhLwUU1doZS06jAVhSjz7X90y5GWmFqHmqD7ArxYzUSMQxyKerhNQ2ZWaJ2ka4jFMRPVVDQrBge5CgBGsw/HTb/+Q12qdcSTymLUN/cfwoUZ4uqBcSPbxSIrB4znIU2PcCtnX14vLtsWp1u/cbGV+kP8486YY8kGEs2qq+T34UaXBZf9Kk1t0Qt6yrj57yptwkeJXa2gK176ebs/D71tmX2ErBjije7pqwpRtEmeAmBWxohh9kLrGdh97ODRSzyNYE93Ai7nbGoskd/2r1Uu5NLCEqCIBBhH1qI6Jl/jWIVcngIDBm5KoTPs1ZxNWEqnOyP8nf8FuHZkRp/o26HL5LXb17UOkCmecqDKg3vjcnBKPNg="
+    },
+    {
+      "key": "仓鼠",
+      "name": "🐀仓鼠┃影视",
+      "type": 3,
+      "api": "csp_AppGetV2",
+      "timeout": 25,
+      "changeable": "1",
+      "quickSearch": 0,
+      "filterable": 1,
+      "ext": "N/01JeZBCBEQ0wOXNuAI/kwsk5p8MqEDFtLQfMnVixDK7IwkMW3OXTtsJ0luMKeLysX2yB73bNx2WJ5U6d4MjrnIXJqUL+le03gZHBt9/GOsj2DDkI1uPNUodapLhhZPdtCC6eRuBkCLdC/zBe6JsFTpEXeu0A4pfSLg8mKFNMmUD43vd9RkQa+A2qvja6WMnDFvyZFx2PwIruSmvMw3m3T9ze9rboyLhbSGALzrdJsMr+YcJnPsY7wyqvmxNuq+3W3pJbRZzdQ2f17QGu6bR3X8XEM/7jBfzvgY7x13un5B9vPR9rWbNwhHNPhUBdgBFgpxKmANJoJvUJjCIiOL1qBLgxeEFkz4AW4fYsDVOhs1MFKg9pbzExJ5NKrIj5uZQ6piqHXeB6kzwwIgt0wc+yZ5UWqytxss9WA43G0QXbfEjs8qca18REiRCq6CvXbz6j5pKfOeGSMoODoQ1PX5VcXRA1RR6JlQuOt9cZpoXuOXq+sEfsbQf/0jPYZfNunVP9hzneeXD0mPwthDV6EgGqsezXDEKG3o38xFIjzMk4rXzlYWzf5w1VNm9V79p/j4"
     },
     {
       "key": "云速",
