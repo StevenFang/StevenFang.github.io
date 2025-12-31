@@ -4,7 +4,7 @@
   "sites": [
     {
       "key": "豆豆",
-      "name": "🌈热播┃公众号关注 >✨搬运分享屋✨",
+      "name": "🌈热播┃新年快乐！关注 >✨搬运分享屋✨",
       "type": 3,
       "quickSearch": 0,
       "filterable": 0,
@@ -59,19 +59,18 @@
       "key": "csp_Netfixtv2",
       "name": "📟二小┃网盘✨",
       "type": 3,
-      "changeable": "1",
+      "changeable": "0",
       "quickSearch": 1,
       "api": "csp_Duopan",
       "filterable": 1,
       "ext": {
         "site_urls": [
+          "https://zhizhen1.top",
           "https://www.wexwp.cc",
           "https://wexwp.cc",
           "https://www.2xiaopan.fun/",
           "https://2xiaopan.fun/",
-          "https://www.2xiaoyun.fun/",
-          "https://www.xhww.net/",
-          "https://zhizhen1.top"
+          "https://www.2xiaoyun.fun/"
         ],
         "url_key": "UC",
         "token": "",
@@ -129,7 +128,7 @@
       "changeable": 1,
       "api": "https://13826.kstore.vip/fox.js",
       "ext": {
-        "host": "http://103.109.20.117:550/"
+        "host": "https://www.70yyw.cc"
       }
     },
     {
