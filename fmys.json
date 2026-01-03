@@ -6,13 +6,13 @@
         "name": "手机版",
         "url": "https://ghfast.top/https://raw.githubusercontent.com/FongMi/Release/fongmi/apk/mobile-arm64_v8a.apk",
         "icon": "https://ghfast.top/https://raw.githubusercontent.com/lystv/fmapp/img/log/ys.jpg",
-        "version": "5.0.7"
+        "version": "5.0.8"
       },
       {
         "name": "电视版",
         "url": "https://ghfast.top/https://raw.githubusercontent.com/FongMi/Release/fongmi/apk/leanback-armeabi_v7a.apk",
         "icon": "https://ghfast.top/https://raw.githubusercontent.com/lystv/fmapp/img/log/ys.jpg",
-        "version": "5.0.7"
+        "version": "5.0.8"
       }
     ]
   },
@@ -23,19 +23,19 @@
         "name": "电视版",
         "url": "https://ghfast.top/https://raw.githubusercontent.com/FongMi/Release/refs/heads/fongmi/apk/leanback-armeabi_v7a.apk",
         "icon": "https://ghfast.top/https://raw.githubusercontent.com/lystv/fmapp/img/log/ys.jpg",
-        "version": "5.0.7"
+        "version": "5.0.8"
       },
       {
         "name": "手机版",
         "url": "https://ghfast.top/https://raw.githubusercontent.com/FongMi/Release/refs/heads/fongmi/apk/mobile-arm64_v8a.apk",
         "icon": "https://ghfast.top/https://raw.githubusercontent.com/lystv/fmapp/img/log/ys.jpg",
-        "version": "5.0.7"
+        "version": "5.0.8"
       },
       {
         "name": "旧手机",
         "url": "https://ghfast.top/https://raw.githubusercontent.com/FongMi/Release/refs/heads/fongmi/apk/mobile-armeabi_v7a.apk",
         "icon": "https://ghfast.top/https://raw.githubusercontent.com/lystv/fmapp/img/log/ys.jpg",
-        "version": "5.0.7"
+        "version": "5.0.8"
       }
     ]
   }
