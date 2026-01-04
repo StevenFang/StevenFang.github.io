@@ -119,19 +119,6 @@
       }
     },
     {
-      "key": "老鸭",
-      "name": "🍞老鸭┃影视",
-      "type": 3,
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "changeable": 1,
-      "api": "https://13826.kstore.vip/fox.js",
-      "ext": {
-        "host": "https://www.70yyw.cc"
-      }
-    },
-    {
       "key": "csp_Music",
       "name": "🎵MUSIC┃听歌",
       "type": 3,
@@ -177,7 +164,7 @@
       "changeable": 1,
       "api": "https://13826.kstore.vip/fox.js",
       "ext": {
-        "host": "https://app2512.ystva.com"
+        "host": "https://cms99api.ystva.com"
       }
     },
     {
@@ -316,17 +303,6 @@
       "type": 3,
       "quickSearch": 0,
       "api": "csp_FreeOk"
-    },
-    {
-      "key": "巧技1",
-      "name": "🔍SOUSOU┃影视",
-      "type": 3,
-      "searchable": 1,
-      "quickSearch": 1,
-      "api": "csp_qiao2",
-      "playerType": 2,
-      "jar": "https://cik07-cos.7moor-fs2.com/im/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/6a1bc5995387e053/qij.png;md5;eb1ed5578b0a9ac5f3e6c6ee04b813e6",
-      "ext": "7lj763gg402i7942412h849jg1558j9jl8g19213il86316k465719lik158491h179312hk935886ig2l05g9"
     },
     {
       "key": "csp_SaoHuo",
