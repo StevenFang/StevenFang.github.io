@@ -1,4 +1,4 @@
-#EXTM3U x-tvg-url="https://gitee.com/taksssss/tv/raw/main/epg/51zmt.xml.gz"
+#EXTM3U x-tvg-url="http://epg.51zmt.top:8000/e.xml"
 #EXTINF:-1  tvg-name="CCTV1" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV1.png" group-title="央视",CCTV1
 http://124.90.44.40:6060/010/2/00000001000000060000000000000469/1000.m3u8?virtualDomain=010.live_hls.zte.com
 #EXTINF:-1  tvg-name="CCTV4K" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4k.png" group-title="4K",CCTV4K
