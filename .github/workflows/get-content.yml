@@ -20,8 +20,8 @@ jobs:
 
           URL="https://www.xn--sss604efuw.com/jm/jiemi.php?url=https://mitvbox.xyz/%E5%B0%8F%E7%B1%B3/DEMO.json"
 
-          # 获取内容，删除前四行
-          curl -fsSL "$URL" | tail -n +5 > mi.json.new
+          # 获取内容，删除前五行
+          curl -fsSL "$URL" | tail -n +6 > mi.json.new
 
           # 如果原文件不存在，直接认为有更新
           if [ ! -f mi.json ]; then
