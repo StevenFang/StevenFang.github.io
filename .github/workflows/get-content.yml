@@ -1,45 +1,52 @@
-name: 定时更新
+name: Update mi.json from URL
 
 on:
   schedule:
-    - cron: '0 */6 * * *'
+    # 每天运行一次（可自行调整）
+    - cron: "0 */6 * * *"
   workflow_dispatch:
 
 jobs:
-  build:
+  update:
     runs-on: ubuntu-latest
 
     steps:
-    - name: Checkout
-      uses: actions/checkout@v2
+      - name: Checkout repository
+        uses: actions/checkout@v4
 
-    - name: Get website content
-      id: get_content
-      env:
-        JK_DOMAIN: ${{ secrets.JK_DOMAIN }}
-      run: |
-        set -e
-        curl -s --fail https://${JK_DOMAIN}/?url=https://cnb.cool/xiaomideyun/xiaomideyun/-/git/raw/main/mi.json -o mi.json
-        echo "::set-output name=status_code::$?"
-        
-    - name: Validate JSON
-      run: jq . mi.json
+      - name: Fetch URL and generate mi.json
+        run: |
+          set -e
 
-    - name: Update and copy JSON
-      if: steps.get_content.outputs.status_code == '0'
-      run: |
-        jq '.sites |= (.[0:1] + [{"key": "更新应用","name": "更新应用","type": 3,"api": "csp_MarketGuard","searchable": 0,"changeable": 0,"ext": "https://xinxinbaobao.tk/fmys.json"}] + .[1:])' mi.json > temp.json && mv temp.json 1.json
+          URL="https://www.xn--sss604efuw.com/jm/jiemi.php?url=https://mitvbox.xyz/%E5%B0%8F%E7%B1%B3/DEMO.json"
 
-    - name: Commit and push
-      if: steps.get_content.outputs.status_code == '0' && github.repository == github.event.repository.full_name
-      run: |
-        git config --local user.email "action@github.com"
-        git config --local user.name "GitHub Action"
-        git add mi.json 1.json
-        if ! git status --porcelain | grep -q '^A\|^M'; then
-          echo "No changes to commit"
-        else
-          echo 'Committing changes...'
-          git commit -m 'Update website content'
+          # 获取内容，删除前四行
+          curl -fsSL "$URL" | tail -n +5 > mi.json.new
+
+          # 如果原文件不存在，直接认为有更新
+          if [ ! -f mi.json ]; then
+            mv mi.json.new mi.json
+            echo "UPDATED=true" >> $GITHUB_ENV
+            exit 0
+          fi
+
+          # 对比新旧文件
+          if diff -q mi.json mi.json.new >/dev/null; then
+            echo "No changes detected."
+            echo "UPDATED=false" >> $GITHUB_ENV
+            rm mi.json.new
+          else
+            mv mi.json.new mi.json
+            echo "Changes detected."
+            echo "UPDATED=true" >> $GITHUB_ENV
+          fi
+
+      - name: Commit and push changes
+        if: env.UPDATED == 'true'
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+
+          git add mi.json
+          git commit -m "chore: update mi.json"
           git push
-        fi
