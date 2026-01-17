@@ -1,4 +1,4 @@
-name: Update mi.json from URL
+name: Update 1.json from URL
 
 on:
   schedule:
@@ -14,29 +14,29 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v4
 
-      - name: Fetch URL and generate mi.json
+      - name: Fetch URL and generate 1.json
         run: |
           set -e
 
           URL="https://www.xn--sss604efuw.com/jm/jiemi.php?url=https://mitvbox.xyz/%E5%B0%8F%E7%B1%B3/DEMO.json"
 
           # 获取内容，删除前五行
-          curl -fsSL "$URL" | tail -n +6 > mi.json.new
+          curl -fsSL "$URL" | tail -n +6 > 1.json.new
 
           # 如果原文件不存在，直接认为有更新
-          if [ ! -f mi.json ]; then
-            mv mi.json.new mi.json
+          if [ ! -f 1.json ]; then
+            mv 1.json.new 1.json
             echo "UPDATED=true" >> $GITHUB_ENV
             exit 0
           fi
 
           # 对比新旧文件
-          if diff -q mi.json mi.json.new >/dev/null; then
+          if diff -q 1.json 1.json.new >/dev/null; then
             echo "No changes detected."
             echo "UPDATED=false" >> $GITHUB_ENV
-            rm mi.json.new
+            rm 1.json.new
           else
-            mv mi.json.new mi.json
+            mv 1.json.new 1.json
             echo "Changes detected."
             echo "UPDATED=true" >> $GITHUB_ENV
           fi
@@ -47,6 +47,6 @@ jobs:
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
 
-          git add mi.json
-          git commit -m "chore: update mi.json"
+          git add 1.json
+          git commit -m "chore: update 1.json"
           git push
