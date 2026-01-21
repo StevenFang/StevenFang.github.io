@@ -20,8 +20,22 @@ jobs:
 
           URL="https://www.xn--sss604efuw.com/jm/jiemi.php?url=https://mitvbox.xyz/%E5%B0%8F%E7%B1%B3/DEMO.json"
 
-          # 获取内容，删除前五行
-          curl -fsSL "$URL" | tail -n +6 > 1.json.new
+          # 将原始响应保存到临时文件，便于检查
+          curl -fsSL "$URL" -o response.tmp
+
+          # 如果响应中包含 "解密失败"，则输出响应内容并放弃更新
+          if grep -q "解密失败" response.tmp; then
+            echo "Remote response contains 解密失败. Aborting update. Response content:"
+            cat response.tmp
+            # 标记为未更新，避免后续 commit 步骤
+            echo "UPDATED=false" >> $GITHUB_ENV
+            rm -f response.tmp
+            exit 0
+          fi
+
+          # 删除前五行并生成新的 1.json 文件
+          tail -n +6 response.tmp > 1.json.new
+          rm -f response.tmp
 
           # 如果原文件不存在，直接认为有更新
           if [ ! -f 1.json ]; then
