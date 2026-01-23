@@ -3,7 +3,7 @@ name: Update 1.json from URL
 on:
   schedule:
     # 每天运行一次（可自行调整）
-    - cron: "0 */6 * * *"
+    - cron: "0 */12 * * *"
   workflow_dispatch:
 
 jobs:
@@ -18,7 +18,7 @@ jobs:
         run: |
           set -e
 
-          URL="https://www.xn--sss604efuw.com/jm/jiemi.php?url=https://mitvbox.xyz/%E5%B0%8F%E7%B1%B3/DEMO.json"
+          URL="https://www.xn--sss604efuw.com/jm/jiemi.php?url=https://cnb.cool/xiaomideyun/xiaomideyun/-/git/raw/main/mi.json"
 
           # 将原始响应保存到临时文件，便于检查
           curl -fsSL "$URL" -o response.tmp
