@@ -1,5 +1,5 @@
 {
-"spider":"https://img2.gelonghui.com/library/08dec-8b810c34-0b63-42ef-9434-37e71a46c3bc.png;md5;08dec7b2fd1ecdc592b4fe7bce9e93df",
+"spider":"https://img2.gelonghui.com/library/09c63-3288508f-cf34-4dbc-88d4-fbfd845b891a.txt;md5;09c634709dc18668b1bfaacbd4dc7459",
 "wallpaper":"https://www.wexwp.cc/bizhi.php",
 "sites":[
 {"key":"豆豆","name":"🌈热播┃网盘线路晚高峰不卡！项目链接>：https://link3.cc/lovemm","type":3,"quickSearch":0,"filterable":0,"changeable":0,"api":"csp_Douban","searchable":0},
@@ -10,6 +10,7 @@
 {"key":"csp_Duopan","name":"🖍蜡笔┃网盘4K💥","type":3,"quickSearch":0,"changeable":"0","api":"csp_Duopan","filterable":1,"ext":{"site_urls":["http://xiaocge.fun","http://feimo.fun","https://feimao666.fun","http://feimao888.fun","http://www.labi88.sbs","http://fmao.site","http://fmao.shop","http://xiaocgege.shop"],"threadinfo":{"chunksize":512,"threads":16},
 "url_key":"Duopan4"}},
 {"key":"天天","name":"💯秒播┃影视💯","type":3,"quickSearch":1,"searchable":1,"api":"csp_AppRJ","ext":"vxw35/hHSj07Q+maxQzOVMq1rjRCOTXpUCx8iKu5jIg="},
+{"key":"麻雀","name":"🐦麻雀┃1080P","type":3,"quickSearch":1,"searchable":1,"api":"https://13826.kstore.vip/%E9%BA%BB%E9%9B%80%E8%A7%86%E9%A2%91.js","ext":""},
 {"key":"csp_Music","name":"🎵MUSIC┃听歌","type":3,"api":"csp_Music","quickSearch":0,"searchable":0,"ext":""},
 {"key":"csp_Living","name":"🎮聚合┃直播","type":3,"api":"csp_Living","ext":"https://lemonlive-api-1.deno.dev"},
 {"key":"88看球","name":"🏀看球┃直播","type":3,"api":"csp_Kanqiu","searchable":0,"quickSearch":0,"filterable":1,"order_num":0,"changeable":0},
@@ -24,10 +25,10 @@
 {"key":"云速","name":"🍼云云┃1080P","type":3,"api":"csp_AppGetV2","changeable":"1","quickSearch":0,"filterable":1,"ext":"pghUv+IPbIqGFEhny2nISqwnd+ZrLZS4oOovoDKrPwa8JWS5zzoWGioKpDjUFvBJr0S7A/z5np7s3vbM2DsPSgChWUFqeOtR292/yzIXpDLpHsf0V7gMJfDcOklI8ANoEHc2x/WQFzmMxg5pE9DZJFJ3pkI96Ralddap07nF39fdXftP1fxv3/2U6Oh45EXNV1haetnG3NaxebkU1OHfa4oONC1wOLIoPyDcJb4LBFptemHoubsOIiqaZoVgGdEHgQuaNYNPJ2geGyrshsfO0fnffr9Anv66uTz2sjVkh0BqZgIg4mFG1D5WMjbX/zDZKYHr+O0u+WVjF26vTPcrzSMot9nwsgXRPOw+jlu62oOSyhOlzf24jTF3KweU+oRR"},
 {"key":"魔方","name":"🥪魔方┃1080P","type":3,"api":"csp_AppGetV2","changeable":"1","quickSearch":0,"filterable":1,"ext":"N/01JeZBCBEQ0wOXNuAI/kwsk5p8MqEDFtLQfMnVixA9uUmSyf8n3xJtB2ubjJgYDhEd8h65xeqKRf3iKR9uIvzwZqvJoAyTyNrVFvsjj6rcrxaUxJIDJDV+KiOB9j0MI9CVrh+0wQG3G8vH/qBglRDfzuIN1DlTTpdxYERAYZMCSEu+sgf5JR61CAzwsdc09W//YFaJbpDv8kHaw052cULBNQ/P1FyVDvk+GHOADm3OLhFSpDjSGPgKadu0GSlZGl+7EnLianWrSuY9H12iPoBA0zf6ulDwWqStOH2yTARHrda3y3m35sh0GGABp/ThOHszC2tl2naN0POZsXbyi7enFffI15opZinoBAA/LWiYkiEaH+cIZ/29C418TvMUpuM4GXXQsSbu43K56xSFdjTi66WemimTIKQ89FJIVuR9qDVI1iFyNmpS2kz8TwPJNsyrT8rAw3iXvLuwhNjOndlJruvPH+sewnXTdp9dqf6r4MAzLwL9f9EJ2C6F+Jqx"},
 {"key":"JINPAI","name":"🍥金牌┃1080P","type":3,"api":"csp_AppGetV2","changeable":"1","quickSearch":0,"filterable":1,"ext":"N/01JeZBCBEQ0wOXNuAI/kwsk5p8MqEDFtLQfMnVixDB3xui1lDymx4fnoCgxm59NbdMM2FDEd1LoNOCZvedKAplW6Go0JtGfzXnn65Pg1kPIthOoYoQWgY/lKhQKzzcLQKb1ezm1qhhKR/lEhfm+EbojsfeaAOeOaSCVPPzSkVw2DmHMhYv+yWi9ExOHyfuXX1csfF6G/UWPw12lFNeElpZMAUAQG2LEcbRadEvVmNm3YDM07Dn4F8Fcvsnb08MRb3GO2sEZSdjqf85kk1tVNb5zdfho1F01S/Cvzp4Lz84cQdryYTNnZCggLd9vL5TzLkGb3USPOKaq2v4jzsIlGKXcyRYbIDf/vcihcS2/VvRXNBBU782kwniaIiq+4rEN3u8hlLic89wNWeBa60vQgYvjsfM7t1zsospH+7CcEEliFOlYdCrMcW2NGR9Gjj/"},
+{"key":"橘子","name":"🍊橘子┃1080P","type":3,"api":"csp_AppGetV2","changeable":"1","quickSearch":0,"filterable":1,"ext":"pghUv+IPbIqGFEhny2nISk+xygMDLIUeoyKFU8yxKlNVrgrcirdV3YINpNZnwDWWlJoI1+YwCT971kI1lcLM0tzIyHBz96Ly2iz/tFqjAerxg6klaKzTwi6jg5OOo6Mwvnbg/KZWUzU+J7aDaHc72Nucd9aASNNVEfOZ2/3HXtYs3eu8yJM7+mLSvr5mRz9+k4L/WI59yc+PqdX8OqL8HylGowei2F3008X+DCyhFqONooDf9IEFgJXOExW3L3Wb3a0nnnfyr0HqRDiEaoEW2qcVMVHR0CvPhnSp/eEmlvQQ94YDUCH/YVORQoZMD5LteQKiOzSjZbmRbCWxP3hc1A=="},
 {"key":"荐片","name":"🧲荐片┃磁力","quickSearch":0,"changeable":"0","searchable":1,"type":3,"api":"csp_Jianpian","style":{"type":"rect","ratio":1.333},
 "ext":"https://ev2089.zxbwv.com"},
 {"key":"csp_duanju","name":"🔥短剧┃影视","type":3,"api":"csp_DuanJu"},
-{"key":"csp_SaoHuo","name":"🔥火火┃影视","type":3,"api":"csp_SaoHuo"},
 {"key":"csp_Wwys","name":"🔥农民┃影视","type":3,"api":"csp_Wwys","ext":"https://vip.wwgz.cn:5200"},
 {"key":"csp_LiteApple","name":"🍎苹果┃影视💯","type":3,"searchable":1,"quickSearch":0,"api":"csp_LiteApple"},
 {"key":"csp_Gz360","name":"🍉瓜子┃影视","type":3,"searchable":1,"quickSearch":0,"api":"csp_Gz360"},
