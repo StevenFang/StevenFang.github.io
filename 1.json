@@ -3,7 +3,7 @@
     "sites": [
         {
             "key": "豆豆",
-            "name": "🌈热播┃新年快乐！网盘线路晚高峰不卡！项目链接>：https://link3.cc/lovemm",
+            "name": "🌈热播┃<公众号: 搬运分享屋>新年快乐！网盘线路晚高峰不卡！项目链接>：https://link3.cc/lovemm",
             "type": 3,
             "quickSearch": 0,
             "filterable": 0,
@@ -31,7 +31,6 @@
                     "https://mihdr.top",
                     "https://www.mihdr.top",
                     "https://www.miqk.cc",
-                    "https://xiaomiai.site",
                     "https://xiaomi666.fun",
                     "https://www.zhizhenpan.fun"
                 ],
@@ -114,6 +113,20 @@
             "type": 3,
             "api": "csp_AppJg",
             "ext": "http://m.bffree.cn"
+        },
+        {
+            "key": "mino4k",
+            "name": "🚀小米┃1080-2",
+            "type": 3,
+            "api": "csp_AppNox",
+            "ext": "http://ld.ldysapp.cn|7f8617d03203745a|2.2.3|26|com.mjyx.jhxq|70:DF:B1:2A:AE:C3:E3:73:6E:23:0F:67:B9:3B:C5:63:2D:EA:2A:2C:9E:9D:52:82:1D:3F:3C:3C:B9:10:9E:EE"
+        },
+        {
+            "key": "追忆",
+            "name": "🚀小米┃1080-3",
+            "type": 3,
+            "api": "csp_AppNox",
+            "ext": "http://110.42.37.69:8080|7f8617d03203745a|2.0.0|20|com.recall.app|EB:19:FD:A7:8F:67:99:CD:6C:F0:6F:A4:72:3F:7A:C7:E9:2E:95:79:6F:5B:60:EA:CD:D8:05:CF:3E:06:D9:71"
         },
         {
             "key": "麻雀",
@@ -277,7 +290,8 @@
             "type": 3,
             "searchable": 1,
             "quickSearch": 0,
-            "api": "csp_Jpys"
+            "api": "csp_Jpys",
+            "ext": "https://ghw9zwp5.com/"
         },
         {
             "key": "csp_MiSou",
