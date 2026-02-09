@@ -1,4 +1,4 @@
-    "spider": "https://img2.gelonghui.com/library/9bd18-da9a103c-8f92-465a-b257-ffd88055b04b.png;md5;9bd18a01e0c5f7662bf11f13d5c95c23",
+    "spider": "https://img2.gelonghui.com/library/0c5ff-2b4ae7fe-0243-45a5-84a2-13d4e9222896.png;md5;0c5ff9478c154c790273b4532d43f2d9",
     "wallpaper": "https://www.wexwp.cc/bizhi.php",
     "sites": [
         {
@@ -108,25 +108,11 @@
             }
         },
         {
-            "key": "Jianguo",
-            "name": "🚀小米┃1080-1",
-            "type": 3,
-            "api": "csp_AppJg",
-            "ext": "http://m.bffree.cn"
-        },
-        {
-            "key": "mino4k",
-            "name": "🚀小米┃1080-2",
-            "type": 3,
-            "api": "csp_AppNox",
-            "ext": "http://ld.ldysapp.cn|7f8617d03203745a|2.2.3|26|com.mjyx.jhxq|70:DF:B1:2A:AE:C3:E3:73:6E:23:0F:67:B9:3B:C5:63:2D:EA:2A:2C:9E:9D:52:82:1D:3F:3C:3C:B9:10:9E:EE"
-        },
-        {
             "key": "追忆",
             "name": "🚀小米┃1080-3",
             "type": 3,
             "api": "csp_AppNox",
-            "ext": "http://110.42.37.69:8080|7f8617d03203745a|2.0.0|20|com.recall.app|EB:19:FD:A7:8F:67:99:CD:6C:F0:6F:A4:72:3F:7A:C7:E9:2E:95:79:6F:5B:60:EA:CD:D8:05:CF:3E:06:D9:71"
+            "ext": "4ssljNMN/eUwGSlXfYi+I+hprh/hGdq3k62oZkDdfCoPgFL1v7LNnvU48cEXkIdqRp4mMQDilPIUEsDcvCnc0TReA7hxNnYETPTnCLltUB+rg8BO3gy/H3wrRAk119hh9NPI6O1V2zBvY+dKhXlHILtrmcljJZl93in1agPAYJAfD0j8Q+8laJLxT2vncQ0yw+P+bdDehU1gf1KZgPcu4YGbgUyoGusrqxdr3+mFzOM="
         },
         {
             "key": "麻雀",
@@ -206,7 +192,7 @@
             "changeable": "1",
             "quickSearch": 0,
             "filterable": 1,
-            "ext": "pghUv+IPbIqGFEhny2nISuI5KzOEA1E0lc1jMsyog/OYwSADcPIna2eOlbOHVLkxfaciWdUITQtbDmt+qom9ENpFk8PYiGW3Ok/qBCmdLsmWed+ubyWhFhJBO8G5jndGBe/2yWKwSfOfwltStIjfIonlvW29sV3oVB3bvbNqdRPbhqZd6KLYcnjTjAkFS8P+Gj/dwFwnqEsxLbt7tedYkDxXppaf6+OlFSFGjP4N4ap6a4HeFxzEA8gvRjZHjdm4QY7pMPO97onIDURjSzahvUKoWAyUcUl5phoWOQrudz2VcIdF/NHTC7yBAAUIKhhagMgCW9kIXeKXu2xYcEKIPKS1iMuEOmLfrzcG8yk9hz8="
+            "ext": "pghUv+IPbIqGFEhny2nISuI5KzOEA1E0lc1jMsyog/OYwSADcPIna2eOlbOHVLkxfaciWdUITQtbDmt+qom9EDLq0KWEj3SHoDu3fQMMBl1u2lBOF9gzpQ6FBQk/2JG/jDC6/VkvMcjNGodxs3pEU/+wMqkFAAGj4WF8XuTAwoo5JyFxX199zYzXgzxycMnb0i0okine9tS7+HOMNCBm+Eu+ADiWgMNGklY/fqFqBmkoDK3Gv5Uw4/f0TLQGJNOLkzwOtJeniAXX+FA5NI2d7QJN+JB6+ncywM2284y9i/0ghc0ACRL6sLLpn/k0lFIyV4bobtPaDWA4PnHaMTMGpbGHUxzPiebQbNA/J71KT4o="
         },
         {
             "key": "顾我",
@@ -227,16 +213,6 @@
             "quickSearch": 0,
             "filterable": 1,
             "ext": "pghUv+IPbIqGFEhny2nISqwnd+ZrLZS4oOovoDKrPwYhc6bnxBhXj1yUmpQGo2dda4yKJA0rzNerKhlHbvHl2NW8J2/czPb8KoXWysWftEuunGdjctZYVk9kaYo9OOTce8YVqdhI8ypdGZCEcUzz2pWMwXc39sUREXkM2amM4x0Gl/gkP1RjYRQL3DAR1p96sdLh6Es3IRBp6pTNo5dRq8O3FFYM5IsRns9nK3/E1xuw4B7dLtmmtV+DuxfedWwn4SvT2c9mBH5Z+0qwyZtR2C647k60KDtO8wb6sSYYFsjA/CmuM5PTIx03nY2J3EQEuiBIm29b7NB7zZEWmPR34U//7AYgoku20jOO0uigRZf5oPzxxQzu+7pc+aSufNUb"
-        },
-        {
-            "key": "魔方",
-            "name": "🥪魔方┃1080P",
-            "type": 3,
-            "api": "csp_AppGetV2",
-            "changeable": "1",
-            "quickSearch": 0,
-            "filterable": 1,
-            "ext": "N/01JeZBCBEQ0wOXNuAI/kwsk5p8MqEDFtLQfMnVixA9uUmSyf8n3xJtB2ubjJgYAYUygXAOGhaL7asv1H3Uubfja4lvZJq/rcBXRN5hrAtIsq1qmTB3Tjm1Ayc5kmOn3wzvHjz15GB2h0tyL4RbHMNKOEjDzlGEr6PcPEusQmHBDufon/Ko4XiC9qnZefKMpMDW8ME2XYJ6l69e42817aEj+r2rBGbhUypHNlKXEGPnL0lvJTzpmvx22kwxTSBQLmP4ClggEDsYDZBWGdbvTjNjKfdAz1km8e3ATCU3v4SE88E/2vQfWJl2Qf4NeCqVYlIvNLST4j9o2KM/IRXFvRrkyusb3xpe6gXHScNUg+LZjLO4Rwpv1iM43+D/gNeqspu9KQehEx+w3Xn03+NyntyvXZMJlZo93AlSJVUjTYE0B3A8GaIB3GUj6L2PLcy85OaXyZdXJuwKXvbSyS5M1NuQXOZowD7PW7g8Zy3UGwxAoe7fx8s9YLiv2X2E++LI"
         },
         {
             "key": "JINPAI",
