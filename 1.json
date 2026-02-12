@@ -32,7 +32,8 @@
                     "https://www.mihdr.top",
                     "https://www.miqk.cc",
                     "https://xiaomi666.fun",
-                    "https://www.zhizhenpan.fun"
+                    "https://zhizhen8.click",
+                    "https://www.zhizhen8.click"
                 ],
                 "url_key": "Netfixtv",
                 "token": "",
@@ -54,12 +55,12 @@
             "filterable": 1,
             "ext": {
                 "site_urls": [
-                    "https://www.erixaopan.fun/",
+                    "https://www.erixaopan.fun",
                     "https://www.wexwp.cc",
                     "https://wexwp.cc",
                     "https://zhizhen1.top",
-                    "https://www.2xiaopan.fun/",
-                    "https://2xiaopan.fun/"
+                    "https://www.2xiaopan.fun",
+                    "https://2xiaopan.fun"
                 ],
                 "url_key": "UC",
                 "token": "",
@@ -108,34 +109,14 @@
             }
         },
         {
-            "key": "追忆",
-            "name": "🚀小米┃1080-3",
-            "type": 3,
-            "api": "csp_AppNox",
-            "ext": "4ssljNMN/eUwGSlXfYi+I+hprh/hGdq3k62oZkDdfCoPgFL1v7LNnvU48cEXkIdqRp4mMQDilPIUEsDcvCnc0TReA7hxNnYETPTnCLltUB+rg8BO3gy/H3wrRAk119hh9NPI6O1V2zBvY+dKhXlHILtrmcljJZl93in1agPAYJAfD0j8Q+8laJLxT2vncQ0yw+P+bdDehU1gf1KZgPcu4YGbgUyoGusrqxdr3+mFzOM="
-        },
-        {
-            "key": "猫",
-            "name": "🚀猫咪┃1080-6",
-            "type": 3,
-            "api": "csp_AppNox",
-            "ext": "Av4EJKN4tWLBQjkfXQVfVxiGD2zn6VIiC5WHbpG/AOBVNVB3XEbl44UJnhmtFi6Jn3ix5rLRLyN075ypfcuknehZYIuC+j/UmfIlK9oO01wIE9SUrRxshQKb2BMKFE61lF+naemAMpaSvN9HFozbPnSgnb0DNT+jUJTYWZJs9QJFQCc2ILYIiKimLkuUINvqhi0TATgMpr5J1jaiiPjOkg=="
-        },
-        {
-            "key": "mino4k",
-            "name": "🚀小米┃1080-2",
-            "type": 3,
-            "api": "csp_AppNox",
-            "ext": "Rv3aTnWMuFc4gbwuPRc+NioakhCTrys/rCkMmZz5sahBdztVvAbTrY/KG/stljhpyCd2P2egprllTpATK5eqCsUczAl/vbQDbywCzogHgQerfSKx/ir78ilje6Hsfta0Hc5NbhjFyWHYKEcx6pKGJOHPmv/Ub25+kKmPjQr0/Nsh6wgMppvU/1vSYyTvJ5fmkBWiYzgZ7mKYgJ6LpGykyA=="
-        },
-        {
             "key": "麻雀",
             "name": "🐦麻雀┃1080P-5",
-            "type": 3,
-            "quickSearch": 1,
+            "type": 4,
+            "api": "http://115.191.55.109:8080/video/qqqys?token=47f318660fa5ca46",
             "searchable": 1,
-            "api": "https://gitee.com/lzxw66/lzxw9/raw/master/py/Applzxw.py",
-            "ext": "http://118.89.203.120:8365/"
+            "quickSearch": 1,
+            "changeable": 1,
+            "filterable": 1
         },
         {
             "key": "csp_Music",
@@ -216,7 +197,7 @@
             "changeable": "1",
             "quickSearch": 0,
             "filterable": 1,
-            "ext": "N/01JeZBCBEQ0wOXNuAI/kwsk5p8MqEDFtLQfMnVixDNodW6h3yknJ0O47HN+ySzcqHSPQtTeHgAvnMVMolGPqTNRfEJ/8Ig5H0hTsHFjNGXL5OVpWSZap4nLlzZ9pC6ySFwrNbAc+iqlFCc6z5KL6GjhpXci7bkuo8YCmxG8LkVMThjtRobWKZ1e3OUf8iC59/IyFSC+uQsfZ1rrWFNaZQt+eFNaeVHeMjfA7SOcNV+pkm+lX4Gat7MacLYC9LljY+gazPVjkD5hfN4kOg2pDcdLcQRWnylKs4RrxKVvq1qtoJicNIMxej65Xg+Dr1utKuFqyKRxre38NOR3dI+nG+WBoDgBsil76zpdeFboyEih33jRIbJ0QXY11r7XTDsVV2LaQb+dJaJbY1LEl7rEF/BaE+Ynj1X+sVapCX5Bi2IG68t3waAsQz5dq/1NzjTRQTg9OtFW05LL1UeJTmSeoepyNfixFoonivaJleB4G8="
+            "ext": "0YM2rlqPCLd5eMAslwMf/kCE22ncNd3xnmwrQY9SCQH4bzbsInD9sIckq+98B40sapFI39hNz19UJRSOMiO5WF7Ct1G6M0pXHPfBZ3URMQAUGIFaIwQBxfim4IuDd+JtVRuOIXJonLrsDQ6YTPTu/9DzxK2yUhySEsxgZYEjICuH86BscJNcew7X60/NQzx0HNLgfebn40B7XJIXoQDUCL4EVrIxuWAPZhF+/jvhWtPRUzMJUNeNP/xsqNz66JJkK3QKvMj/9Ybkjfe1zka9UOykuKDrZj/wCtUdlP7AcN2RT9NYsg2SafDmJn2iVNRCqG6lUwbT63SjfOlbX5rnqN57KvmUJOHLWW9/fGbqKyqVEVRhPR8X5VOTX7iX69AQa6d3N1DOe74vzHwt8MuvsfzHFPDsJJr+06Mwna4B/aYDbNnK1FYck/9p8vMz7KPnb2sIFDEYpPgcEWk1/rdp5YXEXoRAN3FmvYr3RJgmVwmguO+Zvpqfx5SDVmJxgctZ"
         },
         {
             "key": "云速",
@@ -259,14 +240,6 @@
             "api": "csp_DuanJu"
         },
         {
-            "key": "csp_LiteApple",
-            "name": "🍎苹果┃影视💯",
-            "type": 3,
-            "searchable": 1,
-            "quickSearch": 0,
-            "api": "csp_LiteApple"
-        },
-        {
             "key": "csp_Gz360",
             "name": "🍉瓜子┃影视",
             "type": 3,
@@ -276,7 +249,7 @@
         },
         {
             "key": "csp_Jpys",
-            "name": "🥇金牌┃影视",
+            "name": "🥇金牌┃标清",
             "type": 3,
             "searchable": 1,
             "quickSearch": 0,
