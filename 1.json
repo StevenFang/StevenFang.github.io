@@ -109,6 +109,22 @@
             }
         },
         {
+            "key": "天天",
+            "name": "💯秒播┃影视💯",
+            "type": 3,
+            "quickSearch": 1,
+            "searchable": 1,
+            "api": "csp_AppRJ",
+            "ext": "vxw35/hHSj07Q+maxQzOVMq1rjRCOTXpUCx8iKu5jIg="
+        },
+        {
+            "key": "csp_Wwys",
+            "name": "👨农民┃1080P",
+            "type": 3,
+            "api": "csp_Wwys",
+            "ext": "https://vip.wwgz.cn:5200"
+        },
+        {
             "key": "麻雀",
             "name": "🐦麻雀┃1080P-5",
             "type": 4,
@@ -166,18 +182,11 @@
             "ext": "7lj763gg402i7942412h849jg1558j9jl8g19213il86316k465719lik158491h179312h4934183ig2l05g9"
         },
         {
-            "key": "QD4K",
-            "name": "🐷猪猪┃1080P-7",
+            "key": "聚合",
+            "name": "🚗聚合┃1080P",
             "type": 3,
-            "searchable": 1,
-            "quickSearch": 0,
-            "api": "https://13826.kstore.vip/AppV2.py",
-            "playerType": 2,
-            "ext": {
-                "api": "http://dmmax.kuailezhuiju2.com/icciu_api.php/v1.vod",
-                "datasignkey": "6QQNUsP3PkD2ajJCPCY8",
-                "apisignkey": "lvdoutv-1.0.0"
-            }
+            "api": "https://13826.kstore.vip/AppToV5.py",
+            "ext": "http://118.89.203.120:8365/"
         },
         {
             "key": "爱营",
