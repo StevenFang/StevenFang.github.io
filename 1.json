@@ -189,16 +189,6 @@
             "ext": "http://118.89.203.120:8365/"
         },
         {
-            "key": "爱营",
-            "name": "🎴爱影┃1080P",
-            "type": 3,
-            "api": "csp_AppGetV2",
-            "changeable": "1",
-            "quickSearch": 0,
-            "filterable": 1,
-            "ext": "pghUv+IPbIqGFEhny2nISuI5KzOEA1E0lc1jMsyog/OYwSADcPIna2eOlbOHVLkxfaciWdUITQtbDmt+qom9EDLq0KWEj3SHoDu3fQMMBl1u2lBOF9gzpQ6FBQk/2JG/jDC6/VkvMcjNGodxs3pEU/+wMqkFAAGj4WF8XuTAwoo5JyFxX199zYzXgzxycMnb0i0okine9tS7+HOMNCBm+Eu+ADiWgMNGklY/fqFqBmkoDK3Gv5Uw4/f0TLQGJNOLkzwOtJeniAXX+FA5NI2d7QJN+JB6+ncywM2284y9i/0ghc0ACRL6sLLpn/k0lFIyV4bobtPaDWA4PnHaMTMGpbGHUxzPiebQbNA/J71KT4o="
-        },
-        {
             "key": "顾我",
             "name": "🎴顾我┃1080P",
             "type": 3,
