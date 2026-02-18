@@ -2,9 +2,9 @@ name: Update 1.json from URL
 
 on:
   schedule:
-    # 每天运行一次（可自行调整）
+    # 每 12 小时自动运行一次
     - cron: "0 */12 * * *"
-  workflow_dispatch:
+  workflow_dispatch: # 支持手动点击运行
 
 jobs:
   update:
@@ -14,53 +14,60 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v4
 
-      - name: Fetch URL and generate 1.json
+      - name: Fetch, Clean and Inject JSON
         run: |
           set -e
-
           URL="https://www.xn--sss604efuw.com/jm/jiemi.php?url=https://cnb.cool/xiaomideyun/xiaomideyun/-/git/raw/main/mi.json"
 
-          # 将原始响应保存到临时文件，便于检查
+          # 1. 下载原始响应到临时文件
           curl -fsSL "$URL" -o response.tmp
 
-          # 如果响应中包含 "解密失败"，则输出响应内容并放弃更新
+          # 2. 预检查：如果包含“解密失败”，直接退出
           if grep -q "解密失败" response.tmp; then
-            echo "Remote response contains 解密失败. Aborting update. Response content:"
-            cat response.tmp
-            # 标记为未更新，避免后续 commit 步骤
+            echo "Remote response contains 解密失败. Aborting update."
             echo "UPDATED=false" >> $GITHUB_ENV
             rm -f response.tmp
             exit 0
           fi
 
-          # 删除前五行并生成新的 1.json 文件
-          tail -n +5 response.tmp > 1.json.new
-          rm -f response.tmp
+          # 3. 智能提取：定位第一个 { 出现的位置，并截取到文件末尾（过滤掉上方的公告/空行）
+          sed -n '/{/,$p' response.tmp > extracted.json
 
-          # 如果原文件不存在，直接认为有更新
-          if [ ! -f 1.json ]; then
+          # 4. 定义要插入的 JSON 对象内容
+          NEW_ITEM='{
+            "key": "更新应用",
+            "name": "更新应用",
+            "type": 3,
+            "api": "csp_Market",
+            "searchable": 0,
+            "changeable": 0,
+            "ext": "https://xinxinbaobao.tk/fmys.json"
+          }'
+
+          # 5. 使用 jq 在 sites 数组的第一项之后插入该对象
+          # 逻辑：取原数组第0项 + [新项] + 原数组第1项及之后
+          jq --argjson item "$NEW_ITEM" '.sites |= (.[0:1] + [$item] + .[1:])' extracted.json > 1.json.new
+
+          # 6. 比较新旧文件，决定是否提交更新
+          if [ ! -f 1.json ] || ! diff -q 1.json 1.json.new >/dev/null; then
             mv 1.json.new 1.json
+            echo "Changes detected and JSON updated."
             echo "UPDATED=true" >> $GITHUB_ENV
-            exit 0
-          fi
-
-          # 对比新旧文件
-          if diff -q 1.json 1.json.new >/dev/null; then
+          else
             echo "No changes detected."
             echo "UPDATED=false" >> $GITHUB_ENV
             rm 1.json.new
-          else
-            mv 1.json.new 1.json
-            echo "Changes detected."
-            echo "UPDATED=true" >> $GITHUB_ENV
           fi
+          
+          # 清理产生的临时文件
+          rm -f response.tmp extracted.json
 
       - name: Commit and push changes
         if: env.UPDATED == 'true'
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-
+          
           git add 1.json
-          git commit -m "chore: update 1.json"
+          git commit -m "chore: update 1.json with injected site"
           git push
