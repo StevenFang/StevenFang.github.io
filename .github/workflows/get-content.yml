@@ -34,7 +34,7 @@ jobs:
           fi
 
           # 删除前五行并生成新的 1.json 文件
-          tail -n +6 response.tmp > 1.json.new
+          tail -n +5 response.tmp > 1.json.new
           rm -f response.tmp
 
           # 如果原文件不存在，直接认为有更新
