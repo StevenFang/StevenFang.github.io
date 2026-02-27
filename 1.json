@@ -1,5 +1,5 @@
 {
-  "spider": "https://img2.gelonghui.com/library/54ed8-a067eb26-42b0-4118-a751-9fb755afea0b.png;md5;54ed86e02514b68dd8bcd53b3b6fb773",
+  "spider": "https://cik07-cos.7moor-fs2.com/im/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/e485c3a0693e6003/0227.jpg;md5;aaa9b40512e3477914a8c27430b05b2b",
   "wallpaper": "https://www.wexwp.cc/bizhi.php",
   "sites": [
     {
@@ -230,15 +230,26 @@
       "ext": "4ssljNMN/eUwGSlXfYi+I/0aH7+7tGMJdPyvcC/ONkDcrPnzuXgPr7VzKMQ+0RdRGNnJUWhFAkXSfkrYxcD9OehUyKHXNLtGz7OFaGJO+DwPs5ipGzItuJVXfrSlLNBzu9VJFl7E7Yb6UQ1tG0WTwHfzYK8CLALWrnqZHukqBcDD6X7xQQcBHYk4H2pC0w50rekALVyyh+FiNYF4h3i41jTCIJT8NeQeS/yFspZpAW8="
     },
     {
-      "key": "爱婴",
-      "name": "💨爱影┃1080P",
+      "key": "大猫",
+      "name": "💨大猫┃1080P",
       "type": 3,
       "timeout": 15,
       "api": "csp_AppNox",
       "changeable": "1",
       "quickSearch": 0,
       "filterable": 1,
-      "ext": "mOSIdLC2tthoJSjZpTekEaIwDaRshBrqWi7P32oLbp1s7NGWMXRizHlp68QMoyWr+LwvogjaOvSo8mKlY3ocSJo/wyGWivT8BAbISZL+5AJ8TswhGy8oP1QT5uMK7GoZgBgJP0hZAB4pcA25XVFupwJxZq71I1YpehNeBYQwkgIlBobHHvTAtW/Ui9m6ftBS96BTh6ri0HX/0tkKtW63glxEgqpOBD3N9eWINV3tR9A="
+      "ext": "Av4EJKN4tWLBQjkfXQVfV92JMIZbP9mMRmnBo/H/JTQADZjjq//PaTGDxeYbNZZlei6V+w/z4kuiOAsuwX4pDhoRAB8QLIBG3bUN+sbZbUlRMIxxRVRlFKY5LCeOPDOmukMD/jR/R8dFycBoQ/AE3rTNQA+dPbHjnzeuK5P1okKhNg3WIUv0ZHCy2//aB6qbkSVGrOpYYPS/Y1mDvgEn/A=="
+    },
+    {
+      "key": "爱营",
+      "name": "🍊爱影┃1080P",
+      "type": 3,
+      "api": "csp_AppNox",
+      "changeable": "1",
+      "timeout": 15,
+      "quickSearch": 0,
+      "filterable": 1,
+      "ext": "OQwT73dg2rQTXxIB+qpAO0mADHd9JbcW/EWpZ4WGsy612qQSGFrq5JQuf+xnMClnA2dfb0VFoSuZdVyoRMVmRA8USlEgmK1IBuC1kMWTC4ujhb1IBfQ/CGPZYLIRF9d8H8wzWiHFYs7TQs/SYOWRKKcLlF56BY3EJdJdMDIQBhw1NGLI9TnXkrDjhgp5xz2s0wLL8NVIYyzQSeNuUuXT9Kg4l9Js3XTY2PVcQyhe8oY="
     },
     {
       "key": "橘子",
@@ -311,6 +322,38 @@
       "searchable": 1,
       "quickSearch": 0,
       "api": "csp_MiSou"
+    },
+    {
+      "key": "Huya",
+      "name": "🎮游戏┃直播",
+      "type": 3,
+      "jar": "https://cik07-cos.7moor-fs2.com/im/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/332fab6178c38179/dongli-spider(1).jar;md5;08f02ac5d01d94c0e361bb7346626100",
+      "api": "csp_Huya",
+      "searchable": 0,
+      "quickSearch": 0,
+      "changeable": 0,
+      "filterable": 1,
+      "timeout": 10,
+      "style": {
+        "type": "rect",
+        "ratio": 1.433
+      }
+    },
+    {
+      "key": "Douyu",
+      "name": "🎮手游┃直播",
+      "type": 3,
+      "api": "csp_Douyu",
+      "jar": "https://cik07-cos.7moor-fs2.com/im/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/332fab6178c38179/dongli-spider(1).jar;md5;08f02ac5d01d94c0e361bb7346626100",
+      "searchable": 0,
+      "quickSearch": 0,
+      "changeable": 0,
+      "filterable": 1,
+      "timeout": 10,
+      "style": {
+        "type": "rect",
+        "ratio": 1.433
+      }
     },
     {
       "key": "csp_TingBook",
