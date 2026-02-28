@@ -200,15 +200,6 @@
       "ext": "0YM2rlqPCLd5eMAslwMf/kCE22ncNd3xnmwrQY9SCQH4bzbsInD9sIckq+98B40sapFI39hNz19UJRSOMiO5WF7Ct1G6M0pXHPfBZ3URMQAUGIFaIwQBxfim4IuDd+JtVRuOIXJonLrsDQ6YTPTu/9DzxK2yUhySEsxgZYEjICuH86BscJNcew7X60/NQzx0HNLgfebn40B7XJIXoQDUCL4EVrIxuWAPZhF+/jvhWtPRUzMJUNeNP/xsqNz66JJkK3QKvMj/9Ybkjfe1zka9UOykuKDrZj/wCtUdlP7AcN2RT9NYsg2SafDmJn2iVNRCqG6lUwbT63SjfOlbX5rnqN57KvmUJOHLWW9/fGbqKyqVEVRhPR8X5VOTX7iX69AQa6d3N1DOe74vzHwt8MuvsfzHFPDsJJr+06Mwna4B/aYDbNnK1FYck/9p8vMz7KPnb2sIFDEYpPgcEWk1/rdp5YXEXoRAN3FmvYr3RJgmVwmguO+Zvpqfx5SDVmJxgctZ"
     },
     {
-      "key": "橘子",
-      "name": "🥭小米┃橘子",
-      "type": 3,
-      "api": "csp_AppNox",
-      "timeout": 15,
-      "playerType": "1",
-      "ext": "YLWJkztQiwSjuZDrZ91gip8ZpX/jAcq+e6JYZJ1zu9qVBMl4/yJwa3gHDaHenBMoRodJbXRStSjAY3TvKzVibVjhM6gyO3D23RaVDa99kFD1571FT72h+Hdqw0lZTejHxIduMZbuO6vur2CS41T4TxM0v1hrNszRCSd6B72KQh8ED57otSzRgAisD6RBFvP/8MCWgGzLS6jzlnrStAaE9AHBEzv7RJNLuPpy10eBo2c="
-    },
-    {
       "key": "3QQQ",
       "name": "🍅小米┃大鹅",
       "type": 3,
@@ -230,26 +221,15 @@
       "ext": "4ssljNMN/eUwGSlXfYi+I/0aH7+7tGMJdPyvcC/ONkDcrPnzuXgPr7VzKMQ+0RdRGNnJUWhFAkXSfkrYxcD9OehUyKHXNLtGz7OFaGJO+DwPs5ipGzItuJVXfrSlLNBzu9VJFl7E7Yb6UQ1tG0WTwHfzYK8CLALWrnqZHukqBcDD6X7xQQcBHYk4H2pC0w50rekALVyyh+FiNYF4h3i41jTCIJT8NeQeS/yFspZpAW8="
     },
     {
-      "key": "大猫",
-      "name": "💨大猫┃1080P",
-      "type": 3,
-      "timeout": 15,
-      "api": "csp_AppNox",
-      "changeable": "1",
-      "quickSearch": 0,
-      "filterable": 1,
-      "ext": "Av4EJKN4tWLBQjkfXQVfV92JMIZbP9mMRmnBo/H/JTQADZjjq//PaTGDxeYbNZZlei6V+w/z4kuiOAsuwX4pDhoRAB8QLIBG3bUN+sbZbUlRMIxxRVRlFKY5LCeOPDOmukMD/jR/R8dFycBoQ/AE3rTNQA+dPbHjnzeuK5P1okKhNg3WIUv0ZHCy2//aB6qbkSVGrOpYYPS/Y1mDvgEn/A=="
-    },
-    {
       "key": "爱营",
       "name": "🍊爱影┃1080P",
       "type": 3,
-      "api": "csp_AppNox",
+      "api": "csp_AppGetV2",
       "changeable": "1",
       "timeout": 15,
       "quickSearch": 0,
       "filterable": 1,
-      "ext": "OQwT73dg2rQTXxIB+qpAO0mADHd9JbcW/EWpZ4WGsy612qQSGFrq5JQuf+xnMClnA2dfb0VFoSuZdVyoRMVmRA8USlEgmK1IBuC1kMWTC4ujhb1IBfQ/CGPZYLIRF9d8H8wzWiHFYs7TQs/SYOWRKKcLlF56BY3EJdJdMDIQBhw1NGLI9TnXkrDjhgp5xz2s0wLL8NVIYyzQSeNuUuXT9Kg4l9Js3XTY2PVcQyhe8oY="
+      "ext": "JyrToknN5uLOlsitzBJ39qJnMEaMwQSAZR9uzkp9v3yJBtK2PrAcXhJnNjiixwS6vrWirQq42oP1txl1xVAoYP49Qgrx/rSRifuVbQBUp1DvxJesyvbDHvbKT8ppv0MAilXO8AkJlUgmjy6AqHJO73w3Up22TCgIHEbLqDf2aKJYMdJSpprdIvkp9sNcDsyD92j1DwuSQtYH6DmSxBtoUkMicrkmW4b7Lb9YKoQnk1hxL5N1O0EOuKkeOxldYKOyIc49RB9tgtHbpcEOrKtpsAfn15/fuAoxrlCWhXu1D7gZeBEgOxpevXYjcaF8VxWA0mDVphQfqxDlek5hRNTy08hRWfN19oZaiLeyh3ifWEfcMjp00PjNvwTkJSOsxBhnMSPLp87yZ+cqf230cVXoZzQm+kkuzSPFeuQGdn+sRWeElOSKwY/voalPkuQgpf3VTIM8AAQpuYIisxOyoLFHGTTe7aVTYu3gAHKjnoPxX4P1zNW23JAxxEpfcK/lk4D9VFnOVTfVMSP/2GA/y79C4g=="
     },
     {
       "key": "橘子",
