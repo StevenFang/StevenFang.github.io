@@ -1,5 +1,5 @@
 {
-  "spider": "https://img2.gelonghui.com/library/d2f54-55bcb2eb-e015-4e0f-84a4-bae8abfc2090.png;md5;d2f54313ccb8c1b16b25581836ddba22",
+  "spider": "https://img2.gelonghui.com/library/28e33-d7f6e0ad-8de5-4829-b42c-bcdeaae1ed42.png;md5;28e33eb59669c994ca140064ad4a1eef",
   "wallpaper": "https://www.wexwp.cc/bizhi.php",
   "sites": [
     {
@@ -39,6 +39,7 @@
       "filterable": 1,
       "ext": {
         "site_urls": [
+          "https://zhizhen1.top/",
           "https://mihdr.top",
           "https://www.mihdr.top",
           "https://www.miqk.cc",
@@ -51,7 +52,7 @@
         "ucCookie": "",
         "quarkCookie": "",
         "threadinfo": {
-          "chunksize": 256,
+          "chunksize": 350,
           "threads": 16
         }
       }
@@ -108,15 +109,13 @@
         "site_urls": [
           "http://xiaocge.fun",
           "http://feimo.fun",
-          "https://feimao666.fun",
-          "http://feimao888.fun",
           "http://www.labi88.sbs",
           "http://fmao.site",
           "http://fmao.shop",
           "http://xiaocgege.shop"
         ],
         "threadinfo": {
-          "chunksize": 256,
+          "chunksize": 350,
           "threads": 16
         },
         "url_key": "Duopan4"
@@ -189,15 +188,58 @@
       "ext": "7lj763gg402i7942412h849jg1558j9jl8g19213il86316k465719lik158491h179312h4934183ig2l05g9"
     },
     {
+      "key": "爱影视",
+      "name": "🏔爱影┃1080P",
+      "type": 3,
+      "timeout": 15,
+      "api": "csp_AppGet",
+      "ext": "https://aysappto.oss-cn-chengdu.aliyuncs.com/q19.txt|fff32466kkfff616|122"
+    },
+    {
+      "key": "金牌影院GET",
+      "name": "🥇金牌┃1080P",
+      "type": 3,
+      "timeout": 15,
+      "api": "csp_AppGet",
+      "ext": "https://qj3.ggtvb.cc|eecbio48dsq13kkk|122"
+    },
+    {
+      "key": "橘子Get",
+      "name": "🍊橘子┃1080P",
+      "type": 3,
+      "timeout": 15,
+      "api": "csp_AppGet",
+      "ext": "https://juziapp-1319209748.cos.ap-chengdu.myqcloud.com/juzi.txt|jasaFBcdV3zrUDf2|122"
+    },
+    {
       "key": "顾我",
       "name": "🎴顾我┃1080P",
       "type": 3,
       "timeout": 15,
-      "api": "csp_AppGetV2",
+      "api": "csp_AppGet",
       "changeable": "1",
       "quickSearch": 0,
       "filterable": 1,
-      "ext": "0YM2rlqPCLd5eMAslwMf/kCE22ncNd3xnmwrQY9SCQH4bzbsInD9sIckq+98B40sapFI39hNz19UJRSOMiO5WF7Ct1G6M0pXHPfBZ3URMQAUGIFaIwQBxfim4IuDd+JtVRuOIXJonLrsDQ6YTPTu/9DzxK2yUhySEsxgZYEjICuH86BscJNcew7X60/NQzx0HNLgfebn40B7XJIXoQDUCL4EVrIxuWAPZhF+/jvhWtPRUzMJUNeNP/xsqNz66JJkK3QKvMj/9Ybkjfe1zka9UOykuKDrZj/wCtUdlP7AcN2RT9NYsg2SafDmJn2iVNRCqG6lUwbT63SjfOlbX5rnqN57KvmUJOHLWW9/fGbqKyqVEVRhPR8X5VOTX7iX69AQa6d3N1DOe74vzHwt8MuvsfzHFPDsJJr+06Mwna4B/aYDbNnK1FYck/9p8vMz7KPnb2sIFDEYpPgcEWk1/rdp5YXEXoRAN3FmvYr3RJgmVwmguO+Zvpqfx5SDVmJxgctZ"
+      "ext": "http://117.50.204.35:520|ca94b06ca3c7d80e|122"
+    },
+    {
+      "key": "秒看",
+      "name": "🌄秒看┃1080P",
+      "type": 3,
+      "timeout": 15,
+      "api": "https://13826.kstore.vip/getapp.py",
+      "changeable": "1",
+      "quickSearch": 0,
+      "filterable": 1,
+      "ext": {
+        "host": "https://mk1080.top/get.txt",
+        "指定域名": "1",
+        "数据密钥": "c60d88b2eep53za8",
+        "数据向量": "c60d88b2eep53za8",
+        "接口版本": "/api.php/getappapi",
+        "登录类型": "token",
+        "认证令牌": "4181e508e7a17657d6a6246e70b1b13553e5ae9d8d287dc47000fb2df638dffa"
+      }
     },
     {
       "key": "3QQQ",
@@ -207,73 +249,28 @@
       "api": "csp_App3Q"
     },
     {
+      "key": "freeok",
+      "name": "🎡小米┃FREE",
+      "type": 3,
+      "timeout": 15,
+      "api": "csp_FreeOk",
+      "ext": "https://www.jqqzx.top/"
+    },
+    {
       "key": "MINO",
       "name": "🫑小米┃米诺",
       "type": 3,
-      "api": "csp_AppGetV2",
-      "ext": "bRtykTI0E/bflZnq1JM3e08RuRCBH84G7OpoWQIgGOV+FFHUNVByXZ0PFvPhpPxRBzNuTy7q7aY9yW4R5EfO5khk4s55/MhnaGXG98lcl2M7gYEonc1PXB8ZTpZPaqzEYApqpaUgi4X9Fs1KuHe741V1gyL2fgkKVEG9OwrVfh3a16ZU2kntzJJ5YADoDK+6BOmUHYp9HFK8RaREcKVxq3riMmx723Loo1oVLapeum9+QsIU+EFOB2KTxCVaX6Cd/rafn8eTFlzZ3GxAjXOKedg7aRTl18/fV1MMc1tbUuDcPgfBiWQnyMMXKRKlDbND4PTl4QxsXmo5YVA7etr+lfcI6piqxdVOj2PZlUuyGl1caM7R+B5U/3df9qzlVJy2hClniTE148oQIEJUiQitA56KLbvVex4RRxuHwP0cRv7VzZTuXA5d1G1Pculo6vxZR6uEFlYYlVFpRiUHiqk+uoUULtqQzFTb/LrtDhraaUQ8h9KcKOLbY2Jsjszoufow"
+      "timeout": 15,
+      "api": "csp_AppGet",
+      "ext": "https://shangjihuoke.com|8E2DC386FD452D05|119"
     },
     {
       "key": "追忆",
       "name": "🫛小米┃追忆",
       "type": 3,
+      "timeout": 15,
       "api": "csp_AppNox",
-      "ext": "4ssljNMN/eUwGSlXfYi+I/0aH7+7tGMJdPyvcC/ONkDcrPnzuXgPr7VzKMQ+0RdRGNnJUWhFAkXSfkrYxcD9OehUyKHXNLtGz7OFaGJO+DwPs5ipGzItuJVXfrSlLNBzu9VJFl7E7Yb6UQ1tG0WTwHfzYK8CLALWrnqZHukqBcDD6X7xQQcBHYk4H2pC0w50rekALVyyh+FiNYF4h3i41jTCIJT8NeQeS/yFspZpAW8="
-    },
-    {
-      "key": "爱营",
-      "name": "🍊爱影┃1080P",
-      "type": 3,
-      "api": "csp_AppGetV2",
-      "changeable": "1",
-      "timeout": 15,
-      "quickSearch": 0,
-      "filterable": 1,
-      "ext": "JyrToknN5uLOlsitzBJ39qJnMEaMwQSAZR9uzkp9v3yJBtK2PrAcXhJnNjiixwS6vrWirQq42oP1txl1xVAoYP49Qgrx/rSRifuVbQBUp1DvxJesyvbDHvbKT8ppv0MAilXO8AkJlUgmjy6AqHJO73w3Up22TCgIHEbLqDf2aKJYMdJSpprdIvkp9sNcDsyD92j1DwuSQtYH6DmSxBtoUkMicrkmW4b7Lb9YKoQnk1hxL5N1O0EOuKkeOxldYKOyIc49RB9tgtHbpcEOrKtpsAfn15/fuAoxrlCWhXu1D7gZeBEgOxpevXYjcaF8VxWA0mDVphQfqxDlek5hRNTy08hRWfN19oZaiLeyh3ifWEfcMjp00PjNvwTkJSOsxBhnMSPLp87yZ+cqf230cVXoZzQm+kkuzSPFeuQGdn+sRWeElOSKwY/voalPkuQgpf3VTIM8AAQpuYIisxOyoLFHGTTe7aVTYu3gAHKjnoPxX4P1zNW23JAxxEpfcK/lk4D9VFnOVTfVMSP/2GA/y79C4g=="
-    },
-    {
-      "key": "橘子",
-      "name": "🍊橘子┃1080P",
-      "type": 3,
-      "api": "csp_AppGetV2",
-      "changeable": "1",
-      "timeout": 15,
-      "quickSearch": 0,
-      "filterable": 1,
-      "ext": "7DgWlrk+zTw/OTxcOCwV3r7Lpk/K0TtaGVKJShO/E6LIk4jSxJZnpCtrE9eNmer0S76opF1k6B6YKqAJwj212o2hU9wsE9ttuYen2FA/GlkbRWsyH2zXHWs/KKOWHww2ZMBmduYPZRzKfLb8D3GMzxY6euqlI9dTjBCfeEkzDTQEykUO8SIPD9n6WPRbNIc0ef8Hr/WFZfBJEMNyzJ9ti0v9vbE2TuSODTTXU0K2wDEsAcVAjgmCEbmfGvoLy8ylr1OHFkjB4sfzjD9Wl+qHUANcPjPeJNjEhGsD3Dt30iTF7uL5Cwqd/2715JydiRfzdxgSK6HcO7F/VaXESPD9VkPeSWfbcRlPp9Nb2i54cFLXT9J0NcSz5e8RrhZQWOGfa3TkenTw6uIEu8Bj81kNYJeUionweCQ0q351zhprbR/hxY+14YcWyTzE76gFrhXUgCYbvO2JFckkjlq85jXByx+L7Srinf+k6vm3fMQ5Dk2I9ieK73ai8rp0fn9cGozcKZsB0JsdJdjdsMCA8VrxSbYFwBlQimwIHaavT2Fhpoc="
-    },
-    {
-      "key": "柚子",
-      "name": "🍊柚子┃1080P",
-      "type": 3,
-      "api": "csp_AppGetV2",
-      "changeable": "1",
-      "timeout": 15,
-      "quickSearch": 0,
-      "filterable": 1,
-      "ext": "bRtykTI0E/bflZnq1JM3e08RuRCBH84G7OpoWQIgGOVzL+f2PT/MUwtXKmQJNtHSG+AtsUghAdOl1KNzlknY4fZ674zNHl8MI1g1mp6itXiw1oHZuMgY4GfZjvoN0Jh9+rzqR00E9CWMcgheD4OAb2cgjwNPZ9nOdkqCTjdimiQFTXmTJnwJ7fzAJqaCSCs7bL1gfkFjOuMCixjTugMb0C3DMz41+9tF/cIKGdLgsaqmxk0e9mcnjFQ+zg0UmRTPzsHlYMUxruFHv+Gxhc+VfhZkOkT/lvkZ3KcA596IrPIp21/QZG0cFMl19NnbnDBj3wvMA/WB7WegNeg6bhAI7FHNfyb8kOfgB5tiwDqwP9JbLSfY359Fi66PR+Z4Ecev3Fj4FIIL4clUeUYKnMXPbhyO7aWca6MbrcFrCHqhvXbu2sVrn8x3/ht5awmURmssuQLUsbe8iDYhiLfXP+Z6UQYYvUw1VU3EMhbs0ZpMK+jGHnuwzaoeIA7UjIpyWljEexx843QVwu9UjCAUEudFcvHq02TbcO8R+nou7QV8W5s="
-    },
-    {
-      "key": "甘蔗",
-      "name": "🍊甘蔗┃1080P",
-      "type": 3,
-      "api": "csp_AppGetV2",
-      "changeable": "1",
-      "timeout": 15,
-      "quickSearch": 0,
-      "filterable": 1,
-      "ext": "bRtykTI0E/bflZnq1JM3e08RuRCBH84G7OpoWQIgGOV1M1957Kaz3+Dbu5/oA+jT1CsFqNgigddl6Q0CumLNO0UFdbHKdvZ0EX04VfeRMAAoKu4gXcVWoubdDYT6vY2D4omFwpF9sn+Q5DhqFQTM7FdyUrkyLQE9a2ZuYgQYeJXPPe6/1nyN6hHykV+O0+R+KdLK/ictgg+R9GJknnDTF60655TWCvas827cXk+EXoUWF4hmpOER9FhaMnG14yECU3kaooEaPCet+hMl7NIIpyM+gdf1PPFSPjk4j37PhJ2MbJC3veZObRUsh6LBy13l1MkM5T0eSS9DZEyvoHBTF094Ce6Wr1oELFs3n416FqbjoA9cqLAbrKDGfsmOrdgjlKNcU/2HY+V9ndjdgm2gepBo9tRbiUZ6bj/1A16RF1vxafv/iEex1UqN5OPToAdt1eyj/UtO3uUnZdI/x0jMKX9tbQVWSMAJs8V69u4+ivQYFVCtlbw5ytaqlYKpSQUN"
-    },
-    {
-      "key": "JINPAI",
-      "name": "🍥金牌┃1080P",
-      "type": 3,
-      "api": "csp_AppGetV2",
-      "changeable": "1",
-      "timeout": 15,
-      "quickSearch": 0,
-      "filterable": 1,
-      "ext": "N/01JeZBCBEQ0wOXNuAI/kwsk5p8MqEDFtLQfMnVixCuX5/0Mp2gF+GTJvSdMTJO4266ip1AD0eXvwnEHqGEzVGiBZTpoIFlMDVfj2fFMpAmoNbeyAoWe08xR7uumRdghbftYdCX8h2AsbDjnTqpNdSXN735vPYm7ZbtrXT1H6lUUIWjP2LEzU9mhRxGO5UvqxSWuErkHE8synM45vWWFlX/QsjSDq4vFKDafRAGQd5P+lmsj9cLnebY0udLHycf0mzL420O+pTkCOv/yPteMHhEQQcWGSPBrVGnSdq4zWwL03eDX6rA8W4Bsq0+4DIJ0pB2VkZv7DH9Cbeobx17NjiqFegwEoLLX/DKVlyLbD04COtcyReQW84L+ECYdtpVjR9c1T3UMLE7uVvHZq9yhvf/E2xlncht//6Wy9elXWI="
+      "ext": "WQvB2Qw4Lp6LvWZcoDzAgWcdOv1mVLeY0zsSUm7bMIsicAsgOHNIjC8Yu9jjcHqnMDGY+94VxdIFzQm2fN7mCdhyQreUnNyGkNwiluieESzk83LDnj0Nwx0dwt1VZDTzYrWoXL55vf7YY1yjMID/C5SZN8uNA08bwHQzDwY8xEtGACOAb6Z/0z9n1NN1qApbyxoouOKKEsekOhSlAhE+czjC+tU+78MSRpA3l+n2+gA="
     },
     {
       "key": "荐片",
