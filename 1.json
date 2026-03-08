@@ -39,11 +39,11 @@
       "filterable": 1,
       "ext": {
         "site_urls": [
-          "https://zhizhen1.top/",
+          "https://zhizhen1.top",
           "https://mihdr.top",
           "https://www.mihdr.top",
           "https://www.miqk.cc",
-          "https://zhizhenpan.com/",
+          "https://zhizhenpan.com",
           "https://zhizhen8.click",
           "https://www.zhizhen8.click"
         ],
@@ -68,12 +68,10 @@
       "filterable": 1,
       "ext": {
         "site_urls": [
-          "https://www.erixaopan.fun",
-          "https://www.wexwp.cc",
-          "https://wexwp.cc",
-          "https://zhizhen1.top",
           "https://2xiaopan.top",
-          "https://www.2xiaopan.top"
+          "https://www.2xiaopan.top",
+          "https://www.wexwp.cc",
+          "https://wexwp.cc"
         ],
         "url_key": "UC",
         "token": "",
