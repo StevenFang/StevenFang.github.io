@@ -30,7 +30,7 @@
     },
     {
       "key": "csp_Netfixtv",
-      "name": "☁️至臻4K｜网盘",
+      "name": "✨☁️至臻4K｜网盘",
       "type": 3,
       "changeable": "0",
       "quickSearch": 1,
@@ -50,16 +50,12 @@
         "url_key": "Netfixtv",
         "token": "",
         "ucCookie": "",
-        "quarkCookie": "",
-        "threadinfo": {
-          "chunksize": 350,
-          "threads": 16
-        }
+        "quarkCookie": ""
       }
     },
     {
       "key": "csp_Netfixtv2",
-      "name": "☁️二小4K｜网盘",
+      "name": "✨☁️二小4K｜网盘",
       "type": 3,
       "changeable": "0",
       "quickSearch": 1,
@@ -76,16 +72,12 @@
         "url_key": "UC",
         "token": "",
         "ucCookie": "",
-        "quarkCookie": "",
-        "threadinfo": {
-          "chunksize": 256,
-          "threads": 16
-        }
+        "quarkCookie": ""
       }
     },
     {
       "key": "csp_Wogg",
-      "name": "☁️玩偶4K｜网盘",
+      "name": "✨☁️玩偶4K｜网盘",
       "type": 3,
       "api": "csp_Wogg",
       "timeout": 15,
@@ -96,7 +88,7 @@
     },
     {
       "key": "csp_Duopan",
-      "name": "☁️蜡笔4K｜网盘",
+      "name": "☁✨️蜡笔4K｜网盘",
       "type": 3,
       "quickSearch": 1,
       "changeable": "0",
@@ -112,10 +104,6 @@
           "http://fmao.shop",
           "http://xiaocgege.shop"
         ],
-        "threadinfo": {
-          "chunksize": 350,
-          "threads": 16
-        },
         "url_key": "Duopan4"
       }
     },
@@ -264,14 +252,6 @@
       "ext": "https://www.jqqzx.top/"
     },
     {
-      "key": "MINO",
-      "name": "🫑小米｜米诺",
-      "type": 3,
-      "timeout": 15,
-      "api": "csp_AppGet",
-      "ext": "https://shangjihuoke.com|8E2DC386FD452D05"
-    },
-    {
       "key": "追忆",
       "name": "📜小米｜追忆",
       "type": 3,
@@ -293,6 +273,38 @@
         "ratio": 1.333
       },
       "ext": "https://ev2089.zxbwv.com"
+    },
+    {
+      "key": "Huya",
+      "name": "🎮游戏┃直播",
+      "type": 3,
+      "jar": "https://cik07-cos.7moor-fs2.com/im/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/332fab6178c38179/dongli-spider(1).jar;md5;08f02ac5d01d94c0e361bb7346626100",
+      "api": "csp_Huya",
+      "searchable": 0,
+      "quickSearch": 0,
+      "changeable": 0,
+      "filterable": 1,
+      "timeout": 10,
+      "style": {
+        "type": "rect",
+        "ratio": 1.433
+      }
+    },
+    {
+      "key": "Douyu",
+      "name": "🎮手游┃直播",
+      "type": 3,
+      "api": "csp_Douyu",
+      "jar": "https://cik07-cos.7moor-fs2.com/im/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/332fab6178c38179/dongli-spider(1).jar;md5;08f02ac5d01d94c0e361bb7346626100",
+      "searchable": 0,
+      "quickSearch": 0,
+      "changeable": 0,
+      "filterable": 1,
+      "timeout": 10,
+      "style": {
+        "type": "rect",
+        "ratio": 1.433
+      }
     },
     {
       "key": "csp_duanju",
