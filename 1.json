@@ -1,10 +1,10 @@
 {
-  "spider": "https://img2.gelonghui.com/library/28e33-d7f6e0ad-8de5-4829-b42c-bcdeaae1ed42.png;md5;28e33eb59669c994ca140064ad4a1eef",
+  "spider": "https://cik07-cos.7moor-fs2.com/im/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/b368be3a81c188ef/0311.png;md5;755ee94255ccac2ea2307fe7f368d4ed",
   "wallpaper": "https://www.wexwp.cc/bizhi.php",
   "sites": [
     {
       "key": "豆豆",
-      "name": "🎬热播｜公众号:搬运分享屋",
+      "name": "🎬热播｜公众号:搬运分享屋 修复影视仓弹幕",
       "type": 3,
       "quickSearch": 0,
       "filterable": 0,
@@ -194,6 +194,15 @@
       "ext": "https://aysappto.oss-cn-chengdu.aliyuncs.com/q19.txt|fff32466kkfff616|122"
     },
     {
+      "key": "段友",
+      "name": "♨️段友｜1080P",
+      "type": 3,
+      "searchable": 1,
+      "changeable": 1,
+      "api": "csp_AppGet",
+      "ext": "https://shangjihuoke.com|8E2DC386FD452D05"
+    },
+    {
       "key": "金牌影院GET",
       "name": "🥇金牌｜1080P",
       "type": 3,
@@ -276,6 +285,24 @@
         "ratio": 1.333
       },
       "ext": "https://ev2089.zxbwv.com"
+    },
+    {
+      "key": "番剧2",
+      "name": "💥米口｜动漫",
+      "type": 3,
+      "searchable": 1,
+      "changeable": 1,
+      "api": "csp_AppGet",
+      "ext": "https://www.gugu3.com|nKfZ8KX6JTNWRzTD"
+    },
+    {
+      "key": "番剧1",
+      "name": "💥米口｜番剧",
+      "type": 3,
+      "searchable": 1,
+      "changeable": 1,
+      "api": "csp_AppGet",
+      "ext": "https://new.app.bytegooty.com|N4yj7l7xKxHF4*gz"
     },
     {
       "key": "Huya",
