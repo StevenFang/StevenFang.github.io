@@ -1,5 +1,5 @@
 {
-  "spider": "https://cik07-cos.7moor-fs2.com/im/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/b368be3a81c188ef/0311.png;md5;755ee94255ccac2ea2307fe7f368d4ed",
+  "spider": "https://img2.gelonghui.com/library/755ee-d3dbe41a-8c4e-46bd-987c-a0d625cac773.png;md5;755ee94255ccac2ea2307fe7f368d4ed",
   "wallpaper": "https://www.wexwp.cc/bizhi.php",
   "sites": [
     {
@@ -183,7 +183,7 @@
       "api": "csp_XBPQ",
       "timeout": 12,
       "jar": "https://img2.gelonghui.com/library/1fdce-37f3cc0f-eca7-4efa-ad79-b86d68bde3b5.jpg;md5;1fdce64a3b67359e8f6f9ea64a3326f5",
-      "ext": "{\"模板\":\"https://gitee.com/smallmi1007/mimi/raw/master/nox.json\",\"域名-c\":\"https://xdsj.xywla.com\",\"xas\":\"7D:69:AF:92:9A:9F:A6:88:65:07:B2:DB:50:FC:CD:DD:2D:C2:9A:E4:01:9C:ED:56:12:2C:50:6D:E3:CD:38:F6\",\"xavn\":\"1.0.5\",\"xap\":\"com.xiaodoshijie.app\",\"xavc\":\"15\"}"
+      "ext": "{\"模板\":\"https://gitee.com/smallmi1007/mimi/raw/master/nox.json\",\"域名-c\":\"https://xdsj.xywla.com\",\"xas\":\"7D:69:AF:92:9A:9F:A6:88:65:07:B2:DB:50:FC:CD:DD:2D:C2:9A:E4:01:9C:ED:56:12:2C:50:6D:E3:CD:38:F6\",\"xavn\":\"1.0.6\",\"xap\":\"com.xiaodoshijie.app\",\"xavc\":\"16\"}"
     },
     {
       "key": "爱影视",
@@ -201,6 +201,23 @@
       "changeable": 1,
       "api": "csp_AppGet",
       "ext": "https://shangjihuoke.com|8E2DC386FD452D05"
+    },
+    {
+      "key": "暮气",
+      "name": "♨️星河｜1080P",
+      "type": 3,
+      "searchable": 1,
+      "changeable": 1,
+      "api": "csp_AppGet",
+      "ext": "https://daen-1256234123.cos.ap-shanghai.myqcloud.com/MuQi/mqxhqj.txt|kj37zs29q22jk96t|122"
+    },
+    {
+      "key": "仓鼠APP",
+      "name": "🐭仓鼠｜1080P",
+      "type": 3,
+      "timeout": 15,
+      "api": "csp_AppGet",
+      "ext": "https://cs450appcms.cs4k.top|cD7wZ7iY6qN3sU1z"
     },
     {
       "key": "金牌影院GET",
