@@ -180,12 +180,31 @@
       }
     },
     {
+      "key": "秒看",
+      "name": "🌅秒看｜1080P",
+      "type": 3,
+      "timeout": 15,
+      "api": "https://13826.kstore.vip/getapp.py",
+      "changeable": "1",
+      "quickSearch": 0,
+      "filterable": 1,
+      "ext": {
+        "host": "https://mk1080.top/get.txt",
+        "指定域名": "1",
+        "数据密钥": "c60d88b2eep53za8",
+        "数据向量": "c60d88b2eep53za8",
+        "接口版本": "/api.php/getappapi",
+        "登录类型": "token",
+        "认证令牌": "4181e508e7a17657d6a6246e70b1b13553e5ae9d8d287dc47000fb2df638dffa"
+      }
+    },
+    {
       "key": "爱影视",
       "name": "🏞️爱影｜1080P",
       "type": 3,
       "timeout": 15,
       "api": "csp_AppGet",
-      "ext": "https://aysappto.oss-cn-chengdu.aliyuncs.com/q19.txt|fff32466kkfff616|122"
+      "ext": "https://aysappto.oss-cn-chengdu.aliyuncs.com/q20.txt|ada211sdfsff3261|122"
     },
     {
       "key": "段友",
