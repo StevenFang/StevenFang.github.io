@@ -1,5 +1,5 @@
 {
-  "spider": "https://nos.netease.com/ysf/1f964b190b2ae9638ad74de5d7eab829.png;md5;dc67f0cd541fd51ee6d165d6815bfeba",
+  "spider": "https://nos.netease.com/ysf/c75c9c33969c2de0ecc2eeff937e85c2.png;md5;be34098bc78d1b0cf269c2617e8df966",
   "wallpaper": "https://www.wexwp.cc/bizhi.php",
   "sites": [
     {
@@ -10,10 +10,6 @@
       "filterable": 0,
       "changeable": 0,
       "api": "csp_Douban",
-      "style": {
-        "type": "rect",
-        "ratio": 1.333
-      },
       "searchable": 0
     },
     {
@@ -199,6 +195,24 @@
       }
     },
     {
+      "key": "花猪",
+      "name": "🐖花猪｜1080P",
+      "type": 3,
+      "timeout": 15,
+      "api": "https://13826.kstore.vip/getapp.py",
+      "changeable": "1",
+      "quickSearch": 0,
+      "filterable": 1,
+      "ext": {
+        "host": "https://tiantangyoulu.oss-cn-beijing.aliyuncs.com/wenxintishi.txt",
+        "指定域名": "1",
+        "数据密钥": "h2t8fjo964j2sl6a",
+        "数据向量": "h2t8fjo964j2sl6a",
+        "接口版本": "/api.php/qijiappapi",
+        "启用搜索签名": "1"
+      }
+    },
+    {
       "key": "爱影视",
       "name": "🏞️爱影｜1080P",
       "type": 3,
@@ -230,7 +244,7 @@
       "type": 3,
       "timeout": 15,
       "api": "csp_AppGet",
-      "ext": "https://cs450appcms.cs4k.top|cD7wZ7iY6qN3sU1z"
+      "ext": "https://qjappcms410.xy4k.com|mC6kG4mI1uM8tS4o|122"
     },
     {
       "key": "金牌影院GET",
