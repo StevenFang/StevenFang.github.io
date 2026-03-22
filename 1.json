@@ -204,10 +204,10 @@
       "quickSearch": 0,
       "filterable": 1,
       "ext": {
-        "host": "https://tiantangyoulu.oss-cn-beijing.aliyuncs.com/wenxintishi.txt",
+        "host": "https://tiantangwulu.oss-cn-shanghai.aliyuncs.com/axiba.txt",
         "指定域名": "1",
-        "数据密钥": "h2t8fjo964j2sl6a",
-        "数据向量": "h2t8fjo964j2sl6a",
+        "数据密钥": "h5w3d6g1j9s2h3f6",
+        "数据向量": "h5w3d6g1j9s2h3f6",
         "接口版本": "/api.php/qijiappapi",
         "启用搜索签名": "1"
       }
@@ -271,7 +271,7 @@
       "changeable": "1",
       "quickSearch": 0,
       "filterable": 1,
-      "ext": "https://guwozj-1319364746.cos.ap-guangzhou.myqcloud.com/gw7.txt|ca94b06ca3c7d80e|122"
+      "ext": "http://xkos1.xkgzs.xyz|77jkcdvdodfcdkjk"
     },
     {
       "key": "3QQQ",
