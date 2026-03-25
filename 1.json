@@ -1,5 +1,5 @@
 {
-  "spider": "https://file.icve.com.cn/file_doc/760/258/BE34098BC78D1B0CF269C2617E8DF966.png;md5;be34098bc78d1b0cf269c2617e8df966",
+  "spider": "https://file.ljcdn.com/psd-sinan-file/prod/appeal_evidence/B453CBB082C94D609B188DE109274179/qdqqd.png;md5;be34098bc78d1b0cf269c2617e8df966",
   "wallpaper": "https://www.wexwp.cc/bizhi.php",
   "sites": [
     {
@@ -176,30 +176,11 @@
       }
     },
     {
-      "key": "秒看",
-      "name": "🌅秒看｜1080P",
-      "type": 3,
-      "timeout": 15,
-      "api": "https://13826.kstore.vip/getapp.py",
-      "changeable": "1",
-      "quickSearch": 0,
-      "filterable": 1,
-      "ext": {
-        "host": "https://mk1080.top/get.txt",
-        "指定域名": "1",
-        "数据密钥": "c60d88b2eep53za8",
-        "数据向量": "c60d88b2eep53za8",
-        "接口版本": "/api.php/getappapi",
-        "登录类型": "token",
-        "认证令牌": "4181e508e7a17657d6a6246e70b1b13553e5ae9d8d287dc47000fb2df638dffa"
-      }
-    },
-    {
       "key": "花猪",
       "name": "🐖花猪｜1080P",
       "type": 3,
       "timeout": 15,
-      "api": "https://13826.kstore.vip/getapp.py",
+      "api": "https://modelscope-resouces.oss-cn-zhangjiakou.aliyuncs.com/avatar%2Fc8b4b784-d720-4c2f-aa09-077c3823482c.py",
       "changeable": "1",
       "quickSearch": 0,
       "filterable": 1,
@@ -236,7 +217,7 @@
       "searchable": 1,
       "changeable": 1,
       "api": "csp_AppGet",
-      "ext": "https://daen-1256234123.cos.ap-shanghai.myqcloud.com/MuQi/mqxhqj.txt|kj37zs29q22jk96t|122"
+      "ext": "https://zbc4kmcs.zbc4k.app|vE4kR7cF6jS6jH7a"
     },
     {
       "key": "仓鼠APP",
@@ -255,25 +236,6 @@
       "ext": "https://qj3.ggtvb.cc|eecbio48dsq13kkk|122"
     },
     {
-      "key": "橘子Get",
-      "name": "🍊橘子｜1080P",
-      "type": 3,
-      "timeout": 15,
-      "api": "csp_AppGet",
-      "ext": "https://juziapp-1319209748.cos.ap-chengdu.myqcloud.com/juzi.txt|jasaFBcdV3zrUDf2|122"
-    },
-    {
-      "key": "顾我",
-      "name": "🖼️顾我｜1080P",
-      "type": 3,
-      "timeout": 15,
-      "api": "csp_AppGet",
-      "changeable": "1",
-      "quickSearch": 0,
-      "filterable": 1,
-      "ext": "http://xkos1.xkgzs.xyz|77jkcdvdodfcdkjk"
-    },
-    {
       "key": "3QQQ",
       "name": "🍅小米｜大鹅",
       "type": 3,
@@ -287,6 +249,12 @@
       "timeout": 15,
       "api": "csp_FreeOk",
       "ext": "https://www.jqqzx.top/"
+    },
+    {
+      "key": "csp_SaoHuo",
+      "name": "🔥火火┃影视",
+      "type": 3,
+      "api": "csp_SaoHuo"
     },
     {
       "key": "csp_XBPQ",
