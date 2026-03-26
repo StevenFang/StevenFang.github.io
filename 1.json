@@ -257,15 +257,6 @@
       "api": "csp_SaoHuo"
     },
     {
-      "key": "csp_XBPQ",
-      "name": "📦米口｜测试",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "timeout": 12,
-      "jar": "https://img2.gelonghui.com/library/1fdce-37f3cc0f-eca7-4efa-ad79-b86d68bde3b5.jpg;md5;1fdce64a3b67359e8f6f9ea64a3326f5",
-      "ext": "{\"模板\":\"https://gitee.com/smallmi1007/mimi/raw/master/nox.json\",\"域名-c\":\"http://111.170.7.114:8081\",\"xas\":\"3D:D7:7B:07:B0:81:49:AF:90:5E:39:2B:B8:59:A9:99:89:EB:D5:35:6E:06:C0:A4:BE:44:B6:16:43:33:C4:C3\",\"xavn\":\"0.1.5\",\"xap\":\"com.muyuesg.app\",\"xavc\":\"15\"}"
-    },
-    {
       "key": "荐片",
       "name": "🧲荐片｜磁力",
       "quickSearch": 0,
