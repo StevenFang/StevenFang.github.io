@@ -1,5 +1,5 @@
 {
-  "spider": "https://help.hemorn.com/static/upload/2026March/17d6d66b22632ef53125ee021409c5c0.jpg;md5;59bcc1aa8c1ecf7d08a282ac63705ab3",
+  "spider": "https://cdn2.wemiaow.com/20260401232042-14-Vwa30U.jpg;md5;59bcc1aa8c1ecf7d08a282ac63705ab3",
   "wallpaper": "https://www.wexwp.cc/bizhi.php",
   "sites": [
     {
@@ -40,7 +40,7 @@
       "ext": {
         "site_urls": [
           "https://pan.mihdr.top",
-          "https://zhizhen1.top",
+          "https://www.zhizhen1.top",
           "https://mihdr.top",
           "https://www.mihdr.top",
           "https://www.miqk.cc",
@@ -67,7 +67,6 @@
         "site_urls": [
           "https://www.erxiaozhan.top",
           "https://www.2xiaozhan.top",
-          "https://2xiaopan.top",
           "https://www.2xiaopan.top",
           "https://www.wexwp.cc",
           "https://wexwp.cc"
@@ -192,14 +191,6 @@
         "接口版本": "/api.php/qijiappapi",
         "启用搜索签名": "1"
       }
-    },
-    {
-      "key": "爱影视",
-      "name": "🏞️爱影｜1080P",
-      "type": 3,
-      "timeout": 15,
-      "api": "csp_AppGet",
-      "ext": "https://aysappto.oss-cn-chengdu.aliyuncs.com/q21.txt|okkfKgnc9JIBISh1|122"
     },
     {
       "key": "段友",
