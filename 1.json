@@ -176,30 +176,10 @@
     },
     {
       "key": "花猪",
-      "name": "🐖花猪｜1080P",
+      "name": "🐷花猪┃1080P",
       "type": 3,
-      "timeout": 15,
-      "api": "https://modelscope-resouces.oss-cn-zhangjiakou.aliyuncs.com/avatar%2Fc8b4b784-d720-4c2f-aa09-077c3823482c.py",
-      "changeable": "1",
-      "quickSearch": 0,
-      "filterable": 1,
-      "ext": {
-        "host": "https://tiantangwulu.oss-cn-shanghai.aliyuncs.com/axiba.txt",
-        "指定域名": "1",
-        "数据密钥": "h5w3d6g1j9s2h3f6",
-        "数据向量": "h5w3d6g1j9s2h3f6",
-        "接口版本": "/api.php/qijiappapi",
-        "启用搜索签名": "1"
-      }
-    },
-    {
-      "key": "段友",
-      "name": "🎪段友｜1080P",
-      "type": 3,
-      "searchable": 1,
-      "changeable": 1,
       "api": "csp_AppGet",
-      "ext": "https://shangjihuoke.com|8E2DC386FD452D05"
+      "ext": "https://niuhulu.oss-cn-hangzhou.aliyuncs.com/niuniu.txt|uxxDgHxsdoSgVGZZ|122|okhttp/3.10.0|Lavf/58.12.100"
     },
     {
       "key": "幕启星河",
@@ -215,7 +195,7 @@
       "searchable": 1,
       "changeable": 1,
       "api": "csp_AppGet",
-      "ext": "https://zbc4kmcs.zbc4k.app|vE4kR7cF6jS6jH7a"
+      "ext": "https://yzysap.oss-cn-hangzhou.aliyuncs.com/APP.txt|kB79jPQIpDxxcy7y|122"
     },
     {
       "key": "仓鼠1080P",
@@ -241,27 +221,10 @@
       "api": "csp_App3Q"
     },
     {
-      "key": "freeok",
-      "name": "🎡小米｜FREE",
-      "type": 3,
-      "timeout": 15,
-      "api": "csp_FreeOk",
-      "ext": "https://www.jqqzx.top/"
-    },
-    {
       "key": "csp_SaoHuo",
       "name": "🔥火火┃影视",
       "type": 3,
       "api": "csp_SaoHuo"
-    },
-    {
-      "key": "巧技二",
-      "name": "💤聚搜┃搜索",
-      "type": 3,
-      "api": "csp_qiao2",
-      "jar": "https://s3plus.meituan.net/opapisdk/op_ticket_1_5677168484_1774853250308_PA5tmo8g_vip.jar;md5;a4f403a000bc5e4ebdd9da27fcb05852",
-      "playerType": 2,
-      "ext": "7lj763gg402i7942412h849jg1558j9jl8g19213il86316k465719lik158491h179312h4934183ig2l05g9"
     },
     {
       "key": "追剧达人",
