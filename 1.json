@@ -189,6 +189,15 @@
       "ext": "https://daen-1256234123.cos.ap-shanghai.myqcloud.com/MuQi/mqxhqj.txt|kj37zs29q22jk96t|122|okhttp/3.10.0|Lavf/58.12.100"
     },
     {
+      "key": "爱营",
+      "name": "💥爱影｜1080P",
+      "type": 3,
+      "searchable": 1,
+      "changeable": 1,
+      "api": "csp_AppGet",
+      "ext": "https://aysappto.oss-cn-chengdu.aliyuncs.com/q21.txt|okkfKgnc9JIBISh1|122"
+    },
+    {
       "key": "星河",
       "name": "💥可以｜1080P",
       "type": 3,
@@ -196,6 +205,14 @@
       "changeable": 1,
       "api": "csp_AppGet",
       "ext": "https://yzysap.oss-cn-hangzhou.aliyuncs.com/APP.txt|kB79jPQIpDxxcy7y|122"
+    },
+    {
+      "key": "世界",
+      "name": "🐭世界｜1080P",
+      "type": 3,
+      "timeout": 15,
+      "api": "csp_AppGet",
+      "ext": "https://4ksjcms.4ksj.app|bF4fD1fC0gR0mB0b"
     },
     {
       "key": "仓鼠1080P",
