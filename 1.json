@@ -179,11 +179,11 @@
       "ext": "https://niuhulu.oss-cn-hangzhou.aliyuncs.com/niuniu.txt|uxxDgHxsdoSgVGZZ|122|okhttp/3.10.0|Lavf/58.12.100"
     },
     {
-      "key": "幕启星河",
-      "name": "⭐星河┃1080P",
+      "key": "四叶草",
+      "name": "🍀星叶|1080P",
       "type": 3,
       "api": "csp_AppGet",
-      "ext": "http://117.50.204.35:8090|ca94b06ca3c7d80e|122|okhttp/3.10.0|Lavf/58.12.100"
+      "ext": "https://yzysap.oss-cn-hangzhou.aliyuncs.com/APP412.txt|hheiNC5yhEF0vOjE|122|okhttp/3.10.0|Lavf/58.12.100"
     },
     {
       "key": "爱营",
@@ -192,24 +192,7 @@
       "searchable": 1,
       "changeable": 1,
       "api": "csp_AppGet",
-      "ext": "https://aysappto.oss-cn-chengdu.aliyuncs.com/q21.txt|okkfKgnc9JIBISh1|122"
-    },
-    {
-      "key": "星河",
-      "name": "💥可以｜1080P",
-      "type": 3,
-      "searchable": 1,
-      "changeable": 1,
-      "api": "csp_AppGet",
-      "ext": "https://yzysap.oss-cn-hangzhou.aliyuncs.com/APP.txt|kB79jPQIpDxxcy7y|122"
-    },
-    {
-      "key": "仓鼠1080P",
-      "name": "🐑仓鼠｜1080P",
-      "type": 3,
-      "timeout": 15,
-      "api": "csp_AppGet",
-      "ext": "https://qjappcms410.xy4k.com|mC6kG4mI1uM8tS4o|122"
+      "ext": "https://aysappto.oss-cn-chengdu.aliyuncs.com/q22.txt|nzEqOYYH3QzHuEPl|122|Lavf/58.12.100"
     },
     {
       "key": "3QQQ",
