@@ -39,12 +39,11 @@
       "filterable": 1,
       "ext": {
         "site_urls": [
+          "https://www.zhizhen8.click",
           "https://pan.mihdr.top",
           "https://www.zhizhen1.top",
           "https://www.mihdr.top",
-          "https://www.miqk.cc",
-          "https://www.zhizhenpan.com",
-          "https://www.zhizhen8.click"
+          "https://www.miqk.cc"
         ],
         "url_key": "Netfixtv",
         "token": "",
@@ -83,7 +82,7 @@
       "changeable": "0",
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "mAdMvijsdpLz+xMtYQCW1nJ+mpefKKrleWG+USa3HASosYowG2Xe9BbL8zxHG1DkWdiVh0m6LG6VYMJFvR3xW7OinT8T49Syz2URwzKvNBjZfpQG6/DDnE8BWZ6D0Fis6qvUniDw6LNh5NC5nYC3n/ksXurTx/CR+fIdbq5f9LTzYVBl2JAOANmX1v3Ps8K0sKsLP9hZvweUoE36pPzb54LMqIRhoIBjcmrJFlRcrbwo2Vqv8R8x6ZbBV6I9ErFQwdq9i54PytUYdEaQoxGnuTsKaqxNFGC95gs9voNh+64="
+      "ext": "mAdMvijsdpLz+xMtYQCW1nJ+mpefKKrleWG+USa3HAQF0Wda8x8BRQSJRodHFY2hKQz4xOGzqrkdk6J3GyKwYzUDE31AC1/hAwHPGdQFMTIRRA80BfktmoKy2H4fPLkpolzUjDlsCu/ltzqKSl/lA9FIni4h7a11NXpsLzP/Dtp2nY7912lB450Oa2DUtHRJM4eS7Go0zQ8EsBiykV+SQpMNy/e6vaLBPedzLCl7yJjJuxSW9wfH0YfBA2mmUvts"
     },
     {
       "key": "csp_Duopan",
@@ -101,7 +100,8 @@
           "http://www.labi88.sbs",
           "http://fmao.site",
           "http://fmao.shop",
-          "http://xiaocgege.shop"
+          "http://xiaocgege.shop",
+          "http://www.xiaocgege.shop"
         ],
         "url_key": "Duopan4"
       }
@@ -173,14 +173,14 @@
     },
     {
       "key": "花猪",
-      "name": "🐷花猪┃1080P",
+      "name": "🐷花猪｜1080P",
       "type": 3,
       "api": "csp_AppGet",
       "ext": "https://niuhulu.oss-cn-hangzhou.aliyuncs.com/niuniu.txt|uxxDgHxsdoSgVGZZ|122|okhttp/3.10.0|Lavf/58.12.100"
     },
     {
       "key": "四叶草",
-      "name": "🍀星叶|1080P",
+      "name": "🍀星叶｜1080P",
       "type": 3,
       "api": "csp_AppGet",
       "ext": "https://qj4.catbb.xyz|eecbio48dsq13kkk|122|okhttp/3.10.0|Lavf/58.12.100"
@@ -203,19 +203,19 @@
     },
     {
       "key": "独播库",
-      "name": "⛵播库|影视",
+      "name": "🔥播库｜标清",
       "type": 3,
       "api": "https://file.icve.com.cn/file_doc/qdqqd/VmOlRys8_vip.js"
     },
     {
       "key": "csp_SaoHuo",
-      "name": "🔥火火┃影视",
+      "name": "🔥火火｜影视",
       "type": 3,
       "api": "csp_SaoHuo"
     },
     {
       "key": "追剧达人",
-      "name": "💢追剧┃影视",
+      "name": "💢追剧｜影视",
       "type": 3,
       "jar": "https://s3plus.meituan.net/opapisdk/op_ticket_1_5677168484_1774853250308_PA5tmo8g_vip.jar;md5;a4f403a000bc5e4ebdd9da27fcb05852",
       "api": "csp_AppV6",
@@ -224,7 +224,7 @@
     },
     {
       "key": "特狗",
-      "name": "💥特狗┃影视",
+      "name": "💥特狗｜影视",
       "type": 3,
       "jar": "https://s3plus.meituan.net/opapisdk/op_ticket_1_5677168484_1774853250308_PA5tmo8g_vip.jar;md5;a4f403a000bc5e4ebdd9da27fcb05852",
       "api": "csp_AppV6",
@@ -233,7 +233,7 @@
     },
     {
       "key": "大师兄",
-      "name": "💨师兄┃影视",
+      "name": "💨师兄｜影视",
       "type": 3,
       "jar": "https://s3plus.meituan.net/opapisdk/op_ticket_1_5677168484_1774853250308_PA5tmo8g_vip.jar;md5;a4f403a000bc5e4ebdd9da27fcb05852",
       "api": "csp_AppV6",
@@ -275,7 +275,7 @@
     },
     {
       "key": "Huya",
-      "name": "🎮游戏┃直播",
+      "name": "🎮游戏｜直播",
       "type": 3,
       "jar": "https://s3plus.meituan.net/opapisdk/op_ticket_1_5677168484_1774853250308_PA5tmo8g_vip.jar;md5;a4f403a000bc5e4ebdd9da27fcb05852",
       "api": "csp_Huya",
@@ -291,7 +291,7 @@
     },
     {
       "key": "Douyu",
-      "name": "🎮手游┃直播",
+      "name": "🎮手游｜直播",
       "type": 3,
       "api": "csp_Douyu",
       "jar": "https://s3plus.meituan.net/opapisdk/op_ticket_1_5677168484_1774853250308_PA5tmo8g_vip.jar;md5;a4f403a000bc5e4ebdd9da27fcb05852",
@@ -384,7 +384,7 @@
     {
       "name": "🐮牛牛2",
       "type": 1,
-      "url": "https://zy.qiaoji8.com/xiafan.php?url=",
+      "url": "",
       "ext": {
         "flag": [
           "QD4K",
@@ -416,19 +416,6 @@
       "regex": [
         "video/tos/cn"
       ]
-    },
-    {
-      "name": "豆瓣图片",
-      "hosts": [
-        "doubanio.com"
-      ],
-      "regex": [
-        "view/photo",
-        "m_ratio_poster",
-        "public",
-        "jpg"
-      ],
-      "referer": "https://www.douban.com/"
     },
     {
       "name": "火山",
