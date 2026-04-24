@@ -4,7 +4,7 @@
   "sites": [
     {
       "key": "豆豆",
-      "name": "🎬热播｜公众号:搬运分享屋 兼容ISO原盘 播放 ",
+      "name": "🎬热播｜接口内容源均来自互联网搜集 ",
       "type": 3,
       "quickSearch": 0,
       "filterable": 0,
@@ -23,14 +23,14 @@
     },
     {
       "key": "config",
-      "name": "⚙️网盘｜Cookie配置 加群：1023808147",
+      "name": "⚙️网盘｜Cookie配置 测试完请自行删除",
       "type": 3,
       "api": "csp_Config",
       "searchable": 0
     },
     {
       "key": "csp_Netfixtv",
-      "name": "🚀✈️至臻4K｜网盘",
+      "name": "🚀✈️ZHIZHEN4K｜网盘",
       "type": 3,
       "changeable": "0",
       "quickSearch": 1,
@@ -53,7 +53,7 @@
     },
     {
       "key": "csp_Netfixtv2",
-      "name": "✨☁️二小4K｜网盘",
+      "name": "✨☁️ERXIAO4K｜网盘",
       "type": 3,
       "changeable": "0",
       "quickSearch": 1,
