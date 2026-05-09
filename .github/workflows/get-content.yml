@@ -17,7 +17,7 @@ jobs:
       - name: Fetch, Clean and Inject JSON
         run: |
           set -e
-          URL="https://www.xn--sss604efuw.com/jm/jiemi.php?url=https://cnb.cool/xiaomideyun/xiaomideyun/-/git/raw/main/mi.json"
+          URL="https://raw.githubusercontent.com/ggrrttyyiii/CatVodSpider/refs/heads/main/json/demo.json"
 
           # 1. 下载原始响应到临时文件
           curl -fsSL "$URL" -o response.tmp
