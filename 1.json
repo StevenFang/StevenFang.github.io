@@ -14,7 +14,7 @@
   "sites": [
     {
       "key": "豆豆",
-      "name": "🎬豆瓣┃精选 仅供测试",
+      "name": "🎬豆瓣┃精选 仅供测试 备用：https://zzzy.shop/tv/",
       "type": 3,
       "quickSearch": 0,
       "filterable": 0,
@@ -173,7 +173,7 @@
       "name": "🐷猪猪┃1080P",
       "type": 3,
       "api": "csp_AppGet",
-      "ext": "https://qj4.catbb.xyz|eecbio48dsq13kkk|V122|okhttp/3.10.0"
+      "ext": "https://snysw.xyz/mf4krxz329.txt|1234567887654321|V119"
     },
     {
       "key": "爱营",
@@ -190,12 +190,6 @@
       "type": 3,
       "timeout": 15,
       "api": "csp_App3Q"
-    },
-    {
-      "key": "独播库",
-      "name": "🌳独播┃1080P",
-      "type": 3,
-      "api": "https://asxav.tprssz.com/image/2026-04-09/8/2042044022836473856#dbokutv.js"
     },
     {
       "key": "csp_SaoHuo",
