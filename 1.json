@@ -1,5 +1,5 @@
 {
-  "spider": "https://cn.oilgasgpts.com/resource/profile/2026/05/18/NJ4ZWwg7_20260518095827A465.jpg;md5;84edf41db6dbaf56b1ccdc7a11cc0ddf",
+  "spider": "https://s3plus.meituan.net/opapisdk/op_ticket_1_5677168484_1780671663518_doRWXBk2.jar;md5;8284bab117f04db66682f17efced6a48",
   "wallpaper": "https://www.wexwp.cc/bizhi.php",
   "logo": "https://wkphoto.bj.bcebos.com/bba1cd11728b47106798119ad3cec3fdfc032335.jpg",
   "lives": [
@@ -33,7 +33,7 @@
     },
     {
       "key": "config",
-      "name": "⚙️Cookie┃配置 贩卖后果自负",
+      "name": "⚙️Cookie┃配置 修了很多 偷窃贩卖后果自负",
       "type": 3,
       "api": "csp_Config",
       "searchable": 0
@@ -159,7 +159,7 @@
       "name": "👻标清┃1080P",
       "type": 3,
       "api": "csp_AppGet",
-      "ext": "https://yun-1316442804.cos.ap-guangzhou.myqcloud.com/600.txt|FTgP4Gq8zPiqbt7M|V122|okhttp/3.10.0"
+      "ext": "https://yun-1316442804.cos.ap-guangzhou.myqcloud.com/601.txt|FTgP4Gq8zPiqbt7M|V122|okhttp/3.10.0"
     },
     {
       "key": "四叶草",
@@ -167,13 +167,6 @@
       "type": 3,
       "api": "csp_AppGet",
       "ext": "https://yzysap.oss-cn-hangzhou.aliyuncs.com/sss.txt|wNCwbXzr0Bm6cS2C|V122|okhttp/3.10.0"
-    },
-    {
-      "key": "猪猪",
-      "name": "🐷猪猪┃1080P",
-      "type": 3,
-      "api": "csp_AppGet",
-      "ext": "https://snysw.xyz/mf4krxz329.txt|1234567887654321|V119"
     },
     {
       "key": "爱营",
@@ -211,7 +204,7 @@
       "type": 3,
       "api": "csp_App99",
       "ext": {
-        "host": "https://api.12321app.com",
+        "host": "https://api.12321app.com/api",
         "LoginPath": "/app/log",
         "version": "0b4328287a5d953e",
         "appkey": "a0a18659a9977a47e53442cd084b536c",
@@ -228,7 +221,7 @@
       "type": 3,
       "api": "csp_App99",
       "ext": {
-        "host": "https://app2026.ystva.com",
+        "host": "https://app2026.ystva.com/api",
         "LoginPath": "/app/log",
         "version": "f341a4e57976d59e",
         "appkey": "f3a8a193a7dc782cbc294159fcd91faf",
@@ -237,6 +230,53 @@
         "package": "com.yuaiweiwu.aixue.zfdr",
         "buildNumber": "2001",
         "buildSignature": "03DD38CE4C3D62D0F0DEFACC06768D14EB382C7BD77A05B2EBF4D66E154A0D47"
+      }
+    },
+    {
+      "key": "咕噜99",
+      "name": "👀咕噜丨APP",
+      "type": 3,
+      "api": "csp_App99",
+      "ext": {
+        "host": "http://103.45.132.22:19987/app/bn",
+        "LoginPath": "/app/log",
+        "appkey": "d1f0c269eab74d93821fffc9befdbbba",
+        "versionName": "1.9.5",
+        "name": "咕噜咕噜",
+        "package": "com.bd.tool.gulu",
+        "buildNumber": "2001",
+        "buildSignature": "B07C8F6DBEBD3ABEE6A4A4DE2BFBBF29A0AC3F984D532A39448EC3BF5DD36311"
+      }
+    },
+    {
+      "key": "剧圈99",
+      "name": "🫎剧圈丨APP",
+      "type": 3,
+      "api": "csp_App99",
+      "ext": {
+        "host": "http://124.221.3.182:19987/app/bn",
+        "appkey": "d1f0c269eab74d93821fffc9befdbbba",
+        "versionName": "1.2.0",
+        "name": "剧圈圈",
+        "package": "com.qingtangxiaozhuan.xyz",
+        "buildNumber": "2002",
+        "buildSignature": "054FA8DDA4319C6B6A9B954CA5777541C993F00B1B0BD4394F7EDE48184C4594"
+      }
+    },
+    {
+      "key": "顾我99",
+      "name": "🖼️顾我丨APP",
+      "type": 3,
+      "api": "csp_App99",
+      "ext": {
+        "host": "http://117.50.200.113:19987/app/bn",
+        "LoginPath": "/app/log",
+        "appkey": "040f9b1bc5e942569b5c3e63943306ab",
+        "versionName": "4.3.1",
+        "name": "顾我追剧",
+        "package": "com.guwozhuijux.app",
+        "buildNumber": "2001",
+        "buildSignature": "5AD4436C4730FFE26910C86278B80F3E661C317FFC3616F702D20A729262624A"
       }
     },
     {
@@ -310,7 +350,7 @@
       "searchable": 1,
       "quickSearch": 0,
       "api": "csp_Jpys",
-      "ext": "https://ghw9zwp5.com/"
+      "ext": "https://y2s52n7.com"
     },
     {
       "key": "csp_MiSou",
