@@ -194,6 +194,13 @@
       "ext": "https://aysappto.oss-cn-chengdu.aliyuncs.com/q23.txt|nzEqOgYk3QzHuEP8|V122|okhttp/3.10.0"
     },
     {
+      "key": "csp_Czsapp",
+      "name": "🏭厂长┃1080P",
+      "type": 3,
+      "api": "csp_Czsapp",
+      "ext": "https://czzy.top"
+    },
+    {
       "key": "3QQQ",
       "name": "🍅大鹅┃1080P",
       "type": 3,
@@ -229,39 +236,6 @@
         "package": "com.iksp.adsys.jjsp",
         "buildNumber": "2001",
         "buildSignature": "03DD38CE4C3D62D0F0DEFACC06768D14EB382C7BD77A05B2EBF4D66E154A0D47"
-      }
-    },
-    {
-      "key": "追番达人99",
-      "name": "🐎追番┃1080P",
-      "type": 3,
-      "api": "csp_App99",
-      "ext": {
-        "host": "https://app2026.ystva.com/api",
-        "LoginPath": "/app/log",
-        "version": "f341a4e57976d59e",
-        "appkey": "f3a8a193a7dc782cbc294159fcd91faf",
-        "versionName": "6.1.1",
-        "name": "追番达人",
-        "package": "com.yuaiweiwu.aixue.zfdr",
-        "buildNumber": "2001",
-        "buildSignature": "03DD38CE4C3D62D0F0DEFACC06768D14EB382C7BD77A05B2EBF4D66E154A0D47"
-      }
-    },
-    {
-      "key": "咕噜99",
-      "name": "👀咕噜丨APP",
-      "type": 3,
-      "api": "csp_App99",
-      "ext": {
-        "host": "http://103.45.132.22:19987/app/bn",
-        "LoginPath": "/app/log",
-        "appkey": "d1f0c269eab74d93821fffc9befdbbba",
-        "versionName": "1.9.5",
-        "name": "咕噜咕噜",
-        "package": "com.bd.tool.gulu",
-        "buildNumber": "2001",
-        "buildSignature": "B07C8F6DBEBD3ABEE6A4A4DE2BFBBF29A0AC3F984D532A39448EC3BF5DD36311"
       }
     },
     {
