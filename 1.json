@@ -17,7 +17,7 @@
       "name": "🎬豆瓣┃精选 仅供测试 端午快乐 备用：https://zzzy.shop/tv/",
       "type": 3,
       "quickSearch": 0,
-      "filterable": 0,
+      "filterable": 1,
       "changeable": 0,
       "api": "csp_Douban",
       "searchable": 0
