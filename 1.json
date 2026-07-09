@@ -1,5 +1,5 @@
 {
-  "spider": "https://s3plus.meituan.net/opapisdk/op_ticket_1_885190757_1782118073266_ZXYRUXPn.jpg;md5;d6648fd1ac553d555ea8431b8adb7c71",
+  "spider": "https://s3plus.meituan.net/opapisdk/op_ticket_1_5677168484_1783598800596_Ls2Xrxgx.jar;md5;5f850145296b17847eb5306865f90b32",
   "wallpaper": "https://www.wexwp.cc/bizhi.php",
   "logo": "https://wkphoto.bj.bcebos.com/bba1cd11728b47106798119ad3cec3fdfc032335.jpg",
   "lives": [
@@ -14,7 +14,7 @@
   "sites": [
     {
       "key": "豆豆",
-      "name": "🎬豆瓣┃精选 仅供测试 端午快乐 备用：https://zzzy.shop/tv/",
+      "name": "🎬豆瓣┃精选 仅供测试  备用：https://zzzy.shop/tv/",
       "type": 3,
       "quickSearch": 0,
       "filterable": 1,
@@ -64,7 +64,7 @@
       "key": "csp_Wogg",
       "name": "🧸玩偶┃网盘4K",
       "type": 3,
-      "api": "csp_Wogg",
+      "api": "csp_Gege",
       "timeout": 15,
       "changeable": "0",
       "quickSearch": 1,
@@ -99,20 +99,6 @@
       "api": "csp_Wwys",
       "timeout": 12,
       "ext": "https://vip.wwgz.cn:5200"
-    },
-    {
-      "key": "csp_Music",
-      "name": "🎵音乐┃在线",
-      "type": 3,
-      "api": "csp_Music",
-      "quickSearch": 0,
-      "timeout": 12,
-      "searchable": 0,
-      "style": {
-        "type": "rect",
-        "ratio": 1.333
-      },
-      "ext": ""
     },
     {
       "key": "88看球",
@@ -164,18 +150,11 @@
       }
     },
     {
-      "key": "葫芦",
-      "name": "🪽葫芦┃1080P",
-      "type": 3,
-      "api": "csp_AppGet",
-      "ext": "https://mobile-1251126973.cos.ap-guangzhou.myqcloud.com/maccos_config.txt|8R33VQSxzmCaHpEX|V122|okhttp/3.10.0"
-    },
-    {
       "key": "新首发",
       "name": "👻标清┃1080P",
       "type": 3,
       "api": "csp_AppGet",
-      "ext": "https://yun-1316442804.cos.ap-guangzhou.myqcloud.com/601.txt|FTgP4Gq8zPiqbt7M|V122|okhttp/3.10.0"
+      "ext": "https://yun-1316442804.cos.ap-guangzhou.myqcloud.com/602.txt|FTgP4Gq8zPiqbt7M|V122|okhttp/3.10.0"
     },
     {
       "key": "四叶草",
@@ -281,7 +260,6 @@
       "key": "天堂",
       "name": "👀天堂丨1080P",
       "type": 3,
-      "jar": "https://nos.netease.com/youdata-netease/public-utilUpload-a7G53vj5jfeyGFyaqz72sG.zip;md5;99c7b92e461a29895cd7003f32a57d39",
       "api": "csp_AppDrama",
       "searchable": 1,
       "quickSearch": 1,
@@ -302,7 +280,6 @@
       "key": "橘汁",
       "name": "👀橘汁丨1080P",
       "type": 3,
-      "jar": "https://nos.netease.com/youdata-netease/public-utilUpload-a7G53vj5jfeyGFyaqz72sG.zip;md5;99c7b92e461a29895cd7003f32a57d39",
       "api": "csp_AppDrama",
       "searchable": 1,
       "quickSearch": 1,
@@ -335,43 +312,28 @@
       "ext": "https://api.ztcgi.com"
     },
     {
-      "key": "Huya",
-      "name": "🎮虎牙┃1080P",
-      "type": 3,
-      "jar": "https://s3plus.meituan.net/opapisdk/op_ticket_1_5677168484_1774853250308_PA5tmo8g_vip.jar;md5;a4f403a000bc5e4ebdd9da27fcb05852",
-      "api": "csp_Huya",
-      "searchable": 0,
-      "quickSearch": 0,
-      "changeable": 0,
-      "filterable": 1,
-      "timeout": 10,
-      "style": {
-        "type": "rect",
-        "ratio": 1.433
-      }
-    },
-    {
-      "key": "Douyu",
-      "name": "🎮斗鱼┃1080P",
-      "type": 3,
-      "api": "csp_Douyu",
-      "jar": "https://s3plus.meituan.net/opapisdk/op_ticket_1_5677168484_1774853250308_PA5tmo8g_vip.jar;md5;a4f403a000bc5e4ebdd9da27fcb05852",
-      "searchable": 0,
-      "quickSearch": 0,
-      "changeable": 0,
-      "filterable": 1,
-      "timeout": 10,
-      "style": {
-        "type": "rect",
-        "ratio": 1.433
-      }
-    },
-    {
       "key": "csp_duanju",
-      "name": "🔥短剧┃1080P",
+      "name": "🔥短剧1┃1080P",
       "type": 3,
       "timeout": 12,
-      "api": "csp_DuanJu"
+      "api": "csp_HemaDJ"
+    },
+    {
+      "key": "csp_XY",
+      "name": "🔥短剧2┃1080P",
+      "type": 3,
+      "timeout": 12,
+      "api": "csp_AppXY",
+      "ext": ""
+    },
+    {
+      "key": "csp_APPTe",
+      "name": "🍉天鹅┃1080P",
+      "type": 3,
+      "timeout": 12,
+      "searchable": 1,
+      "quickSearch": 0,
+      "api": "csp_AppTe"
     },
     {
       "key": "csp_Gz360",
