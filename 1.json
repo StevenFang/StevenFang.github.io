@@ -1,5 +1,5 @@
 {
-  "spider": "https://s3plus.meituan.net/opapisdk/op_ticket_1_5677168484_1783598800596_Ls2Xrxgx.jar;md5;5f850145296b17847eb5306865f90b32",
+  "spider": "https://qn.fqcdn.cn/666666666666666666666666/20260710173636681007-vip.jpg;md5;03b5cc34c0ac0b72c36a7c9e31a8577e",
   "wallpaper": "https://www.wexwp.cc/bizhi.php",
   "logo": "https://wkphoto.bj.bcebos.com/bba1cd11728b47106798119ad3cec3fdfc032335.jpg",
   "lives": [
@@ -47,7 +47,7 @@
       "timeout": 15,
       "api": "csp_Duopan",
       "filterable": 1,
-      "ext": "Yu2Y3Q8tqDTqZ+GCqfQZz8i/vsP/tl9O+/0ZjpgnBg/PMzRiiQD9UYIf+3JzSYfEA6i1Q5r/3Jfwr7fMDI7U1JLPJcKD28X0a35jjXkBu698XPhaPr6ar7Vp3lQagSF+hIAvVL960RZSmiOOP6YK2w7JUucHzjaUSXH5lSMsdYo8Y1uW9RbJbwW9hG5ZGHehv5wL6oCqNXlsK4wXGISArmjuKZJ6/klD911RhkbFFBK3D3JfSvhJP8XultFMdkz/LXjactGy8H244BePv+8GDk8Ane8xTy9a2k56SltKCaMfOJVc2FlkbPmvh/AdBEAfayuUAQhoLz+04Lll9FhQnbTxevNINFB7xIenO5JrJ+x8MbGpHdUta7XEoSKTtwflUCCUPzJj/RLP1M98+e8+D/6ez1JhJyW2TS1x0UkCYYnPR2RAU7+JI4bzJozX2ZiZ"
+      "ext": "ewogICJzaXRlX3VybHMiOiBbCiAgICAiaHR0cHM6Ly93d3cuemhpemhlbjguY2xpY2siLAogICAgImh0dHBzOi8vcGFuLm1paGRyLnRvcCIsCiAgICAiaHR0cHM6Ly93d3cuemhpemhlbjEudG9wIiwKICAgICJodHRwczovL3d3dy5taWhkci50b3AiLAogICAgImh0dHBzOi8vd3d3Lm1pcWsuY2MiCiAgXSwKICAidXJsX2tleSI6ICJOZXRmaXh0diIsCiAgInRva2VuIjogIiIsCiAgInVjQ29va2llIjogIiIsCiAgInF1YXJrQ29va2llIjogIiIKfQ=="
     },
     {
       "key": "csp_Netfixtv2",
@@ -58,7 +58,7 @@
       "timeout": 15,
       "api": "csp_Duopan",
       "filterable": 1,
-      "ext": "mAdMvijsdpLz+xMtYQCW1nJ+mpefKKrleWG+USa3HASAr6sd0jaioPf989yCJTRmaPjPczBV4n++TFAHuLmjmG2nyKoM6EsW+zAy/m/+awddPA/jEzqCvY+/+cgDWGhqepbGIr5nhlxUK9cRtykOKS4xDjdvBwLMaFBm5h2NiW5DbWfx3o3ky80vMftHiVzkktNciYTifDtXPgbHf93cbty1Rsc25OsKXHIs6wmOVdm2ZB89Lejx5WhtrwW9vDOMDBPuXqV78qqBCR9p6vtJeghYMKobiM+WMWfIC+uikXStEjq93YkNQe0bYo/mkTN6"
+      "ext": "ewogICJzaXRlX3VybHMiOiBbCiAgICAiaHR0cHM6Ly93d3cuMnhpYW9wYW4udG9wIiwKICAgICJodHRwOi8vd3d3LndleHdwLmNjIiwKICAgICJodHRwczovL3d3dy4yeGlhb3Bhbi5vbmUiLAogICAgImh0dHBzOi8vd3d3LndleHdwLmNjIgogIF0sCiAgInVybF9rZXkiOiAiVUMiLAogICJ0b2tlbiI6ICIiLAogICJ1Y0Nvb2tpZSI6ICIiLAogICJxdWFya0Nvb2tpZSI6ICIiCn0="
     },
     {
       "key": "csp_Wogg",
@@ -69,7 +69,7 @@
       "changeable": "0",
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "mAdMvijsdpLz+xMtYQCW1nJ+mpefKKrleWG+USa3HARBc3zWLTb1cc321bKDLxXrYkZjUVc7y2TSDRKbupeW9IHjvGE01hFbo3wCHx0+kNkenbdKO4KZo3297jK0vkZHsA2lXS7SOb+WArfs2EGBFIJ0eR/LdfTH34oVjsIyzRipe6OWV6YTQrqrW6v/7VXV9fj759LpUM8HHXjVfOEXp31Psa3nCHsEzw5P3Bn8tTAxiQc8NemijjeRois1SRwg"
+      "ext": "ewogICJzaXRlX3VybHMiOiBbCiAgICAiaHR0cHM6Ly93d3cud29nZy5saXZlIiwKICAgICJodHRwOi8vd29nZ3Bhbi54eG9vby5jZiIsCiAgICAiaHR0cHM6Ly93d3cud29nZy5uZXQiCiAgXSwKICAidG9rZW4iOiAiIiwKICAidWNDb29raWUiOiAiIiwKICAicXVhcmtDb29raWUiOiAiIgp9"
     },
     {
       "key": "csp_Duopan",
@@ -80,7 +80,7 @@
       "timeout": 15,
       "api": "csp_Duopan",
       "filterable": 1,
-      "ext": "PfoQ21FsXzLNOjwZ8RymNbY02A9VYBmEHmajoh4nXXACJNPrFj69vwxLj4d68ngPJt1wGvT+PkUSe7Ve1o+8RfpcIgYf7LjjHi4sx2hg57mhdmuP1DykCFCSlHwod+owmc53QmJuMs2SFn4Xeui077ckz2HYEja6zFdw5FDx1ko6D6lkQzK2FDRT7tMYjOXswOcpONJ6hA87KN+UJ6aiBHrzD4tENYc0UvImSwakK5A9rN7at/RviVt+nu5o8IBC19uR4eCpBDpnpoY2/PpOWQ=="
+      "ext": "ewogICJzaXRlX3VybHMiOiBbCiAgICAiaHR0cDovL3R2cGFucGFuLnNpdGUiLAogICAgImh0dHA6Ly9mZWltby5mdW4iLAogICAgImh0dHA6Ly94aWFvY2dlZ2Uuc2hvcCIsCiAgICAiaHR0cDovL3d3dy54aWFvY2dlZ2Uuc2hvcCIsCiAgICAiaHR0cHM6Ly93d3cueGlhb2NnZS5mdW4iCiAgXSwKICAidXJsX2tleSI6ICJEdW9wYW40Igp9"
     },
     {
       "key": "天天",
@@ -193,6 +193,16 @@
       "name": "🔥火火┃1080P",
       "type": 3,
       "api": "csp_SaoHuo"
+    },
+    {
+      "key": "枫叶影视",
+      "name": "🍁枫叶┃影视",
+      "type": 3,
+      "api": "csp_FengYe",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "ext": "https://www.vip1949.com/"
     },
     {
       "key": "csp_Czsapp",
