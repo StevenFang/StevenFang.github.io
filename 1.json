@@ -157,13 +157,6 @@
       "ext": "https://yun-1316442804.cos.ap-guangzhou.myqcloud.com/602.txt|FTgP4Gq8zPiqbt7M|V122|okhttp/3.10.0"
     },
     {
-      "key": "四叶草",
-      "name": "🍀幸运┃1080P",
-      "type": 3,
-      "api": "csp_AppGet",
-      "ext": "https://yzysap.oss-cn-hangzhou.aliyuncs.com/kkk.txt|8eeObuwrmS3lRDEs|V122|okhttp/3.10.0"
-    },
-    {
       "key": "爱营",
       "name": "💥爱影┃1080P",
       "type": 3,
@@ -378,6 +371,18 @@
       "name": "📖听书┃娱乐",
       "type": 3,
       "api": "csp_TingBook"
+    },
+    {
+      "key": "Live",
+      "name": "🚑 LIVE",
+      "type": 3,
+      "api": "./Live.py",
+      "searchable": 0,
+      "quickSearch": 0,
+      "style": {
+        "type": "rect",
+        "ratio": 3.8
+      }
     },
     {
       "key": "Aid",
