@@ -340,12 +340,12 @@
     },
     {
       "key": "csp_Gz360",
-      "name": "🍉瓜子┃1080P",
+      "name": "🍉瓜子┃明天修",
       "type": 3,
       "timeout": 12,
       "searchable": 1,
       "quickSearch": 0,
-      "api": "csp_Gz360"
+      "api": "https://wget.la/https://raw.githubusercontent.com/PizazzGY/NewTVBox/main/movie/py/GZYS.py"
     },
     {
       "key": "csp_Jpys",
@@ -374,7 +374,7 @@
     },
     {
       "key": "Live",
-      "name": "🚑 LIVE",
+      "name": "🚑 LIVE|直播",
       "type": 3,
       "api": "./Live.py",
       "searchable": 0,
