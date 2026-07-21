@@ -20,26 +20,23 @@ jobs:
 
       - name: Install dependencies
         run: |
-          pip install requests pycryptodomex idna
+          pip install requests pycryptodome idna
 
       - name: Fetch and decode JSON via jm.py
         env:
           URL: "https://raw.githubusercontent.com/ggrrttyyiii/CatVodSpider/refs/heads/main/json/demo.json"
         run: |
-          set +e
           python3 jm.py "$URL" > response.tmp 2>&1
-          EXIT_CODE=$?
-          set -e
           
-          # 检查是否包含"解密失败"或返回码非0
-          if grep -q "解密失败" response.tmp || [ $EXIT_CODE -ne 0 ]; then
+          # 检查是否包含"解密失败"
+          if grep -q "解密失败" response.tmp; then
             echo "jm.py failed or returned error:"
             cat response.tmp
-            echo "UPDATED=false" >> $GITHUB_ENV
-            exit 0
+            exit 1
           fi
 
       - name: Process JSON
+        if: success()
         run: |
           set -e
           
