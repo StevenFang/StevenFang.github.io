@@ -2,9 +2,8 @@ name: Update 1.json from URL
 
 on:
   schedule:
-    # 每 12 小时自动运行一次
     - cron: "0 */12 * * *"
-  workflow_dispatch: # 支持手动点击运行
+  workflow_dispatch:
 
 jobs:
   update:
@@ -27,28 +26,27 @@ jobs:
         env:
           URL: "https://raw.githubusercontent.com/ggrrttyyiii/CatVodSpider/refs/heads/main/json/demo.json"
         run: |
-          set -e
-          python3 jm.py "$URL" > response.tmp 2>&1 || {
-            cat response.tmp
-            exit 1
-          }
-
-      - name: Validate and process JSON
-        run: |
+          set +e
+          python3 jm.py "$URL" > response.tmp 2>&1
+          EXIT_CODE=$?
           set -e
           
-          # 1. 预检查：如果包含"解密失败"，直接退出
-          if grep -q "解密失败" response.tmp; then
-            echo "Remote response contains 解密失败. Aborting update."
+          # 检查是否包含"解密失败"或返回码非0
+          if grep -q "解密失败" response.tmp || [ $EXIT_CODE -ne 0 ]; then
+            echo "jm.py failed or returned error:"
+            cat response.tmp
             echo "UPDATED=false" >> $GITHUB_ENV
-            rm -f response.tmp
             exit 0
           fi
 
-          # 2. 提取有效的 JSON（从第一个 { 开始）
+      - name: Process JSON
+        run: |
+          set -e
+          
+          # 1. 从 response.tmp 中提取 JSON（从第一个 { 开始）
           sed -n '/{/,$p' response.tmp > extracted.json
 
-          # 3. 定义要插入的 JSON 对象内容
+          # 2. 定义要插入的 JSON 对象内容
           NEW_ITEM='{
             "key": "更新应用",
             "name": "更新应用",
@@ -59,11 +57,10 @@ jobs:
             "ext": "https://xinxinbaobao.tk/fmys.json"
           }'
 
-          # 4. 使用 jq 在 sites 数组的第一项之后插入该对象
-          # 逻辑：取原数组第0项 + [新项] + 原数组第1项及之后
+          # 3. 使用 jq 在 sites 数组的第一项之后插入该对象
           jq --argjson item "$NEW_ITEM" '.sites |= (.[0:1] + [$item] + .[1:])' extracted.json > 1.json.new
 
-          # 5. 比较新旧文件，决定是否提交更新
+          # 4. 比较新旧文件，决定是否提交更新
           if [ ! -f 1.json ] || ! diff -q 1.json 1.json.new >/dev/null; then
             mv 1.json.new 1.json
             echo "Changes detected and JSON updated."
