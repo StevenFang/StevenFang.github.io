@@ -21,7 +21,6 @@ jobs:
       - name: Install dependencies
         run: |
           pip install requests pycryptodomex idna
-          apt-get update && apt-get install -y jq
 
       - name: Fetch and decode JSON via jm.py
         env:
