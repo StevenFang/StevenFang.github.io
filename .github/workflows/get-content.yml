@@ -20,20 +20,44 @@ jobs:
 
       - name: Install dependencies
         run: |
+          python -m pip install --upgrade pip
           pip install requests pycryptodomex idna
 
       - name: Fetch and decode JSON via jm.py
         env:
           URL: "https://raw.githubusercontent.com/ggrrttyyiii/CatVodSpider/refs/heads/main/json/demo.json"
         run: |
-          echo "$URL" | python3 jm.py > /tmp/jm_output.log 2>&1
-          
+          python3 << 'EOF'
+          import sys
+          import subprocess
+
+          URL = "${{ env.URL }}"
+
+          # 调用 jm.py，通过 stdin 传入 URL
+          try:
+              proc = subprocess.run(["python3", "jm.py"],
+                                     input=URL + "\n",
+                                     text=True,
+                                     capture_output=True,
+                                     timeout=30)
+          except Exception as e:
+              print(f"::error::调用 jm.py 失败: {e}")
+              sys.exit(1)
+
+          if proc.returncode != 0:
+              stderr_text = proc.stderr.strip()
+              print(f"::error::jm.py 返回非零退出码: {stderr_text}")
+              sys.exit(1)
+
+          raw = proc.stdout
+
           # 检查是否包含"解密失败"
-          if grep -q "解密失败" /tmp/jm_output.log; then
-            echo "jm.py failed:"
-            cat /tmp/jm_output.log
-            exit 1
-          fi
+          if "解密失败" in raw:
+              print("::error::返回内容包含「解密失败」")
+              sys.exit(1)
+
+          print(raw)
+          EOF
 
       - name: Process JSON
         run: |
@@ -74,7 +98,7 @@ jobs:
           fi
           
           # 清理产生的临时文件
-          rm -f /tmp/jm_output.log extracted.json "$JSON_FILE"
+          rm -f extracted.json "$JSON_FILE"
 
       - name: Commit and push changes
         if: env.UPDATED == 'true'
