@@ -14,15 +14,30 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v5
 
-      - name: Fetch, Clean and Inject JSON
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.11'
+
+      - name: Install dependencies
+        run: |
+          pip install requests pycryptodomex idna
+
+      - name: Fetch and decode JSON via jm.py
+        env:
+          URL: "https://raw.githubusercontent.com/ggrrttyyiii/CatVodSpider/refs/heads/main/json/demo.json"
         run: |
           set -e
-          URL="https://raw.githubusercontent.com/ggrrttyyiii/CatVodSpider/refs/heads/main/json/demo.json"
+          python3 jm.py "$URL" > response.tmp 2>&1 || {
+            cat response.tmp
+            exit 1
+          }
 
-          # 1. 下载原始响应到临时文件
-          curl -fsSL "$URL" -o response.tmp
-
-          # 2. 预检查：如果包含“解密失败”，直接退出
+      - name: Validate and process JSON
+        run: |
+          set -e
+          
+          # 1. 预检查：如果包含"解密失败"，直接退出
           if grep -q "解密失败" response.tmp; then
             echo "Remote response contains 解密失败. Aborting update."
             echo "UPDATED=false" >> $GITHUB_ENV
@@ -30,10 +45,10 @@ jobs:
             exit 0
           fi
 
-          # 3. 智能提取：定位第一个 { 出现的位置，并截取到文件末尾（过滤掉上方的公告/空行）
+          # 2. 提取有效的 JSON（从第一个 { 开始）
           sed -n '/{/,$p' response.tmp > extracted.json
 
-          # 4. 定义要插入的 JSON 对象内容
+          # 3. 定义要插入的 JSON 对象内容
           NEW_ITEM='{
             "key": "更新应用",
             "name": "更新应用",
@@ -44,11 +59,11 @@ jobs:
             "ext": "https://xinxinbaobao.tk/fmys.json"
           }'
 
-          # 5. 使用 jq 在 sites 数组的第一项之后插入该对象
+          # 4. 使用 jq 在 sites 数组的第一项之后插入该对象
           # 逻辑：取原数组第0项 + [新项] + 原数组第1项及之后
           jq --argjson item "$NEW_ITEM" '.sites |= (.[0:1] + [$item] + .[1:])' extracted.json > 1.json.new
 
-          # 6. 比较新旧文件，决定是否提交更新
+          # 5. 比较新旧文件，决定是否提交更新
           if [ ! -f 1.json ] || ! diff -q 1.json 1.json.new >/dev/null; then
             mv 1.json.new 1.json
             echo "Changes detected and JSON updated."
