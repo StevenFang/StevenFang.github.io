@@ -1,12 +1,12 @@
 {
-  "spider": "https://nos.netease.com/youdata-netease/public-utilUpload-fwEszi8gtRRYNnhZNZYTPG.zip;md5;c14643abcd24f01a582bc987c948a16f",
+  "spider": "https://zkaicc.huilan.com/aicc/api/aicc-file/miniofile/preViewPicture/aicc/1CqpaRCV_1784884059047.jpg;md5;db2c1c3ef8d2d5d3481303f21f80593c",
   "wallpaper": "https://www.wexwp.cc/bizhi.php",
   "logo": "https://wkphoto.bj.bcebos.com/bba1cd11728b47106798119ad3cec3fdfc032335.jpg",
   "lives": [
     {
       "name": "📺电视┃直播",
       "type": 0,
-      "url": "",
+      "url": "https://gh-proxy.org/https://raw.githubusercontent.com/goodcommunication/mydm/main/dm.json",
       "ua": "okhttp/3.15",
       "playerType": 2
     }
@@ -114,6 +114,16 @@
       "ext": "https://vip.wwgz.cn:5200"
     },
     {
+      "key": "Osstexll",
+      "name": "🐷八戒┃高清影视",
+      "type": 3,
+      "api": "csp_Tounimabi",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": ""
+    },
+    {
       "key": "csp_Gz360",
       "name": "🍉瓜子┃高清影视",
       "type": 3,
@@ -143,7 +153,7 @@
       "searchable": 1,
       "changeable": 1,
       "api": "csp_AppGet",
-      "ext": "https://aysappto.oss-cn-chengdu.aliyuncs.com/q23.txt|nzEqOgYk3QzHuEP8|V122|okhttp/3.10.0"
+      "ext": "https://aysappto.oss-cn-chengdu.aliyuncs.com/q26.txt|0UKM8jkasM8tdzgW|V122|okhttp/3.10.0"
     },
     {
       "key": "新首发",
@@ -177,6 +187,26 @@
         "buildNumber": "2003",
         "buildSignature": "054FA8DDA4319C6B6A9B954CA5777541C993F00B1B0BD4394F7EDE48184C4594"
       }
+    },
+    {
+      "key": "稀饭动漫[APP]",
+      "name": "🍚稀饭┃热门动漫",
+      "type": 3,
+      "api": "csp_CycSpider",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://www.tangsan.fun/config.php?source=xifan"
+    },
+    {
+      "key": "次元城动漫[APP]",
+      "name": "次元┃热门动漫",
+      "type": 3,
+      "api": "csp_CycSpider",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://www.tangsan.fun/config.php?source=cyc"
     },
     {
       "key": "咕咕动漫",
