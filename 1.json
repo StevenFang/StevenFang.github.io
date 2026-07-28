@@ -1,5 +1,5 @@
 {
-  "spider": "https://nos.netease.com/youdata-netease/public-utilUpload-mSeb6xpm1StRiE4ERwmqFv.zip;md5;617459a50ea9d1cb7ca56d902411898b",
+  "spider": "https://oss-chat-bucket.oss-cn-beijing.aliyuncs.com/picture/console/chatres/7fd101e440d84afa8608480893e72180aFnuu1Uq.jpg;md5;739eb01b9d30692d10d0afa5c6668e24",
   "wallpaper": "https://www.wexwp.cc/bizhi.php",
   "logo": "https://wkphoto.bj.bcebos.com/bba1cd11728b47106798119ad3cec3fdfc032335.jpg",
   "lives": [
@@ -144,12 +144,36 @@
       "api": "csp_Gz360"
     },
     {
-      "key": "3QQQ",
-      "name": "🍅大鹅┃高清影视",
+      "key": "布布影视APP",
+      "name": "🌺大鹅┃高清影视",
       "type": 3,
-      "timeout": 15,
-      "api": "csp_App3Q",
-      "ext": "https://asd123sx23xdacsx.top"
+      "api": "csp_AppYd",
+      "ext": {
+        "host": "https://bubutv.top",
+        "finger": "SF-C3B2B41F6EFFFF9869176CF68F6790E8F07506FC88632C94B4F5F0430D5498CA",
+        "updateId": "38b0ddfd-9aa3-8e42-5c92-a7fddd3d36e7",
+        "deviceBrand": "vivo",
+        "deviceModel": "V2309A",
+        "pkg": "com.sunshine.tv",
+        "sk": "SK-thanks",
+        "ver": "6"
+      }
+    },
+    {
+      "key": "云朵影视APP",
+      "name": "🌺云朵┃热门4K",
+      "type": 3,
+      "api": "csp_AppYd",
+      "ext": {
+        "host": "https://ds3xy2yunsa.xyz",
+        "finger": "SF-F5F11CB15897115AE6BCFE063C288F730CA865588F572C780A3E8477D0DD3776",
+        "updateId": "175070c3-075c-468b-950a-bf575769f4f1",
+        "deviceBrand": "vivo",
+        "deviceModel": "V2309A",
+        "pkg": "com.tvcloud.io",
+        "sk": "SK-sk_13oXDZ7u9j2Tk1c0cawWVFfO",
+        "ver": "1"
+      }
     },
     {
       "key": "csp_PianKu8",
@@ -165,13 +189,6 @@
       "changeable": 1,
       "api": "csp_AppGet",
       "ext": "https://aysappto.oss-cn-chengdu.aliyuncs.com/q26.txt|0UKM8jkasM8tdzgW|V122|okhttp/3.10.0"
-    },
-    {
-      "key": "新首发",
-      "name": "🏵️首发┃热门4K",
-      "type": 3,
-      "api": "csp_AppGet",
-      "ext": "https://yun-1316442804.cos.ap-guangzhou.myqcloud.com/603.txt|FTgP4Gq8zPiqbt7M|V122|okhttp/3.10.0"
     },
     {
       "key": "枫叶影视",
@@ -211,7 +228,7 @@
     },
     {
       "key": "次元城动漫[APP]",
-      "name": "次元┃热门动漫",
+      "name": "🍠次元┃热门动漫",
       "type": 3,
       "api": "csp_CycSpider",
       "searchable": 1,
@@ -293,33 +310,11 @@
       }
     },
     {
-      "key": "csp_SaoHuo",
-      "name": "🔥火火┃高清影视",
-      "type": 3,
-      "api": "csp_SaoHuo"
-    },
-    {
       "key": "csp_Czsapp",
       "name": "🏭厂长┃高清影视",
       "type": 3,
       "api": "csp_Czsapp",
       "ext": "https://www.4kcz.com"
-    },
-    {
-      "key": "麦田",
-      "name": "🌾麦田┃高清影视",
-      "type": 3,
-      "api": "csp_AppV6",
-      "ext": "http://172.247.227.203:25321/mtys.php"
-    },
-    {
-      "key": "feiyu_video",
-      "name": "🥭飞娱┃高清影视",
-      "type": 3,
-      "api": "csp_Feiyu",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
     },
     {
       "key": "橙子",
@@ -350,27 +345,6 @@
         "package": "com.qingtangxiaozhuan.xyz",
         "buildNumber": "2002",
         "buildSignature": "054FA8DDA4319C6B6A9B954CA5777541C993F00B1B0BD4394F7EDE48184C4594"
-      }
-    },
-    {
-      "key": "天堂",
-      "name": "👀天堂┃高清影视",
-      "type": 3,
-      "api": "csp_AppDrama",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": {
-        "appName": "电影天堂",
-        "publicKey": "MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQCduNEnfxGaLuQRk5ABzXHhPV43zi00sCHjLo8BYc+Wi6xXm2b4v0i28Sq4WlNCKhseft9fz8kO/qLr6/022o1RcuOU7e4GFL3U9WnNODwRBYSYWd+K8nqpI/tAUDmZEBGRWqjrc7x6aMl3A+xpnWkLbPCLsuhbuuUE3tv09oeOpwIDAQAB",
-        "dataKey": "D2KREWRIBVNAUJJYEDL4VFHOY2Q0PQ==",
-        "dataIv": "OC1A06E197EF10CF3F6058CA7A803B5E",
-        "commonKey": "ed5fdsgucxumegqa",
-        "pkg": "com.dytiantang.one",
-        "host": "",
-        "site": "https://dyttandroid04-1372779881.cos.ap-shanghai.myqcloud.com/app_dyttandroid.txt",
-        "version": "3.0.0.7",
-        "decrypt": "0"
       }
     },
     {
@@ -408,15 +382,6 @@
         "ratio": 1.333
       },
       "ext": "https://api.ztcgi.com"
-    },
-    {
-      "key": "csp_APPTe",
-      "name": "🍉天鹅┃高清影视",
-      "type": 3,
-      "timeout": 12,
-      "searchable": 1,
-      "quickSearch": 0,
-      "api": "csp_AppTe"
     },
     {
       "key": "csp_Jpys",
