@@ -25,7 +25,7 @@ jobs:
 
       - name: Fetch and decode JSON via jm.py
         env:
-          URL: "https://raw.githubusercontent.com/ggrrttyyiii/CatVodSpider/refs/heads/main/json/demo.json"
+          URL: "https://www.饭太硬.net/tv"
         run: |
           python3 << 'EOF'
           import sys
