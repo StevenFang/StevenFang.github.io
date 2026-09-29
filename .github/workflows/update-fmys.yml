@@ -3,7 +3,7 @@ name: update fmys
 on:
   schedule:
     - cron: '30 */12 * * *'
-  workflow_dispatch:     # 手动触发
+  workflow_dispatch:
 
 jobs:
   build:
@@ -13,19 +13,48 @@ jobs:
     - name: Checkout repository
       uses: actions/checkout@v5
 
-    - name: Download JSON files
+    - name: Get latest release info from FongMi/Release
+      env:
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
       run: |
-        curl --retry 3 -L -o mobile.json https://raw.githubusercontent.com/FongMi/Release/fongmi/apk/mobile.json
-        curl --retry 3 -L -o leanback.json https://raw.githubusercontent.com/FongMi/Release/fongmi/apk/leanback.json
-      shell: bash
+        REPO="FongMi/Release"
+        # 获取最新 release JSON
+        curl -s -H "Accept: application/vnd.github+json" -H "Authorization: token $GITHUB_TOKEN" \
+          "https://api.github.com/repos/${REPO}/releases/latest" -o release.json
+
+        TAG=$(jq -r '.tag_name' release.json)
+        # 设定默认 asset 名称（如仓库中实际 asset 名称不同，请调整）
+        MOBILE_ASSET="mobile-arm64_v8a.apk"
+        LEANBACK_ASSET="leanback-armeabi_v7a.apk"
+        OLD_MOBILE_ASSET="mobile-armeabi_v7a.apk"
+
+        # 从 assets 中找出实际的 download URL（如果找不到则构造 releases/download URL 作为备选）
+        MOBILE_URL=$(jq -r --arg name "$MOBILE_ASSET" '.assets[] | select(.name==$name) | .browser_download_url' release.json || true)
+        LEANBACK_URL=$(jq -r --arg name "$LEANBACK_ASSET" '.assets[] | select(.name==$name) | .browser_download_url' release.json || true)
+        OLD_MOBILE_URL=$(jq -r --arg name "$OLD_MOBILE_ASSET" '.assets[] | select(.name==$name) | .browser_download_url' release.json || true)
+
+        # 如果 assets 中没有对应项，则使用 releases/download/<tag>/<asset> 的公开地址
+        if [ -z "$MOBILE_URL" ] || [ "$MOBILE_URL" = "null" ]; then
+          MOBILE_URL="https://github.com/${REPO}/releases/download/${TAG}/${MOBILE_ASSET}"
+        fi
+        if [ -z "$LEANBACK_URL" ] || [ "$LEANBACK_URL" = "null" ]; then
+          LEANBACK_URL="https://github.com/${REPO}/releases/download/${TAG}/${LEANBACK_ASSET}"
+        fi
+        if [ -z "$OLD_MOBILE_URL" ] || [ "$OLD_MOBILE_URL" = "null" ]; then
+          OLD_MOBILE_URL="https://github.com/${REPO}/releases/download/${TAG}/${OLD_MOBILE_ASSET}"
+        fi
+
+        echo "TAG=$TAG" >> $GITHUB_ENV
+        echo "MOBILE_URL=$MOBILE_URL" >> $GITHUB_ENV
+        echo "LEANBACK_URL=$LEANBACK_URL" >> $GITHUB_ENV
+        echo "OLD_MOBILE_URL=$OLD_MOBILE_URL" >> $GITHUB_ENV
 
     - name: Extract versions
       id: versions
       run: |
-        MOBILE_VER=$(jq -r '.name' mobile.json)
-        LEANBACK_VER=$(jq -r '.name' leanback.json)
-        echo "MOBILE_VER=$MOBILE_VER" >> $GITHUB_ENV
-        echo "LEANBACK_VER=$LEANBACK_VER" >> $GITHUB_ENV
+        # 以 release tag 作为版本号（如需从 asset 名或其它字段读取，请修改）
+        echo "MOBILE_VER=${{ env.TAG }}" >> $GITHUB_ENV
+        echo "LEANBACK_VER=${{ env.TAG }}" >> $GITHUB_ENV
       shell: bash
 
     - name: Generate fmys.json
@@ -38,13 +67,13 @@ jobs:
             "list": [
               {
                 "name": "手机版",
-                "url": "${GHURL}https://raw.githubusercontent.com/FongMi/Release/fongmi/apk/mobile-arm64_v8a.apk",
+                "url": "${GHURL}${{ env.MOBILE_URL }}",
                 "icon": "${GHURL}https://raw.githubusercontent.com/lystv/fmapp/img/log/ys.jpg",
                 "version": "${{ env.MOBILE_VER }}"
               },
               {
                 "name": "电视版",
-                "url": "${GHURL}https://raw.githubusercontent.com/FongMi/Release/fongmi/apk/leanback-armeabi_v7a.apk",
+                "url": "${GHURL}${{ env.LEANBACK_URL }}",
                 "icon": "${GHURL}https://raw.githubusercontent.com/lystv/fmapp/img/log/ys.jpg",
                 "version": "${{ env.LEANBACK_VER }}"
               }
@@ -55,19 +84,19 @@ jobs:
             "list": [
               {
                 "name": "电视版",
-                "url": "${GHURL}https://raw.githubusercontent.com/FongMi/Release/refs/heads/fongmi/apk/leanback-armeabi_v7a.apk",
+                "url": "${GHURL}${{ env.LEANBACK_URL }}",
                 "icon": "${GHURL}https://raw.githubusercontent.com/lystv/fmapp/img/log/ys.jpg",
                 "version": "${{ env.LEANBACK_VER }}"
               },
               {
                 "name": "手机版",
-                "url": "${GHURL}https://raw.githubusercontent.com/FongMi/Release/refs/heads/fongmi/apk/mobile-arm64_v8a.apk",
+                "url": "${GHURL}${{ env.MOBILE_URL }}",
                 "icon": "${GHURL}https://raw.githubusercontent.com/lystv/fmapp/img/log/ys.jpg",
                 "version": "${{ env.MOBILE_VER }}"
               },
               {
                 "name": "旧手机",
-                "url": "${GHURL}https://raw.githubusercontent.com/FongMi/Release/refs/heads/fongmi/apk/mobile-armeabi_v7a.apk",
+                "url": "${GHURL}${{ env.OLD_MOBILE_URL }}",
                 "icon": "${GHURL}https://raw.githubusercontent.com/lystv/fmapp/img/log/ys.jpg",
                 "version": "${{ env.MOBILE_VER }}"
               }
@@ -82,6 +111,6 @@ jobs:
         git config --global user.name "github-actions"
         git config --global user.email "actions@github.com"
         git add fmys.json
-        git commit -m "Update fmys.json versions" || echo "No changes to commit"
+        git commit -m "Update fmys.json versions from Releases" || echo "No changes to commit"
         git push
       shell: bash
