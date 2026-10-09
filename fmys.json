@@ -4,15 +4,15 @@
     "list": [
       {
         "name": "手机版",
-        "url": "https://ghfast.top/https://github.com/FongMi/Release/releases/download/5.6.9/mobile-arm64_v8a.apk",
+        "url": "https://ghfast.top/https://github.com/FongMi/Release/releases/download/5.7.0/mobile-arm64_v8a.apk",
         "icon": "https://ghfast.top/https://raw.githubusercontent.com/lystv/fmapp/img/log/ys.jpg",
-        "version": "5.6.9"
+        "version": "5.7.0"
       },
       {
         "name": "电视版",
-        "url": "https://ghfast.top/https://github.com/FongMi/Release/releases/download/5.6.9/leanback-armeabi_v7a.apk",
+        "url": "https://ghfast.top/https://github.com/FongMi/Release/releases/download/5.7.0/leanback-armeabi_v7a.apk",
         "icon": "https://ghfast.top/https://raw.githubusercontent.com/lystv/fmapp/img/log/ys.jpg",
-        "version": "5.6.9"
+        "version": "5.7.0"
       }
     ]
   },
@@ -21,21 +21,21 @@
     "list": [
       {
         "name": "电视版",
-        "url": "https://ghfast.top/https://github.com/FongMi/Release/releases/download/5.6.9/leanback-armeabi_v7a.apk",
+        "url": "https://ghfast.top/https://github.com/FongMi/Release/releases/download/5.7.0/leanback-armeabi_v7a.apk",
         "icon": "https://ghfast.top/https://raw.githubusercontent.com/lystv/fmapp/img/log/ys.jpg",
-        "version": "5.6.9"
+        "version": "5.7.0"
       },
       {
         "name": "手机版",
-        "url": "https://ghfast.top/https://github.com/FongMi/Release/releases/download/5.6.9/mobile-arm64_v8a.apk",
+        "url": "https://ghfast.top/https://github.com/FongMi/Release/releases/download/5.7.0/mobile-arm64_v8a.apk",
         "icon": "https://ghfast.top/https://raw.githubusercontent.com/lystv/fmapp/img/log/ys.jpg",
-        "version": "5.6.9"
+        "version": "5.7.0"
       },
       {
         "name": "旧手机",
-        "url": "https://ghfast.top/https://github.com/FongMi/Release/releases/download/5.6.9/mobile-armeabi_v7a.apk",
+        "url": "https://ghfast.top/https://github.com/FongMi/Release/releases/download/5.7.0/mobile-armeabi_v7a.apk",
         "icon": "https://ghfast.top/https://raw.githubusercontent.com/lystv/fmapp/img/log/ys.jpg",
-        "version": "5.6.9"
+        "version": "5.7.0"
       }
     ]
   }
